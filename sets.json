@@ -17508,7 +17508,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
       "buy_score": null,
-      "current_best_price": 49.99,
+      "current_best_price": 52.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
@@ -17530,7 +17530,9 @@
       "transactions": [],
       "urgency_score": null,
       "wanted_by": 2470,
-      "year": 2026
+      "year": 2026,
+      "last_brickwatch_alert": "2026-05-07T07:34:18.247762Z",
+      "last_updated": "2026-05-07T07:34:18.247775Z"
     },
     "75442": {
       "availability_score": 10,
