@@ -17143,8 +17143,8 @@
     "75417": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 38,
-      "current_best_price": 121.59,
+      "buy_score": 35,
+      "current_best_price": 129.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -17154,7 +17154,7 @@
       "name": "AT-ST",
       "owned_by": 3070,
       "pieces": 1513,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -17167,7 +17167,9 @@
       "transactions": [],
       "urgency_score": 3,
       "wanted_by": 2304,
-      "year": 2025
+      "year": 2025,
+      "last_brickwatch_alert": "2026-05-07T08:04:26.585047Z",
+      "last_updated": "2026-05-07T08:04:26.585056Z"
     },
     "75418": {
       "brickset_last_enriched": "2026-04-29T10:57:16Z",
@@ -17305,8 +17307,8 @@
     "75431": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 38,
-      "current_best_price": 23.89,
+      "buy_score": 31,
+      "current_best_price": 27.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -17316,7 +17318,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5003,
       "pieces": 258,
-      "price_score": 35,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -17329,7 +17331,9 @@
       "transactions": [],
       "urgency_score": 3,
       "wanted_by": 2563,
-      "year": 2025
+      "year": 2025,
+      "last_brickwatch_alert": "2026-05-07T08:04:26.585232Z",
+      "last_updated": "2026-05-07T08:04:26.585236Z"
     },
     "75432": {
       "brickset_last_enriched": "2026-04-29T10:57:16Z",
