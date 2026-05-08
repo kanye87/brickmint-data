@@ -1588,8 +1588,8 @@
     "10367": {
       "availability_score": null,
       "brickset_last_enriched": "2026-04-29T06:31:31Z",
-      "buy_score": 26,
-      "current_best_price": 89.95,
+      "buy_score": 35,
+      "current_best_price": 79.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -1599,7 +1599,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2917,
       "pieces": 1201,
-      "price_score": 26,
+      "price_score": 35,
       "rating": 4,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -1613,7 +1613,9 @@
       "urgency_score": 0,
       "wanted_by": 1964,
       "year": 2025,
-      "subtheme": "The Lord of the Rings"
+      "subtheme": "The Lord of the Rings",
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599168Z",
+      "last_updated": "2026-05-08T04:04:20.599172Z"
     },
     "10370": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -11994,8 +11996,8 @@
     "72037": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 26,
-      "current_best_price": 135.99,
+      "buy_score": 37,
+      "current_best_price": 119.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -12004,7 +12006,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3069,
       "pieces": 1972,
-      "price_score": 23,
+      "price_score": 34,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -12018,8 +12020,8 @@
       "urgency_score": 3,
       "wanted_by": 1418,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-07T11:04:21.360949Z",
-      "last_updated": "2026-05-07T11:04:21.360957Z"
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599077Z",
+      "last_updated": "2026-05-08T04:04:20.599083Z"
     },
     "72038": {
       "brickset_last_enriched": "2026-04-29T10:57:16Z",
@@ -16260,20 +16262,20 @@
     "75373": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 45,
-      "current_best_price": 15.29,
+      "buy_score": 50,
+      "current_best_price": 13.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-07T04:04:15.687021Z",
-      "last_updated": "2026-05-07T04:04:15.687024Z",
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599436Z",
+      "last_updated": "2026-05-08T04:04:20.599438Z",
       "lowest_price_ever": 12.6,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11702,
       "pieces": 109,
-      "price_score": 25,
+      "price_score": 30,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -16965,7 +16967,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
       "buy_score": null,
-      "current_best_price": 93.08,
+      "current_best_price": 89.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -16989,15 +16991,15 @@
       "urgency_score": null,
       "wanted_by": 2541,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-06T04:04:19.785073Z",
-      "last_updated": "2026-05-06T04:04:19.785079Z"
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599235Z",
+      "last_updated": "2026-05-08T04:04:20.599238Z"
     },
     "75399": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 43,
-      "current_best_price": 36.9,
-      "current_best_shop": "amazon.nl",
+      "buy_score": 37,
+      "current_best_price": 42.73,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
       "lowest_price_ever": 36.9,
@@ -17006,7 +17008,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5554,
       "pieces": 594,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -17019,7 +17021,9 @@
       "transactions": [],
       "urgency_score": 8,
       "wanted_by": 2251,
-      "year": 2025
+      "year": 2025,
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599370Z",
+      "last_updated": "2026-05-08T04:04:20.599372Z"
     },
     "75400": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -17594,7 +17598,9 @@
       "date_first_available": "2025-05-06",
       "lego_availability": "Retail",
       "ean": "5702017824598",
-      "subtheme": "Episode I"
+      "subtheme": "Episode I",
+      "last_brickwatch_alert": "2026-05-08T04:04:20.599316Z",
+      "last_updated": "2026-05-08T04:04:20.599319Z"
     },
     "75429": {
       "availability_score": null,
