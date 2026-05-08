@@ -935,8 +935,8 @@
     "10326": {
       "availability_score": null,
       "brickset_last_enriched": "2026-04-29T06:31:27Z",
-      "buy_score": 8,
-      "current_best_price": 279.99,
+      "buy_score": 19,
+      "current_best_price": 239.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10326-1.jpg",
       "label": "investering",
@@ -946,7 +946,7 @@
       "name": "Natural History Museum",
       "owned_by": 9668,
       "pieces": 4014,
-      "price_score": 5,
+      "price_score": 16,
       "purchase_price": 229.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -961,7 +961,9 @@
       "transactions": [],
       "urgency_score": 3,
       "wanted_by": 5681,
-      "year": 2024
+      "year": 2024,
+      "last_brickwatch_alert": "2026-05-08T03:34:19.201520Z",
+      "last_updated": "2026-05-08T03:34:19.201524Z"
     },
     "10327": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -15564,7 +15566,7 @@
     },
     "75349": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 43.99,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75349-1.jpg",
       "label": "persoonlijk",
@@ -15608,7 +15610,9 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "subtheme": "Helmet Collection"
+      "subtheme": "Helmet Collection",
+      "last_brickwatch_alert": "2026-05-08T03:34:19.201661Z",
+      "last_updated": "2026-05-08T03:34:19.201664Z"
     },
     "75350": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -20392,8 +20396,8 @@
     "76294": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
-      "buy_score": 43,
-      "current_best_price": 269.99,
+      "buy_score": 37,
+      "current_best_price": 279.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76294-1.jpg",
       "label": "investering",
@@ -20403,7 +20407,7 @@
       "name": "X-Men: The X-Mansion",
       "owned_by": 3318,
       "pieces": 3093,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -20416,7 +20420,9 @@
       "transactions": [],
       "urgency_score": 8,
       "wanted_by": 2677,
-      "year": 2024
+      "year": 2024,
+      "last_brickwatch_alert": "2026-05-08T03:34:19.201299Z",
+      "last_updated": "2026-05-08T03:34:19.201307Z"
     },
     "76297": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
