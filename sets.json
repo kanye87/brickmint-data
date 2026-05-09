@@ -7241,7 +7241,7 @@
       "label": "investering",
       "lego_availability": "LEGO exclusive",
       "lowest_price_ever": 29.99,
-      "msrp": null,
+      "msrp": 29.990000000000002,
       "name": "The Darksaber",
       "pieces": 278,
       "price_score": null,
@@ -7259,7 +7259,10 @@
       "wanted_by": 588,
       "year": 2026,
       "date_first_available": "2026-05-01",
-      "subtheme": "Promotional"
+      "subtheme": "Promotional",
+      "current_best_price": 69.95,
+      "last_brickwatch_alert": "2026-05-09T13:34:27.278543Z",
+      "last_updated": "2026-05-09T13:34:27.278551Z"
     },
     "41486": {
       "brickset_last_enriched": "2026-04-30T06:49:28Z",
