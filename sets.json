@@ -8408,12 +8408,12 @@
     "42184": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 1,
-      "current_best_price": 69.99,
+      "buy_score": 40,
+      "current_best_price": 49.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42184-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 52.5,
+      "lowest_price_ever": 49.0,
       "market_value": 72.45,
       "market_value_history": [
         {
@@ -8427,11 +8427,11 @@
       "name": "Koenigsegg Jesko Absolut White Hypercar",
       "owned_by": 801,
       "pieces": 801,
-      "price_score": 0,
+      "price_score": 35,
       "rating": 0,
       "retirement_date": "2025-12-24",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 5,
       "scarcity_score": null,
       "score_quality": "partial",
       "sell_score": null,
@@ -8441,7 +8441,9 @@
       "urgency_score": 0,
       "wanted_by": 625,
       "year": 2024,
-      "subtheme": "Licensed"
+      "subtheme": "Licensed",
+      "last_brickwatch_alert": "2026-05-09T18:34:22.032606Z",
+      "last_updated": "2026-05-09T18:34:22.032630Z"
     },
     "42197": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
