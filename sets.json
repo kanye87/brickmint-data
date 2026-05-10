@@ -1841,7 +1841,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-04-29T06:31:33Z",
       "buy_score": null,
-      "current_best_price": 57.99,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -1866,7 +1866,9 @@
       "urgency_score": null,
       "wanted_by": 1694,
       "year": 2026,
-      "subtheme": "The Lord of the Rings"
+      "subtheme": "The Lord of the Rings",
+      "last_brickwatch_alert": "2026-05-10T04:04:17.990248Z",
+      "last_updated": "2026-05-10T04:04:17.990256Z"
     },
     "11986": {
       "brickset_last_enriched": "2026-05-09T16:44:03Z",
@@ -18367,7 +18369,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 18,
+      "buy_score": 20,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -18376,7 +18378,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 126,
       "pieces": 1200,
-      "price_score": 18,
+      "price_score": 20,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -18392,9 +18394,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 103.99,
-      "last_brickwatch_alert": "2026-05-05T07:04:18.056690Z",
-      "last_updated": "2026-05-05T07:04:18.056698Z",
+      "current_best_price": 99.79,
+      "last_brickwatch_alert": "2026-05-10T04:04:17.990360Z",
+      "last_updated": "2026-05-10T04:04:17.990364Z",
       "subtheme": "The Mandalorian and Grogu"
     },
     "75452": {
@@ -19683,12 +19685,12 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-04-30T06:49:29Z",
       "buy_score": 0,
-      "current_best_price": 92.67,
+      "current_best_price": 92.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76191-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-08T20:34:24.928072Z",
-      "last_updated": "2026-05-08T20:34:24.928086Z",
+      "last_brickwatch_alert": "2026-05-10T04:04:17.990441Z",
+      "last_updated": "2026-05-10T04:04:17.990442Z",
       "lowest_price_ever": 83.4,
       "market_value": 89.94,
       "market_value_history": [
