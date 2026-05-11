@@ -22044,12 +22044,12 @@
     "75378": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 52,
-      "current_best_price": 20.54,
+      "buy_score": 55,
+      "current_best_price": 18.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 19.6,
+      "lowest_price_ever": 18.5,
       "market_value": 29.44,
       "market_value_history": [
         {
@@ -22064,7 +22064,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9454,
       "pieces": 221,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -22078,8 +22078,8 @@
       "urgency_score": 0,
       "wanted_by": 1814,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-07T04:04:15.527952Z",
-      "last_updated": "2026-05-07T04:04:15.527955Z",
+      "last_brickwatch_alert": "2026-05-11T04:04:23.329439Z",
+      "last_updated": "2026-05-11T04:04:23.329445Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -24276,7 +24276,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 110.49,
+      "current_best_price": 108.3,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -24298,8 +24298,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-05-08T04:04:20.599316Z",
-      "last_updated": "2026-05-08T04:04:20.599319Z",
+      "last_brickwatch_alert": "2026-05-11T04:04:23.660134Z",
+      "last_updated": "2026-05-11T04:04:23.660141Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -24818,9 +24818,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 99.79,
-      "last_brickwatch_alert": "2026-05-10T04:04:17.990360Z",
-      "last_updated": "2026-05-10T04:04:17.990364Z",
+      "current_best_price": 99.55,
+      "last_brickwatch_alert": "2026-05-11T04:04:23.660218Z",
+      "last_updated": "2026-05-11T04:04:23.660222Z",
       "subtheme": "The Mandalorian and Grogu"
     },
     "75452": {
