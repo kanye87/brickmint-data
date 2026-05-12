@@ -23404,7 +23404,7 @@
     "75405": {
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
       "buy_score": 88,
-      "current_best_price": 40.79,
+      "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75405-1.jpg",
       "label": "investering",
@@ -23430,7 +23430,9 @@
       "roi_score": null,
       "scarcity_score": 15,
       "availability_score": null,
-      "score_quality": "partial"
+      "score_quality": "partial",
+      "last_brickwatch_alert": "2026-05-12T00:34:26.672623Z",
+      "last_updated": "2026-05-12T00:34:26.672628Z"
     },
     "75406": {
       "availability_score": null,
