@@ -19988,7 +19988,7 @@
     },
     "75325": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 44.99,
+      "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-17",
       "ean": "5702017155517",
@@ -20021,13 +20021,15 @@
       "wanted_by": 3558,
       "year": 2022,
       "subtheme": "The Book of Boba Fett",
-      "price_score": 27,
+      "price_score": 33,
       "roi_score": null,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 47
+      "buy_score": 53,
+      "last_brickwatch_alert": "2026-05-12T00:04:20.214427Z",
+      "last_updated": "2026-05-12T00:04:20.214435Z"
     },
     "75326": {
       "brickset_last_enriched": "2026-04-30T06:49:28Z",
