@@ -23388,20 +23388,20 @@
     "75394": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 52,
-      "current_best_price": 119.0,
+      "buy_score": 32,
+      "current_best_price": 149.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75394-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-08T16:04:18.298248Z",
-      "last_updated": "2026-05-08T16:04:18.298255Z",
+      "last_brickwatch_alert": "2026-05-14T00:04:19.844650Z",
+      "last_updated": "2026-05-14T00:04:19.844659Z",
       "lowest_price_ever": null,
       "minifigs": 7,
       "msrp": 169.99,
       "name": "Imperial Star Destroyer",
       "owned_by": 6827,
       "pieces": 1555,
-      "price_score": 26,
+      "price_score": 10,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -24641,8 +24641,8 @@
     "75419": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 28,
-      "current_best_price": 749,
+      "buy_score": 8,
+      "current_best_price": 929.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75419-1.jpg",
       "label": "investering",
@@ -24652,7 +24652,7 @@
       "name": "Death Star",
       "owned_by": 2019,
       "pieces": 9023,
-      "price_score": 22,
+      "price_score": 6,
       "rating": 4.4,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -24902,7 +24902,9 @@
           "unique": true,
           "value": null
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-14T00:04:19.844845Z",
+      "last_updated": "2026-05-14T00:04:19.844850Z"
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
