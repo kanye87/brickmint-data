@@ -30499,7 +30499,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 25,
-      "current_best_price": 788.61,
+      "current_best_price": 599.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76210-1.jpg",
       "label": "investering",
@@ -30542,8 +30542,15 @@
           "date": "2026-05-14",
           "price": 788.61,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 599.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T18:04:21.556566Z",
+      "last_updated": "2026-05-15T18:04:21.556574Z"
     },
     "76215": {
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
