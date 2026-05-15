@@ -2183,13 +2183,13 @@
         {
           "id": "fig-015127",
           "name": "Sauron",
-          "unique": true,
+          "unique": false,
           "value": null
         },
         {
           "id": "fig-012991",
           "name": "Skeleton, Standard Face, Bent Arms (78132 Torso)",
-          "unique": true,
+          "unique": false,
           "value": null
         }
       ],
@@ -3552,7 +3552,16 @@
       "expected_retirement": "2020-11",
       "date_first_available": "2019-04-23",
       "lego_availability": "Retail",
-      "ean": "5702016367713"
+      "ean": "5702016367713",
+      "minifig_list": [
+        {
+          "id": "fig-001986",
+          "name": "Woody, Happy",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-001986/119653.jpg"
+        }
+      ]
     },
     "11198": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -3580,7 +3589,23 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814797"
+      "ean": "5702017814797",
+      "minifig_list": [
+        {
+          "id": "fig-014821",
+          "name": "Max Dillon / Electro",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014821/143024.jpg"
+        },
+        {
+          "id": "fig-015913",
+          "name": "Spin / Spider-Man (Miles Morales), Medium Black Legs, Lime Spider",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "11199": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -3617,7 +3642,23 @@
       "expected_retirement": "2026-03",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814803"
+      "ean": "5702017814803",
+      "minifig_list": [
+        {
+          "id": "fig-015914",
+          "name": "Spider-Man (Spidey), Medium Legs, Lime Spider Print",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015913",
+          "name": "Spin / Spider-Man (Miles Morales), Medium Black Legs, Lime Spider",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "11200": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -3645,7 +3686,23 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814810"
+      "ean": "5702017814810",
+      "minifig_list": [
+        {
+          "id": "fig-015911",
+          "name": "Ghost-Spider / Spider-Gwen, Medium Legs, Lime Spider Print",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015910",
+          "name": "Trapster",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "11370": {
       "availability_score": 10,
@@ -3687,6 +3744,99 @@
           "date": "2026-05-14",
           "price": 209.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-017240",
+          "name": "Dustin Henderson",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017240/167464.jpg"
+        },
+        {
+          "id": "fig-017233",
+          "name": "Eleven, Dark Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017233/167465.jpg"
+        },
+        {
+          "id": "fig-017238",
+          "name": "Holly Wheeler",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017238/167493.jpg"
+        },
+        {
+          "id": "fig-017243",
+          "name": "Jonathan Byers",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017243/167467.jpg"
+        },
+        {
+          "id": "fig-017239",
+          "name": "Lucas Sinclair, Dark Azure Torso",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017239/167468.jpg"
+        },
+        {
+          "id": "fig-017236",
+          "name": "Max Mayfield",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017236/167469.jpg"
+        },
+        {
+          "id": "fig-017237",
+          "name": "Mike Wheeler, Light Aqua Torso",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017237/167470.jpg"
+        },
+        {
+          "id": "fig-017232",
+          "name": "Mr. Whatsit",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017232/167471.jpg"
+        },
+        {
+          "id": "fig-017241",
+          "name": "Nancy Wheeler",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017241/167472.jpg"
+        },
+        {
+          "id": "fig-017235",
+          "name": "Robin Buckley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017235/167473.jpg"
+        },
+        {
+          "id": "fig-017242",
+          "name": "Steve Harrington",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017242/167475.jpg"
+        },
+        {
+          "id": "fig-017244",
+          "name": "Vecna",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017244/167476.jpg"
+        },
+        {
+          "id": "fig-017234",
+          "name": "Will Byers",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017234/167477.jpg"
         }
       ]
     },
@@ -3732,6 +3882,15 @@
           "price": 49.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-015127",
+          "name": "Sauron",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015127/145665.jpg"
+        }
       ]
     },
     "11986": {
@@ -3755,7 +3914,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "12006": {
       "brickset_last_enriched": "2026-05-15T11:49:27Z",
@@ -3776,7 +3936,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "21028": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -3816,7 +3977,8 @@
       "expected_retirement": "2025-10",
       "date_first_available": "2016-01-02",
       "lego_availability": "Retail - limited",
-      "ean": "5702015591218"
+      "ean": "5702015591218",
+      "minifig_list": []
     },
     "21042": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -3853,7 +4015,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "21058": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -3891,7 +4054,8 @@
           "price": 87.99,
           "shop": "Pepper.com"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21060": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -3919,7 +4083,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -3962,7 +4127,8 @@
           "price": 149.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21062": {
       "availability_score": 0,
@@ -4004,6 +4170,22 @@
           "date": "2026-05-14",
           "price": 109.0,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-016178",
+          "name": "Statue, Oceanus",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016178/154029.jpg"
+        },
+        {
+          "id": "fig-016179",
+          "name": "Statue, Salubrity / Abundantia",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016179/154028.jpg"
         }
       ]
     },
@@ -4047,7 +4229,8 @@
           "price": 189.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21068": {
       "brickset_last_enriched": "2026-05-15T11:49:27Z",
@@ -4073,7 +4256,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "21302": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -4113,7 +4297,58 @@
       "expected_retirement": "2017-01",
       "date_first_available": "2015-08-03",
       "lego_availability": "Retail - limited",
-      "ean": "5702015518895"
+      "ean": "5702015518895",
+      "minifig_list": [
+        {
+          "id": "fig-006676",
+          "name": "Amy Farrah Fowler",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006676/63423.jpg"
+        },
+        {
+          "id": "fig-006675",
+          "name": "Bernadette Rostenkowski",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006675/106406.jpg"
+        },
+        {
+          "id": "fig-006674",
+          "name": "Howard Wolowitz",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006674/107218.jpg"
+        },
+        {
+          "id": "fig-006673",
+          "name": "Leonard Hofstadter",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006673/107861.jpg"
+        },
+        {
+          "id": "fig-006672",
+          "name": "Penny",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006672/107223.jpg"
+        },
+        {
+          "id": "fig-006671",
+          "name": "Raj Koothrappali",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006671/63422.jpg"
+        },
+        {
+          "id": "fig-006670",
+          "name": "Sheldon Cooper",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006670/63421.jpg"
+        }
+      ]
     },
     "21318": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -4177,6 +4412,36 @@
           "price": 174.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008428",
+          "name": "Kid, Dark Red Torso, Dark Tan Leg, Dark Orange Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008428/105169.jpg"
+        },
+        {
+          "id": "fig-008430",
+          "name": "Kid, Dark Tan Torso, Dark Brown Legs, Dark Blue Hat",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008430/104915.jpg"
+        },
+        {
+          "id": "fig-008431",
+          "name": "Medium Nougat Torso, Dark Bluish Grey Legs, Dark Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008431/104913.jpg"
+        },
+        {
+          "id": "fig-008429",
+          "name": "Tan Torso, Dark Brown Legs, Medium Nougat Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008429/104911.jpg"
+        }
       ]
     },
     "21319": {
@@ -4224,6 +4489,57 @@
           "date": "2026-05-14",
           "price": 54.98,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-006447",
+          "name": "Chandler Bing",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006447/103156.jpg"
+        },
+        {
+          "id": "fig-006448",
+          "name": "Gunther",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006448/103158.jpg"
+        },
+        {
+          "id": "fig-006450",
+          "name": "Joey Tribbiani",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006450/103162.jpg"
+        },
+        {
+          "id": "fig-006451",
+          "name": "Monica Geller",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006451/171782.jpg"
+        },
+        {
+          "id": "fig-006452",
+          "name": "Phoebe Buffay",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006452/103167.jpg"
+        },
+        {
+          "id": "fig-006453",
+          "name": "Rachel Green",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006453/103168.jpg"
+        },
+        {
+          "id": "fig-006449",
+          "name": "Ross Geller",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006449/103160.jpg"
         }
       ]
     },
@@ -4285,6 +4601,22 @@
           "price": 89.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008408",
+          "name": "Paleontologist",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008408/104884.jpg"
+        },
+        {
+          "id": "fig-008407",
+          "name": "Skeleton, Standard Face, Fedora",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008407/104882.jpg"
+        }
       ]
     },
     "21323": {
@@ -4323,7 +4655,8 @@
           "price": 289.99,
           "shop": "Bol.com"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21327": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -4369,7 +4702,8 @@
           "price": 153,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21328": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -4417,6 +4751,43 @@
           "price": 63.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011604",
+          "name": "Cosmo Kramer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011604/90627.jpg"
+        },
+        {
+          "id": "fig-011605",
+          "name": "Elaine Marie Benes",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011605/90626.jpg"
+        },
+        {
+          "id": "fig-011602",
+          "name": "George Louis Costanza",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011602/90625.jpg"
+        },
+        {
+          "id": "fig-011606",
+          "name": "Jerry Seinfeld",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011606/90624.jpg"
+        },
+        {
+          "id": "fig-011603",
+          "name": "Newman",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011603/90623.jpg"
+        }
       ]
     },
     "21330": {
@@ -4457,6 +4828,43 @@
           "date": "2026-05-14",
           "price": 219.99,
           "shop": "Bol.com"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011862",
+          "name": "Harry Lime",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011862/94021.jpg"
+        },
+        {
+          "id": "fig-011864",
+          "name": "Kate McCallister",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011864/94016.jpg"
+        },
+        {
+          "id": "fig-011860",
+          "name": "Kevin McCallister",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011860/94019.jpg"
+        },
+        {
+          "id": "fig-011863",
+          "name": "Marley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011863/94018.jpg"
+        },
+        {
+          "id": "fig-011861",
+          "name": "Marv Murchins",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011861/94022.jpg"
         }
       ]
     },
@@ -4517,7 +4925,8 @@
           "price": 188.99,
           "shop": null
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21333": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4546,7 +4955,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-012609",
+          "name": "Vincent van Gogh",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012609/106104.jpg"
+        }
+      ]
     },
     "21336": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -4595,6 +5013,113 @@
           "price": 99.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013111",
+          "name": "Angela Martin",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013111/111057.jpg"
+        },
+        {
+          "id": "fig-013116",
+          "name": "Creed Bratton",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013116/137132.jpg"
+        },
+        {
+          "id": "fig-013110",
+          "name": "Darryl Philbin",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013110/110992.jpg"
+        },
+        {
+          "id": "fig-013115",
+          "name": "Dwight Schrute",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013115/118468.jpg"
+        },
+        {
+          "id": "fig-013114",
+          "name": "Jim Halpert",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013114/118467.jpg"
+        },
+        {
+          "id": "fig-013118",
+          "name": "Kelly Kapoor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013118/118466.jpg"
+        },
+        {
+          "id": "fig-013109",
+          "name": "Kevin Malone",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013109/110991.jpg"
+        },
+        {
+          "id": "fig-013117",
+          "name": "Meredith Palmer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013117/117089.jpg"
+        },
+        {
+          "id": "fig-013107",
+          "name": "Michael Scott",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013107/110891.jpg"
+        },
+        {
+          "id": "fig-013113",
+          "name": "Oscar Martinez",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013113/111137.jpg"
+        },
+        {
+          "id": "fig-013112",
+          "name": "Pam Beesley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013112/111058.jpg"
+        },
+        {
+          "id": "fig-013120",
+          "name": "Phyllis Lapin Vance",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013120/118464.jpg"
+        },
+        {
+          "id": "fig-013119",
+          "name": "Ryan Howard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013119/118465.jpg"
+        },
+        {
+          "id": "fig-013121",
+          "name": "Stanley Hudson",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013121/118463.jpg"
+        },
+        {
+          "id": "fig-013108",
+          "name": "Toby Flenderson",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013108/110893.jpg"
+        }
       ]
     },
     "21345": {
@@ -4635,7 +5160,8 @@
           "price": 79.99,
           "shop": "Bol.com"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "21348": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4675,6 +5201,78 @@
           "price": 259.99,
           "shop": "Pepper.com"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014852",
+          "name": "Alax Jadescales",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014852/139131.jpg"
+        },
+        {
+          "id": "fig-014847",
+          "name": "Dwarf Cleric",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014847/139113.jpg"
+        },
+        {
+          "id": "fig-014848",
+          "name": "Elf Wizard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014848/139114.jpg"
+        },
+        {
+          "id": "fig-014849",
+          "name": "Gnome Fighter",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014849/139118.jpg"
+        },
+        {
+          "id": "fig-014851",
+          "name": "Merry Rumwell",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014851/139134.jpg"
+        },
+        {
+          "id": "fig-014853",
+          "name": "Myconid",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014853/139137.jpg"
+        },
+        {
+          "id": "fig-014850",
+          "name": "Orc Rogue",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014850/139139.jpg"
+        },
+        {
+          "id": "fig-013194",
+          "name": "Skeleton, Standard Face, Bent Arms, Vertical Hand Clips, 78132 Torso, 3626c Head",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013194/139141.jpg"
+        },
+        {
+          "id": "fig-014854",
+          "name": "Skeleton, Standard Face, Bent Arms, Vertical Hand Clips, 78132 Torso, Armor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014854/139143.jpg"
+        },
+        {
+          "id": "fig-014855",
+          "name": "Skeleton, Standard Face, Bent Arms, Vertical Hand Clips, 78132 Torso, Cape",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014855/139145.jpg"
+        }
       ]
     },
     "21350": {
@@ -4704,7 +5302,30 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015400",
+          "name": "Chief Martin Brody",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015400/146540.jpg"
+        },
+        {
+          "id": "fig-015402",
+          "name": "Matt Hooper",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015402/146538.jpg"
+        },
+        {
+          "id": "fig-015401",
+          "name": "Quint",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015401/146536.jpg"
+        }
+      ]
     },
     "21351": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4733,7 +5354,65 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015506",
+          "name": "Barrel",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015506/170312.jpg"
+        },
+        {
+          "id": "fig-015502",
+          "name": "Jack Skellington, Long",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015504",
+          "name": "Lock",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015504/170331.jpg"
+        },
+        {
+          "id": "fig-015507",
+          "name": "Mayor of Halloween Town",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015507/170332.jpg"
+        },
+        {
+          "id": "fig-015503",
+          "name": "Sally",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015503/166487.jpg"
+        },
+        {
+          "id": "fig-015509",
+          "name": "Santa Claus, Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015509/158999.jpg"
+        },
+        {
+          "id": "fig-015505",
+          "name": "Shock",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-012991",
+          "name": "Skeleton, Standard Face, Bent Arms (78132 Torso)",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012991/145631.jpg"
+        }
+      ]
     },
     "21352": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4773,6 +5452,36 @@
           "price": 84.99,
           "shop": "Pepper.com"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-015547",
+          "name": "Belle, Minifig, Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015547/151549.jpg"
+        },
+        {
+          "id": "fig-015548",
+          "name": "Bruno",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015548/151550.jpg"
+        },
+        {
+          "id": "fig-015550",
+          "name": "Geppetto",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015550/153767.jpg"
+        },
+        {
+          "id": "fig-015549",
+          "name": "Lilo",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015549/151551.jpg"
+        }
       ]
     },
     "21353": {
@@ -4805,7 +5514,93 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-10-23",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017599786"
+      "ean": "5702017599786",
+      "minifig_list": [
+        {
+          "id": "fig-015614",
+          "name": "Barista, Reddish Brown Apron, Dark Blue Beanie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015614/147564.jpg"
+        },
+        {
+          "id": "fig-015621",
+          "name": "Gardener, Sand Blue Torso, Medium Nougat Apron, Bright Light Yellow Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015621/147567.jpg"
+        },
+        {
+          "id": "fig-015623",
+          "name": "Gardener, Sand Blue Torso, Medium Nougat Apron, Dark Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015623/147570.jpg"
+        },
+        {
+          "id": "fig-015622",
+          "name": "Guide, Dark Blue Torso, Tan Legs, Reddish Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015622/147573.jpg"
+        },
+        {
+          "id": "fig-015617",
+          "name": "Kid - Bright Light Blue Torso, Dark Blue Legs, Dark Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015617/147576.jpg"
+        },
+        {
+          "id": "fig-015613",
+          "name": "Kid - White Torso with Mountains, Dark Turquoise Legs, Black Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015613/147579.jpg"
+        },
+        {
+          "id": "fig-015620",
+          "name": "Photographer, Dark Brown Torso, Olive Green Legs, Reddish Brown Cap, Beard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015620/147583.jpg"
+        },
+        {
+          "id": "fig-015615",
+          "name": "Visitor, Bright Light Blue Torso, White Legs, Dark Orange Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015615/147585.jpg"
+        },
+        {
+          "id": "fig-015618",
+          "name": "Visitor, Light Bluish Grey Torso, Dark Brown Legs, Light Bluish Grey Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015618/147588.jpg"
+        },
+        {
+          "id": "fig-015619",
+          "name": "Visitor, Red Torso, Dark Tan Legs, Light Bluish Grey Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015619/147590.jpg"
+        },
+        {
+          "id": "fig-015616",
+          "name": "Visitor, Tan Torso, Black Legs, Dark Tan Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015616/147596.jpg"
+        },
+        {
+          "id": "fig-015624",
+          "name": "Visitor, Yellowish Green Torso, Sand Blue Legs, Medium Nougat Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015624/147592.jpg"
+        }
+      ]
     },
     "21354": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -4833,7 +5628,58 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2025-01-17",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017829227"
+      "ean": "5702017829227",
+      "minifig_list": [
+        {
+          "id": "fig-016027",
+          "name": "Alice Cullen",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016027/162116.jpg"
+        },
+        {
+          "id": "fig-016026",
+          "name": "Bella Swan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016026/165575.jpg"
+        },
+        {
+          "id": "fig-016024",
+          "name": "Carlisle Cullen",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016024/165579.jpg"
+        },
+        {
+          "id": "fig-016025",
+          "name": "Charlie Swan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016025/165582.jpg"
+        },
+        {
+          "id": "fig-016028",
+          "name": "Edward Cullen",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016028/165586.jpg"
+        },
+        {
+          "id": "fig-016029",
+          "name": "Jacob Black",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016029/165589.jpg"
+        },
+        {
+          "id": "fig-016023",
+          "name": "Rosalie Hale",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016023/165594.jpg"
+        }
+      ]
     },
     "21355": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4861,7 +5707,30 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016042",
+          "name": "George Washington Carver",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016042/153275.jpg"
+        },
+        {
+          "id": "fig-016040",
+          "name": "Isaac Newton",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016040/153272.jpg"
+        },
+        {
+          "id": "fig-016041",
+          "name": "Marie Skłodowska-Curie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016041/153269.jpg"
+        }
+      ]
     },
     "21356": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4888,7 +5757,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "21357": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -4915,7 +5785,8 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-05-09",
       "lego_availability": "Retail",
-      "ean": "5702017829241"
+      "ean": "5702017829241",
+      "minifig_list": []
     },
     "21358": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -4953,6 +5824,106 @@
           "price": 124.99,
           "shop": "Bol.com"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-016359",
+          "name": "Bernard Bear Minifigure",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016359/157924.jpg"
+        },
+        {
+          "id": "fig-016348",
+          "name": "Classic Spaceman, Dark Turquoise with Airtanks",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016348/157928.jpg"
+        },
+        {
+          "id": "fig-016349",
+          "name": "Classic Spaceman, Pearl Gold with Airtanks",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016349/157948.jpg"
+        },
+        {
+          "id": "fig-016360",
+          "name": "Elton Elephant Minifigure",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016360/157925.jpg"
+        },
+        {
+          "id": "fig-016358",
+          "name": "Female Griffin Knight",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016358/157923.jpg"
+        },
+        {
+          "id": "fig-016361",
+          "name": "Female Kraken Warrior",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016361/157926.jpg"
+        },
+        {
+          "id": "fig-016351",
+          "name": "LEGO Ideas Designer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016351/157916.jpg"
+        },
+        {
+          "id": "fig-016357",
+          "name": "Male Griffin Knight",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016357/157927.jpg"
+        },
+        {
+          "id": "fig-016354",
+          "name": "Male Kraken Warrior",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016354/157919.jpg"
+        },
+        {
+          "id": "fig-016356",
+          "name": "Paradisa Beach Bae",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016356/157921.jpg"
+        },
+        {
+          "id": "fig-016355",
+          "name": "Paradisa Beach Bro",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016355/157920.jpg"
+        },
+        {
+          "id": "fig-016353",
+          "name": "Pirate Bo'Sun Will",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016353/157918.jpg"
+        },
+        {
+          "id": "fig-016352",
+          "name": "Pirate Camilla",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016352/157917.jpg"
+        },
+        {
+          "id": "fig-016350",
+          "name": "Rob the Fan Designer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016350/157915.jpg"
+        }
       ]
     },
     "21359": {
@@ -4980,7 +5951,79 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-07-18",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017829272"
+      "ean": "5702017829272",
+      "minifig_list": [
+        {
+          "id": "fig-016706",
+          "name": "Cook, Light Aqua Apron, Light Bluish Grey Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016706/165592.jpg"
+        },
+        {
+          "id": "fig-016708",
+          "name": "Fisher Man, Dark Green Torso, Dark Bluish Grey Legs, Reddish Brown Cap, Life Vest",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016708/165546.jpg"
+        },
+        {
+          "id": "fig-016702",
+          "name": "Gelato Seller, White Torso, White Legs, Dark Orange Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016702/165593.jpg"
+        },
+        {
+          "id": "fig-016705",
+          "name": "Kid, Bright Light Blue Torso, Blue Medium Legs, Dark Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016705/165598.jpg"
+        },
+        {
+          "id": "fig-016704",
+          "name": "Kid, White Torso, Dark Turquoise Legs, Black Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016704/165599.jpg"
+        },
+        {
+          "id": "fig-016709",
+          "name": "Lime Torso, Dark Azure Legs, Reddish Brown Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016709/165550.jpg"
+        },
+        {
+          "id": "fig-016703",
+          "name": "Man, Tan Torso, Dark Red Legs, Light Bluish Grey Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016703/165595.jpg"
+        },
+        {
+          "id": "fig-016701",
+          "name": "Tourist, White Torso, Dark Blue Legs, Medium Nougat Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016701/165596.jpg"
+        },
+        {
+          "id": "fig-016707",
+          "name": "White Torso, Dark Pink Legs, Dark Tan Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016707/165597.jpg"
+        },
+        {
+          "id": "fig-013952",
+          "name": "Woman, Tan Trenchcoat",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013952/163805.jpg"
+        }
+      ]
     },
     "21360": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -5009,7 +6052,72 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016857",
+          "name": "Augustus Gloop",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016857/163291.jpg"
+        },
+        {
+          "id": "fig-016850",
+          "name": "Charlie Bucket",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016850/163210.jpg"
+        },
+        {
+          "id": "fig-016851",
+          "name": "Grandpa Joe",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016851/163212.jpg"
+        },
+        {
+          "id": "fig-016854",
+          "name": "Mike Teevee",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016854/163709.jpg"
+        },
+        {
+          "id": "fig-016855",
+          "name": "Oompa Loompa, Female",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016855/163269.jpg"
+        },
+        {
+          "id": "fig-016856",
+          "name": "Oompa Loompa, Male",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016856/163270.jpg"
+        },
+        {
+          "id": "fig-016853",
+          "name": "Veruca Salt",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016853/163580.jpg"
+        },
+        {
+          "id": "fig-016852",
+          "name": "Violet Beauregarde",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016852/163708.jpg"
+        },
+        {
+          "id": "fig-016858",
+          "name": "Willy Wonka",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016858/163747.jpg"
+        }
+      ]
     },
     "21361": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -13579,6 +14687,15 @@
           "price": 22.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-017576",
+          "name": "Vinícius Júnior",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
       ]
     },
     "43032": {
@@ -13630,7 +14747,8 @@
           "price": 19.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "43217": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -13668,7 +14786,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-013681",
+          "name": "Carl Fredricksen",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013681/121092.jpg"
+        },
+        {
+          "id": "fig-013680",
+          "name": "Russell",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013680/126169.jpg"
+        }
+      ]
     },
     "43230": {
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
@@ -13712,6 +14846,29 @@
           "price": 74.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014328",
+          "name": "Mickey Mouse - Black & White",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014328/127896.jpg"
+        },
+        {
+          "id": "fig-014326",
+          "name": "Minnie Mouse - Black & White",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014326/127895.jpg"
+        },
+        {
+          "id": "fig-014329",
+          "name": "Walt Disney",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014329/127900.jpg"
+        }
       ]
     },
     "43243": {
@@ -13741,7 +14898,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "43247": {
       "availability_score": null,
@@ -13785,7 +14943,8 @@
           "price": 86.39,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "43249": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -13813,7 +14972,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "43256": {
       "brickset_last_enriched": "2026-05-10T07:59:54Z",
@@ -13850,7 +15010,30 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015819",
+          "name": "Anna",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015819/158800.jpg"
+        },
+        {
+          "id": "fig-015817",
+          "name": "Kristoff",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015817/158799.jpg"
+        },
+        {
+          "id": "fig-016018",
+          "name": "Olaf, Micro-Doll Arms, Stick Hair, Bright Light Blue Mouth",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016018/158796.jpg"
+        }
+      ]
     },
     "43257": {
       "brickset_last_enriched": "2026-05-10T07:59:54Z",
@@ -13877,7 +15060,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "43258": {
       "brickset_last_enriched": "2026-05-10T07:59:54Z",
@@ -13905,7 +15089,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016393",
+          "name": "Maui (Big Fig) Sienna Brown",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015826",
+          "name": "Moana, Sienna Brown, Red Skirt",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "43259": {
       "brickset_last_enriched": "2026-05-11T09:28:16Z",
@@ -13942,7 +15142,16 @@
       "expected_retirement": "2025-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814483"
+      "ean": "5702017814483",
+      "minifig_list": [
+        {
+          "id": "fig-015801",
+          "name": "Ariel, Warm Tan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015801/161175.jpg"
+        }
+      ]
     },
     "43260": {
       "brickset_last_enriched": "2026-05-11T09:28:16Z",
@@ -13978,6 +15187,22 @@
         {
           "date": "2026-05-11",
           "value": 17.19
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-015463",
+          "name": "Moana - Microdoll",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015463/145030.jpg"
+        },
+        {
+          "id": "fig-015795",
+          "name": "Simea",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015795/153965.jpg"
         }
       ]
     },
@@ -14016,7 +15241,23 @@
       "expected_retirement": "2025-11",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814506"
+      "ean": "5702017814506",
+      "minifig_list": [
+        {
+          "id": "fig-015042",
+          "name": "Antonio - Microdoll (MediumBrown)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015042/141865.jpg"
+        },
+        {
+          "id": "fig-015466",
+          "name": "Mirabel - Microdoll, 92198pr0408",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015466/145052.jpg"
+        }
+      ]
     },
     "43262": {
       "brickset_last_enriched": "2026-05-11T12:36:10Z",
@@ -14044,7 +15285,23 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-01-22",
       "lego_availability": "Retail",
-      "ean": "5702017814513"
+      "ean": "5702017814513",
+      "minifig_list": [
+        {
+          "id": "fig-016044",
+          "name": "Cruella de Vil, Minidoll",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016044/170154.jpg"
+        },
+        {
+          "id": "fig-016045",
+          "name": "Maleficent, Lavender Cape",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016045/170155.jpg"
+        }
+      ]
     },
     "43263": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14073,7 +15330,93 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016209",
+          "name": "Babette",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016209/153961.jpg"
+        },
+        {
+          "id": "fig-016204",
+          "name": "Beast, Minifig",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016204/153957.jpg"
+        },
+        {
+          "id": "fig-016199",
+          "name": "Belle, Minifig, Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016199/153955.jpg"
+        },
+        {
+          "id": "fig-016206",
+          "name": "Chef Bouche",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016206/153952.jpg"
+        },
+        {
+          "id": "fig-016201",
+          "name": "Cogsworth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016201/153951.jpg"
+        },
+        {
+          "id": "fig-016211",
+          "name": "Gaston, Quiver",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016211/153948.jpg"
+        },
+        {
+          "id": "fig-016207",
+          "name": "LeFou",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016207/153940.jpg"
+        },
+        {
+          "id": "fig-016202",
+          "name": "Lumière, Candles",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016202/153944.jpg"
+        },
+        {
+          "id": "fig-016210",
+          "name": "Madame de la Grande Bouche, Hinge",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016210/153943.jpg"
+        },
+        {
+          "id": "fig-016200",
+          "name": "Maurice",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016200/153945.jpg"
+        },
+        {
+          "id": "fig-016239",
+          "name": "Mrs. Potts, Medium Lavender Lid",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016239/157797.jpg"
+        },
+        {
+          "id": "fig-016205",
+          "name": "Sultan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016205/153939.jpg"
+        }
+      ]
     },
     "43264": {
       "brickset_last_enriched": "2026-05-12T08:29:55Z",
@@ -14101,7 +15444,37 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017814520"
+      "ean": "5702017814520",
+      "minifig_list": [
+        {
+          "id": "fig-016432",
+          "name": "Bo Peep, Large Bright Pink Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016432/162252.jpg"
+        },
+        {
+          "id": "fig-016507",
+          "name": "Buzz Lightyear",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016507/162290.jpg"
+        },
+        {
+          "id": "fig-016505",
+          "name": "Jessie with Bow in Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016505/162289.jpg"
+        },
+        {
+          "id": "fig-016506",
+          "name": "Woody",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016506/162291.jpg"
+        }
+      ]
     },
     "43265": {
       "brickset_last_enriched": "2026-05-12T08:29:55Z",
@@ -14129,7 +15502,37 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814544"
+      "ean": "5702017814544",
+      "minifig_list": [
+        {
+          "id": "fig-015821",
+          "name": "Anna, Bright Light Blue Hat",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015821/158798.jpg"
+        },
+        {
+          "id": "fig-015823",
+          "name": "Elsa, Dark Blue Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015823/158797.jpg"
+        },
+        {
+          "id": "fig-016018",
+          "name": "Olaf, Micro-Doll Arms, Stick Hair, Bright Light Blue Mouth",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016018/158796.jpg"
+        },
+        {
+          "id": "fig-011580",
+          "name": "Sir Jorgenbjorgen",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011580/160538.jpg"
+        }
+      ]
     },
     "43266": {
       "brickset_last_enriched": "2026-05-12T08:29:55Z",
@@ -14157,7 +15560,16 @@
       "expected_retirement": "2026-07",
       "date_first_available": "2025-01-22",
       "lego_availability": "Retail",
-      "ean": "5702017814551"
+      "ean": "5702017814551",
+      "minifig_list": [
+        {
+          "id": "fig-016043",
+          "name": "Cinderella, Bright Light Orange Hair, Full Skirt",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016043/153098.jpg"
+        }
+      ]
     },
     "43267": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14194,6 +15606,43 @@
           "price": 74.99,
           "shop": "Pepper.com"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-016503",
+          "name": "Ariel, Warm Tan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016503/158180.jpg"
+        },
+        {
+          "id": "fig-016498",
+          "name": "Jasmine",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016498/158181.jpg"
+        },
+        {
+          "id": "fig-015052",
+          "name": "Moana (Sienna Brown)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015052/158182.jpg"
+        },
+        {
+          "id": "fig-016501",
+          "name": "Mulan",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016501/158183.jpg"
+        },
+        {
+          "id": "fig-016500",
+          "name": "Rapunzel, Big eyes, Flowers",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016500/158184.jpg"
+        }
       ]
     },
     "43268": {
@@ -14222,7 +15671,51 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-01-22",
       "lego_availability": "Retail",
-      "ean": "5702017814575"
+      "ean": "5702017814575",
+      "minifig_list": [
+        {
+          "id": "fig-016073",
+          "name": "Cobra Bubbles",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016073/153860.jpg"
+        },
+        {
+          "id": "fig-016074",
+          "name": "David Kawena",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016074/153862.jpg"
+        },
+        {
+          "id": "fig-016070",
+          "name": "Lilo, Light Aqua Flower",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016070/153794.jpg"
+        },
+        {
+          "id": "fig-016072",
+          "name": "Nani",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016072/153857.jpg"
+        },
+        {
+          "id": "fig-016071",
+          "name": "Scrump",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016071/153797.jpg"
+        },
+        {
+          "id": "fig-016068",
+          "name": "Stitch, Dark Azure",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016068/153789.jpg"
+        }
+      ]
     },
     "43269": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14249,7 +15742,8 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2025-05-06",
       "lego_availability": "Retail",
-      "ean": "5702017814582"
+      "ean": "5702017814582",
+      "minifig_list": []
     },
     "43270": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14277,7 +15771,30 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-10-09",
       "lego_availability": "Retail",
-      "ean": "5702017814599"
+      "ean": "5702017814599",
+      "minifig_list": [
+        {
+          "id": "fig-015824",
+          "name": "Loto",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015824/152382.jpg"
+        },
+        {
+          "id": "fig-015826",
+          "name": "Moana, Sienna Brown, Red Skirt",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015827",
+          "name": "Moni",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015827/152381.jpg"
+        }
+      ]
     },
     "43271": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14304,7 +15821,8 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017814605"
+      "ean": "5702017814605",
+      "minifig_list": []
     },
     "43272": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14331,7 +15849,8 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-12-02",
       "lego_availability": "Retail",
-      "ean": "5702017814612"
+      "ean": "5702017814612",
+      "minifig_list": []
     },
     "43273": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14368,7 +15887,44 @@
       "expected_retirement": "2026-04",
       "date_first_available": "2025-05-02",
       "lego_availability": "Retail",
-      "ean": "5702017812991"
+      "ean": "5702017812991",
+      "minifig_list": [
+        {
+          "id": "fig-016734",
+          "name": "Anna - Microdoll, Dark Green Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016734/160531.jpg"
+        },
+        {
+          "id": "fig-016732",
+          "name": "Elsa - Microdoll, Bright Light Blue Dress, Hair in Tail",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016732/160533.jpg"
+        },
+        {
+          "id": "fig-016735",
+          "name": "Kristoff - Dark Blue Cap",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016735/160535.jpg"
+        },
+        {
+          "id": "fig-016730",
+          "name": "Olaf - Microdoll, 28621 Body, Stick Hair, Bright Light Blue Mouth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016730/160537.jpg"
+        },
+        {
+          "id": "fig-011580",
+          "name": "Sir Jorgenbjorgen",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011580/160538.jpg"
+        }
+      ]
     },
     "43274": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -14396,7 +15952,23 @@
       "expected_retirement": "2026-07",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017814629"
+      "ean": "5702017814629",
+      "minifig_list": [
+        {
+          "id": "fig-016436",
+          "name": "Daisy Duck with Lavender Dress",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-016438",
+          "name": "Minnie Mouse, Paw Print Dress",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "43275": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -14433,7 +16005,23 @@
       "expected_retirement": "2025-11",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
-      "ean": "5702017814636"
+      "ean": "5702017814636",
+      "minifig_list": [
+        {
+          "id": "fig-015814",
+          "name": "Cinderella, Bright Light Orange Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015814/159165.jpg"
+        },
+        {
+          "id": "fig-015881",
+          "name": "Prince Charming",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "43277": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -14461,7 +16049,16 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-06-02",
       "lego_availability": "Retail",
-      "ean": "5702017824901"
+      "ean": "5702017824901",
+      "minifig_list": [
+        {
+          "id": "fig-016783",
+          "name": "Cruella de Vil",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016783/169082.jpg"
+        }
+      ]
     },
     "43278": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -14489,7 +16086,44 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017824918"
+      "ean": "5702017824918",
+      "minifig_list": [
+        {
+          "id": "fig-016423",
+          "name": "Anna - Microdoll, Dark Purple Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016423/158262.jpg"
+        },
+        {
+          "id": "fig-016420",
+          "name": "Elsa - Microdoll, Bright Light Blue Dress, Hair in Tail",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016420/158263.jpg"
+        },
+        {
+          "id": "fig-016425",
+          "name": "Honeymaren - Microdoll",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016425/158264.jpg"
+        },
+        {
+          "id": "fig-016424",
+          "name": "Kristoff - Microdoll, Closed Mouth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016424/158265.jpg"
+        },
+        {
+          "id": "fig-016421",
+          "name": "Olaf - Microdoll, 3626c Body, Stick Hair, Bright Light Blue Mouth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016421/158266.jpg"
+        }
+      ]
     },
     "43279": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -14516,7 +16150,8 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-08-03",
       "lego_availability": "Retail",
-      "ean": "5702017896885"
+      "ean": "5702017896885",
+      "minifig_list": []
     },
     "60221": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -16577,97 +18212,113 @@
           "id": "fig-010568",
           "name": "Albus Dumbledore, Dark Red Robe with Skirt, Stars on Hat",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010568/72117.jpg"
         },
         {
           "id": "fig-010571",
           "name": "Bellatrix Lestrange, Prison Robe",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010571/72146.jpg"
         },
         {
           "id": "fig-010574",
           "name": "Fred Weasley - Tan Suit, Hat",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010574/72119.jpg"
         },
         {
           "id": "fig-010575",
           "name": "George Weasley - Tan Suit, Hat",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010575/72118.jpg"
         },
         {
           "id": "fig-010577",
           "name": "Griphook",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010577/72120.jpg"
         },
         {
           "id": "fig-010579",
           "name": "Ginny Weasley",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010579/72123.jpg"
         },
         {
           "id": "fig-010582",
           "name": "Harry Potter, Dark Bluish Gray Jacket over Red Shirt, Dark Blue Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010582/72122.jpg"
         },
         {
           "id": "fig-010583",
           "name": "Hermione Granger, Tan Striped Sweater, Dark Blue Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010583/72121.jpg"
         },
         {
           "id": "fig-010584",
           "name": "James Potter",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010584/72148.jpg"
         },
         {
           "id": "fig-010585",
           "name": "Kingsley Shacklebolt, Cape",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010585/72147.jpg"
         },
         {
           "id": "fig-010586",
           "name": "Lily Potter",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010586/72124.jpg"
         },
         {
           "id": "fig-010588",
           "name": "Luna Lovegood, Lion Costume",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010588/72125.jpg"
         },
         {
           "id": "fig-010589",
           "name": "Moaning Myrtle, Printed Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010589/72126.jpg"
         },
         {
           "id": "fig-010591",
           "name": "Neville Longbottom, Gryffindor Robes Closed, Printed Medium Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010591/72127.jpg"
         },
         {
           "id": "fig-010592",
           "name": "Professor Pomona Sprout - Medium Nougat Robe",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010592/72128.jpg"
         },
         {
           "id": "fig-010593",
           "name": "Ron Weasley, Reddish Brown Sweater, Light Bluish Grey Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010593/72129.jpg"
         }
       ]
     },
@@ -16713,73 +18364,85 @@
           "id": "fig-011012",
           "name": "Space Police Guy",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011012/80931.jpg"
         },
         {
           "id": "fig-011013",
           "name": "Violin Kid",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011013/80930.jpg"
         },
         {
           "id": "fig-011014",
           "name": "Shipwreck Survivor",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011014/80929.jpg"
         },
         {
           "id": "fig-011016",
           "name": "Pug Costume Guy",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011016/80928.jpg"
         },
         {
           "id": "fig-011017",
           "name": "Paddle Surfer",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011017/80927.jpg"
         },
         {
           "id": "fig-011018",
           "name": "Ladybug Lady",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011018/80926.jpg"
         },
         {
           "id": "fig-011019",
           "name": "Centaur Warrior",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011019/80925.jpg"
         },
         {
           "id": "fig-011020",
           "name": "Cabaret Singer",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011020/173399.jpg"
         },
         {
           "id": "fig-011021",
           "name": "Beekeeper",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011021/80922.jpg"
         },
         {
           "id": "fig-011022",
           "name": "Airplane Girl",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011022/80921.jpg"
         },
         {
           "id": "fig-011023",
           "name": "Ancient Warrior",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011023/80920.jpg"
         },
         {
           "id": "fig-011024",
           "name": "Alien",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011024/80919.jpg"
         }
       ]
     },
@@ -16832,73 +18495,85 @@
           "id": "fig-011740",
           "name": "Scarlet Witch, with Tiara",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011740/92315.jpg"
         },
         {
           "id": "fig-011741",
           "name": "Vision (White)",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011741/92001.jpg"
         },
         {
           "id": "fig-011742",
           "name": "Monica Rambeau",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011742/92051.jpg"
         },
         {
           "id": "fig-011743",
           "name": "Winter Soldier - Captain America Suit",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011743/107326.jpg"
         },
         {
           "id": "fig-011745",
           "name": "Falcon - Captain America",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011745/92316.jpg"
         },
         {
           "id": "fig-011747",
           "name": "Loki, Dark Tan Jacket, Dark Brown Legs",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011747/91997.jpg"
         },
         {
           "id": "fig-011748",
           "name": "Sylvie",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011748/91998.jpg"
         },
         {
           "id": "fig-011750",
           "name": "Spider Man - Zombie Hunter",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011750/92314.jpg"
         },
         {
           "id": "fig-011751",
           "name": "Captain America - Zombie",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011751/92050.jpg"
         },
         {
           "id": "fig-011752",
           "name": "Captain Carter",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011752/92000.jpg"
         },
         {
           "id": "fig-011754",
           "name": "T'Challa Star-Lord",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011754/92313.jpg"
         },
         {
           "id": "fig-011755",
           "name": "Gamora - Gold Armor",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011755/92052.jpg"
         }
       ]
     },
@@ -16952,73 +18627,85 @@
           "id": "fig-014355",
           "name": "Agatha Harkness",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014355/128029.jpg"
         },
         {
           "id": "fig-014356",
           "name": "Moon Knight",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014356/128032.jpg"
         },
         {
           "id": "fig-014357",
           "name": "Mr. Knight",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014357/128037.jpg"
         },
         {
           "id": "fig-014358",
           "name": "The Werewolf",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014358/128039.jpg"
         },
         {
           "id": "fig-014359",
           "name": "She-Hulk (CMF)",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014359/128042.jpg"
         },
         {
           "id": "fig-014360",
           "name": "Hawkeye (CMF)",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014360/128046.jpg"
         },
         {
           "id": "fig-014361",
           "name": "Kate Bishop",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014361/128049.jpg"
         },
         {
           "id": "fig-014362",
           "name": "Goliath",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014362/128052.jpg"
         },
         {
           "id": "fig-014363",
           "name": "Echo",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014363/128057.jpg"
         },
         {
           "id": "fig-014364",
           "name": "Beast",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014364/128060.jpg"
         },
         {
           "id": "fig-014365",
           "name": "Storm (CMF)",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014365/128064.jpg"
         },
         {
           "id": "fig-014366",
           "name": "Wolverine, Mask, Yellow X-Men Suit, Printed Arms (CMF)",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014366/128067.jpg"
         }
       ]
     },
@@ -17155,73 +18842,85 @@
           "id": "fig-015702",
           "name": "Hamster Costume Fan",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015702/150464.jpg"
         },
         {
           "id": "fig-015703",
           "name": "Wolfpack Beastmaster",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015703/150470.jpg"
         },
         {
           "id": "fig-015704",
           "name": "Jetpack Racer",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015704/150473.jpg"
         },
         {
           "id": "fig-015705",
           "name": "Astronomer Kid",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015705/150474.jpg"
         },
         {
           "id": "fig-015706",
           "name": "Plush Toy Collector",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015706/150477.jpg"
         },
         {
           "id": "fig-015707",
           "name": "Pterodactyl Costume Fan",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015707/150480.jpg"
         },
         {
           "id": "fig-015708",
           "name": "Longboarder",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015708/150483.jpg"
         },
         {
           "id": "fig-015709",
           "name": "Bogeyman",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015709/150486.jpg"
         },
         {
           "id": "fig-015710",
           "name": "Cupid",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015710/150488.jpg"
         },
         {
           "id": "fig-015711",
           "name": "Pirate Quartermaster",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015711/150492.jpg"
         },
         {
           "id": "fig-015712",
           "name": "Cat Lover",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015712/150495.jpg"
         },
         {
           "id": "fig-015713",
           "name": "Steampunk Inventor",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015713/150497.jpg"
         }
       ]
     },
@@ -17300,79 +18999,92 @@
           "id": "fig-016715",
           "name": "Miles Morales, CMF",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016715/160408.jpg"
         },
         {
           "id": "fig-016716",
           "name": "Hobie Brown / Spider-Punk",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016716/160412.jpg"
         },
         {
           "id": "fig-016717",
           "name": "Prowler, Miles Morales",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016717/160416.jpg"
         },
         {
           "id": "fig-016718",
           "name": "Gwen Stacy, CMF",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016718/160419.jpg"
         },
         {
           "id": "fig-016719",
           "name": "Miguel O'Hara / Spider-Man 2099",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016719/160422.jpg"
         },
         {
           "id": "fig-016720",
           "name": "Pavitr Prabhakar / Spider-Man India",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016720/160426.jpg"
         },
         {
           "id": "fig-016721",
           "name": "Petra Parker / Cyborg Spider-Woman",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016721/160430.jpg"
         },
         {
           "id": "fig-016722",
           "name": "Charlotte Webber / Sun-Spider",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016722/160434.jpg"
         },
         {
           "id": "fig-016723",
           "name": "Margo Kess / Spider-Byte",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016723/160437.jpg"
         },
         {
           "id": "fig-016724",
           "name": "May 'Mayday' Parker",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016724/160441.jpg"
         },
         {
           "id": "fig-016725",
           "name": "Patrick O'Hara / Web-Slinger",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016725/160442.jpg"
         },
         {
           "id": "fig-016726",
           "name": "Peter Parker, Werewolf",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016726/160446.jpg"
         },
         {
           "id": "fig-016728",
           "name": "Peter B. Parker",
           "unique": false,
-          "value": null
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016728/160450.jpg"
         }
       ]
     },
@@ -21954,6 +23666,22 @@
           "price": 34.09,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011633",
+          "name": "Boba Fett, Pearl Dark Gray Outfit, Rangefinder",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011633/97567.jpg"
+        },
+        {
+          "id": "fig-010856",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit with Cape",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010856/105093.jpg"
+        }
       ]
     },
     "75313": {
@@ -22011,6 +23739,71 @@
           "price": 639.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010388",
+          "name": "AT-AT Driver - Light Bluish Grey Helmet, Sand Blue Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010388/128496.jpg"
+        },
+        {
+          "id": "fig-011942",
+          "name": "AT-AT Driver - Light Bluish Grey Helmet, Sand Blue Legs, Nougat Head, Female",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011942/112711.jpg"
+        },
+        {
+          "id": "fig-011941",
+          "name": "General Maximillian Veers, Sand Blue Helmet with Visor, Black Boots",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011941/146544.jpg"
+        },
+        {
+          "id": "fig-010861",
+          "name": "Luke Skywalker, Orange Rebel Pilot Outfit, Light Bluish Gray Hips, Black Hands, Printed Visor, Detailed Chest Panel",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010861/170172.jpg"
+        },
+        {
+          "id": "fig-011945",
+          "name": "Snowtrooper, White Hips, Light Nougat Head, Female",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011945/114793.jpg"
+        },
+        {
+          "id": "fig-011957",
+          "name": "Snowtrooper, White Hips, Light Nougat Head, Grin",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011957/114794.jpg"
+        },
+        {
+          "id": "fig-011946",
+          "name": "Snowtrooper, White Hips, Light Nougat Head, Officer",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-011940",
+          "name": "Snowtrooper, White Hips, Reddish Brown Head",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011940/114795.jpg"
+        },
+        {
+          "id": "fig-011944",
+          "name": "Snowtrooper, White Hips, Reddish Brown Head, Female",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011944/111093.jpg"
+        }
       ]
     },
     "75314": {
@@ -22061,7 +23854,51 @@
       ],
       "wanted_by": 3893,
       "year": 2021,
-      "subtheme": "The Bad Batch"
+      "subtheme": "The Bad Batch",
+      "minifig_list": [
+        {
+          "id": "fig-011623",
+          "name": "Crosshair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011623/106973.jpg"
+        },
+        {
+          "id": "fig-011622",
+          "name": "Echo",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011622/106972.jpg"
+        },
+        {
+          "id": "fig-011641",
+          "name": "GNK Power Droid (Gonk) / \"Gonky\" - Dark Bluish Grey",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011641/165604.jpg"
+        },
+        {
+          "id": "fig-011619",
+          "name": "Hunter",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011619/106971.jpg"
+        },
+        {
+          "id": "fig-011620",
+          "name": "Tech with Neck Bracket",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011620/92123.jpg"
+        },
+        {
+          "id": "fig-011621",
+          "name": "Wrecker",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011621/92122.jpg"
+        }
+      ]
     },
     "75315": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -22106,6 +23943,50 @@
           "date": "2026-05-14",
           "price": 127.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-004463",
+          "name": "Carasynthia \"Cara\" Dune",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-004463/59077.jpg"
+        },
+        {
+          "id": "fig-011625",
+          "name": "Dark Trooper",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011625/97310.jpg"
+        },
+        {
+          "id": "fig-011624",
+          "name": "Fennec Shand, Helmet",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011624/97565.jpg"
+        },
+        {
+          "id": "fig-010525",
+          "name": "Grogu / The Child (Baby Yoda), 25128 Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
+        },
+        {
+          "id": "fig-011626",
+          "name": "Moff Gideon",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011626/97564.jpg"
+        },
+        {
+          "id": "fig-010856",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit with Cape",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010856/105093.jpg"
         }
       ]
     },
@@ -22152,6 +24033,29 @@
           "date": "2026-05-14",
           "price": 64.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011639",
+          "name": "Bo-Katan Kryze",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011639/90978.jpg"
+        },
+        {
+          "id": "fig-011638",
+          "name": "Gar Saxon",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011638/151848.jpg"
+        },
+        {
+          "id": "fig-011640",
+          "name": "Mandalorian Loyalist",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011640/90998.jpg"
         }
       ]
     },
@@ -22213,7 +24117,8 @@
           "price": 13.99,
           "shop": null
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75318": {
       "availability_score": 0,
@@ -22261,6 +24166,15 @@
           "price": 54.36,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010525",
+          "name": "Grogu / The Child (Baby Yoda), 25128 Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
+        }
       ]
     },
     "75319": {
@@ -22306,6 +24220,29 @@
           "date": "2026-05-14",
           "price": 28.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011725",
+          "name": "Paz Vizsla",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011725/92819.jpg"
+        },
+        {
+          "id": "fig-011724",
+          "name": "The Armorer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011724/97569.jpg"
+        },
+        {
+          "id": "fig-011723",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit with Jet Pack, Black Head",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011723/105510.jpg"
         }
       ]
     },
@@ -22364,6 +24301,36 @@
           "price": 13.59,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012151",
+          "name": "Scout Trooper - Nougat Head",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012151/96950.jpg"
+        },
+        {
+          "id": "fig-011945",
+          "name": "Snowtrooper, White Hips, Light Nougat Head, Female",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011945/114793.jpg"
+        },
+        {
+          "id": "fig-011957",
+          "name": "Snowtrooper, White Hips, Light Nougat Head, Grin",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011957/114794.jpg"
+        },
+        {
+          "id": "fig-011940",
+          "name": "Snowtrooper, White Hips, Reddish Brown Head",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011940/114795.jpg"
+        }
       ]
     },
     "75321": {
@@ -22420,6 +24387,15 @@
           "date": "2026-05-14",
           "price": 7.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011723",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit with Jet Pack, Black Head",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011723/105510.jpg"
         }
       ]
     },
@@ -22603,6 +24579,29 @@
           "price": 39.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010525",
+          "name": "Grogu / The Child (Baby Yoda), 25128 Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
+        },
+        {
+          "id": "fig-012675",
+          "name": "Peli Motto",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012675/159942.jpg"
+        },
+        {
+          "id": "fig-012674",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit with Jet Pack",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012674/159944.jpg"
+        }
       ]
     },
     "75326": {
@@ -22648,6 +24647,57 @@
           "date": "2026-05-14",
           "price": 63.55,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012360",
+          "name": "Bib Fortuna, Clenched Teeth, No Cape",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012360/100872.jpg"
+        },
+        {
+          "id": "fig-011633",
+          "name": "Boba Fett, Pearl Dark Gray Outfit, Rangefinder",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011633/97567.jpg"
+        },
+        {
+          "id": "fig-012359",
+          "name": "Fennec Shand, Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012359/100876.jpg"
+        },
+        {
+          "id": "fig-012358",
+          "name": "Gamorrean Guard, Printed Head, Dark Brown Hands",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012358/100879.jpg"
+        },
+        {
+          "id": "fig-012361",
+          "name": "Quarren",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012361/102382.jpg"
+        },
+        {
+          "id": "fig-012356",
+          "name": "Theelin Dancer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012356/102384.jpg"
+        },
+        {
+          "id": "fig-012357",
+          "name": "Weequay Guard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012357/100884.jpg"
         }
       ]
     },
@@ -22709,7 +24759,8 @@
           "price": 39.99,
           "shop": null
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
@@ -22758,7 +24809,8 @@
           "price": 40.79,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -22818,7 +24870,8 @@
           "price": 35.95,
           "shop": null
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75330": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -22878,6 +24931,29 @@
           "date": "2026-05-14",
           "price": 59,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012565",
+          "name": "Astromech Droid, R2-D2, Flat Silver Dome, Mud Stains, Dual Sided Printed Body",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012565/101228.jpg"
+        },
+        {
+          "id": "fig-012564",
+          "name": "Luke Skywalker, Dagobah Outfit, Tan Tank Top",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012564/101226.jpg"
+        },
+        {
+          "id": "fig-004305",
+          "name": "Yoda, Olive Green Head, Belt and Flute",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-004305/58972.jpg"
         }
       ]
     },
@@ -22942,6 +25018,36 @@
           "price": 590.78,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010525",
+          "name": "Grogu / The Child (Baby Yoda), 25128 Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
+        },
+        {
+          "id": "fig-013153",
+          "name": "Kuill",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013153/119014.jpg"
+        },
+        {
+          "id": "fig-013155",
+          "name": "Mythrol",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013155/122149.jpg"
+        },
+        {
+          "id": "fig-013154",
+          "name": "The Mandalorian / Din Djarin - Head Print, Arm Print",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013154/119021.jpg"
+        }
       ]
     },
     "75333": {
@@ -22979,6 +25085,29 @@
           "date": "2026-05-14",
           "price": 21.95,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012921",
+          "name": "Astromech Droid, R4-P17, Light Blue Rectangles",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012921/107029.jpg"
+        },
+        {
+          "id": "fig-012924",
+          "name": "Obi-Wan Kenobi - Reddish Brown Robe, Long Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012924/107027.jpg"
+        },
+        {
+          "id": "fig-012922",
+          "name": "Taun We",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012922/107028.jpg"
         }
       ]
     },
@@ -23023,6 +25152,36 @@
           "date": "2026-05-14",
           "price": 41.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012927",
+          "name": "Darth Vader - Young Anakin Face",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012927/111385.jpg"
+        },
+        {
+          "id": "fig-012928",
+          "name": "NED-B",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012928/111386.jpg"
+        },
+        {
+          "id": "fig-012925",
+          "name": "Obi-Wan Kenobi - Dark Brown Robe, Long Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012925/111387.jpg"
+        },
+        {
+          "id": "fig-012929",
+          "name": "Tala Durith",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012929/110266.jpg"
         }
       ]
     },
@@ -23071,7 +25230,8 @@
           "price": 83.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75336": {
       "brickset_last_enriched": "2026-05-02T07:06:56Z",
@@ -23125,6 +25285,36 @@
           "price": 83.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012936",
+          "name": "Ben Kenobi - Sand Blue Torso, Dark Brow Legs, Cape",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012936/106844.jpg"
+        },
+        {
+          "id": "fig-012937",
+          "name": "Grand Inquisitor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012937/106838.jpg"
+        },
+        {
+          "id": "fig-012938",
+          "name": "Imperial Inquisitor Fifth Brother - Black",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012938/106837.jpg"
+        },
+        {
+          "id": "fig-012939",
+          "name": "Reva (Third Sister)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012939/106836.jpg"
+        }
       ]
     },
     "75337": {
@@ -23173,6 +25363,43 @@
           "price": 96.98,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-002330",
+          "name": "Battle Droid, One Bent Arm, One Straight Arm",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002330/108353.jpg"
+        },
+        {
+          "id": "fig-012941",
+          "name": "Clone Commander Cody - Orange Visor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012941/108356.jpg"
+        },
+        {
+          "id": "fig-012944",
+          "name": "Clone Trooper, 212th Attack Battalion, Orange Markings",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012944/128580.jpg"
+        },
+        {
+          "id": "fig-012945",
+          "name": "Clone Trooper, 212th Clone Gunner",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012945/108370.jpg"
+        },
+        {
+          "id": "fig-014452",
+          "name": "Dwarf Spider Droid, Dark Bluish Gray Dome, Fixed Black Cannon",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014452/133029.jpg"
+        }
       ]
     },
     "75338": {
@@ -23216,6 +25443,29 @@
           "date": "2026-05-14",
           "price": 69.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012946",
+          "name": "Cassian Andor - Dark Brown Outfit",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012946/107686.jpg"
+        },
+        {
+          "id": "fig-012947",
+          "name": "Luthen Rael",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012947/107687.jpg"
+        },
+        {
+          "id": "fig-012948",
+          "name": "Syril Karn",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012948/107688.jpg"
         }
       ]
     },
@@ -23278,6 +25528,50 @@
           "price": 71.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012571",
+          "name": "Astromech Droid, R2-D2, Dual Sided Printed Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012571/161770.jpg"
+        },
+        {
+          "id": "fig-012570",
+          "name": "C-3PO - Arm Print",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012570/161728.jpg"
+        },
+        {
+          "id": "fig-001714",
+          "name": "Chewbacca, Dark Brown - Long Lines on Legs on Inside",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-001714/161722.jpg"
+        },
+        {
+          "id": "fig-012567",
+          "name": "Han Solo, Stormtrooper Disguise",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012567/101233.jpg"
+        },
+        {
+          "id": "fig-012568",
+          "name": "Luke Skywalker, Stromtrooper Disguise, Dark Tan Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012568/101235.jpg"
+        },
+        {
+          "id": "fig-004417",
+          "name": "Princess Leia, White Robe, Dark Brown Hair, Decorative Belt, Dual Sided Head Open Mouth / Smile",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-004417/106344.jpg"
+        }
       ]
     },
     "75340": {
@@ -23337,6 +25631,57 @@
           "price": 18.74,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013050",
+          "name": "Astromech Droid, R2-D2, Red Holiday Sweater",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013050/111092.jpg"
+        },
+        {
+          "id": "fig-002330",
+          "name": "Battle Droid, One Bent Arm, One Straight Arm",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002330/108353.jpg"
+        },
+        {
+          "id": "fig-013052",
+          "name": "C-3PO, Blue Holiday Sweater",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013052/111090.jpg"
+        },
+        {
+          "id": "fig-011630",
+          "name": "Clone Commander, Bright Light Orange Markings",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011630/105098.jpg"
+        },
+        {
+          "id": "fig-013054",
+          "name": "Darth Vader, Vest with Sunset and Palm Tree Silhouettes",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013054/111091.jpg"
+        },
+        {
+          "id": "fig-011124",
+          "name": "Luke Skywalker, Hoth Outfit, Tan Hat, Printed Light Bluish Gray Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011124/83922.jpg"
+        },
+        {
+          "id": "fig-011944",
+          "name": "Snowtrooper, White Hips, Reddish Brown Head, Female",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-011944/111093.jpg"
+        }
       ]
     },
     "75341": {
@@ -23383,6 +25728,22 @@
           "price": 134.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012591",
+          "name": "C-3PO - Dual Molded Leg",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012591/107325.jpg"
+        },
+        {
+          "id": "fig-001939",
+          "name": "Luke Skywalker, White Robe, White Legs, No Cheek Lines",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-001939/156686.jpg"
+        }
       ]
     },
     "75342": {
@@ -23428,6 +25789,36 @@
           "date": "2026-05-14",
           "price": 31.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012579",
+          "name": "187th Legion Clone Commander",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012579/101251.jpg"
+        },
+        {
+          "id": "fig-012580",
+          "name": "187th Legion Clone Trooper",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012580/101252.jpg"
+        },
+        {
+          "id": "fig-002330",
+          "name": "Battle Droid, One Bent Arm, One Straight Arm",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002330/108353.jpg"
+        },
+        {
+          "id": "fig-012578",
+          "name": "Mace Windu - White Arm Print",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012578/101250.jpg"
         }
       ]
     },
@@ -23477,7 +25868,8 @@
           "price": 96.24,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -23542,6 +25934,29 @@
           "price": 13.99,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013396",
+          "name": "Clone Heavy Trooper, 501st Legion, White Arms, Blue Visor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013396/116538.jpg"
+        },
+        {
+          "id": "fig-013395",
+          "name": "Clone Officer, 501st Legion, White Arms, Blue Rangefinder",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013395/116485.jpg"
+        },
+        {
+          "id": "fig-013397",
+          "name": "Clone Specialist, 501st Legion, Blue Arms, White Visor",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013397/116488.jpg"
+        }
       ]
     },
     "75347": {
@@ -23571,7 +25986,37 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-013445",
+          "name": "Darth Vader, White Skin, 19888 Cape",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013445/122068.jpg"
+        },
+        {
+          "id": "fig-013447",
+          "name": "GNK Power Droid (Gonk) - Light Bluish Gray",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013447/116554.jpg"
+        },
+        {
+          "id": "fig-013446",
+          "name": "TIE Pilot, Printed Legs, Closed Mouth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013446/116556.jpg"
+        },
+        {
+          "id": "fig-013443",
+          "name": "Vice Admiral Sloane",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013443/116559.jpg"
+        }
+      ]
     },
     "75349": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -23635,7 +26080,8 @@
           "price": 47.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75350": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -23699,7 +26145,8 @@
           "price": 89.95,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75351": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -23759,7 +26206,8 @@
           "price": 69.9,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75352": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -23819,6 +26267,29 @@
           "date": "2026-05-14",
           "price": 63.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013445",
+          "name": "Darth Vader, White Skin, 19888 Cape",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013445/122068.jpg"
+        },
+        {
+          "id": "fig-013742",
+          "name": "Emperor Palpatine - Tan Head, Cape",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013742/122021.jpg"
+        },
+        {
+          "id": "fig-013740",
+          "name": "Luke Skywalker, Final Duel Outfit, Mid-Length Dark Tan Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013740/122018.jpg"
         }
       ]
     },
@@ -23880,6 +26351,29 @@
           "date": "2026-05-14",
           "price": 51.19,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013747",
+          "name": "Luke Skywalker, Dark Tan Endor Outfit, Helmet",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013747/122010.jpg"
+        },
+        {
+          "id": "fig-013743",
+          "name": "Princess Leia, Endor Outfit, Helmet",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013743/122015.jpg"
+        },
+        {
+          "id": "fig-013745",
+          "name": "Scout Trooper - Light Nougat Head, Black Arms",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013745/122051.jpg"
         }
       ]
     },
@@ -24209,6 +26703,22 @@
           "price": 59.88,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-012571",
+          "name": "Astromech Droid, R2-D2, Dual Sided Printed Body",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012571/161770.jpg"
+        },
+        {
+          "id": "fig-014192",
+          "name": "Yoda, Olive Green Head, Dark Tan Undershirt, Thin Creases",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014192/143864.jpg"
+        }
       ]
     },
     "75364": {
@@ -24457,7 +26967,7 @@
         {
           "id": "fig-012944",
           "name": "Clone Trooper, 212th Attack Battalion, Orange Markings",
-          "unique": true,
+          "unique": false,
           "value": null
         },
         {
@@ -24651,6 +27161,15 @@
           "date": "2026-05-14",
           "price": 14,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014188",
+          "name": "Boba Fett, Helmet, Jetpack Neckwear, Printed Arms, Nougat Head",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014188/126617.jpg"
         }
       ]
     },
@@ -24980,7 +27499,8 @@
           "price": 42.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75378": {
       "availability_score": null,
@@ -25252,6 +27772,36 @@
           "date": "2026-05-14",
           "price": 52.49,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014990",
+          "name": "Anakin Skywalker, Child, Dark Tan Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014990/162671.jpg"
+        },
+        {
+          "id": "fig-014987",
+          "name": "Darth Maul, Horns, Printed Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014987/140549.jpg"
+        },
+        {
+          "id": "fig-016019",
+          "name": "Qui-Gon Jinn, Poncho, Dark Brown Beard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016019/153605.jpg"
+        },
+        {
+          "id": "fig-014991",
+          "name": "Saw Gerrera",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014991/140552.jpg"
         }
       ]
     },
@@ -25923,7 +28473,7 @@
         {
           "id": "fig-014293",
           "name": "Ahsoka Tano",
-          "unique": true,
+          "unique": false,
           "value": null
         },
         {
@@ -26111,7 +28661,7 @@
         {
           "id": "fig-012591",
           "name": "C-3PO - Dual Molded Leg",
-          "unique": true,
+          "unique": false,
           "value": null
         }
       ],
@@ -27241,7 +29791,7 @@
         {
           "id": "fig-013742",
           "name": "Emperor Palpatine - Tan Head, Cape",
-          "unique": true,
+          "unique": false,
           "value": null
         },
         {
@@ -27647,7 +30197,7 @@
         {
           "id": "fig-016606",
           "name": "Clone Pilot",
-          "unique": true,
+          "unique": false,
           "value": null
         },
         {
@@ -27861,7 +30411,7 @@
         {
           "id": "fig-014192",
           "name": "Yoda, Olive Green Head, Dark Tan Undershirt, Thin Creases",
-          "unique": true,
+          "unique": false,
           "value": null
         }
       ],
@@ -27912,6 +30462,15 @@
           "price": 39.95,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014190",
+          "name": "Darth Vader, White Skin, 50231 Cape, Robe Hem and Stripes on Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014190/127922.jpg"
+        }
       ]
     },
     "75440": {
@@ -27951,7 +30510,8 @@
           "price": 35.99,
           "shop": "Pepper.com"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75441": {
       "availability_score": null,
@@ -27989,7 +30549,8 @@
           "price": 52.9,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "75442": {
       "availability_score": 10,
@@ -28019,7 +30580,23 @@
       "date_first_available": "2026-04-16",
       "lego_availability": "LEGO exclusive",
       "ean": "5702018066515",
-      "subtheme": "Ultimate Collector Series"
+      "subtheme": "Ultimate Collector Series",
+      "minifig_list": [
+        {
+          "id": "fig-017554",
+          "name": "Grogu, 7789 Body",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-017573",
+          "name": "The Mandalorian / Din Djarin, Dark Brown Outfit, Cape",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "75446": {
       "availability_score": 0,
@@ -28064,6 +30641,15 @@
           "price": 96.89,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-017552",
+          "name": "Grogu, 7789 Body, Mandalorian Apprentice",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
       ]
     },
     "75452": {
@@ -28101,6 +30687,15 @@
           "price": 53.9,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-017261",
+          "name": "BB-8",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
       ]
     },
     "75682": {
@@ -28129,7 +30724,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "75684": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -28158,7 +30754,44 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015539",
+          "name": "Elphaba, Black Hat, Cape",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015537",
+          "name": "Fiyero, Dark Blue Suit",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015540",
+          "name": "Glinda, Bright Pink Gown",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015541",
+          "name": "Madame Morrible, Dark Green Dress",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-015538",
+          "name": "The Wizard, Minidoll",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "75685": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -28195,6 +30828,43 @@
           "date": "2026-05-14",
           "price": 95.99,
           "shop": "Pepper.com"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-016790",
+          "name": "Dorothy Gale",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016790/161250.jpg"
+        },
+        {
+          "id": "fig-016787",
+          "name": "Elphaba, Black Hat",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016787/161245.jpg"
+        },
+        {
+          "id": "fig-016789",
+          "name": "Glinda, Lavender Gown",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016789/161242.jpg"
+        },
+        {
+          "id": "fig-016785",
+          "name": "Scarecrow",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016785/161239.jpg"
+        },
+        {
+          "id": "fig-016786",
+          "name": "Tinman",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016786/161248.jpg"
         }
       ]
     },
@@ -28242,6 +30912,50 @@
           "price": 116.74,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-013516",
+          "name": "Cornelius Fudge (Minister of Magic) - 970c03pr9779 Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013516/117709.jpg"
+        },
+        {
+          "id": "fig-006212",
+          "name": "Executioner",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006212/60340.jpg"
+        },
+        {
+          "id": "fig-006172",
+          "name": "Harry Potter, Open Dark Blue Jacket, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006172/115067.jpg"
+        },
+        {
+          "id": "fig-002148",
+          "name": "Hermione Granger, Bright Pink Hoodie over Dark Pink Shirt with Time Turner, Medium Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002148/60342.jpg"
+        },
+        {
+          "id": "fig-006214",
+          "name": "Ron Weasley, Dark Red Sweater, Medium Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006214/60338.jpg"
+        },
+        {
+          "id": "fig-006189",
+          "name": "Rubeus Hagrid, Medium Nougat Overcoat, Arms with Pins (3626c Head)",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006189/60341.jpg"
+        }
       ]
     },
     "75948": {
@@ -28288,6 +31002,64 @@
           "price": 59,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-006204",
+          "name": "Albus Dumbledore, Lavender Robes",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006204/107102.jpg"
+        },
+        {
+          "id": "fig-006207",
+          "name": "Cedric Diggory, Tuxedo",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006207/107306.jpg"
+        },
+        {
+          "id": "fig-006206",
+          "name": "Fleur Delacour, Light Bluish Gray Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006206/105227.jpg"
+        },
+        {
+          "id": "fig-006208",
+          "name": "Harry Potter, Black Tuxedo, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006208/77378.jpg"
+        },
+        {
+          "id": "fig-006211",
+          "name": "Hermione Granger, Bright Pink and Dark Pink Brick-Built Dress",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006211/78817.jpg"
+        },
+        {
+          "id": "fig-006205",
+          "name": "Madame Maxime, White Outfit",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006205/107078.jpg"
+        },
+        {
+          "id": "fig-006209",
+          "name": "Ron Weasley, Reddish Brown Suit, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006209/78044.jpg"
+        },
+        {
+          "id": "fig-006210",
+          "name": "Viktor Krum, Red Jacket with Straps",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006210/107744.jpg"
+        }
       ]
     },
     "75953": {
@@ -28326,7 +31098,51 @@
       "expected_retirement": "2021-11",
       "date_first_available": "2018-08-01",
       "lego_availability": "Retail",
-      "ean": "5702016110364"
+      "ean": "5702016110364",
+      "minifig_list": [
+        {
+          "id": "fig-006196",
+          "name": "Argus Filch, Bald on Top",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006196/109359.jpg"
+        },
+        {
+          "id": "fig-006195",
+          "name": "Harry Potter, Open Red Flannel Shirt, Dark Bluish Grey Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006195/109360.jpg"
+        },
+        {
+          "id": "fig-002060",
+          "name": "Hermione Granger, Gryffindor Sweater, Short Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002060/58187.jpg"
+        },
+        {
+          "id": "fig-002131",
+          "name": "Professor Severus Snape, Long Robes over Dark Purple Vest (Shirt Tails Print)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002131/58417.jpg"
+        },
+        {
+          "id": "fig-006194",
+          "name": "Ron Weasley, Dark Tan Sweater with Stripes, Short Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006194/109363.jpg"
+        },
+        {
+          "id": "fig-006193",
+          "name": "Seamus Finnigan, Gryffindor Sweater, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006193/109361.jpg"
+        }
+      ]
     },
     "75954": {
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
@@ -28369,6 +31185,78 @@
           "date": "2026-05-14",
           "price": 149,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-006185",
+          "name": "Albus Dumbledore, Dark Red Robes, Light Bluish Gray Hair and Beard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006185/60322.jpg"
+        },
+        {
+          "id": "fig-006186",
+          "name": "Draco Malfoy, Slytherin Sweater, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006186/136837.jpg"
+        },
+        {
+          "id": "fig-001818",
+          "name": "Harry Potter, Gryffindor Sweater, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-001818/58839.jpg"
+        },
+        {
+          "id": "fig-002060",
+          "name": "Hermione Granger, Gryffindor Sweater, Short Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-002060/58187.jpg"
+        },
+        {
+          "id": "fig-006187",
+          "name": "Nearly Headless Nick",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006187/60726.jpg"
+        },
+        {
+          "id": "fig-006192",
+          "name": "Professor Minerva McGonagall, Dark Green Robes, Black Hat (Dual Sided Head)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006192/60725.jpg"
+        },
+        {
+          "id": "fig-006191",
+          "name": "Professor Quirinus Quirrell (Voldemort), Medium Lavender Turban, Black Suit",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006191/60724.jpg"
+        },
+        {
+          "id": "fig-006190",
+          "name": "Ron Weasley, Gryffindor Sweater, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006190/60723.jpg"
+        },
+        {
+          "id": "fig-006189",
+          "name": "Rubeus Hagrid, Medium Nougat Overcoat, Arms with Pins (3626c Head)",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006189/60341.jpg"
+        },
+        {
+          "id": "fig-012289",
+          "name": "Susan Bones, Hufflepuff Sweater, Short Legs, Plastic Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-012289/98460.jpg"
         }
       ]
     },
@@ -28414,6 +31302,29 @@
           "date": "2026-05-14",
           "price": 39.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-006224",
+          "name": "Ernie Prang, Olive Green Sweater, Dark Tan Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006224/60321.jpg"
+        },
+        {
+          "id": "fig-006172",
+          "name": "Harry Potter, Open Dark Blue Jacket, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006172/115067.jpg"
+        },
+        {
+          "id": "fig-006223",
+          "name": "Stan Shunpike, Red Band on Hat",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006223/109338.jpg"
         }
       ]
     },
@@ -28465,7 +31376,37 @@
       ],
       "wanted_by": 2128,
       "year": 2020,
-      "subtheme": "Order of the Phoenix"
+      "subtheme": "Order of the Phoenix",
+      "minifig_list": [
+        {
+          "id": "fig-008931",
+          "name": "Harry Potter, Open Gryffindor Sweater with Tie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008931/121409.jpg"
+        },
+        {
+          "id": "fig-008935",
+          "name": "Hermione Granger, Gryffindor Sweater with Buttons",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008935/121408.jpg"
+        },
+        {
+          "id": "fig-008933",
+          "name": "Luna Lovegood, Ravenclaw Sweater",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008933/118215.jpg"
+        },
+        {
+          "id": "fig-010248",
+          "name": "Mechanical Death Eater",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010248/121407.jpg"
+        }
+      ]
     },
     "75967": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -28510,6 +31451,36 @@
           "date": "2026-05-14",
           "price": 44.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008945",
+          "name": "Centaur",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008945/106069.jpg"
+        },
+        {
+          "id": "fig-008936",
+          "name": "Harry Potter, Open Light Bluish Gray Jacket over Dark Red Shirt, Dark Blue Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008936/106063.jpg"
+        },
+        {
+          "id": "fig-008944",
+          "name": "Hermione Granger, Light Bluish Gray Sweater with Stripes, Black Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008944/106066.jpg"
+        },
+        {
+          "id": "fig-010201",
+          "name": "Professor Dolores Umbridge, Magenta Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010201/106072.jpg"
         }
       ]
     },
@@ -28557,6 +31528,50 @@
           "price": 40.95,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008926",
+          "name": "Dobby, Tan Vest, Open Mouth",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008926/109340.jpg"
+        },
+        {
+          "id": "fig-008928",
+          "name": "Dudley Dursley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008928/109341.jpg"
+        },
+        {
+          "id": "fig-008927",
+          "name": "Harry Potter, Open Dark Red Shirt, Short Black Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008927/109342.jpg"
+        },
+        {
+          "id": "fig-008930",
+          "name": "Petunia Dursley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008930/105243.jpg"
+        },
+        {
+          "id": "fig-006194",
+          "name": "Ron Weasley, Dark Tan Sweater with Stripes, Short Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006194/109363.jpg"
+        },
+        {
+          "id": "fig-008929",
+          "name": "Vernon Dursley",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008929/109343.jpg"
+        }
       ]
     },
     "75969": {
@@ -28603,6 +31618,64 @@
           "price": 64.99,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008953",
+          "name": "Draco Malfoy, Open Long Robes over Slytherin Sweater",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008953/106181.jpg"
+        },
+        {
+          "id": "fig-008951",
+          "name": "Harry Potter, Long Robes with Pleats over Dark Red Shirt and Tie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008951/109376.jpg"
+        },
+        {
+          "id": "fig-008952",
+          "name": "Hermione Granger, Bright Pink Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008952/109377.jpg"
+        },
+        {
+          "id": "fig-008955",
+          "name": "Horace Slughorn, Reddish Brown Vest with Swirls",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008955/106244.jpg"
+        },
+        {
+          "id": "fig-008960",
+          "name": "Lavender Brown",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008960/107289.jpg"
+        },
+        {
+          "id": "fig-008957",
+          "name": "Luna Lovegood, Lavender Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008957/109379.jpg"
+        },
+        {
+          "id": "fig-008959",
+          "name": "Neville Longbottom, White Robes",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008959/109380.jpg"
+        },
+        {
+          "id": "fig-008954",
+          "name": "Ron Weasley, Dark Turquoise Shirt",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008954/109381.jpg"
+        }
       ]
     },
     "75978": {
@@ -28648,6 +31721,127 @@
           "date": "2026-05-14",
           "price": 359.99,
           "shop": null
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010516",
+          "name": "Daily Prophet Photographer",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010516/117534.jpg"
+        },
+        {
+          "id": "fig-010514",
+          "name": "Draco Malfoy, Closed Slytherin Robes with Crest, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010514/114308.jpg"
+        },
+        {
+          "id": "fig-010518",
+          "name": "Florean Fortescue",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010518/124221.jpg"
+        },
+        {
+          "id": "fig-010512",
+          "name": "Fred Weasley in Reddish Brown Suit, Dark Red Tie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010512/114309.jpg"
+        },
+        {
+          "id": "fig-010517",
+          "name": "Garrick Ollivander, Dark Red Jacket, Hair Swept Back",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010517/114310.jpg"
+        },
+        {
+          "id": "fig-010511",
+          "name": "George Weasley in Reddish Brown Suit, Dark Orange Tie",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010511/114311.jpg"
+        },
+        {
+          "id": "fig-010513",
+          "name": "Ginny Weasley, Magenta Torso, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010513/114312.jpg"
+        },
+        {
+          "id": "fig-010508",
+          "name": "Harry Potter, Closed Gryffindor Robes with Crest",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010508/114313.jpg"
+        },
+        {
+          "id": "fig-010530",
+          "name": "Harry Potter, Sand Blue Shirt, Short Dark Tan Legs, Dirty",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010530/114314.jpg"
+        },
+        {
+          "id": "fig-010507",
+          "name": "Hermione Granger, Gryffindor Robe Closed with Crest, Short Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010507/114315.jpg"
+        },
+        {
+          "id": "fig-010515",
+          "name": "Lucius Malfoy, Black Robes with Dark Red Fur",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010515/124223.jpg"
+        },
+        {
+          "id": "fig-010509",
+          "name": "Molly Weasley, Dark Brown Robes",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010509/114316.jpg"
+        },
+        {
+          "id": "fig-010510",
+          "name": "Professor Gilderoy Lockhart, Medium Lavender Outfit",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010510/114317.jpg"
+        },
+        {
+          "id": "fig-010520",
+          "name": "Quality Quidditch Supplies Mannequin, Dark Blue",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010520/124224.jpg"
+        },
+        {
+          "id": "fig-010519",
+          "name": "Quality Quidditch Supplies Mannequin, Yellow",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010519/110019.jpg"
+        },
+        {
+          "id": "fig-010506",
+          "name": "Ron Weasley, Closed Gryffindor Robe with Crest",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010506/124225.jpg"
+        },
+        {
+          "id": "fig-006189",
+          "name": "Rubeus Hagrid, Medium Nougat Overcoat, Arms with Pins (3626c Head)",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006189/60341.jpg"
         }
       ]
     },
@@ -28699,6 +31893,15 @@
           "price": 29.66,
           "shop": null
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-008909",
+          "name": "Harry Potter, Long Gryffindor Robe with Scarf",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-008909/83611.jpg"
+        }
       ]
     },
     "75981": {
@@ -28743,6 +31946,50 @@
           "date": "2026-05-14",
           "price": 36.61,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010555",
+          "name": "Cho Chang, Light Aqua Brick-Built Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010555/77380.jpg"
+        },
+        {
+          "id": "fig-006208",
+          "name": "Harry Potter, Black Tuxedo, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006208/77378.jpg"
+        },
+        {
+          "id": "fig-006211",
+          "name": "Hermione Granger, Bright Pink and Dark Pink Brick-Built Dress",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006211/78817.jpg"
+        },
+        {
+          "id": "fig-010556",
+          "name": "Padma Patil, Coral and Dark Pink Dress",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010556/78815.jpg"
+        },
+        {
+          "id": "fig-010557",
+          "name": "Parvati Patil",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-010557/78813.jpg"
+        },
+        {
+          "id": "fig-006209",
+          "name": "Ron Weasley, Reddish Brown Suit, Medium Legs",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006209/78044.jpg"
         }
       ]
     },
@@ -37006,7 +40253,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016014",
+          "name": "Temple Guard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016014/171176.jpg"
+        },
+        {
+          "id": "fig-016006",
+          "name": "Zane, Ninja Wrap",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016006/153517.jpg"
+        }
+      ]
     },
     "112502": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37030,7 +40293,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016133",
+          "name": "Kai, Red Robes, Shoulder Guard",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016133/155809.jpg"
+        },
+        {
+          "id": "fig-015185",
+          "name": "Wolf Mask Warrior",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015185/165717.jpg"
+        }
+      ]
     },
     "112503": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37054,7 +40333,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016266",
+          "name": "Cinder, Ghost Legs",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016266/163301.jpg"
+        },
+        {
+          "id": "fig-014569",
+          "name": "Jay, Wrap",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014569/135280.jpg"
+        }
+      ]
     },
     "112504": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37078,7 +40373,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016585",
+          "name": "Cole, Black Robes, Black Bandana",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016585/162280.jpg"
+        },
+        {
+          "id": "fig-016113",
+          "name": "Drix, Black Neckwear",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016113/163308.jpg"
+        }
+      ]
     },
     "112505": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37102,7 +40413,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016713",
+          "name": "Dragonian Scout",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016713/162279.jpg"
+        },
+        {
+          "id": "fig-015169",
+          "name": "Zane, White Robes and Bandana",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015169/147250.jpg"
+        }
+      ]
     },
     "112506": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37126,7 +40453,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016110",
+          "name": "Arin, Black Helmet",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016110/157792.jpg"
+        },
+        {
+          "id": "fig-016399",
+          "name": "Spectral Dragonian Warrior, Legs, Long Horns",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016399/166689.jpg"
+        }
+      ]
     },
     "112507": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37150,7 +40493,23 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-017083",
+          "name": "Rogue, Black Hat",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        },
+        {
+          "id": "fig-016114",
+          "name": "Zarkt",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016114/163072.jpg"
+        }
+      ]
     },
     "122409": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37174,7 +40533,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-013880",
+          "name": "Robert Muldoon",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013880/139248.jpg"
+        }
+      ]
     },
     "122501": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37198,7 +40566,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016194",
+          "name": "Guard in Dark Blue Cap, neck Bracket",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016194/156337.jpg"
+        }
+      ]
     },
     "122502": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37221,7 +40598,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "122503": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37245,7 +40623,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-006021",
+          "name": "Owen Grady in Light Bluish Gray Shirt",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-006021/103678.jpg"
+        }
+      ]
     },
     "122504": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37268,7 +40655,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "122505": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37292,7 +40680,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016712",
+          "name": "Guard in Helmet, Neckbracket",
+          "unique": true,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "122508": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37315,7 +40712,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-013882",
+          "name": "Alan Grant, Hat (28621 Head)",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-013882/139699.jpg"
+        }
+      ]
     },
     "212501": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37338,7 +40744,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "212502": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37361,7 +40768,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "212503": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37385,7 +40793,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016510",
+          "name": "Batman, Black Suit, Black Cowl, Black Backpack",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016510/167008.jpg"
+        }
+      ]
     },
     "212504": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37409,7 +40826,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016514",
+          "name": "Superman, Plain Legs, Rubber Cape",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016514/162665.jpg"
+        }
+      ]
     },
     "212505": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37433,7 +40859,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-014215",
+          "name": "The Joker",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014215/141099.jpg"
+        }
+      ]
     },
     "212506": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37457,7 +40892,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015075",
+          "name": "Batgirl, Light Bluish Gray Suit, Blue Eyemask",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-015075/165480.jpg"
+        }
+      ]
     },
     "242501": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -37741,7 +41185,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-014293",
+          "name": "Ahsoka Tano",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-014293/137522.jpg"
+        }
+      ]
     },
     "682501": {
       "brickset_last_enriched": "2026-05-15T11:49:28Z",
@@ -38876,7 +42329,7 @@
         {
           "id": "fig-010861",
           "name": "Luke Skywalker, Orange Rebel Pilot Outfit, Light Bluish Gray Hips, Black Hands, Printed Visor, Detailed Chest Panel",
-          "unique": true,
+          "unique": false,
           "value": null
         }
       ],
@@ -38940,7 +42393,7 @@
         {
           "id": "fig-014987",
           "name": "Darth Maul, Horns, Printed Legs",
-          "unique": true,
+          "unique": false,
           "value": null
         }
       ],
@@ -39483,7 +42936,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009181": {
       "brickset_last_enriched": "2026-05-15T11:49:29Z",
@@ -39506,7 +42960,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009182": {
       "brickset_last_enriched": "2026-05-15T11:49:29Z",
@@ -39527,7 +42982,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009189": {
       "brickset_last_enriched": "2026-05-15T11:49:29Z",
@@ -39550,7 +43006,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009203": {
       "brickset_last_enriched": "2026-05-15T11:49:29Z",
@@ -39574,7 +43031,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009204": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39598,7 +43056,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009205": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39619,7 +43078,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009206": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39643,7 +43103,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009209": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39666,7 +43127,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009210": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39687,7 +43149,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009211": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39708,7 +43171,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009212": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39729,7 +43193,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009213": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39750,7 +43215,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009214": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39773,7 +43239,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009215": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39794,7 +43261,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009228": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39816,7 +43284,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009229": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39840,7 +43309,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009231": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39861,7 +43331,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009232": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39882,7 +43353,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009233": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39904,7 +43376,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009301": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39928,7 +43401,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009308": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39952,7 +43426,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009316": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39974,7 +43449,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009325": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -39999,7 +43475,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009378": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -40022,7 +43499,16 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-017401",
+          "name": "White Torso with Classic Space Fig, Blue Legs, Dark Orange Hair",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017401/168913.jpg"
+        }
+      ]
     },
     "5009389": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -40046,7 +43532,30 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016580",
+          "name": "Kid, Bright Light Blue Torso, Blue Legs, Dark Orange Hair",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016580/158904.jpg"
+        },
+        {
+          "id": "fig-016582",
+          "name": "Medium Lavender Torso, Dark Azure Leg, Prosthetic Leg, Bright Light Yellow Hair",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016582/158906.jpg"
+        },
+        {
+          "id": "fig-016937",
+          "name": "Store Employee, Black Suit, No LEGO Logo, Dark Brown Hair",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "5009390": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -40070,7 +43579,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009391": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -40097,7 +43607,30 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016580",
+          "name": "Kid, Bright Light Blue Torso, Blue Legs, Dark Orange Hair",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016580/158904.jpg"
+        },
+        {
+          "id": "fig-016582",
+          "name": "Medium Lavender Torso, Dark Azure Leg, Prosthetic Leg, Bright Light Yellow Hair",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016582/158906.jpg"
+        },
+        {
+          "id": "fig-016937",
+          "name": "Store Employee, Black Suit, No LEGO Logo, Dark Brown Hair",
+          "unique": false,
+          "value": null,
+          "image_url": null
+        }
+      ]
     },
     "5009397": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -40120,7 +43653,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009403": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -41905,7 +45439,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "Miscellaneous"
+      "subtheme": "Miscellaneous",
+      "minifig_list": []
     },
     "L0002198": {
       "brickset_last_enriched": "2026-05-15T11:49:31Z",
@@ -41929,7 +45464,16 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "Magazine Gift"
+      "subtheme": "Magazine Gift",
+      "minifig_list": [
+        {
+          "id": "fig-016380",
+          "name": "Tyr",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016380/168194.jpg"
+        }
+      ]
     },
     "L0002231": {
       "brickset_last_enriched": "2026-05-15T11:49:31Z",
@@ -41954,7 +45498,16 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "Magazine Gift"
+      "subtheme": "Magazine Gift",
+      "minifig_list": [
+        {
+          "id": "fig-016606",
+          "name": "Clone Pilot",
+          "unique": false,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016606/170066.jpg"
+        }
+      ]
     },
     "LATES": {
       "brickset_last_enriched": "2026-05-15T11:49:32Z",
@@ -41978,7 +45531,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "LEGO brand stores"
+      "subtheme": "LEGO brand stores",
+      "minifig_list": []
     },
     "LML": {
       "brickset_last_enriched": "2026-05-15T11:49:32Z",
@@ -42024,7 +45578,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "LEGO brand stores"
+      "subtheme": "LEGO brand stores",
+      "minifig_list": []
     },
     "TENNIS": {
       "brickset_last_enriched": "2026-05-15T11:49:32Z",
@@ -42047,7 +45602,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "LEGO brand stores"
+      "subtheme": "LEGO brand stores",
+      "minifig_list": []
     },
     "TROPHY": {
       "brickset_last_enriched": "2026-05-15T11:49:32Z",
@@ -42070,7 +45626,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "subtheme": "LEGO brand stores"
+      "subtheme": "LEGO brand stores",
+      "minifig_list": []
     }
   }
 }
