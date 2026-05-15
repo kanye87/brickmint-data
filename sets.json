@@ -26046,8 +26046,8 @@
     "75408": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 50,
-      "current_best_price": 52.9,
+      "buy_score": 52,
+      "current_best_price": 51.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75408-1.jpg",
       "label": "persoonlijk",
@@ -26056,7 +26056,7 @@
       "name": "Jango Fett Helmet",
       "owned_by": 4206,
       "pieces": 616,
-      "price_score": 29,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -26070,14 +26070,19 @@
       "urgency_score": 3,
       "wanted_by": 1834,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-09T14:04:23.446096Z",
-      "last_updated": "2026-05-09T14:04:23.446103Z",
+      "last_brickwatch_alert": "2026-05-15T08:34:21.269420Z",
+      "last_updated": "2026-05-15T08:34:21.269429Z",
       "subtheme": "Helmet Collection",
       "minifig_list": [],
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 52.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 51.19,
           "shop": "Brickwatch"
         }
       ]
