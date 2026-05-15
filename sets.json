@@ -12326,8 +12326,8 @@
     "42172": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 42,
-      "current_best_price": 262.49,
+      "buy_score": 35,
+      "current_best_price": 299.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -12336,7 +12336,7 @@
       "name": "McLaren P1",
       "owned_by": 2952,
       "pieces": 3893,
-      "price_score": 31,
+      "price_score": 25,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
@@ -12357,8 +12357,15 @@
           "date": "2026-05-14",
           "price": 262.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 299.19,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T10:04:19.895267Z",
+      "last_updated": "2026-05-15T10:04:19.895271Z"
     },
     "42173": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -36120,8 +36127,8 @@
     "77246": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
-      "buy_score": 66,
-      "current_best_price": 17.77,
+      "buy_score": 70,
+      "current_best_price": 16.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77246-1.jpg",
       "label": "persoonlijk",
@@ -36131,7 +36138,7 @@
       "name": "Visa Cash App VCARB 01",
       "owned_by": 4559,
       "pieces": 248,
-      "price_score": 30,
+      "price_score": 33,
       "purchase_price": 14.99,
       "rating": 4,
       "retirement_date": "2026-12-31",
@@ -36160,8 +36167,15 @@
           "date": "2026-05-14",
           "price": 17.77,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 16.79,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T10:04:19.895032Z",
+      "last_updated": "2026-05-15T10:04:19.895042Z"
     },
     "77247": {
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
