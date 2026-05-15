@@ -16547,7 +16547,7 @@
       "lowest_price_ever": 3.99,
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "Harry Potter",
+      "name": "Harry Potter Series 2",
       "owned_by": 5343,
       "pieces": 9,
       "rating": 3.7,
@@ -16571,6 +16571,104 @@
           "price": 4.09,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-010568",
+          "name": "Albus Dumbledore, Dark Red Robe with Skirt, Stars on Hat",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010571",
+          "name": "Bellatrix Lestrange, Prison Robe",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010574",
+          "name": "Fred Weasley - Tan Suit, Hat",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010575",
+          "name": "George Weasley - Tan Suit, Hat",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010577",
+          "name": "Griphook",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010579",
+          "name": "Ginny Weasley",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010582",
+          "name": "Harry Potter, Dark Bluish Gray Jacket over Red Shirt, Dark Blue Legs",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010583",
+          "name": "Hermione Granger, Tan Striped Sweater, Dark Blue Legs",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010584",
+          "name": "James Potter",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010585",
+          "name": "Kingsley Shacklebolt, Cape",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010586",
+          "name": "Lily Potter",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010588",
+          "name": "Luna Lovegood, Lion Costume",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010589",
+          "name": "Moaning Myrtle, Printed Legs",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010591",
+          "name": "Neville Longbottom, Gryffindor Robes Closed, Printed Medium Legs",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010592",
+          "name": "Professor Pomona Sprout - Medium Nougat Robe",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-010593",
+          "name": "Ron Weasley, Reddish Brown Sweater, Light Bluish Grey Legs",
+          "unique": false,
+          "value": null
+        }
       ]
     },
     "71029": {
@@ -16588,7 +16686,7 @@
       "market_value_source": "ebay",
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "Paddle Surfer",
+      "name": "Series 21",
       "owned_by": 6504,
       "pieces": 8,
       "rating": 3.9,
@@ -16609,7 +16707,81 @@
       "expected_retirement": "2021-04",
       "date_first_available": "2021-01-01",
       "lego_availability": "Retail",
-      "ean": "5702016912104"
+      "ean": "5702016912104",
+      "minifig_list": [
+        {
+          "id": "fig-011012",
+          "name": "Space Police Guy",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011013",
+          "name": "Violin Kid",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011014",
+          "name": "Shipwreck Survivor",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011016",
+          "name": "Pug Costume Guy",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011017",
+          "name": "Paddle Surfer",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011018",
+          "name": "Ladybug Lady",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011019",
+          "name": "Centaur Warrior",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011020",
+          "name": "Cabaret Singer",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011021",
+          "name": "Beekeeper",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011022",
+          "name": "Airplane Girl",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011023",
+          "name": "Ancient Warrior",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011024",
+          "name": "Alien",
+          "unique": false,
+          "value": null
+        }
+      ]
     },
     "71031": {
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
@@ -16629,7 +16801,7 @@
       "market_value_source": "ebay",
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "The Scarlet Witch",
+      "name": "Marvel Studios Series",
       "owned_by": 6864,
       "pieces": 8,
       "rating": 4.4,
@@ -16654,6 +16826,80 @@
           "price": 12.9,
           "shop": "Brickwatch"
         }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-011740",
+          "name": "Scarlet Witch, with Tiara",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011741",
+          "name": "Vision (White)",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011742",
+          "name": "Monica Rambeau",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011743",
+          "name": "Winter Soldier - Captain America Suit",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011745",
+          "name": "Falcon - Captain America",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011747",
+          "name": "Loki, Dark Tan Jacket, Dark Brown Legs",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011748",
+          "name": "Sylvie",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011750",
+          "name": "Spider Man - Zombie Hunter",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011751",
+          "name": "Captain America - Zombie",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011752",
+          "name": "Captain Carter",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011754",
+          "name": "T'Challa Star-Lord",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-011755",
+          "name": "Gamora - Gold Armor",
+          "unique": false,
+          "value": null
+        }
       ]
     },
     "71039": {
@@ -16676,7 +16922,7 @@
       "market_value_source": "ebay",
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "Agatha Harkness",
+      "name": "Marvel Studios Series 2",
       "owned_by": 5081,
       "pieces": 11,
       "price_score": 33,
@@ -16699,6 +16945,80 @@
           "date": "2026-05-14",
           "price": 2.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-014355",
+          "name": "Agatha Harkness",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014356",
+          "name": "Moon Knight",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014357",
+          "name": "Mr. Knight",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014358",
+          "name": "The Werewolf",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014359",
+          "name": "She-Hulk (CMF)",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014360",
+          "name": "Hawkeye (CMF)",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014361",
+          "name": "Kate Bishop",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014362",
+          "name": "Goliath",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014363",
+          "name": "Echo",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014364",
+          "name": "Beast",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014365",
+          "name": "Storm (CMF)",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-014366",
+          "name": "Wolverine, Mask, Yellow X-Men Suit, Printed Arms (CMF)",
+          "unique": false,
+          "value": null
         }
       ]
     },
@@ -16809,7 +17129,7 @@
       "market_value_source": "ebay",
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "Hamster Costume Fan",
+      "name": "Series 27",
       "owned_by": 4359,
       "pieces": 6,
       "rating": 3.5,
@@ -16829,7 +17149,81 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-015702",
+          "name": "Hamster Costume Fan",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015703",
+          "name": "Wolfpack Beastmaster",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015704",
+          "name": "Jetpack Racer",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015705",
+          "name": "Astronomer Kid",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015706",
+          "name": "Plush Toy Collector",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015707",
+          "name": "Pterodactyl Costume Fan",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015708",
+          "name": "Longboarder",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015709",
+          "name": "Bogeyman",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015710",
+          "name": "Cupid",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015711",
+          "name": "Pirate Quartermaster",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015712",
+          "name": "Cat Lover",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-015713",
+          "name": "Steampunk Inventor",
+          "unique": false,
+          "value": null
+        }
+      ]
     },
     "71049": {
       "brickset_last_enriched": "2026-05-08T09:08:48Z",
@@ -16880,7 +17274,7 @@
       "market_value_source": "ebay",
       "minifigs": 1,
       "msrp": 3.99,
-      "name": "Miles Morales / Spider-Man",
+      "name": "Spider-Man: Across the Spider-Verse Series",
       "owned_by": 3556,
       "pieces": 7,
       "rating": 3.9,
@@ -16900,7 +17294,87 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016715",
+          "name": "Miles Morales, CMF",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016716",
+          "name": "Hobie Brown / Spider-Punk",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016717",
+          "name": "Prowler, Miles Morales",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016718",
+          "name": "Gwen Stacy, CMF",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016719",
+          "name": "Miguel O'Hara / Spider-Man 2099",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016720",
+          "name": "Pavitr Prabhakar / Spider-Man India",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016721",
+          "name": "Petra Parker / Cyborg Spider-Woman",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016722",
+          "name": "Charlotte Webber / Sun-Spider",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016723",
+          "name": "Margo Kess / Spider-Byte",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016724",
+          "name": "May 'Mayday' Parker",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016725",
+          "name": "Patrick O'Hara / Web-Slinger",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016726",
+          "name": "Peter Parker, Werewolf",
+          "unique": false,
+          "value": null
+        },
+        {
+          "id": "fig-016728",
+          "name": "Peter B. Parker",
+          "unique": false,
+          "value": null
+        }
+      ]
     },
     "71360": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
