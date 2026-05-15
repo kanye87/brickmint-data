@@ -13241,7 +13241,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": null,
-      "current_best_price": 21.95,
+      "current_best_price": 21.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -13272,8 +13272,15 @@
           "date": "2026-05-14",
           "price": 21.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 21.59,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T04:04:23.756736Z",
+      "last_updated": "2026-05-15T04:04:23.756740Z"
     },
     "43014": {
       "availability_score": 0,
@@ -25108,8 +25115,8 @@
     "75391": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
-      "buy_score": 69,
-      "current_best_price": 8.9,
+      "buy_score": 62,
+      "current_best_price": 9.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -25119,7 +25126,7 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 16832,
       "pieces": 99,
-      "price_score": 27,
+      "price_score": 22,
       "rating": 4,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -25147,8 +25154,15 @@
           "date": "2026-05-14",
           "price": 8.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 9.74,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T04:04:23.756808Z",
+      "last_updated": "2026-05-15T04:04:23.756811Z"
     },
     "75392": {
       "availability_score": null,
@@ -27518,7 +27532,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 126,
       "pieces": 1200,
-      "price_score": 20,
+      "price_score": 22,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -27534,14 +27548,19 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 99.55,
-      "last_brickwatch_alert": "2026-05-11T04:04:23.660218Z",
-      "last_updated": "2026-05-11T04:04:23.660222Z",
+      "current_best_price": 96.89,
+      "last_brickwatch_alert": "2026-05-15T04:04:23.756648Z",
+      "last_updated": "2026-05-15T04:04:23.756653Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 99.55,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 96.89,
           "shop": "Brickwatch"
         }
       ]
@@ -36027,7 +36046,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
       "buy_score": 56,
-      "current_best_price": 17.54,
+      "current_best_price": 17.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -36061,12 +36080,17 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-05-12T04:04:16.837786Z",
-      "last_updated": "2026-05-12T04:04:16.837789Z",
+      "last_brickwatch_alert": "2026-05-15T04:04:23.756874Z",
+      "last_updated": "2026-05-15T04:04:23.756877Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 17.54,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-15",
+          "price": 17.39,
           "shop": "Brickwatch"
         }
       ]
@@ -36258,7 +36282,9 @@
           "price": 17.89,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-15T04:04:23.756490Z",
+      "last_updated": "2026-05-15T04:04:23.756499Z"
     },
     "77250": {
       "availability_score": null,
