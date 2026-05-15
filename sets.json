@@ -36045,8 +36045,8 @@
     "77245": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
-      "buy_score": 56,
-      "current_best_price": 17.39,
+      "buy_score": 57,
+      "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -36056,7 +36056,7 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4814,
       "pieces": 269,
-      "price_score": 22,
+      "price_score": 23,
       "purchase_price": 14.99,
       "rating": 4,
       "retirement_date": "2026-12-31",
@@ -36080,8 +36080,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-05-15T04:04:23.756874Z",
-      "last_updated": "2026-05-15T04:04:23.756877Z",
+      "last_brickwatch_alert": "2026-05-15T04:34:27.077918Z",
+      "last_updated": "2026-05-15T04:34:27.077930Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -36090,7 +36090,7 @@
         },
         {
           "date": "2026-05-15",
-          "price": 17.39,
+          "price": 16.99,
           "shop": "Brickwatch"
         }
       ]
