@@ -8309,7 +8309,8 @@
       "scarcity_score": 8,
       "availability_score": 10,
       "score_quality": "partial",
-      "buy_score": 33
+      "buy_score": 33,
+      "minifig_list": []
     },
     "40367": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -8535,7 +8536,8 @@
       "expected_retirement": "2022-03",
       "date_first_available": "2020-09-24",
       "lego_availability": "Retail",
-      "ean": "5702016720242"
+      "ean": "5702016720242",
+      "minifig_list": []
     },
     "40425": {
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
@@ -8583,7 +8585,8 @@
           "price": 9.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "40453": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
@@ -14285,7 +14288,8 @@
           "price": 159.0,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "42172": {
       "availability_score": null,
@@ -14329,7 +14333,8 @@
         }
       ],
       "last_brickwatch_alert": "2026-05-15T10:04:19.895267Z",
-      "last_updated": "2026-05-15T10:04:19.895271Z"
+      "last_updated": "2026-05-15T10:04:19.895271Z",
+      "minifig_list": []
     },
     "42173": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14357,7 +14362,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42175": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14385,7 +14391,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42176": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14413,7 +14420,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42177": {
       "availability_score": null,
@@ -14451,7 +14459,8 @@
           "price": 179.06,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "42184": {
       "availability_score": null,
@@ -14498,7 +14507,8 @@
           "price": 49.0,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "42197": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14525,7 +14535,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42198": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14552,7 +14563,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42199": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14580,7 +14592,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42200": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14636,7 +14649,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42202": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14663,7 +14677,8 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2024-11-26",
       "lego_availability": "Retail",
-      "ean": "5702017816258"
+      "ean": "5702017816258",
+      "minifig_list": []
     },
     "42203": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14699,7 +14714,8 @@
           "price": 26.99,
           "shop": "LEGO Store"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "42204": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14727,7 +14743,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42205": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -14755,7 +14772,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42206": {
       "availability_score": null,
@@ -14794,7 +14812,8 @@
           "price": 159.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "42207": {
       "availability_score": null,
@@ -14822,7 +14841,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "subtheme": "Licensed"
+      "subtheme": "Licensed",
+      "minifig_list": []
     },
     "42208": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14849,7 +14869,8 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-05-02",
       "lego_availability": "Retail",
-      "ean": "5702017816319"
+      "ean": "5702017816319",
+      "minifig_list": []
     },
     "42209": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -14904,7 +14925,8 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017816333"
+      "ean": "5702017816333",
+      "minifig_list": []
     },
     "42211": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -15017,7 +15039,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42215": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -15044,7 +15067,8 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2025-05-07",
       "lego_availability": "Retail",
-      "ean": "5702017816388"
+      "ean": "5702017816388",
+      "minifig_list": []
     },
     "42217": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -15072,7 +15096,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "42228": {
       "availability_score": 0,
@@ -15114,7 +15139,8 @@
           "price": 177.99,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "minifig_list": []
     },
     "43010": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -15500,7 +15526,17 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": [
+        {
+          "id": "fig-016784",
+          "name": "Red Nike Outfit, Hood with Cap",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-016784/168934.jpg",
+          "brickset_id": null
+        }
+      ]
     },
     "43022": {
       "availability_score": 0,
@@ -15551,6 +15587,16 @@
           "date": "2026-05-14",
           "price": 72.99,
           "shop": "Brickwatch"
+        }
+      ],
+      "minifig_list": [
+        {
+          "id": "fig-017577",
+          "name": "Lewis Hamilton",
+          "unique": true,
+          "value": null,
+          "image_url": "https://cdn.rebrickable.com/media/sets/fig-017577/173871.jpg",
+          "brickset_id": null
         }
       ]
     },
@@ -42772,18 +42818,18 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:52Z",
       "buy_score": null,
-      "current_best_price": 70.28,
+      "current_best_price": 74.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-14T04:04:26.835526Z",
-      "last_updated": "2026-05-14T04:04:26.835536Z",
+      "last_brickwatch_alert": "2026-05-16T02:04:19.470911Z",
+      "last_updated": "2026-05-16T02:04:19.470921Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 10,
       "pieces": 534,
-      "price_score": 19,
+      "price_score": 15,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -42804,6 +42850,11 @@
         {
           "date": "2026-05-14",
           "price": 70.28,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-16",
+          "price": 74.95,
           "shop": "Brickwatch"
         }
       ],
@@ -53072,7 +53123,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009404": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -53095,7 +53147,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009405": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -53118,7 +53171,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009406": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
@@ -53141,7 +53195,8 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "minifig_list": []
     },
     "5009407": {
       "brickset_last_enriched": "2026-05-15T11:49:30Z",
