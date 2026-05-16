@@ -15541,19 +15541,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 66,
-      "current_best_price": 72.99,
+      "buy_score": 68,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-05T18:34:27.542155Z",
-      "last_updated": "2026-05-05T18:34:27.542162Z",
+      "last_brickwatch_alert": "2026-05-16T04:04:17.078701Z",
+      "last_updated": "2026-05-16T04:04:17.078705Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 17,
+      "price_score": 19,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 4,
@@ -15586,6 +15586,11 @@
         {
           "date": "2026-05-14",
           "price": 72.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-16",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
@@ -33327,7 +33332,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
       "buy_score": 54,
-      "current_best_price": 44.39,
+      "current_best_price": 44.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -33358,8 +33363,15 @@
           "date": "2026-05-14",
           "price": 44.39,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-16",
+          "price": 44.79,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-16T04:04:17.078774Z",
+      "last_updated": "2026-05-16T04:04:17.078777Z"
     },
     "75408": {
       "availability_score": null,
@@ -34579,12 +34591,12 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:54Z",
       "buy_score": 50,
-      "current_best_price": 100.41,
+      "current_best_price": 100.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-14T00:34:26.823689Z",
-      "last_updated": "2026-05-14T00:34:26.823697Z",
+      "last_brickwatch_alert": "2026-05-16T04:04:17.078611Z",
+      "last_updated": "2026-05-16T04:04:17.078615Z",
       "lowest_price_ever": 89.99,
       "minifigs": 12,
       "msrp": 149.99,
@@ -34642,6 +34654,11 @@
         {
           "date": "2026-05-14",
           "price": 100.41,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-16",
+          "price": 100.99,
           "shop": "Brickwatch"
         }
       ]
@@ -42727,8 +42744,8 @@
     "76344": {
       "availability_score": null,
       "brickset_last_enriched": "2026-05-02T07:06:55Z",
-      "buy_score": 52,
-      "current_best_price": 92.99,
+      "buy_score": 60,
+      "current_best_price": 86.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -42738,7 +42755,7 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 926,
       "pieces": 1297,
-      "price_score": 24,
+      "price_score": 30,
       "rating": 0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -42752,13 +42769,18 @@
       "urgency_score": 3,
       "wanted_by": 1654,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-07T04:04:15.528028Z",
-      "last_updated": "2026-05-07T04:04:15.528031Z",
+      "last_brickwatch_alert": "2026-05-16T04:04:17.078501Z",
+      "last_updated": "2026-05-16T04:04:17.078502Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 92.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-16",
+          "price": 86.39,
           "shop": "Brickwatch"
         }
       ],
