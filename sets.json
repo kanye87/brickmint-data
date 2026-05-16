@@ -54892,23 +54892,6 @@
       "buy_score": null,
       "subtheme": "LEGO brand stores",
       "minifig_list": []
-    },
-    "11375": {
-      "name": "Ferrari F2004 & Michael Schumacher",
-      "theme": "Icons",
-      "subtheme": "Formula 1",
-      "year": 2026,
-      "pieces": 735,
-      "minifigs": 1,
-      "msrp": 89.99,
-      "image_url": "https://images.brickset.com/sets/images/11375-1.jpg",
-      "ean": "5702018063583",
-      "date_first_available": "2026-01-30",
-      "retirement_date": "2028-12-31",
-      "retirement_status": "active",
-      "wanted_by": 1453,
-      "owned_by": 1256,
-      "rating": 4.3
     }
   }
 }
