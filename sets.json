@@ -15279,7 +15279,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 69,
-      "current_best_price": 65.99,
+      "current_best_price": 65.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -15315,8 +15315,8 @@
           "value": 64.31
         }
       ],
-      "last_brickwatch_alert": "2026-05-16T16:04:19.404396Z",
-      "last_updated": "2026-05-16T16:04:19.404407Z",
+      "last_brickwatch_alert": "2026-05-17T09:04:21.102490Z",
+      "last_updated": "2026-05-17T09:04:21.102501Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -15332,6 +15332,11 @@
         {
           "date": "2026-05-16",
           "price": 65.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-17",
+          "price": 65.0,
           "shop": "Brickwatch"
         }
       ],
