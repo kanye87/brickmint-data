@@ -28548,7 +28548,7 @@
     },
     "75325": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 39.99,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-17",
       "ean": "5702017155517",
@@ -28581,19 +28581,24 @@
       "wanted_by": 3558,
       "year": 2022,
       "subtheme": "The Book of Boba Fett",
-      "price_score": 33,
+      "price_score": 27,
       "roi_score": null,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 53,
-      "last_brickwatch_alert": "2026-05-12T00:04:20.214427Z",
-      "last_updated": "2026-05-12T00:04:20.214435Z",
+      "buy_score": 47,
+      "last_brickwatch_alert": "2026-05-18T04:04:16.636380Z",
+      "last_updated": "2026-05-18T04:04:16.636387Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-18",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -32320,8 +32325,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 50,
-      "current_best_price": 9.74,
+      "buy_score": 52,
+      "current_best_price": 9.47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -32331,7 +32336,7 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 22,
+      "price_score": 24,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -32364,10 +32369,15 @@
           "date": "2026-05-15",
           "price": 9.74,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-18",
+          "price": 9.47,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-05-15T04:04:23.756808Z",
-      "last_updated": "2026-05-15T04:04:23.756811Z",
+      "last_brickwatch_alert": "2026-05-18T04:04:16.636506Z",
+      "last_updated": "2026-05-18T04:04:16.636540Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
