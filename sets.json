@@ -4223,7 +4223,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 26,
-      "current_best_price": 189.99,
+      "current_best_price": 189.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -4247,8 +4247,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-05-11T07:04:18.523871Z",
-      "last_updated": "2026-05-11T07:04:18.523879Z",
+      "last_brickwatch_alert": "2026-05-18T01:34:18.392988Z",
+      "last_updated": "2026-05-18T01:34:18.392990Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -4257,6 +4257,11 @@
         {
           "date": "2026-05-14",
           "price": 189.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-18",
+          "price": 189.0,
           "shop": "Brickwatch"
         }
       ],
@@ -34895,7 +34900,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 126,
       "pieces": 1200,
-      "price_score": 22,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -34911,9 +34916,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 96.89,
-      "last_brickwatch_alert": "2026-05-15T04:04:23.756648Z",
-      "last_updated": "2026-05-15T04:04:23.756653Z",
+      "current_best_price": 89.0,
+      "last_brickwatch_alert": "2026-05-18T01:34:18.392841Z",
+      "last_updated": "2026-05-18T01:34:18.392850Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -34924,6 +34929,11 @@
         {
           "date": "2026-05-15",
           "price": 96.89,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-18",
+          "price": 89.0,
           "shop": "Brickwatch"
         }
       ],
