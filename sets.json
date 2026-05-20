@@ -31585,8 +31585,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 34,
-      "current_best_price": 55.49,
+      "buy_score": 35,
+      "current_best_price": 53.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -31595,7 +31595,7 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 31,
+      "price_score": 32,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -31620,8 +31620,15 @@
           "date": "2026-05-14",
           "price": 55.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-20",
+          "price": 53.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-20T04:04:17.475001Z",
+      "last_updated": "2026-05-20T04:04:17.475004Z"
     },
     "75376": {
       "availability_score": 0,
@@ -31737,8 +31744,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 43,
-      "current_best_price": 21.99,
+      "buy_score": 49,
+      "current_best_price": 20.54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -31757,11 +31764,11 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 24,
+      "price_score": 29,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -31771,8 +31778,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-13T09:04:28.298075Z",
-      "last_updated": "2026-05-13T09:04:28.298085Z",
+      "last_brickwatch_alert": "2026-05-20T04:04:17.474818Z",
+      "last_updated": "2026-05-20T04:04:17.474820Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -31798,6 +31805,11 @@
         {
           "date": "2026-05-14",
           "price": 21.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-20",
+          "price": 20.54,
           "shop": "Brickwatch"
         }
       ],
@@ -34367,7 +34379,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 108.3,
+      "current_best_price": 106.38,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -34389,8 +34401,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-05-11T04:04:23.660134Z",
-      "last_updated": "2026-05-11T04:04:23.660141Z",
+      "last_brickwatch_alert": "2026-05-20T04:04:17.474595Z",
+      "last_updated": "2026-05-20T04:04:17.474606Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -34410,6 +34422,11 @@
         {
           "date": "2026-05-14",
           "price": 108.3,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-20",
+          "price": 106.38,
           "shop": "Brickwatch"
         }
       ]
@@ -44604,7 +44621,7 @@
     },
     "76444": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
-      "current_best_price": 133.88,
+      "current_best_price": 132.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76444-1.jpg",
       "lowest_price_ever": 126.99,
@@ -44648,11 +44665,16 @@
           "date": "2026-05-18",
           "price": 133.88,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-20",
+          "price": 132.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-05-18T08:34:28.573030Z",
-      "last_updated": "2026-05-18T08:34:28.573038Z"
+      "last_brickwatch_alert": "2026-05-20T04:04:17.474910Z",
+      "last_updated": "2026-05-20T04:04:17.474912Z"
     },
     "76445": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -48319,8 +48341,8 @@
     "77092": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 43,
-      "current_best_price": 281.99,
+      "buy_score": 42,
+      "current_best_price": 284.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -48330,7 +48352,7 @@
       "name": "Great Deku Tree 2-in-1",
       "owned_by": 2494,
       "pieces": 2500,
-      "price_score": 5,
+      "price_score": 4,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -48345,8 +48367,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-05-09T04:04:20.028408Z",
-      "last_updated": "2026-05-09T04:04:20.028411Z",
+      "last_brickwatch_alert": "2026-05-20T04:04:17.474753Z",
+      "last_updated": "2026-05-20T04:04:17.474756Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -48381,6 +48403,11 @@
         {
           "date": "2026-05-14",
           "price": 281.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-20",
+          "price": 284.99,
           "shop": "Brickwatch"
         }
       ]
@@ -49042,7 +49069,9 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
-      "ean": "5702017816173"
+      "ean": "5702017816173",
+      "last_brickwatch_alert": "2026-05-20T04:04:17.474866Z",
+      "last_updated": "2026-05-20T04:04:17.474869Z"
     },
     "77251": {
       "availability_score": 0,
