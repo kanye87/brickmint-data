@@ -34555,20 +34555,20 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 41,
-      "current_best_price": 94.99,
+      "buy_score": 45,
+      "current_best_price": 89.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-20T18:04:21.878290Z",
-      "last_updated": "2026-05-20T18:04:21.878296Z",
+      "last_brickwatch_alert": "2026-05-21T02:34:24.325782Z",
+      "last_updated": "2026-05-21T02:34:24.325791Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 18,
+      "price_score": 22,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -34600,6 +34600,11 @@
         {
           "date": "2026-05-20",
           "price": 94.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 89.99,
           "shop": "Brickwatch"
         }
       ],
