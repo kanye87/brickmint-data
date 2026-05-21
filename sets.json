@@ -30695,7 +30695,7 @@
     "75356": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 39,
+      "buy_score": 36,
       "image_url": "https://images.brickset.com/sets/images/75356-1.jpg",
       "label": "investering",
       "lowest_price_ever": 48.99,
@@ -30703,11 +30703,11 @@
       "name": "Executor Super Star Destroyer",
       "owned_by": 12898,
       "pieces": 630,
-      "price_score": 15,
+      "price_score": 13,
       "rating": 4.4,
       "retirement_date": "2026-05-01",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -30718,10 +30718,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 61.21,
+      "current_best_price": 62.34,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-05-19T16:34:21.515003Z",
-      "last_updated": "2026-05-19T16:34:21.515012Z",
+      "last_brickwatch_alert": "2026-05-21T10:34:20.540470Z",
+      "last_updated": "2026-05-21T10:34:20.540474Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -30744,6 +30744,11 @@
         {
           "date": "2026-05-19",
           "price": 61.21,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 62.34,
           "shop": "Brickwatch"
         }
       ]
@@ -31515,7 +31520,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 43,
-      "current_best_price": 20.09,
+      "current_best_price": 19.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -31580,7 +31585,7 @@
         },
         {
           "date": "2026-05-21",
-          "price": 20.09,
+          "price": 19.99,
           "shop": "Brickwatch"
         }
       ],
@@ -31588,26 +31593,26 @@
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-05-21T01:04:27.484028Z",
-      "last_updated": "2026-05-21T01:04:27.484035Z"
+      "last_brickwatch_alert": "2026-05-21T10:34:20.540122Z",
+      "last_updated": "2026-05-21T10:34:20.540128Z"
     },
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 49,
-      "current_best_price": 14.79,
+      "buy_score": 47,
+      "current_best_price": 15.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-20T22:34:17.478405Z",
-      "last_updated": "2026-05-20T22:34:17.478411Z",
+      "last_brickwatch_alert": "2026-05-21T10:34:20.540322Z",
+      "last_updated": "2026-05-21T10:34:20.540326Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 21,
+      "price_score": 19,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -31651,6 +31656,11 @@
         {
           "date": "2026-05-20",
           "price": 14.79,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 15.39,
           "shop": "Brickwatch"
         }
       ],
