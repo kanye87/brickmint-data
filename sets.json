@@ -33564,20 +33564,20 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 33,
-      "current_best_price": 259.02,
+      "buy_score": 45,
+      "current_best_price": 219.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-20T17:35:24.944624Z",
-      "last_updated": "2026-05-20T17:35:24.944627Z",
+      "last_brickwatch_alert": "2026-05-21T03:04:24.313583Z",
+      "last_updated": "2026-05-21T03:04:24.313590Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 12,
+      "price_score": 24,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -33615,6 +33615,11 @@
         {
           "date": "2026-05-20",
           "price": 259.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 219.99,
           "shop": "Brickwatch"
         }
       ],
