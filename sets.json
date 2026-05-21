@@ -2761,8 +2761,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 21,
-      "current_best_price": 243.49,
+      "buy_score": 42,
+      "current_best_price": 194.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -2772,7 +2772,7 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 11,
+      "price_score": 32,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
@@ -2856,12 +2856,12 @@
         },
         {
           "date": "2026-05-21",
-          "price": 243.49,
+          "price": 194.99,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-05-21T01:04:27.484188Z",
-      "last_updated": "2026-05-21T01:04:27.484190Z"
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016537Z",
+      "last_updated": "2026-05-21T04:04:19.016541Z"
     },
     "10355": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -3381,8 +3381,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 22,
-      "current_best_price": 89.95,
+      "buy_score": 26,
+      "current_best_price": 84.31,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -3392,7 +3392,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 22,
+      "price_score": 26,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -3407,8 +3407,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-05-20T17:35:24.944491Z",
-      "last_updated": "2026-05-20T17:35:24.944495Z",
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016095Z",
+      "last_updated": "2026-05-21T04:04:19.016098Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -3430,6 +3430,11 @@
         {
           "date": "2026-05-20",
           "price": 89.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 84.31,
           "shop": "Brickwatch"
         }
       ]
@@ -3776,11 +3781,11 @@
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 40,
       "current_best_price": 209.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11370-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-20T16:35:53.071584Z",
-      "last_updated": "2026-05-20T16:48:01.953658Z",
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016390Z",
+      "last_updated": "2026-05-21T04:04:19.016392Z",
       "lowest_price_ever": null,
       "minifigs": 13,
       "msrp": 279.99,
@@ -3826,6 +3831,11 @@
           "date": "2026-05-20",
           "price": 209.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 209.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -3926,8 +3936,8 @@
     "11373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 37,
-      "current_best_price": 49.99,
+      "buy_score": 35,
+      "current_best_price": 51.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -3937,7 +3947,7 @@
       "name": "The Lord of the Rings: Sauron's Helmet",
       "owned_by": 1410,
       "pieces": 538,
-      "price_score": 29,
+      "price_score": 27,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
@@ -3953,8 +3963,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-05-10T04:04:17.990248Z",
-      "last_updated": "2026-05-10T04:04:17.990256Z",
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016161Z",
+      "last_updated": "2026-05-21T04:04:19.016164Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -3963,6 +3973,11 @@
         {
           "date": "2026-05-14",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 51.39,
           "shop": "Brickwatch"
         }
       ],
@@ -23088,8 +23103,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-15T09:04:20.972830Z",
-      "last_updated": "2026-05-15T09:04:20.972840Z",
+      "last_brickwatch_alert": "2026-05-21T04:04:19.015940Z",
+      "last_updated": "2026-05-21T04:04:19.015951Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -23381,8 +23396,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-05-14T04:04:27.200596Z",
-      "last_updated": "2026-05-14T04:04:27.200599Z",
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016210Z",
+      "last_updated": "2026-05-21T04:04:19.016212Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -49201,7 +49216,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 46,
-      "current_best_price": 17.9,
+      "current_best_price": 17.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77251-1.jpg",
       "label": "persoonlijk",
@@ -49244,14 +49259,19 @@
           "date": "2026-05-20",
           "price": 17.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-21",
+          "price": 17.89,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-05-20T17:35:24.944261Z",
-      "last_updated": "2026-05-20T17:35:24.944272Z"
+      "last_brickwatch_alert": "2026-05-21T04:04:19.016255Z",
+      "last_updated": "2026-05-21T04:04:19.016257Z"
     },
     "77259": {
       "availability_score": 0,
