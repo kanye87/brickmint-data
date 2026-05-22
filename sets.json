@@ -31529,8 +31529,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 43,
-      "current_best_price": 19.99,
+      "buy_score": 44,
+      "current_best_price": 19.65,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -31540,7 +31540,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -31597,32 +31597,37 @@
           "date": "2026-05-21",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-22",
+          "price": 19.65,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-05-21T10:34:20.540122Z",
-      "last_updated": "2026-05-21T10:34:20.540128Z"
+      "last_brickwatch_alert": "2026-05-22T08:34:18.065169Z",
+      "last_updated": "2026-05-22T08:34:18.065172Z"
     },
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 47,
-      "current_best_price": 15.39,
+      "buy_score": 49,
+      "current_best_price": 14.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-21T10:34:20.540322Z",
-      "last_updated": "2026-05-21T10:34:20.540326Z",
+      "last_brickwatch_alert": "2026-05-22T08:34:18.064960Z",
+      "last_updated": "2026-05-22T08:34:18.064969Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 19,
+      "price_score": 21,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -31671,6 +31676,11 @@
         {
           "date": "2026-05-21",
           "price": 15.39,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-22",
+          "price": 14.95,
           "shop": "Brickwatch"
         }
       ],
