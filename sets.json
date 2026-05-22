@@ -48808,8 +48808,8 @@
     "77242": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 51,
-      "current_best_price": 14.99,
+      "buy_score": 40,
+      "current_best_price": 18.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
       "label": "persoonlijk",
@@ -48819,7 +48819,7 @@
       "name": "Ferrari SF-24",
       "owned_by": 8164,
       "pieces": 275,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -48834,8 +48834,8 @@
       "wanted_by": 1102,
       "year": 2025,
       "subtheme": "Formula 1",
-      "last_brickwatch_alert": "2026-05-09T04:04:19.792026Z",
-      "last_updated": "2026-05-09T04:04:19.792036Z",
+      "last_brickwatch_alert": "2026-05-22T09:04:17.753203Z",
+      "last_updated": "2026-05-22T09:04:17.753211Z",
       "minifig_list": [
         {
           "id": "fig-016097",
@@ -48848,6 +48848,11 @@
         {
           "date": "2026-05-14",
           "price": 14.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-22",
+          "price": 18.9,
           "shop": "Brickwatch"
         }
       ],
