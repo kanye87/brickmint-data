@@ -34565,7 +34565,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 123.0,
+      "current_best_price": 119.16,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -34587,8 +34587,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-05-22T04:34:16.310128Z",
-      "last_updated": "2026-05-22T04:34:16.310136Z",
+      "last_brickwatch_alert": "2026-05-22T10:34:16.325806Z",
+      "last_updated": "2026-05-22T10:34:16.325818Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -34617,7 +34617,7 @@
         },
         {
           "date": "2026-05-22",
-          "price": 123.0,
+          "price": 119.16,
           "shop": "Brickwatch"
         }
       ]
