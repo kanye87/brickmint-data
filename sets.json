@@ -23954,7 +23954,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 678.99,
+      "current_best_price": 699.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -23992,8 +23992,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-05-20T16:35:53.071796Z",
-      "last_updated": "2026-05-20T16:35:53.071800Z",
+      "last_brickwatch_alert": "2026-05-23T04:04:14.737451Z",
+      "last_updated": "2026-05-23T04:04:14.737459Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -24012,6 +24012,11 @@
         {
           "date": "2026-05-20",
           "price": 678.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-23",
+          "price": 699.0,
           "shop": "Brickwatch"
         }
       ],
