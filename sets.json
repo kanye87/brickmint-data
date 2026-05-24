@@ -23488,8 +23488,8 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 35,
-      "current_best_price": 43.99,
+      "buy_score": 40,
+      "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -23498,7 +23498,7 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 24,
+      "price_score": 29,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -23513,12 +23513,17 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-05-21T04:04:19.016210Z",
-      "last_updated": "2026-05-21T04:04:19.016212Z",
+      "last_brickwatch_alert": "2026-05-24T22:34:16.943148Z",
+      "last_updated": "2026-05-24T22:34:16.943153Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 43.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 39.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44486,7 +44491,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 113.27,
+      "current_best_price": 104.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -44519,17 +44524,22 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 29,
+      "price_score": 33,
       "roi_score": null,
       "urgency_score": 8,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 37,
+      "buy_score": 41,
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 113.27,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 104.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44541,7 +44551,9 @@
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-24T22:34:16.943006Z",
+      "last_updated": "2026-05-24T22:34:16.943015Z"
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
