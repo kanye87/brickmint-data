@@ -14365,8 +14365,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 40,
-      "current_best_price": 287.9,
+      "buy_score": 36,
+      "current_best_price": 314.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -14375,7 +14375,7 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 27,
+      "price_score": 23,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
@@ -14411,10 +14411,15 @@
           "date": "2026-05-22",
           "price": 287.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 314.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-05-22T09:34:19.746233Z",
-      "last_updated": "2026-05-22T09:34:19.746242Z",
+      "last_brickwatch_alert": "2026-05-24T11:34:36.798298Z",
+      "last_updated": "2026-05-24T11:34:36.798306Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -33747,20 +33752,20 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 33,
-      "current_best_price": 258.61,
+      "buy_score": 34,
+      "current_best_price": 255.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-23T23:04:17.523480Z",
-      "last_updated": "2026-05-23T23:04:17.523486Z",
+      "last_brickwatch_alert": "2026-05-24T11:34:36.798510Z",
+      "last_updated": "2026-05-24T11:34:36.798513Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 12,
+      "price_score": 13,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -33808,6 +33813,11 @@
         {
           "date": "2026-05-23",
           "price": 258.61,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 255.77,
           "shop": "Brickwatch"
         }
       ],
@@ -34077,12 +34087,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 24,
-      "current_best_price": 69.47,
+      "current_best_price": 69.14,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-05-24T00:04:15.671168Z",
-      "last_updated": "2026-05-24T00:04:15.671177Z",
+      "last_brickwatch_alert": "2026-05-24T11:34:36.798590Z",
+      "last_updated": "2026-05-24T11:34:36.798592Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
@@ -34135,7 +34145,7 @@
         },
         {
           "date": "2026-05-24",
-          "price": 69.47,
+          "price": 69.14,
           "shop": "Brickwatch"
         }
       ],
