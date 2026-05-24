@@ -15815,19 +15815,19 @@
     "43032": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 66,
-      "current_best_price": 19.99,
+      "buy_score": 58,
+      "current_best_price": 21.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43032-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-21T01:34:19.715951Z",
-      "last_updated": "2026-05-21T01:34:19.715961Z",
+      "last_brickwatch_alert": "2026-05-24T00:04:15.671373Z",
+      "last_updated": "2026-05-24T00:04:15.671377Z",
       "lowest_price_ever": null,
       "msrp": 24.99,
       "name": "FIFA World Cup 2026 Official Emblem",
       "owned_by": 33,
       "pieces": 298,
-      "price_score": 18,
+      "price_score": 10,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 3,
@@ -15869,6 +15869,11 @@
         {
           "date": "2026-05-21",
           "price": 19.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 21.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34051,19 +34056,19 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 51.99,
+      "buy_score": 24,
+      "current_best_price": 69.47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-05-20T23:34:15.149956Z",
-      "last_updated": "2026-05-20T23:34:15.149967Z",
+      "last_brickwatch_alert": "2026-05-24T00:04:15.671168Z",
+      "last_updated": "2026-05-24T00:04:15.671177Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 23,
+      "price_score": 1,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -34106,6 +34111,11 @@
         {
           "date": "2026-05-20",
           "price": 51.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 69.47,
           "shop": "Brickwatch"
         }
       ],
