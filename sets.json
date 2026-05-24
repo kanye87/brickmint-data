@@ -15763,8 +15763,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 28,
-      "current_best_price": 22.99,
+      "buy_score": 32,
+      "current_best_price": 21.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -15773,7 +15773,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 20,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -15790,12 +15790,17 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-05-12T04:04:16.837841Z",
-      "last_updated": "2026-05-12T04:04:16.837843Z",
+      "last_brickwatch_alert": "2026-05-24T00:34:14.947655Z",
+      "last_updated": "2026-05-24T00:34:14.947665Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 22.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-24",
+          "price": 21.95,
           "shop": "Brickwatch"
         }
       ],
