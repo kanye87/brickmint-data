@@ -29138,7 +29138,7 @@
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "current_best_price": 35.95,
+      "current_best_price": 118.24,
       "image_url": "https://images.brickset.com/sets/images/75329-1.jpg",
       "label": "persoonlijk",
       "market_value": 79.5,
@@ -29177,13 +29177,13 @@
       ],
       "wanted_by": 2860,
       "year": 2022,
-      "price_score": 35,
-      "roi_score": 8,
+      "price_score": 0,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 58,
+      "buy_score": 15,
       "expected_retirement": "2024-01",
       "date_first_available": "2022-03-26",
       "lego_availability": "Retail",
@@ -29193,9 +29193,17 @@
           "date": "2026-05-14",
           "price": 35.95,
           "shop": null
+        },
+        {
+          "date": "2026-05-25",
+          "price": 118.24,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-05-25T04:04:15.708273Z",
+      "last_updated": "2026-05-25T04:04:15.708284Z"
     },
     "75330": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -49531,8 +49539,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 59,
-      "current_best_price": 19.49,
+      "buy_score": 56,
+      "current_best_price": 20.83,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -49542,7 +49550,7 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 26,
+      "price_score": 23,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -49565,12 +49573,17 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-05-14T04:04:27.200510Z",
-      "last_updated": "2026-05-14T04:04:27.200519Z",
+      "last_brickwatch_alert": "2026-05-25T04:04:15.708435Z",
+      "last_updated": "2026-05-25T04:04:15.708440Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 19.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-25",
+          "price": 20.83,
           "shop": "Brickwatch"
         }
       ],
