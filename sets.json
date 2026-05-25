@@ -14516,8 +14516,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
-      "current_best_price": 159.99,
+      "buy_score": 49,
+      "current_best_price": 155.75,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -14526,7 +14526,7 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 32,
+      "price_score": 33,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -14540,8 +14540,8 @@
       "urgency_score": 8,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-24T23:34:17.999581Z",
-      "last_updated": "2026-05-24T23:34:17.999589Z",
+      "last_brickwatch_alert": "2026-05-25T08:34:22.910208Z",
+      "last_updated": "2026-05-25T08:34:22.910212Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -14562,6 +14562,11 @@
         {
           "date": "2026-05-24",
           "price": 159.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-25",
+          "price": 155.75,
           "shop": "Brickwatch"
         }
       ],
@@ -33784,12 +33789,12 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 34,
-      "current_best_price": 255.77,
+      "current_best_price": 255.55,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-24T11:34:36.798510Z",
-      "last_updated": "2026-05-24T11:34:36.798513Z",
+      "last_brickwatch_alert": "2026-05-25T08:34:22.910336Z",
+      "last_updated": "2026-05-25T08:34:22.910338Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
@@ -33849,6 +33854,11 @@
         {
           "date": "2026-05-24",
           "price": 255.77,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-25",
+          "price": 255.55,
           "shop": "Brickwatch"
         }
       ],
@@ -49609,7 +49619,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": null,
-      "current_best_price": 84.95,
+      "current_best_price": 83.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
@@ -49618,7 +49628,7 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 37,
       "pieces": 1154,
-      "price_score": 13,
+      "price_score": 14,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -49631,8 +49641,8 @@
       "urgency_score": null,
       "wanted_by": 1267,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-23T00:04:17.614260Z",
-      "last_updated": "2026-05-23T00:04:17.614269Z",
+      "last_brickwatch_alert": "2026-05-25T08:34:22.909993Z",
+      "last_updated": "2026-05-25T08:34:22.910004Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -49649,6 +49659,11 @@
         {
           "date": "2026-05-23",
           "price": 84.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-25",
+          "price": 83.95,
           "shop": "Brickwatch"
         }
       ],
