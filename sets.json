@@ -26256,7 +26256,7 @@
     },
     "75290": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 309.99,
+      "current_best_price": 419.99,
       "date_first_available": "2020-09-24",
       "ean": "5702016663495",
       "expected_retirement": "2025-01",
@@ -26300,18 +26300,23 @@
       "wanted_by": 7088,
       "year": 2020,
       "subtheme": "Master Builder Series",
-      "price_score": 19,
-      "roi_score": 3,
+      "price_score": 0,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 32,
+      "buy_score": 10,
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 309.99,
           "shop": null
+        },
+        {
+          "date": "2026-05-25",
+          "price": 419.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -26448,7 +26453,10 @@
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-004312/156694.jpg"
         }
-      ]
+      ],
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-05-25T07:34:14.893406Z",
+      "last_updated": "2026-05-25T07:34:14.893417Z"
     },
     "75291": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
