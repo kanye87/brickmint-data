@@ -26304,7 +26304,7 @@
     },
     "75290": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 419.99,
+      "current_best_price": 409.99,
       "date_first_available": "2020-09-24",
       "ean": "5702016663495",
       "expected_retirement": "2025-01",
@@ -26364,6 +26364,11 @@
         {
           "date": "2026-05-25",
           "price": 419.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-27",
+          "price": 409.99,
           "shop": "Brickwatch"
         }
       ],
@@ -26503,8 +26508,8 @@
         }
       ],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-05-25T07:34:14.893406Z",
-      "last_updated": "2026-05-25T07:34:14.893417Z"
+      "last_brickwatch_alert": "2026-05-27T14:04:26.985704Z",
+      "last_updated": "2026-05-27T14:04:26.985716Z"
     },
     "75291": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
