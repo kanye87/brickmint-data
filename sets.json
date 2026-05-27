@@ -8477,7 +8477,7 @@
     },
     "40377": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 19.99,
+      "current_best_price": 24.99,
       "date_first_available": "2020-02-02",
       "ean": "5702016656701",
       "expected_retirement": "2023-12",
@@ -8522,20 +8522,28 @@
       "year": 2020,
       "subtheme": "Disney",
       "price_score": 0,
-      "roi_score": 3,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 3,
+      "buy_score": 0,
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 19.99,
           "shop": null
+        },
+        {
+          "date": "2026-05-27",
+          "price": 24.99,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-05-27T03:34:16.905701Z",
+      "last_updated": "2026-05-27T03:34:16.905711Z"
     },
     "40378": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
