@@ -8190,7 +8190,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
       "buy_score": 34,
-      "current_best_price": 155.99,
+      "current_best_price": 154.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -8214,8 +8214,8 @@
       "urgency_score": 3,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-14T10:04:21.454589Z",
-      "last_updated": "2026-05-14T10:04:21.454595Z",
+      "last_brickwatch_alert": "2026-05-27T11:04:18.376923Z",
+      "last_updated": "2026-05-27T11:04:18.376932Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -8225,6 +8225,11 @@
         {
           "date": "2026-05-14",
           "price": 155.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-27",
+          "price": 154.95,
           "shop": "Brickwatch"
         }
       ],
