@@ -3422,8 +3422,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 29,
-      "current_best_price": 79.99,
+      "buy_score": 22,
+      "current_best_price": 89.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -3433,7 +3433,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 29,
+      "price_score": 22,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -3448,8 +3448,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-05-26T07:34:19.145049Z",
-      "last_updated": "2026-05-26T07:34:19.145058Z",
+      "last_brickwatch_alert": "2026-05-28T08:04:18.265828Z",
+      "last_updated": "2026-05-28T08:04:18.265839Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -3486,6 +3486,11 @@
         {
           "date": "2026-05-26",
           "price": 79.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-28",
+          "price": 89.95,
           "shop": "Brickwatch"
         }
       ]
@@ -33359,8 +33364,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 48.56,
+      "buy_score": 44,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -33370,7 +33375,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 23,
+      "price_score": 21,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -33384,8 +33389,8 @@
       "urgency_score": 8,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-23T04:34:23.236564Z",
-      "last_updated": "2026-05-23T04:34:23.236566Z",
+      "last_brickwatch_alert": "2026-05-28T08:04:18.266078Z",
+      "last_updated": "2026-05-28T08:04:18.266082Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -33437,6 +33442,11 @@
         {
           "date": "2026-05-23",
           "price": 48.56,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-28",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
