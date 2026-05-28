@@ -49619,8 +49619,8 @@
     "77250": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 46,
-      "current_best_price": 17.89,
+      "buy_score": 42,
+      "current_best_price": 18.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77250-1.jpg",
       "label": "persoonlijk",
@@ -49630,7 +49630,7 @@
       "name": "MoneyGram Haas F1 Team VF-24",
       "owned_by": 4563,
       "pieces": 242,
-      "price_score": 30,
+      "price_score": 26,
       "purchase_price": 14.99,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
@@ -49659,14 +49659,19 @@
           "date": "2026-05-14",
           "price": 17.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-28",
+          "price": 18.9,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816173",
-      "last_brickwatch_alert": "2026-05-20T04:04:17.474866Z",
-      "last_updated": "2026-05-20T04:04:17.474869Z"
+      "last_brickwatch_alert": "2026-05-28T08:34:23.230999Z",
+      "last_updated": "2026-05-28T08:34:23.231010Z"
     },
     "77251": {
       "availability_score": 0,
