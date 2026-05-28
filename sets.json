@@ -30311,8 +30311,8 @@
     "75343": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 16,
-      "current_best_price": 96.24,
+      "buy_score": 15,
+      "current_best_price": 96.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "investering",
@@ -30334,7 +30334,7 @@
       "rating": 3.6,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -30353,9 +30353,16 @@
           "date": "2026-05-14",
           "price": 96.24,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-28",
+          "price": 96.8,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "last_brickwatch_alert": "2026-05-28T15:34:22.587033Z",
+      "last_updated": "2026-05-28T15:34:22.587047Z"
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
