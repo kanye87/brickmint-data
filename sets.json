@@ -10742,8 +10742,8 @@
     "40670": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "buy_score": 22,
-      "current_best_price": 9.99,
+      "buy_score": 16,
+      "current_best_price": 19.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/40670-1.jpg",
       "label": "investering",
@@ -10765,7 +10765,7 @@
       "rating": 3.9,
       "retirement_date": "2026-01-07",
       "retirement_status": "retired",
-      "roi_score": 7,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -10786,8 +10786,15 @@
           "date": "2026-05-14",
           "price": 9.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-28",
+          "price": 19.95,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-05-28T07:04:25.716995Z",
+      "last_updated": "2026-05-28T07:04:25.717006Z"
     },
     "40675": {
       "availability_score": 0,
