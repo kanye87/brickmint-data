@@ -15635,8 +15635,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 30,
-      "current_best_price": 59.98,
+      "buy_score": 35,
+      "current_best_price": 54.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -15645,7 +15645,7 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 22,
+      "price_score": 27,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -15675,15 +15675,15 @@
         },
         {
           "date": "2026-05-29",
-          "price": 59.98,
+          "price": 54.95,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-05-29T13:04:18.616141Z",
-      "last_updated": "2026-05-29T13:04:18.616152Z"
+      "last_brickwatch_alert": "2026-05-29T13:34:20.404869Z",
+      "last_updated": "2026-05-29T13:34:20.404878Z"
     },
     "43016": {
       "availability_score": 0,
