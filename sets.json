@@ -33933,12 +33933,12 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 33,
-      "current_best_price": 256.93,
+      "current_best_price": 258.01,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-27T18:04:26.228674Z",
-      "last_updated": "2026-05-27T18:04:26.228684Z",
+      "last_brickwatch_alert": "2026-05-29T09:04:19.582845Z",
+      "last_updated": "2026-05-29T09:04:19.582848Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
@@ -34013,6 +34013,11 @@
         {
           "date": "2026-05-27",
           "price": 256.93,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 258.01,
           "shop": "Brickwatch"
         }
       ],
@@ -43374,18 +43379,18 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": null,
-      "current_best_price": 74.95,
+      "current_best_price": 73.27,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-16T02:04:19.470911Z",
-      "last_updated": "2026-05-16T02:04:19.470921Z",
+      "last_brickwatch_alert": "2026-05-29T09:04:19.582780Z",
+      "last_updated": "2026-05-29T09:04:19.582783Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 12,
       "pieces": 534,
-      "price_score": 15,
+      "price_score": 17,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -43412,6 +43417,11 @@
           "date": "2026-05-16",
           "price": 74.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 73.27,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": []
@@ -43420,7 +43430,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": null,
-      "current_best_price": 299.95,
+      "current_best_price": 287.22,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -43429,7 +43439,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 20,
       "pieces": 3057,
-      "price_score": 28,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -43446,8 +43456,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-05-28T11:04:17.775326Z",
-      "last_updated": "2026-05-28T11:04:17.775336Z",
+      "last_brickwatch_alert": "2026-05-29T09:04:19.582974Z",
+      "last_updated": "2026-05-29T09:04:19.582977Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43457,6 +43467,11 @@
         {
           "date": "2026-05-28",
           "price": 299.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 287.22,
           "shop": "Brickwatch"
         }
       ],
@@ -49856,7 +49871,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": null,
-      "current_best_price": 83.95,
+      "current_best_price": 79.93,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
@@ -49865,7 +49880,7 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 37,
       "pieces": 1154,
-      "price_score": 14,
+      "price_score": 18,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -49878,8 +49893,8 @@
       "urgency_score": null,
       "wanted_by": 1267,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-25T08:34:22.909993Z",
-      "last_updated": "2026-05-25T08:34:22.910004Z",
+      "last_brickwatch_alert": "2026-05-29T09:04:19.582637Z",
+      "last_updated": "2026-05-29T09:04:19.582639Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -49901,6 +49916,11 @@
         {
           "date": "2026-05-25",
           "price": 83.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 79.93,
           "shop": "Brickwatch"
         }
       ],
