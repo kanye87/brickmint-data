@@ -15635,8 +15635,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 29,
-      "current_best_price": 61.0,
+      "buy_score": 30,
+      "current_best_price": 59.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -15645,7 +15645,7 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 21,
+      "price_score": 22,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -15672,13 +15672,18 @@
           "date": "2026-05-26",
           "price": 61.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 59.98,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-05-26T10:04:22.990427Z",
-      "last_updated": "2026-05-26T10:04:22.990435Z"
+      "last_brickwatch_alert": "2026-05-29T13:04:18.616141Z",
+      "last_updated": "2026-05-29T13:04:18.616152Z"
     },
     "43016": {
       "availability_score": 0,
@@ -43524,16 +43529,16 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": null,
-      "current_best_price": 287.22,
+      "current_best_price": 282.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 283.02,
+      "lowest_price_ever": 282.95,
       "msrp": 369.99,
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 20,
       "pieces": 3057,
-      "price_score": 33,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -43550,8 +43555,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-05-29T09:04:19.582974Z",
-      "last_updated": "2026-05-29T09:04:19.582977Z",
+      "last_brickwatch_alert": "2026-05-29T13:04:18.616321Z",
+      "last_updated": "2026-05-29T13:04:18.616324Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43565,7 +43570,7 @@
         },
         {
           "date": "2026-05-29",
-          "price": 287.22,
+          "price": 282.95,
           "shop": "Brickwatch"
         }
       ],
