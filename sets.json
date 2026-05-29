@@ -3427,8 +3427,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 22,
-      "current_best_price": 89.95,
+      "buy_score": 24,
+      "current_best_price": 85.93,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -3438,7 +3438,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 22,
+      "price_score": 24,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -3453,8 +3453,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-05-28T08:04:18.265828Z",
-      "last_updated": "2026-05-28T08:04:18.265839Z",
+      "last_brickwatch_alert": "2026-05-29T12:04:19.655176Z",
+      "last_updated": "2026-05-29T12:04:19.655180Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -3496,6 +3496,11 @@
         {
           "date": "2026-05-28",
           "price": 89.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 85.93,
           "shop": "Brickwatch"
         }
       ]
@@ -14380,7 +14385,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 41,
-      "current_best_price": 158.0,
+      "current_best_price": 157.18,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -14404,8 +14409,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-05-18T03:34:19.663879Z",
-      "last_updated": "2026-05-18T03:34:19.663924Z",
+      "last_brickwatch_alert": "2026-05-29T12:04:19.655327Z",
+      "last_updated": "2026-05-29T12:04:19.655331Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -14415,6 +14420,11 @@
         {
           "date": "2026-05-18",
           "price": 158.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 157.18,
           "shop": "Brickwatch"
         }
       ],
@@ -34662,8 +34672,8 @@
     "75419": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 16,
-      "current_best_price": 929.0,
+      "buy_score": 33,
+      "current_best_price": 743.68,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75419-1.jpg",
       "label": "investering",
@@ -34673,7 +34683,7 @@
       "name": "Death Star",
       "owned_by": 2092,
       "pieces": 9023,
-      "price_score": 6,
+      "price_score": 23,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -34924,12 +34934,17 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-05-14T00:04:19.844845Z",
-      "last_updated": "2026-05-14T00:04:19.844850Z",
+      "last_brickwatch_alert": "2026-05-29T12:04:19.655061Z",
+      "last_updated": "2026-05-29T12:04:19.655067Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 929.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-29",
+          "price": 743.68,
           "shop": "Brickwatch"
         }
       ],
