@@ -24198,8 +24198,8 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 599.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 675.0,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -24236,8 +24236,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-05-25T11:34:20.928800Z",
-      "last_updated": "2026-05-29T09:40:18.523592Z",
+      "last_brickwatch_alert": "2026-05-30T14:34:23.607380Z",
+      "last_updated": "2026-05-30T14:34:23.607388Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -24272,6 +24272,11 @@
           "date": "2026-05-29",
           "price": 599.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-05-30",
+          "price": 675.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
