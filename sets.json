@@ -8225,7 +8225,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
       "buy_score": 37,
-      "current_best_price": 149.33,
+      "current_best_price": 147.63,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -8249,8 +8249,8 @@
       "urgency_score": 3,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-29T11:34:22.086067Z",
-      "last_updated": "2026-05-29T11:34:22.086070Z",
+      "last_brickwatch_alert": "2026-05-30T04:04:15.645743Z",
+      "last_updated": "2026-05-30T04:04:15.645746Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -8270,6 +8270,11 @@
         {
           "date": "2026-05-29",
           "price": 149.33,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-30",
+          "price": 147.63,
           "shop": "Brickwatch"
         }
       ],
@@ -31969,20 +31974,20 @@
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 15.99,
+      "buy_score": 47,
+      "current_best_price": 15.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-29T12:34:22.063620Z",
-      "last_updated": "2026-05-29T12:34:22.063624Z",
+      "last_brickwatch_alert": "2026-05-30T04:04:15.645675Z",
+      "last_updated": "2026-05-30T04:04:15.645678Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 18,
+      "price_score": 19,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -32041,6 +32046,11 @@
         {
           "date": "2026-05-29",
           "price": 15.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-30",
+          "price": 15.49,
           "shop": "Brickwatch"
         }
       ],
@@ -33439,8 +33449,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 27,
-      "current_best_price": 104.99,
+      "buy_score": 30,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -33450,7 +33460,7 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 24,
+      "price_score": 27,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -33464,8 +33474,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-28T09:34:17.978553Z",
-      "last_updated": "2026-05-28T09:34:17.978558Z",
+      "last_brickwatch_alert": "2026-05-30T04:04:15.645545Z",
+      "last_updated": "2026-05-30T04:04:15.645553Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -33484,6 +33494,11 @@
         {
           "date": "2026-05-17",
           "price": 104.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-30",
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
