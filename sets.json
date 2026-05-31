@@ -32329,20 +32329,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 38,
-      "current_best_price": 53.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 32,
+      "current_best_price": 61.89,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-09T04:04:20.028348Z",
-      "last_updated": "2026-05-09T07:46:38.807274Z",
+      "last_brickwatch_alert": "2026-05-31T23:34:16.689739Z",
+      "last_updated": "2026-05-31T23:34:16.689746Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -32377,6 +32377,11 @@
           "date": "2026-05-14",
           "price": 53.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-05-31",
+          "price": 61.89,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -32886,8 +32891,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 51,
-      "current_best_price": 102.0,
+      "buy_score": 48,
+      "current_best_price": 114.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -32897,7 +32902,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -32911,8 +32916,8 @@
       "urgency_score": 8,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-08T15:34:27.184883Z",
-      "last_updated": "2026-05-08T15:34:27.184892Z",
+      "last_brickwatch_alert": "2026-05-31T23:34:17.018849Z",
+      "last_updated": "2026-05-31T23:34:17.018858Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -32956,6 +32961,11 @@
         {
           "date": "2026-05-14",
           "price": 102.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-31",
+          "price": 114.69,
           "shop": "Brickwatch"
         }
       ],
@@ -33540,8 +33550,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 48.56,
+      "buy_score": 50,
+      "current_best_price": 44.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -33551,7 +33561,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 23,
+      "price_score": 27,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -33565,8 +33575,8 @@
       "urgency_score": 8,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-29T11:04:22.090663Z",
-      "last_updated": "2026-05-29T11:04:22.090668Z",
+      "last_brickwatch_alert": "2026-05-31T23:34:16.689876Z",
+      "last_updated": "2026-05-31T23:34:16.689880Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -33628,6 +33638,11 @@
         {
           "date": "2026-05-29",
           "price": 48.56,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-31",
+          "price": 44.09,
           "shop": "Brickwatch"
         }
       ],
@@ -35675,17 +35690,17 @@
     "75441": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 50,
-      "current_best_price": 52.9,
+      "buy_score": 53,
+      "current_best_price": 49.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 49.99,
+      "lowest_price_ever": 49.29,
       "msrp": 79.99,
       "name": "Venator-class Attack Cruiser",
       "owned_by": 2099,
       "pieces": 643,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -35699,13 +35714,18 @@
       "urgency_score": 3,
       "wanted_by": 2462,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-07T07:34:18.247762Z",
-      "last_updated": "2026-05-07T07:34:18.247775Z",
+      "last_brickwatch_alert": "2026-05-31T23:34:16.689957Z",
+      "last_updated": "2026-05-31T23:34:16.689960Z",
       "subtheme": "Starship Collection",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 52.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-05-31",
+          "price": 49.29,
           "shop": "Brickwatch"
         }
       ],
