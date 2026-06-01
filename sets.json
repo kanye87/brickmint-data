@@ -1846,8 +1846,8 @@
     "10326": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 29,
-      "current_best_price": 239.99,
+      "buy_score": 21,
+      "current_best_price": 269.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10326-1.jpg",
       "label": "investering",
@@ -1857,7 +1857,7 @@
       "name": "Natural History Museum",
       "owned_by": 9756,
       "pieces": 4014,
-      "price_score": 16,
+      "price_score": 8,
       "purchase_price": 229.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -1873,8 +1873,8 @@
       "urgency_score": 3,
       "wanted_by": 5682,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-08T03:34:19.201520Z",
-      "last_updated": "2026-05-08T03:34:19.201524Z",
+      "last_brickwatch_alert": "2026-06-01T03:34:19.897278Z",
+      "last_updated": "2026-06-01T03:34:19.897282Z",
       "minifig_list": [
         {
           "id": "fig-014462",
@@ -1939,6 +1939,11 @@
         {
           "date": "2026-05-14",
           "price": 239.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 269.99,
           "shop": "Brickwatch"
         }
       ]
@@ -32146,8 +32151,8 @@
     "75376": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 40,
-      "current_best_price": 59.98,
+      "buy_score": 36,
+      "current_best_price": 63.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75376-1.jpg",
       "label": "persoonlijk",
@@ -32165,7 +32170,7 @@
       "name": "Tantive IV",
       "owned_by": 9293,
       "pieces": 654,
-      "price_score": 22,
+      "price_score": 18,
       "purchase_price": 54.99,
       "rating": 4.0,
       "retirement_date": "2025-12-23",
@@ -32185,8 +32190,8 @@
       "wanted_by": 2273,
       "year": 2024,
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-05-11T15:34:25.712072Z",
-      "last_updated": "2026-05-11T15:34:25.712079Z",
+      "last_brickwatch_alert": "2026-06-01T03:34:19.897128Z",
+      "last_updated": "2026-06-01T03:34:19.897133Z",
       "expected_retirement": "2025-12",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
@@ -32195,6 +32200,11 @@
         {
           "date": "2026-05-14",
           "price": 59.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 63.98,
           "shop": "Brickwatch"
         }
       ]
@@ -35158,8 +35168,8 @@
     "75429": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 59.99,
+      "buy_score": 38,
+      "current_best_price": 71.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75429-1.jpg",
       "label": "persoonlijk",
@@ -35168,7 +35178,7 @@
       "name": "AT-AT Driver Helmet",
       "owned_by": 4633,
       "pieces": 730,
-      "price_score": 22,
+      "price_score": 9,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -35189,12 +35199,19 @@
           "date": "2026-05-14",
           "price": 59.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 71.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2025-01-28",
       "lego_availability": "Retail",
-      "ean": "5702017824604"
+      "ean": "5702017824604",
+      "last_brickwatch_alert": "2026-06-01T03:34:19.896920Z",
+      "last_updated": "2026-06-01T03:34:19.896928Z"
     },
     "75430": {
       "availability_score": 0,
