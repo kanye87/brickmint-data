@@ -1770,12 +1770,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 219.99,
+      "current_best_price": 199.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-05-27T22:34:15.189601Z",
-      "last_updated": "2026-05-27T22:34:15.189609Z",
+      "last_brickwatch_alert": "2026-06-01T06:34:21.425741Z",
+      "last_updated": "2026-06-01T06:34:21.425744Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -1839,6 +1839,11 @@
         {
           "date": "2026-05-27",
           "price": 219.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 199.99,
           "shop": "Brickwatch"
         }
       ]
@@ -14299,13 +14304,13 @@
     "42165": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 34,
-      "current_best_price": 21.59,
+      "buy_score": 25,
+      "current_best_price": 24.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42165-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-04T09:34:21.012285Z",
-      "last_updated": "2026-05-04T09:34:21.012296Z",
+      "last_brickwatch_alert": "2026-06-01T06:34:21.425558Z",
+      "last_updated": "2026-06-01T06:34:21.425566Z",
       "lowest_price_ever": 12.1,
       "market_value": 36.58,
       "market_value_history": [
@@ -14320,11 +14325,11 @@
       "name": "Mercedes-AMG F1 W14 Pull-Back",
       "owned_by": 3506,
       "pieces": 240,
-      "price_score": 13,
+      "price_score": 5,
       "rating": 3.9,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -14339,6 +14344,11 @@
         {
           "date": "2026-05-14",
           "price": 21.59,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 24.95,
           "shop": "Brickwatch"
         }
       ],
@@ -14462,8 +14472,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 43,
-      "current_best_price": 271.99,
+      "buy_score": 40,
+      "current_best_price": 289.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -14472,7 +14482,7 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 30,
+      "price_score": 27,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
@@ -14516,12 +14526,12 @@
         },
         {
           "date": "2026-06-01",
-          "price": 271.99,
+          "price": 289.99,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T00:04:17.853060Z",
-      "last_updated": "2026-06-01T00:04:17.853063Z",
+      "last_brickwatch_alert": "2026-06-01T06:34:21.426078Z",
+      "last_updated": "2026-06-01T06:34:21.426082Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -34051,8 +34061,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 43,
-      "current_best_price": 44.39,
+      "buy_score": 46,
+      "current_best_price": 38.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -34061,7 +34071,7 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 32,
+      "price_score": 35,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -34093,10 +34103,15 @@
           "date": "2026-05-31",
           "price": 44.39,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 38.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-05-31T23:04:15.939683Z",
-      "last_updated": "2026-05-31T23:04:15.939687Z",
+      "last_brickwatch_alert": "2026-06-01T06:34:21.425908Z",
+      "last_updated": "2026-06-01T06:34:21.425910Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -34618,8 +34633,8 @@
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 65.99,
+      "buy_score": 45,
+      "current_best_price": 66.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -34629,7 +34644,7 @@
       "name": "Chopper (C1-10P)",
       "owned_by": 3878,
       "pieces": 1039,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -34660,7 +34675,7 @@
         },
         {
           "date": "2026-06-01",
-          "price": 65.99,
+          "price": 66.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34668,14 +34683,14 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-06-01T00:04:17.852759Z",
-      "last_updated": "2026-06-01T00:04:17.852764Z"
+      "last_brickwatch_alert": "2026-06-01T06:34:21.425953Z",
+      "last_updated": "2026-06-01T06:34:21.425954Z"
     },
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 72,
-      "current_best_price": 126.69,
+      "current_best_price": 125.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -34699,8 +34714,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-01T00:04:17.853131Z",
-      "last_updated": "2026-06-01T00:04:17.853134Z",
+      "last_brickwatch_alert": "2026-06-01T06:34:21.425798Z",
+      "last_updated": "2026-06-01T06:34:21.425800Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -34718,7 +34733,7 @@
         },
         {
           "date": "2026-06-01",
-          "price": 126.69,
+          "price": 125.99,
           "shop": "Brickwatch"
         }
       ],
