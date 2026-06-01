@@ -34732,8 +34732,8 @@
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 45,
-      "current_best_price": 66.99,
+      "buy_score": 46,
+      "current_best_price": 65.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -34743,7 +34743,7 @@
       "name": "Chopper (C1-10P)",
       "owned_by": 3878,
       "pieces": 1039,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -34774,7 +34774,7 @@
         },
         {
           "date": "2026-06-01",
-          "price": 66.99,
+          "price": 65.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34782,8 +34782,8 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-06-01T06:34:21.425953Z",
-      "last_updated": "2026-06-01T06:34:21.425954Z"
+      "last_brickwatch_alert": "2026-06-01T16:34:23.141242Z",
+      "last_updated": "2026-06-01T16:34:23.141250Z"
     },
     "75417": {
       "availability_score": 10,
