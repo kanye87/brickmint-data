@@ -29335,7 +29335,7 @@
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
-      "current_best_price": 40.79,
+      "current_best_price": 41.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-04",
       "ean": "5702017155548",
@@ -29379,9 +29379,16 @@
           "date": "2026-05-14",
           "price": 40.79,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 41.99,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "last_brickwatch_alert": "2026-06-01T08:04:23.048629Z",
+      "last_updated": "2026-06-01T08:04:23.048637Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -32954,7 +32961,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 54,
-      "current_best_price": 114.69,
+      "current_best_price": 112.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -32978,8 +32985,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-31T23:34:17.018849Z",
-      "last_updated": "2026-05-31T23:34:17.018858Z",
+      "last_brickwatch_alert": "2026-06-01T08:04:23.048924Z",
+      "last_updated": "2026-06-01T08:04:23.048929Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -33028,6 +33035,11 @@
         {
           "date": "2026-05-31",
           "price": 114.69,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 112.99,
           "shop": "Brickwatch"
         }
       ],
@@ -33624,8 +33636,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 56,
-      "current_best_price": 44.09,
+      "buy_score": 55,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -33635,7 +33647,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 27,
+      "price_score": 26,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -33649,8 +33661,8 @@
       "urgency_score": 14,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-05-31T23:34:16.689876Z",
-      "last_updated": "2026-05-31T23:34:16.689880Z",
+      "last_brickwatch_alert": "2026-06-01T08:04:23.048767Z",
+      "last_updated": "2026-06-01T08:04:23.048771Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -33717,6 +33729,11 @@
         {
           "date": "2026-05-31",
           "price": 44.09,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -35662,7 +35679,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 40,
+      "buy_score": 44,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -35671,7 +35688,7 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 22,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -35688,9 +35705,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 29.99,
-      "last_brickwatch_alert": "2026-05-06T04:04:19.663479Z",
-      "last_updated": "2026-05-06T04:04:19.663484Z",
+      "current_best_price": 27.99,
+      "last_brickwatch_alert": "2026-06-01T08:04:23.049069Z",
+      "last_updated": "2026-06-01T08:04:23.049073Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -35704,6 +35721,11 @@
         {
           "date": "2026-05-14",
           "price": 29.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 27.99,
           "shop": "Brickwatch"
         }
       ],
