@@ -14304,13 +14304,13 @@
     "42165": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 25,
-      "current_best_price": 24.95,
+      "buy_score": 34,
+      "current_best_price": 21.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42165-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-01T06:34:21.425558Z",
-      "last_updated": "2026-06-01T06:34:21.425566Z",
+      "last_brickwatch_alert": "2026-06-01T10:34:17.386748Z",
+      "last_updated": "2026-06-01T10:34:17.386754Z",
       "lowest_price_ever": 12.1,
       "market_value": 36.58,
       "market_value_history": [
@@ -14325,11 +14325,11 @@
       "name": "Mercedes-AMG F1 W14 Pull-Back",
       "owned_by": 3506,
       "pieces": 240,
-      "price_score": 5,
+      "price_score": 13,
       "rating": 3.9,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -14348,7 +14348,7 @@
         },
         {
           "date": "2026-06-01",
-          "price": 24.95,
+          "price": 21.59,
           "shop": "Brickwatch"
         }
       ],
@@ -15738,8 +15738,8 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 30,
-      "current_best_price": 59.95,
+      "buy_score": 34,
+      "current_best_price": 55.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -15748,7 +15748,7 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 22,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -15764,13 +15764,18 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-05-04T11:34:24.563462Z",
-      "last_updated": "2026-05-04T11:34:24.563471Z",
+      "last_brickwatch_alert": "2026-06-01T10:34:17.386924Z",
+      "last_updated": "2026-06-01T10:34:17.386928Z",
       "subtheme": "Football",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 59.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 55.95,
           "shop": "Brickwatch"
         }
       ],
