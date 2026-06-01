@@ -30517,7 +30517,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": 15,
-      "current_best_price": 96.8,
+      "current_best_price": 96.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "investering",
@@ -30563,11 +30563,16 @@
           "date": "2026-05-28",
           "price": 96.8,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 96.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-05-28T15:34:22.587033Z",
-      "last_updated": "2026-05-28T15:34:22.587047Z"
+      "last_brickwatch_alert": "2026-06-01T15:34:25.954903Z",
+      "last_updated": "2026-06-01T15:34:25.954907Z"
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -42083,7 +42088,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 47,
-      "current_best_price": 281.29,
+      "current_best_price": 281.91,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -42122,6 +42127,11 @@
         {
           "date": "2026-05-31",
           "price": 281.29,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 281.91,
           "shop": "Brickwatch"
         }
       ],
@@ -42251,8 +42261,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-76300-dc-batman-arkham-asylum-404619",
-      "last_updated": "2026-05-31T18:34:15.226912Z",
-      "last_brickwatch_alert": "2026-05-31T18:34:15.226903Z"
+      "last_updated": "2026-06-01T15:34:25.954689Z",
+      "last_brickwatch_alert": "2026-06-01T15:34:25.954679Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
