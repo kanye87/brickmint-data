@@ -23729,7 +23729,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 43,
+      "buy_score": 46,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -23738,7 +23738,7 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 25,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -23756,9 +23756,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 152.99,
-      "last_brickwatch_alert": "2026-05-31T19:34:22.359602Z",
-      "last_updated": "2026-05-31T19:34:22.359609Z",
+      "current_best_price": 148.99,
+      "last_brickwatch_alert": "2026-06-01T05:34:19.621859Z",
+      "last_updated": "2026-06-01T05:34:19.621866Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -23784,6 +23784,11 @@
         {
           "date": "2026-05-31",
           "price": 152.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-01",
+          "price": 148.99,
           "shop": "Brickwatch"
         }
       ],
