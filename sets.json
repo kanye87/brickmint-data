@@ -36242,7 +36242,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 32,
+      "buy_score": 30,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -36251,7 +36251,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 24,
+      "price_score": 22,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -36267,9 +36267,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 93.99,
-      "last_brickwatch_alert": "2026-06-01T11:04:19.985066Z",
-      "last_updated": "2026-06-01T11:04:19.985079Z",
+      "current_best_price": 97.49,
+      "last_brickwatch_alert": "2026-06-02T15:34:28.701974Z",
+      "last_updated": "2026-06-02T15:34:28.701978Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -36290,6 +36290,11 @@
         {
           "date": "2026-06-01",
           "price": 93.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-02",
+          "price": 97.49,
           "shop": "Brickwatch"
         }
       ],
@@ -42303,7 +42308,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 48,
-      "current_best_price": 279.09,
+      "current_best_price": 278.91,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -42347,6 +42352,11 @@
         {
           "date": "2026-06-01",
           "price": 279.09,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-02",
+          "price": 278.91,
           "shop": "Brickwatch"
         }
       ],
@@ -42476,8 +42486,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-76300-dc-batman-arkham-asylum-404619",
-      "last_updated": "2026-06-01T19:34:17.930699Z",
-      "last_brickwatch_alert": "2026-06-01T19:34:17.930689Z"
+      "last_updated": "2026-06-02T15:34:28.701764Z",
+      "last_brickwatch_alert": "2026-06-02T15:34:28.701753Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
