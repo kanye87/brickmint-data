@@ -15513,7 +15513,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-01T11:14:10Z",
       "buy_score": null,
-      "current_best_price": 22.0,
+      "current_best_price": 21.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -15539,8 +15539,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-05-28T20:34:19.980787Z",
-      "last_updated": "2026-05-28T20:34:19.980794Z",
+      "last_brickwatch_alert": "2026-06-02T04:04:18.034512Z",
+      "last_updated": "2026-06-02T04:04:18.034515Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -15555,6 +15555,11 @@
         {
           "date": "2026-05-28",
           "price": 22.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-02",
+          "price": 21.69,
           "shop": "Brickwatch"
         }
       ],
@@ -15976,8 +15981,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 32,
-      "current_best_price": 21.95,
+      "buy_score": 34,
+      "current_best_price": 20.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -15986,7 +15991,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -16003,8 +16008,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-05-24T00:34:14.947655Z",
-      "last_updated": "2026-05-24T00:34:14.947665Z",
+      "last_brickwatch_alert": "2026-06-02T04:04:18.034275Z",
+      "last_updated": "2026-06-02T04:04:18.034284Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -16014,6 +16019,11 @@
         {
           "date": "2026-05-24",
           "price": 21.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-02",
+          "price": 20.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50200,8 +50210,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-05-15T04:04:23.756490Z",
-      "last_updated": "2026-05-15T04:04:23.756499Z"
+      "last_brickwatch_alert": "2026-06-02T04:04:18.034423Z",
+      "last_updated": "2026-06-02T04:04:18.034427Z"
     },
     "77250": {
       "availability_score": 0,
@@ -50325,7 +50335,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 64,
-      "current_best_price": 19.95,
+      "current_best_price": 19.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -50358,8 +50368,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T04:04:37.586258Z",
-      "last_updated": "2026-06-01T04:04:37.586263Z",
+      "last_brickwatch_alert": "2026-06-02T04:04:18.034581Z",
+      "last_updated": "2026-06-02T04:04:18.034583Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -50389,6 +50399,11 @@
         {
           "date": "2026-06-01",
           "price": 19.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-02",
+          "price": 19.77,
           "shop": "Brickwatch"
         }
       ],
