@@ -24560,17 +24560,17 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
-      "current_best_price": 46.95,
+      "buy_score": 53,
+      "current_best_price": 43.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 44.95,
+      "lowest_price_ever": 43.95,
       "msrp": 59.99,
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -24584,8 +24584,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-21T15:04:34.082939Z",
-      "last_updated": "2026-05-21T15:04:34.082947Z",
+      "last_brickwatch_alert": "2026-06-03T14:34:19.646925Z",
+      "last_updated": "2026-06-03T14:34:19.646934Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -24596,6 +24596,11 @@
         {
           "date": "2026-05-21",
           "price": 46.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-03",
+          "price": 43.95,
           "shop": "Brickwatch"
         }
       ],
