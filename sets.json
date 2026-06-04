@@ -33175,20 +33175,20 @@
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 15.99,
+      "buy_score": 41,
+      "current_best_price": 17.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-02T07:34:16.830902Z",
-      "last_updated": "2026-06-02T07:34:16.830911Z",
+      "last_brickwatch_alert": "2026-06-04T08:34:18.383141Z",
+      "last_updated": "2026-06-04T08:34:18.383150Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 18,
+      "price_score": 13,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -33257,6 +33257,11 @@
         {
           "date": "2026-06-02",
           "price": 15.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-04",
+          "price": 17.59,
           "shop": "Brickwatch"
         }
       ],
