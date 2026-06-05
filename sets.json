@@ -39866,7 +39866,7 @@
     },
     "76178": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 449.95,
+      "current_best_price": 449.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76178-1.jpg",
       "label": "persoonlijk",
@@ -39927,6 +39927,11 @@
         {
           "date": "2026-05-14",
           "price": 449.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-05",
+          "price": 449.0,
           "shop": "Brickwatch"
         }
       ],
@@ -40106,7 +40111,9 @@
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-011308/103836.jpg"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-06-05T13:34:24.243183Z",
+      "last_updated": "2026-06-05T13:34:24.243194Z"
     },
     "76179": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
