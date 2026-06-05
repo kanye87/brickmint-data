@@ -4132,7 +4132,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 35,
-      "current_best_price": 51.83,
+      "current_best_price": 51.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -4158,8 +4158,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-05-24T04:04:19.693793Z",
-      "last_updated": "2026-05-24T04:04:19.693795Z",
+      "last_brickwatch_alert": "2026-06-05T04:04:15.702632Z",
+      "last_updated": "2026-06-05T04:04:15.702641Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -4178,6 +4178,11 @@
         {
           "date": "2026-05-24",
           "price": 51.83,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-05",
+          "price": 51.39,
           "shop": "Brickwatch"
         }
       ],
@@ -8459,7 +8464,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
       "buy_score": 37,
-      "current_best_price": 147.47,
+      "current_best_price": 147.96,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -8483,8 +8488,8 @@
       "urgency_score": 3,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-01T04:04:37.586159Z",
-      "last_updated": "2026-06-01T04:04:37.586164Z",
+      "last_brickwatch_alert": "2026-06-05T04:04:15.702901Z",
+      "last_updated": "2026-06-05T04:04:15.702904Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -8514,6 +8519,11 @@
         {
           "date": "2026-06-01",
           "price": 147.47,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-05",
+          "price": 147.96,
           "shop": "Brickwatch"
         }
       ],
@@ -36064,7 +36074,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 46,
-      "current_best_price": 65.99,
+      "current_best_price": 64.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -36107,14 +36117,19 @@
           "date": "2026-06-01",
           "price": 65.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-05",
+          "price": 64.9,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-06-01T16:34:23.141242Z",
-      "last_updated": "2026-06-01T16:34:23.141250Z"
+      "last_brickwatch_alert": "2026-06-05T04:04:15.702782Z",
+      "last_updated": "2026-06-05T04:04:15.702785Z"
     },
     "75417": {
       "availability_score": 10,
@@ -52018,8 +52033,8 @@
     "77250": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 48,
-      "current_best_price": 18.9,
+      "buy_score": 52,
+      "current_best_price": 17.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77250-1.jpg",
       "label": "persoonlijk",
@@ -52029,7 +52044,7 @@
       "name": "MoneyGram Haas F1 Team VF-24",
       "owned_by": 4563,
       "pieces": 242,
-      "price_score": 26,
+      "price_score": 30,
       "purchase_price": 14.99,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
@@ -52063,14 +52078,19 @@
           "date": "2026-05-28",
           "price": 18.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-05",
+          "price": 17.89,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816173",
-      "last_brickwatch_alert": "2026-05-28T08:34:23.230999Z",
-      "last_updated": "2026-05-28T08:34:23.231010Z"
+      "last_brickwatch_alert": "2026-06-05T04:04:15.702849Z",
+      "last_updated": "2026-06-05T04:04:15.702852Z"
     },
     "77251": {
       "availability_score": 0,
