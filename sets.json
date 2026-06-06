@@ -37201,7 +37201,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 37,
-      "current_best_price": 38.99,
+      "current_best_price": 38.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -37228,8 +37228,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-06-01T07:34:17.156006Z",
-      "last_updated": "2026-06-01T07:34:17.156009Z",
+      "last_brickwatch_alert": "2026-06-06T01:34:16.694182Z",
+      "last_updated": "2026-06-06T01:34:16.694189Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -37249,6 +37249,11 @@
         {
           "date": "2026-06-01",
           "price": 38.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-06",
+          "price": 38.95,
           "shop": "Brickwatch"
         }
       ],
