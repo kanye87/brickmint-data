@@ -24297,8 +24297,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 47,
-      "current_best_price": 125.85,
+      "buy_score": 52,
+      "current_best_price": 117.64,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -24307,7 +24307,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 26,
+      "price_score": 31,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -24321,8 +24321,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-02T16:04:29.329184Z",
-      "last_updated": "2026-06-02T16:04:29.329193Z",
+      "last_brickwatch_alert": "2026-06-06T04:04:20.339042Z",
+      "last_updated": "2026-06-06T04:04:20.339046Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -24343,6 +24343,11 @@
         {
           "date": "2026-06-02",
           "price": 125.85,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-06",
+          "price": 117.64,
           "shop": "Brickwatch"
         }
       ],
@@ -33665,11 +33670,11 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 56,
-      "current_best_price": 17.0,
+      "current_best_price": 15.78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 17.0,
+      "lowest_price_ever": 15.78,
       "market_value": 29.09,
       "market_value_history": [
         {
@@ -33702,8 +33707,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-20T19:34:18.998985Z",
-      "last_updated": "2026-05-20T19:34:18.998994Z",
+      "last_brickwatch_alert": "2026-06-06T04:04:20.339126Z",
+      "last_updated": "2026-06-06T04:04:20.339130Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -33734,6 +33739,11 @@
         {
           "date": "2026-05-20",
           "price": 17.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-06",
+          "price": 15.78,
           "shop": "Brickwatch"
         }
       ],
@@ -37272,8 +37282,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
-      "current_best_price": 39.99,
+      "buy_score": 42,
+      "current_best_price": 45.43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -37282,7 +37292,7 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 30,
+      "price_score": 24,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -37297,9 +37307,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-05-21T23:04:17.736341Z",
+      "last_updated": "2026-06-06T04:04:20.719132Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-05-21T23:04:17.736332Z",
+      "last_brickwatch_alert": "2026-06-06T04:04:20.719123Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -37309,6 +37319,11 @@
         {
           "date": "2026-05-21",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-06",
+          "price": 45.43,
           "shop": "Brickwatch"
         }
       ],
@@ -39402,7 +39417,7 @@
     },
     "76156": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "current_best_price": 56.91,
+      "current_best_price": 56.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76156-1.jpg",
       "label": "investering",
@@ -39445,6 +39460,11 @@
         {
           "date": "2026-05-14",
           "price": 56.91,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-06",
+          "price": 56.89,
           "shop": "Brickwatch"
         }
       ],
@@ -39495,7 +39515,9 @@
       "expected_retirement": "2023-10",
       "date_first_available": "2021-10-02",
       "lego_availability": "Retail",
-      "ean": "5702016619362"
+      "ean": "5702016619362",
+      "last_brickwatch_alert": "2026-06-06T04:04:20.338891Z",
+      "last_updated": "2026-06-06T04:04:20.338901Z"
     },
     "76162": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
