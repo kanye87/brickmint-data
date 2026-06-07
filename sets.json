@@ -34719,20 +34719,20 @@
     "75394": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 38,
-      "current_best_price": 128.41,
+      "buy_score": 37,
+      "current_best_price": 131.04,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75394-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-29T11:04:22.090956Z",
-      "last_updated": "2026-05-29T11:04:22.090960Z",
+      "last_brickwatch_alert": "2026-06-07T07:34:16.456147Z",
+      "last_updated": "2026-06-07T07:34:16.456159Z",
       "lowest_price_ever": null,
       "minifigs": 7,
       "msrp": 169.99,
       "name": "Imperial Star Destroyer",
       "owned_by": 7051,
       "pieces": 1555,
-      "price_score": 21,
+      "price_score": 20,
       "rating": 4.4,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
@@ -34800,6 +34800,11 @@
         {
           "date": "2026-05-29",
           "price": 128.41,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-07",
+          "price": 131.04,
           "shop": "Brickwatch"
         }
       ],
