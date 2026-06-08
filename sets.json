@@ -33753,8 +33753,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 36,
-      "current_best_price": 22.98,
+      "buy_score": 53,
+      "current_best_price": 16.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -33777,11 +33777,11 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 17,
+      "price_score": 32,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 6,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -33791,8 +33791,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-07T10:04:19.430050Z",
-      "last_updated": "2026-06-07T10:04:19.430057Z",
+      "last_brickwatch_alert": "2026-06-08T04:04:18.450602Z",
+      "last_updated": "2026-06-08T04:04:18.450613Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -33833,6 +33833,11 @@
         {
           "date": "2026-06-07",
           "price": 22.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-08",
+          "price": 16.8,
           "shop": "Brickwatch"
         }
       ],
@@ -34435,8 +34440,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
-      "current_best_price": 125.9,
+      "buy_score": 49,
+      "current_best_price": 124.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -34446,7 +34451,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 26,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -34460,8 +34465,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-06T11:34:16.876903Z",
-      "last_updated": "2026-06-06T11:34:16.876911Z",
+      "last_brickwatch_alert": "2026-06-08T04:04:18.450835Z",
+      "last_updated": "2026-06-08T04:04:18.450839Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -34520,6 +34525,11 @@
         {
           "date": "2026-06-06",
           "price": 125.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-08",
+          "price": 124.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52298,8 +52308,8 @@
     "77251": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 52,
-      "current_best_price": 17.89,
+      "buy_score": 57,
+      "current_best_price": 15.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77251-1.jpg",
       "label": "persoonlijk",
@@ -52309,7 +52319,7 @@
       "name": "McLaren F1 Team MCL38",
       "owned_by": 6017,
       "pieces": 269,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -52347,14 +52357,19 @@
           "date": "2026-05-21",
           "price": 17.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-08",
+          "price": 15.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-05-21T04:04:19.016255Z",
-      "last_updated": "2026-05-21T04:04:19.016257Z"
+      "last_brickwatch_alert": "2026-06-08T04:04:18.450756Z",
+      "last_updated": "2026-06-08T04:04:18.450759Z"
     },
     "77259": {
       "availability_score": 0,
