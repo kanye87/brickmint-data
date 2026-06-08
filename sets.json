@@ -3959,20 +3959,20 @@
     "11370": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 38,
-      "current_best_price": 214.9,
+      "buy_score": 39,
+      "current_best_price": 212.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11370-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-28T09:34:17.978306Z",
-      "last_updated": "2026-05-28T09:34:17.978317Z",
+      "last_brickwatch_alert": "2026-06-08T00:04:20.756674Z",
+      "last_updated": "2026-06-08T00:04:20.756683Z",
       "lowest_price_ever": null,
       "minifigs": 13,
       "msrp": 279.99,
       "name": "Stranger Things: The Creel House",
       "owned_by": 2146,
       "pieces": 2593,
-      "price_score": 20,
+      "price_score": 21,
       "rating": 4.2,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4030,6 +4030,11 @@
         {
           "date": "2026-05-28",
           "price": 214.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-08",
+          "price": 212.0,
           "shop": "Brickwatch"
         }
       ],
