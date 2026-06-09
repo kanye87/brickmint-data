@@ -2874,8 +2874,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 37,
-      "current_best_price": 205.78,
+      "buy_score": 36,
+      "current_best_price": 209.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -2885,7 +2885,7 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 27,
+      "price_score": 26,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
@@ -2991,10 +2991,15 @@
           "date": "2026-06-02",
           "price": 205.78,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-09",
+          "price": 209.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-02T12:04:20.355245Z",
-      "last_updated": "2026-06-02T12:04:20.355252Z"
+      "last_brickwatch_alert": "2026-06-09T13:34:18.479782Z",
+      "last_updated": "2026-06-09T13:34:18.479790Z"
     },
     "10355": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
