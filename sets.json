@@ -33207,8 +33207,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
-      "current_best_price": 475.3,
+      "buy_score": 47,
+      "current_best_price": 479.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -33218,7 +33218,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 24,
+      "price_score": 23,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -33258,14 +33258,19 @@
           "date": "2026-06-01",
           "price": 475.3,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-09",
+          "price": 479.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-06-01T07:34:17.155711Z",
-      "last_updated": "2026-06-01T07:34:17.155719Z"
+      "last_brickwatch_alert": "2026-06-09T15:04:21.989276Z",
+      "last_updated": "2026-06-09T15:04:21.989286Z"
     },
     "75368": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
