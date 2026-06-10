@@ -1610,7 +1610,7 @@
     },
     "10316": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "current_best_price": 439.0,
+      "current_best_price": 429.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10316-1.jpg",
       "label": "persoonlijk",
@@ -1636,8 +1636,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-05-23T04:34:23.236516Z",
-      "last_updated": "2026-05-23T04:34:23.236518Z",
+      "last_brickwatch_alert": "2026-06-10T06:04:17.670019Z",
+      "last_updated": "2026-06-10T06:04:17.670022Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -1754,13 +1754,13 @@
           "value": null
         }
       ],
-      "price_score": 27,
+      "price_score": 31,
       "roi_score": 5,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 56,
+      "buy_score": 60,
       "expected_retirement": "2026-12",
       "date_first_available": "2023-02-09",
       "lego_availability": "LEGO exclusive",
@@ -1774,6 +1774,11 @@
         {
           "date": "2026-05-23",
           "price": 439.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 429.99,
           "shop": "Brickwatch"
         }
       ]
@@ -22436,8 +22441,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 37,
-      "current_best_price": 101.9,
+      "buy_score": 40,
+      "current_best_price": 97.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -22459,12 +22464,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 19,
+      "price_score": 21,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 1,
@@ -22479,8 +22484,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-07T09:04:20.376844Z",
-      "last_updated": "2026-06-07T09:04:20.376854Z",
+      "last_brickwatch_alert": "2026-06-10T06:04:17.669862Z",
+      "last_updated": "2026-06-10T06:04:17.669871Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -22505,6 +22510,11 @@
         {
           "date": "2026-06-07",
           "price": 101.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 97.49,
           "shop": "Brickwatch"
         }
       ],
