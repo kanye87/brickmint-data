@@ -37743,7 +37743,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 30,
+      "buy_score": 36,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -37752,7 +37752,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 22,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -37768,9 +37768,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 96.95,
-      "last_brickwatch_alert": "2026-06-06T01:04:18.131309Z",
-      "last_updated": "2026-06-06T01:04:18.131320Z",
+      "current_best_price": 89.0,
+      "last_brickwatch_alert": "2026-06-10T14:04:23.495756Z",
+      "last_updated": "2026-06-10T14:04:23.495766Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -37806,6 +37806,11 @@
         {
           "date": "2026-06-06",
           "price": 96.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 89.0,
           "shop": "Brickwatch"
         }
       ],
