@@ -32600,7 +32600,7 @@
     "75356": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 17,
+      "buy_score": 19,
       "image_url": "https://images.brickset.com/sets/images/75356-1.jpg",
       "label": "investering",
       "lowest_price_ever": 48.99,
@@ -32608,11 +32608,11 @@
       "name": "Executor Super Star Destroyer",
       "owned_by": 12898,
       "pieces": 630,
-      "price_score": 14,
+      "price_score": 15,
       "rating": 4.4,
       "retirement_date": "2026-05-01",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -32623,10 +32623,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 61.83,
+      "current_best_price": 61.27,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-06-09T18:34:22.489294Z",
-      "last_updated": "2026-06-09T18:34:22.489302Z",
+      "last_brickwatch_alert": "2026-06-10T13:34:23.854537Z",
+      "last_updated": "2026-06-10T13:34:23.854543Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -32684,6 +32684,11 @@
         {
           "date": "2026-06-09",
           "price": 61.83,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 61.27,
           "shop": "Brickwatch"
         }
       ]
