@@ -34394,8 +34394,8 @@
     "75387": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 40,
-      "current_best_price": 41.99,
+      "buy_score": 25,
+      "current_best_price": 50.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75387-1.jpg",
       "label": "persoonlijk",
@@ -34418,12 +34418,12 @@
       "name": "Boarding the Tantive IV",
       "owned_by": 16513,
       "pieces": 502,
-      "price_score": 21,
+      "price_score": 8,
       "purchase_price": 35.99,
       "rating": 4.1,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 4,
@@ -34481,12 +34481,19 @@
           "date": "2026-05-14",
           "price": 41.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 50.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2025-11",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
-      "ean": "5702017584430"
+      "ean": "5702017584430",
+      "last_brickwatch_alert": "2026-06-10T07:34:21.548958Z",
+      "last_updated": "2026-06-10T07:34:21.548960Z"
     },
     "75388": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
