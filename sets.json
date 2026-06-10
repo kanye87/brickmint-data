@@ -4576,8 +4576,8 @@
     "21063": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 31,
-      "current_best_price": 174.97,
+      "buy_score": 34,
+      "current_best_price": 164.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -4586,7 +4586,7 @@
       "name": "Neuschwanstein Castle",
       "owned_by": 1879,
       "pieces": 3455,
-      "price_score": 31,
+      "price_score": 34,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4601,8 +4601,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-05-29T11:04:22.090439Z",
-      "last_updated": "2026-05-29T11:04:22.090446Z",
+      "last_brickwatch_alert": "2026-06-10T12:04:19.791023Z",
+      "last_updated": "2026-06-10T12:04:19.791027Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -4621,6 +4621,11 @@
         {
           "date": "2026-05-29",
           "price": 174.97,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 164.99,
           "shop": "Brickwatch"
         }
       ],
@@ -47329,7 +47334,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 119.99,
+      "current_best_price": 107.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -47362,13 +47367,13 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 25,
+      "price_score": 32,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 39,
+      "buy_score": 46,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47387,7 +47392,7 @@
         },
         {
           "date": "2026-06-10",
-          "price": 119.99,
+          "price": 107.99,
           "shop": "Brickwatch"
         }
       ],
@@ -47400,8 +47405,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-10T04:04:25.756669Z",
-      "last_updated": "2026-06-10T04:04:25.756672Z"
+      "last_brickwatch_alert": "2026-06-10T12:04:19.790810Z",
+      "last_updated": "2026-06-10T12:04:19.790820Z"
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
