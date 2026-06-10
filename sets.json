@@ -16629,19 +16629,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 46,
-      "current_best_price": 68.33,
+      "buy_score": 49,
+      "current_best_price": 65.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-29T08:34:16.495460Z",
-      "last_updated": "2026-05-29T08:34:16.495467Z",
+      "last_brickwatch_alert": "2026-06-10T04:04:25.756585Z",
+      "last_updated": "2026-06-10T04:04:25.756589Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 21,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -16693,6 +16693,11 @@
         {
           "date": "2026-05-29",
           "price": 68.33,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 65.89,
           "shop": "Brickwatch"
         }
       ],
@@ -24712,8 +24717,8 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 33,
-      "current_best_price": 44.99,
+      "buy_score": 35,
+      "current_best_price": 43.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -24722,7 +24727,7 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 22,
+      "price_score": 24,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -24737,8 +24742,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-06-08T06:04:20.121118Z",
-      "last_updated": "2026-06-08T06:04:20.121126Z",
+      "last_brickwatch_alert": "2026-06-10T04:04:25.756738Z",
+      "last_updated": "2026-06-10T04:04:25.756741Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24758,6 +24763,11 @@
         {
           "date": "2026-06-08",
           "price": 44.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 43.89,
           "shop": "Brickwatch"
         }
       ],
@@ -47262,7 +47272,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 121.66,
+      "current_best_price": 119.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -47295,13 +47305,13 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 24,
+      "price_score": 25,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 38,
+      "buy_score": 39,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47317,6 +47327,11 @@
           "date": "2026-06-09",
           "price": 121.66,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 119.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -47328,8 +47343,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-09T04:04:18.146050Z",
-      "last_updated": "2026-06-09T04:04:18.146051Z"
+      "last_brickwatch_alert": "2026-06-10T04:04:25.756669Z",
+      "last_updated": "2026-06-10T04:04:25.756672Z"
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -52067,8 +52082,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 56,
-      "current_best_price": 16.49,
+      "buy_score": 55,
+      "current_best_price": 16.68,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -52078,7 +52093,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 34,
+      "price_score": 33,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -52103,6 +52118,11 @@
           "date": "2026-06-01",
           "price": 16.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 16.68,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -52118,8 +52138,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-06-01T04:04:37.585994Z",
-      "last_updated": "2026-06-01T04:04:37.586009Z"
+      "last_brickwatch_alert": "2026-06-10T04:04:25.756429Z",
+      "last_updated": "2026-06-10T04:04:25.756439Z"
     },
     "77245": {
       "availability_score": 0,
