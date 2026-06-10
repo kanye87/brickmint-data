@@ -35704,8 +35704,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 38.99,
+      "buy_score": 40,
+      "current_best_price": 46.88,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -35714,7 +35714,7 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 35,
+      "price_score": 29,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -35751,10 +35751,15 @@
           "date": "2026-06-01",
           "price": 38.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 46.88,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T06:34:21.425908Z",
-      "last_updated": "2026-06-01T06:34:21.425910Z",
+      "last_brickwatch_alert": "2026-06-10T03:04:19.605996Z",
+      "last_updated": "2026-06-10T03:04:19.606011Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
