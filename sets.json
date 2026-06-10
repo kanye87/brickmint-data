@@ -4157,7 +4157,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 30,
-      "current_best_price": 55.99,
+      "current_best_price": 56.24,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -4183,8 +4183,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-06-09T04:04:18.145941Z",
-      "last_updated": "2026-06-09T04:04:18.145942Z",
+      "last_brickwatch_alert": "2026-06-10T08:34:18.234636Z",
+      "last_updated": "2026-06-10T08:34:18.234645Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -4218,6 +4218,11 @@
         {
           "date": "2026-06-09",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-10",
+          "price": 56.24,
           "shop": "Brickwatch"
         }
       ],
