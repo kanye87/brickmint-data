@@ -4615,8 +4615,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-06-10T12:04:19.791023Z",
-      "last_updated": "2026-06-10T12:04:19.791027Z",
+      "last_brickwatch_alert": "2026-06-11T04:34:20.121714Z",
+      "last_updated": "2026-06-11T04:34:20.121723Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -16380,7 +16380,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 51,
-      "current_best_price": 64.89,
+      "current_best_price": 65.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -16420,8 +16420,8 @@
           "value": 70.38
         }
       ],
-      "last_brickwatch_alert": "2026-06-05T10:04:23.921224Z",
-      "last_updated": "2026-06-05T10:04:23.921234Z",
+      "last_brickwatch_alert": "2026-06-11T04:34:20.122243Z",
+      "last_updated": "2026-06-11T04:34:20.122246Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -16463,6 +16463,11 @@
           "date": "2026-06-05",
           "price": 64.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-11",
+          "price": 65.49,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -16478,8 +16483,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 35,
-      "current_best_price": 54.95,
+      "buy_score": 43,
+      "current_best_price": 47.67,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -16488,7 +16493,7 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 27,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -16520,13 +16525,18 @@
           "date": "2026-05-29",
           "price": 54.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-11",
+          "price": 47.67,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-05-29T13:34:20.404869Z",
-      "last_updated": "2026-05-29T13:34:20.404878Z"
+      "last_brickwatch_alert": "2026-06-11T04:34:20.121951Z",
+      "last_updated": "2026-06-11T04:34:20.121955Z"
     },
     "43016": {
       "availability_score": 0,
@@ -45824,7 +45834,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 35,
-      "current_best_price": 94.99,
+      "current_best_price": 92.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -45848,8 +45858,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-05-30T12:04:18.716406Z",
-      "last_updated": "2026-05-30T12:04:18.716415Z",
+      "last_brickwatch_alert": "2026-06-11T04:34:20.122160Z",
+      "last_updated": "2026-06-11T04:34:20.122164Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -45875,6 +45885,11 @@
         {
           "date": "2026-05-30",
           "price": 94.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-11",
+          "price": 92.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45957,18 +45972,18 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-01T11:14:10Z",
       "buy_score": null,
-      "current_best_price": 69.55,
+      "current_best_price": 65.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-09T04:04:18.145889Z",
-      "last_updated": "2026-06-09T04:04:18.145892Z",
+      "last_brickwatch_alert": "2026-06-11T04:34:20.122080Z",
+      "last_updated": "2026-06-11T04:34:20.122085Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 24,
       "pieces": 534,
-      "price_score": 20,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -46009,6 +46024,11 @@
         {
           "date": "2026-06-09",
           "price": 69.55,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-11",
+          "price": 65.49,
           "shop": "Brickwatch"
         }
       ],
@@ -47458,8 +47478,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-10T12:04:19.790810Z",
-      "last_updated": "2026-06-10T12:04:19.790820Z"
+      "last_brickwatch_alert": "2026-06-11T04:34:20.121863Z",
+      "last_updated": "2026-06-11T04:34:20.121868Z"
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
