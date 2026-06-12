@@ -4516,8 +4516,8 @@
     "21062": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 28,
-      "current_best_price": 109.0,
+      "buy_score": 24,
+      "current_best_price": 115.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21062-1.jpg",
       "label": "investering",
@@ -4527,7 +4527,7 @@
       "name": "Trevi Fountain",
       "owned_by": 1865,
       "pieces": 1880,
-      "price_score": 28,
+      "price_score": 24,
       "rating": 4.2,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4542,8 +4542,8 @@
       "wanted_by": 1816,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-06-11T04:04:17.865718Z",
-      "last_updated": "2026-06-11T04:04:17.865727Z",
+      "last_brickwatch_alert": "2026-06-12T05:34:17.743428Z",
+      "last_updated": "2026-06-12T05:34:17.743433Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-01-14",
       "lego_availability": "Retail",
@@ -4572,6 +4572,11 @@
         {
           "date": "2026-06-11",
           "price": 109.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-12",
+          "price": 115.0,
           "shop": "Brickwatch"
         }
       ],
@@ -16389,8 +16394,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 51,
-      "current_best_price": 65.49,
+      "buy_score": 50,
+      "current_best_price": 67.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -16399,7 +16404,7 @@
       "name": "Scuderia Ferrari HP Charles Leclerc Helmet",
       "owned_by": 71,
       "pieces": 886,
-      "price_score": 24,
+      "price_score": 23,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 2,
@@ -16430,8 +16435,8 @@
           "value": 70.38
         }
       ],
-      "last_brickwatch_alert": "2026-06-11T04:34:20.122243Z",
-      "last_updated": "2026-06-11T04:34:20.122246Z",
+      "last_brickwatch_alert": "2026-06-12T05:34:17.743201Z",
+      "last_updated": "2026-06-12T05:34:17.743209Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -16477,6 +16482,11 @@
         {
           "date": "2026-06-11",
           "price": 65.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-12",
+          "price": 67.0,
           "shop": "Brickwatch"
         }
       ],
