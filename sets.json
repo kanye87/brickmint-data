@@ -32313,12 +32313,12 @@
     },
     "75350": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 89.95,
+      "current_best_price": 99.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75350-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-05-03T22:34:16.871464Z",
-      "last_updated": "2026-05-03T22:34:16.871470Z",
+      "last_brickwatch_alert": "2026-06-13T16:34:18.610804Z",
+      "last_updated": "2026-06-13T16:34:18.610811Z",
       "lowest_price_ever": null,
       "market_value": 84.19,
       "market_value_history": [
@@ -32375,6 +32375,11 @@
         {
           "date": "2026-05-14",
           "price": 89.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-13",
+          "price": 99.95,
           "shop": "Brickwatch"
         }
       ],
