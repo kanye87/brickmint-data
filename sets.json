@@ -8562,8 +8562,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 37,
-      "current_best_price": 147.96,
+      "buy_score": 38,
+      "current_best_price": 146.56,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -8572,7 +8572,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 24,
+      "price_score": 25,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -8587,8 +8587,8 @@
       "urgency_score": 3,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-05T04:04:15.702901Z",
-      "last_updated": "2026-06-05T04:04:15.702904Z",
+      "last_brickwatch_alert": "2026-06-13T04:04:15.879209Z",
+      "last_updated": "2026-06-13T04:04:15.879212Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -8623,6 +8623,11 @@
         {
           "date": "2026-06-05",
           "price": 147.96,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-13",
+          "price": 146.56,
           "shop": "Brickwatch"
         }
       ],
@@ -8740,7 +8745,18 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "minifig_list": []
+      "minifig_list": [],
+      "current_best_price": 75.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-06-13T04:04:15.879008Z",
+      "last_updated": "2026-06-13T04:04:15.879018Z",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 75.99,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "31217": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -30822,8 +30838,8 @@
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-01T08:04:23.048629Z",
-      "last_updated": "2026-06-01T08:04:23.048637Z"
+      "last_brickwatch_alert": "2026-06-13T04:04:15.879141Z",
+      "last_updated": "2026-06-13T04:04:15.879145Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -31093,8 +31109,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 37,
-      "current_best_price": 21.95,
+      "buy_score": 30,
+      "current_best_price": 24.43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -31104,12 +31120,12 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 32,
+      "price_score": 26,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 20,
@@ -31124,6 +31140,11 @@
         {
           "date": "2026-05-14",
           "price": 21.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-13",
+          "price": 24.43,
           "shop": "Brickwatch"
         }
       ],
@@ -31166,7 +31187,9 @@
       "sell_roi_score": 17,
       "sell_trend_score": 0,
       "sell_age_score": 1,
-      "sell_liquidity_score": 2
+      "sell_liquidity_score": 2,
+      "last_brickwatch_alert": "2026-06-13T04:04:15.879258Z",
+      "last_updated": "2026-06-13T04:04:15.879260Z"
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -51927,8 +51950,8 @@
     "77092": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 45,
-      "current_best_price": 276.43,
+      "buy_score": 43,
+      "current_best_price": 281.73,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -51938,7 +51961,7 @@
       "name": "Great Deku Tree 2-in-1",
       "owned_by": 2494,
       "pieces": 2500,
-      "price_score": 7,
+      "price_score": 5,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -51953,8 +51976,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-05-23T04:34:23.236295Z",
-      "last_updated": "2026-05-23T04:34:23.236305Z",
+      "last_brickwatch_alert": "2026-06-13T04:04:15.879302Z",
+      "last_updated": "2026-06-13T04:04:15.879304Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -51999,6 +52022,11 @@
         {
           "date": "2026-05-23",
           "price": 276.43,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-13",
+          "price": 281.73,
           "shop": "Brickwatch"
         }
       ]
