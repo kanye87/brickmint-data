@@ -34694,8 +34694,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 50,
-      "current_best_price": 122.99,
+      "buy_score": 48,
+      "current_best_price": 125.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -34705,7 +34705,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 28,
+      "price_score": 26,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -34719,8 +34719,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-12T04:04:16.855900Z",
-      "last_updated": "2026-06-12T04:04:16.855902Z",
+      "last_brickwatch_alert": "2026-06-13T05:04:20.284386Z",
+      "last_updated": "2026-06-13T05:04:20.284392Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -34794,6 +34794,11 @@
         {
           "date": "2026-06-12",
           "price": 122.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-13",
+          "price": 125.9,
           "shop": "Brickwatch"
         }
       ],
