@@ -35959,7 +35959,7 @@
     "75406": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 49,
+      "buy_score": 64,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75406-1.jpg",
       "label": "investering",
@@ -35968,7 +35968,7 @@
       "name": "Kylo Ren's Command Shuttle",
       "owned_by": 2154,
       "pieces": 386,
-      "price_score": 20,
+      "price_score": 35,
       "purchase_price": 52.49,
       "rating": 3.7,
       "retirement_date": "2026-12-31",
@@ -35989,13 +35989,18 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017824574",
-      "current_best_price": 59.99,
-      "last_brickwatch_alert": "2026-06-01T04:04:37.586539Z",
-      "last_updated": "2026-06-01T04:04:37.586543Z",
+      "current_best_price": 52.49,
+      "last_brickwatch_alert": "2026-06-15T23:04:25.563471Z",
+      "last_updated": "2026-06-15T23:04:25.563477Z",
       "price_history": [
         {
           "date": "2026-06-01",
           "price": 59.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-15",
+          "price": 52.49,
           "shop": "Brickwatch"
         }
       ]
