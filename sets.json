@@ -4014,20 +4014,20 @@
     "11370": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 37,
-      "current_best_price": 218.28,
+      "buy_score": 34,
+      "current_best_price": 229.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11370-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-15T00:34:22.762250Z",
-      "last_updated": "2026-06-15T00:34:22.762259Z",
+      "last_brickwatch_alert": "2026-06-15T09:04:22.431102Z",
+      "last_updated": "2026-06-15T09:04:22.431106Z",
       "lowest_price_ever": null,
       "minifigs": 13,
       "msrp": 279.99,
       "name": "Stranger Things: The Creel House",
       "owned_by": 2146,
       "pieces": 2593,
-      "price_score": 19,
+      "price_score": 16,
       "rating": 4.2,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4094,7 +4094,7 @@
         },
         {
           "date": "2026-06-15",
-          "price": 218.28,
+          "price": 229.99,
           "shop": "Brickwatch"
         }
       ],
@@ -25015,9 +25015,9 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 53,
-      "current_best_price": 38.49,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 47,
+      "current_best_price": 41.95,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
       "lowest_price_ever": 38.49,
@@ -25025,7 +25025,7 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -25039,8 +25039,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-06-03T14:34:19.646925Z",
-      "last_updated": "2026-06-06T08:26:08.986504Z",
+      "last_brickwatch_alert": "2026-06-15T09:04:22.430891Z",
+      "last_updated": "2026-06-15T09:04:22.430900Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -25062,6 +25062,11 @@
           "date": "2026-06-06",
           "price": 38.49,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-06-15",
+          "price": 41.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
