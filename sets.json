@@ -2158,8 +2158,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 33,
-      "current_best_price": 56.04,
+      "buy_score": 31,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2169,7 +2169,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 30,
+      "price_score": 28,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2192,8 +2192,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-09T04:04:18.145822Z",
-      "last_updated": "2026-06-09T04:04:18.145825Z",
+      "last_brickwatch_alert": "2026-06-17T11:04:30.327852Z",
+      "last_updated": "2026-06-17T11:04:30.327855Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -2212,6 +2212,11 @@
         {
           "date": "2026-06-09",
           "price": 56.04,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-17",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ]
@@ -31207,8 +31212,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 30,
-      "current_best_price": 24.43,
+      "buy_score": 29,
+      "current_best_price": 24.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -31218,7 +31223,7 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 26,
+      "price_score": 25,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
@@ -31243,6 +31248,11 @@
         {
           "date": "2026-06-13",
           "price": 24.43,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-17",
+          "price": 24.79,
           "shop": "Brickwatch"
         }
       ],
@@ -31290,8 +31300,8 @@
       "sell_trend_score": 7,
       "sell_age_score": 1,
       "sell_liquidity_score": 1,
-      "last_brickwatch_alert": "2026-06-13T04:04:15.879258Z",
-      "last_updated": "2026-06-13T04:04:15.879260Z"
+      "last_brickwatch_alert": "2026-06-17T11:04:30.327686Z",
+      "last_updated": "2026-06-17T11:04:30.327694Z"
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
