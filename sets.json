@@ -25026,9 +25026,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 138.88,
-      "last_brickwatch_alert": "2026-06-11T07:34:18.514077Z",
-      "last_updated": "2026-06-11T07:34:18.514087Z",
+      "current_best_price": 139.0,
+      "last_brickwatch_alert": "2026-06-17T20:04:30.663850Z",
+      "last_updated": "2026-06-17T20:04:30.663860Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -25064,6 +25064,11 @@
         {
           "date": "2026-06-03",
           "price": 138.88,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-17",
+          "price": 139.0,
           "shop": "Brickwatch"
         }
       ],
