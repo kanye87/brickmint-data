@@ -21561,8 +21561,8 @@
     "71039": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 67,
-      "current_best_price": 2.99,
+      "buy_score": 29,
+      "current_best_price": 5.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71039-1.jpg",
       "label": "investering",
@@ -21585,11 +21585,11 @@
       "name": "Marvel Studios Series 2",
       "owned_by": 5112,
       "pieces": 11,
-      "price_score": 33,
+      "price_score": 0,
       "rating": 4.1,
       "retirement_date": "2023-12-31",
       "retirement_status": "retired",
-      "roi_score": 9,
+      "roi_score": 4,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -21604,6 +21604,11 @@
         {
           "date": "2026-05-14",
           "price": 2.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-18",
+          "price": 5.95,
           "shop": "Brickwatch"
         }
       ],
@@ -21695,7 +21700,9 @@
       ],
       "expected_retirement": "2023-12",
       "date_first_available": "2023-09-01",
-      "lego_availability": "Retail"
+      "lego_availability": "Retail",
+      "last_brickwatch_alert": "2026-06-18T13:04:21.820701Z",
+      "last_updated": "2026-06-18T13:04:21.820705Z"
     },
     "71040": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -22595,8 +22602,8 @@
     "71426": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 63,
-      "current_best_price": 39.99,
+      "buy_score": 50,
+      "current_best_price": 49.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71426-1.jpg",
       "label": "persoonlijk",
@@ -22605,7 +22612,7 @@
       "name": "Piranha Plant",
       "owned_by": 6932,
       "pieces": 540,
-      "price_score": 35,
+      "price_score": 22,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
@@ -22622,12 +22629,17 @@
       "wanted_by": 1509,
       "year": 2023,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-super-mario-71426-piranha-plant-laagste-prijs-ooit-3847-korting-tov-adviesprijs-6499-402846",
-      "last_updated": "2026-05-13T04:04:29.091083Z",
-      "last_brickwatch_alert": "2026-05-13T04:04:29.091077Z",
+      "last_updated": "2026-06-18T13:04:21.820486Z",
+      "last_brickwatch_alert": "2026-06-18T13:04:21.820475Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-18",
+          "price": 49.49,
           "shop": "Brickwatch"
         }
       ],
