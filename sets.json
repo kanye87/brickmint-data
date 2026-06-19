@@ -30942,7 +30942,7 @@
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
-      "current_best_price": 41.99,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-04",
       "ean": "5702017155548",
@@ -30974,13 +30974,13 @@
       "wanted_by": 2256,
       "year": 2022,
       "subtheme": "Helmet Collection",
-      "price_score": 35,
+      "price_score": 32,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 49,
+      "buy_score": 46,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -30991,11 +30991,16 @@
           "date": "2026-06-01",
           "price": 41.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-19",
+          "price": 44.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-13T04:04:15.879141Z",
-      "last_updated": "2026-06-13T04:04:15.879145Z"
+      "last_brickwatch_alert": "2026-06-19T03:34:15.479136Z",
+      "last_updated": "2026-06-19T03:34:15.479144Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
