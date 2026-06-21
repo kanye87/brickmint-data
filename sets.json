@@ -1853,12 +1853,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 199.99,
+      "current_best_price": 209.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-06-01T06:34:21.425741Z",
-      "last_updated": "2026-06-01T06:34:21.425744Z",
+      "last_brickwatch_alert": "2026-06-21T23:04:19.983287Z",
+      "last_updated": "2026-06-21T23:04:19.983291Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -1927,6 +1927,11 @@
         {
           "date": "2026-06-01",
           "price": 199.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 209.99,
           "shop": "Brickwatch"
         }
       ]
@@ -3710,8 +3715,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 28,
-      "current_best_price": 55.99,
+      "buy_score": 25,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -3720,7 +3725,7 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 18,
+      "price_score": 15,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -3734,8 +3739,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-15T08:34:32.651453Z",
-      "last_updated": "2026-06-15T08:34:32.651461Z",
+      "last_brickwatch_alert": "2026-06-21T23:04:19.982936Z",
+      "last_updated": "2026-06-21T23:04:19.982943Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -3756,6 +3761,11 @@
         {
           "date": "2026-06-15",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ]
@@ -30977,7 +30987,7 @@
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
-      "current_best_price": 41.99,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-04",
       "ean": "5702017155548",
@@ -31009,13 +31019,13 @@
       "wanted_by": 2256,
       "year": 2022,
       "subtheme": "Helmet Collection",
-      "price_score": 35,
+      "price_score": 32,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 49,
+      "buy_score": 46,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -31031,11 +31041,16 @@
           "date": "2026-06-19",
           "price": 41.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 44.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-19T08:34:22.290673Z",
-      "last_updated": "2026-06-19T08:34:22.290681Z"
+      "last_brickwatch_alert": "2026-06-21T23:04:19.983442Z",
+      "last_updated": "2026-06-21T23:04:19.983447Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -33647,8 +33662,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 47,
-      "current_best_price": 479.99,
+      "buy_score": 44,
+      "current_best_price": 499.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -33658,7 +33673,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 23,
+      "price_score": 20,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -33703,14 +33718,19 @@
           "date": "2026-06-09",
           "price": 479.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 499.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-06-09T15:04:21.989276Z",
-      "last_updated": "2026-06-09T15:04:21.989286Z"
+      "last_brickwatch_alert": "2026-06-21T23:04:19.983061Z",
+      "last_updated": "2026-06-21T23:04:19.983065Z"
     },
     "75368": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -35657,8 +35677,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 37,
-      "current_best_price": 88.99,
+      "buy_score": 34,
+      "current_best_price": 93.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -35668,7 +35688,7 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 34,
+      "price_score": 31,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -35682,8 +35702,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-01T07:04:17.407364Z",
-      "last_updated": "2026-06-01T07:04:17.407378Z",
+      "last_brickwatch_alert": "2026-06-21T23:04:19.983143Z",
+      "last_updated": "2026-06-21T23:04:19.983146Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -35712,6 +35732,11 @@
         {
           "date": "2026-06-01",
           "price": 88.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 93.99,
           "shop": "Brickwatch"
         }
       ],
