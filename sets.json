@@ -36659,8 +36659,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 91.99,
+      "buy_score": 43,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -36670,7 +36670,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 20,
+      "price_score": 14,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -36726,6 +36726,11 @@
           "date": "2026-06-01",
           "price": 91.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 109.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -36733,8 +36738,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-06-18T20:04:19.856568Z",
-      "last_brickwatch_alert": "2026-06-18T20:04:19.856558Z"
+      "last_updated": "2026-06-21T04:34:21.627789Z",
+      "last_brickwatch_alert": "2026-06-21T04:34:21.627781Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
