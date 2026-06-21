@@ -16237,12 +16237,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 30,
-      "current_best_price": 171.99,
+      "current_best_price": 171.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-19T04:04:18.813280Z",
-      "last_updated": "2026-06-19T04:04:18.813282Z",
+      "last_brickwatch_alert": "2026-06-21T04:04:18.215195Z",
+      "last_updated": "2026-06-21T04:04:18.215198Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
@@ -16306,6 +16306,11 @@
         {
           "date": "2026-06-19",
           "price": 171.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 171.98,
           "shop": "Brickwatch"
         }
       ],
@@ -53346,7 +53351,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 63,
-      "current_best_price": 20.35,
+      "current_best_price": 20.46,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -53379,8 +53384,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-20T04:04:56.488998Z",
-      "last_updated": "2026-06-20T04:04:56.489001Z",
+      "last_brickwatch_alert": "2026-06-21T04:04:18.215062Z",
+      "last_updated": "2026-06-21T04:04:18.215071Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53435,6 +53440,11 @@
         {
           "date": "2026-06-20",
           "price": 20.35,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-21",
+          "price": 20.46,
           "shop": "Brickwatch"
         }
       ],
