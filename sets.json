@@ -15206,8 +15206,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 49,
-      "current_best_price": 150.99,
+      "buy_score": 57,
+      "current_best_price": 132.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -15216,7 +15216,7 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 27,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -15231,8 +15231,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-06-17T04:04:18.925583Z",
-      "last_updated": "2026-06-17T04:04:18.925592Z",
+      "last_brickwatch_alert": "2026-06-22T04:04:21.173324Z",
+      "last_updated": "2026-06-22T04:04:21.173333Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -15257,6 +15257,11 @@
         {
           "date": "2026-06-17",
           "price": 150.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 132.8,
           "shop": "Brickwatch"
         }
       ],
@@ -35758,8 +35763,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 55,
-      "current_best_price": 44.99,
+      "buy_score": 56,
+      "current_best_price": 44.1,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -35769,7 +35774,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 26,
+      "price_score": 27,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -35783,8 +35788,8 @@
       "urgency_score": 14,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-09T11:04:20.847986Z",
-      "last_updated": "2026-06-09T11:04:20.847996Z",
+      "last_brickwatch_alert": "2026-06-22T04:04:21.173550Z",
+      "last_updated": "2026-06-22T04:04:21.173553Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -35866,6 +35871,11 @@
         {
           "date": "2026-06-09",
           "price": 44.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 44.1,
           "shop": "Brickwatch"
         }
       ],
@@ -37207,8 +37217,8 @@
     "75419": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 25,
-      "current_best_price": 828.69,
+      "buy_score": 27,
+      "current_best_price": 807.97,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75419-1.jpg",
       "label": "investering",
@@ -37218,7 +37228,7 @@
       "name": "Death Star",
       "owned_by": 2092,
       "pieces": 9023,
-      "price_score": 15,
+      "price_score": 17,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -37469,8 +37479,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-15T04:04:25.771673Z",
-      "last_updated": "2026-06-15T04:04:25.771675Z",
+      "last_brickwatch_alert": "2026-06-22T04:04:21.173482Z",
+      "last_updated": "2026-06-22T04:04:21.173484Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -37490,6 +37500,11 @@
         {
           "date": "2026-06-15",
           "price": 828.69,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 807.97,
           "shop": "Brickwatch"
         }
       ],
@@ -37719,8 +37734,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
-      "current_best_price": 25.99,
+      "buy_score": 41,
+      "current_best_price": 29.47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -37730,7 +37745,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 30,
+      "price_score": 23,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -37744,8 +37759,8 @@
       "urgency_score": 3,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-01T07:34:17.257933Z",
-      "last_updated": "2026-06-01T07:34:17.257942Z",
+      "last_brickwatch_alert": "2026-06-22T04:04:21.173601Z",
+      "last_updated": "2026-06-22T04:04:21.173603Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -37781,6 +37796,11 @@
         {
           "date": "2026-06-01",
           "price": 25.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 29.47,
           "shop": "Brickwatch"
         }
       ],
@@ -53416,7 +53436,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 63,
-      "current_best_price": 20.46,
+      "current_best_price": 20.28,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -53449,8 +53469,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-21T04:04:18.215062Z",
-      "last_updated": "2026-06-21T04:04:18.215071Z",
+      "last_brickwatch_alert": "2026-06-22T04:04:21.173645Z",
+      "last_updated": "2026-06-22T04:04:21.173646Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53510,6 +53530,11 @@
         {
           "date": "2026-06-21",
           "price": 20.46,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 20.28,
           "shop": "Brickwatch"
         }
       ],
