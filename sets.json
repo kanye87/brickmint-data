@@ -36858,19 +36858,19 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
-      "current_best_price": 55.99,
+      "buy_score": 33,
+      "current_best_price": 66.3,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-06-15T10:04:19.941201Z",
-      "last_updated": "2026-06-15T10:04:19.941206Z",
+      "last_brickwatch_alert": "2026-06-22T08:34:17.620678Z",
+      "last_updated": "2026-06-22T08:34:17.620687Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 18,
+      "price_score": 4,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -36953,6 +36953,11 @@
         {
           "date": "2026-06-15",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 66.3,
           "shop": "Brickwatch"
         }
       ],
@@ -44733,8 +44738,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
-      "current_best_price": 281.73,
+      "buy_score": 43,
+      "current_best_price": 289.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -44744,7 +44749,7 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 8,
+      "price_score": 4,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -44852,7 +44857,7 @@
         },
         {
           "date": "2026-06-22",
-          "price": 281.73,
+          "price": 289.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44982,8 +44987,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-76300-dc-batman-arkham-asylum-404619",
-      "last_updated": "2026-06-22T01:34:21.992823Z",
-      "last_brickwatch_alert": "2026-06-22T01:34:21.992774Z"
+      "last_updated": "2026-06-22T08:34:17.620901Z",
+      "last_brickwatch_alert": "2026-06-22T08:34:17.620897Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
