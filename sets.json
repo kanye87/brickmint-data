@@ -37020,8 +37020,8 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 65,
-      "current_best_price": 139.99,
+      "buy_score": 64,
+      "current_best_price": 141.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -37031,7 +37031,7 @@
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 27,
+      "price_score": 26,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
@@ -37045,8 +37045,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-21T23:34:21.477969Z",
-      "last_updated": "2026-06-21T23:34:21.477978Z",
+      "last_brickwatch_alert": "2026-06-22T05:04:23.686148Z",
+      "last_updated": "2026-06-22T05:04:23.686156Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -37070,6 +37070,11 @@
         {
           "date": "2026-06-21",
           "price": 139.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-22",
+          "price": 141.99,
           "shop": "Brickwatch"
         }
       ],
