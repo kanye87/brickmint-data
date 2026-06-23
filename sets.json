@@ -33025,10 +33025,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 62.02,
+      "current_best_price": 62.04,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-06-22T00:34:21.251176Z",
-      "last_updated": "2026-06-22T00:34:21.251184Z",
+      "last_brickwatch_alert": "2026-06-23T00:04:18.997650Z",
+      "last_updated": "2026-06-23T00:04:18.997658Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -33130,6 +33130,11 @@
         {
           "date": "2026-06-22",
           "price": 62.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 62.04,
           "shop": "Brickwatch"
         }
       ]
@@ -33968,8 +33973,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 52,
-      "current_best_price": 19.19,
+      "buy_score": 54,
+      "current_best_price": 18.48,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -33979,7 +33984,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 30,
+      "price_score": 32,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -34046,14 +34051,19 @@
           "date": "2026-06-16",
           "price": 19.19,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 18.48,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-06-16T04:04:25.350508Z",
-      "last_updated": "2026-06-16T04:04:25.350511Z"
+      "last_brickwatch_alert": "2026-06-23T00:04:18.997885Z",
+      "last_updated": "2026-06-23T00:04:18.997889Z"
     },
     "75373": {
       "availability_score": 0,
@@ -37780,8 +37790,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 41,
-      "current_best_price": 29.47,
+      "buy_score": 46,
+      "current_best_price": 26.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -37791,7 +37801,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 23,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -37805,8 +37815,8 @@
       "urgency_score": 3,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-22T04:04:21.173601Z",
-      "last_updated": "2026-06-22T04:04:21.173603Z",
+      "last_brickwatch_alert": "2026-06-23T00:04:18.997971Z",
+      "last_updated": "2026-06-23T00:04:18.997974Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -37847,6 +37857,11 @@
         {
           "date": "2026-06-22",
           "price": 29.47,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 26.99,
           "shop": "Brickwatch"
         }
       ],
@@ -53071,8 +53086,8 @@
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 43,
-      "current_best_price": 17.99,
+      "buy_score": 46,
+      "current_best_price": 16.63,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -53082,7 +53097,7 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4903,
       "pieces": 269,
-      "price_score": 21,
+      "price_score": 24,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -53106,8 +53121,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-18T08:04:22.799342Z",
-      "last_updated": "2026-06-18T08:04:22.799345Z",
+      "last_brickwatch_alert": "2026-06-23T00:04:18.998106Z",
+      "last_updated": "2026-06-23T00:04:18.998110Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53127,6 +53142,11 @@
         {
           "date": "2026-06-18",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 16.63,
           "shop": "Brickwatch"
         }
       ],
