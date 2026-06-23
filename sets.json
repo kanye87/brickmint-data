@@ -2168,8 +2168,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 31,
-      "current_best_price": 57.99,
+      "buy_score": 37,
+      "current_best_price": 52.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2179,7 +2179,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 28,
+      "price_score": 34,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2202,8 +2202,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-17T11:04:30.327852Z",
-      "last_updated": "2026-06-17T11:04:30.327855Z",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.127076Z",
+      "last_updated": "2026-06-23T04:34:19.127079Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -2227,6 +2227,11 @@
         {
           "date": "2026-06-17",
           "price": 57.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 52.59,
           "shop": "Brickwatch"
         }
       ]
@@ -3589,8 +3594,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 24,
-      "current_best_price": 87.99,
+      "buy_score": 25,
+      "current_best_price": 84.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -3600,7 +3605,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 24,
+      "price_score": 25,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -3615,8 +3620,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-06-16T04:04:25.350451Z",
-      "last_updated": "2026-06-16T04:04:25.350453Z",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.127146Z",
+      "last_updated": "2026-06-23T04:34:19.127149Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -3673,6 +3678,11 @@
         {
           "date": "2026-06-16",
           "price": 87.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 84.99,
           "shop": "Brickwatch"
         }
       ]
@@ -15453,8 +15463,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 170.99,
+      "buy_score": 53,
+      "current_best_price": 161.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -15463,7 +15473,7 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 28,
+      "price_score": 31,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -15477,8 +15487,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-17T04:04:18.925795Z",
-      "last_updated": "2026-06-17T04:04:18.925797Z",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.126992Z",
+      "last_updated": "2026-06-23T04:34:19.126995Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -15519,6 +15529,11 @@
         {
           "date": "2026-06-17",
           "price": 170.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 161.99,
           "shop": "Brickwatch"
         }
       ],
@@ -23737,6 +23752,17 @@
           "unique": false,
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-016114/163072.jpg"
+        }
+      ],
+      "current_best_price": 61.74,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.126925Z",
+      "last_updated": "2026-06-23T04:34:19.126928Z",
+      "price_history": [
+        {
+          "date": "2026-06-23",
+          "price": 61.74,
+          "shop": "Brickwatch"
         }
       ]
     },
@@ -34834,8 +34860,8 @@
     "75386": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 35,
-      "current_best_price": 29.99,
+      "buy_score": 27,
+      "current_best_price": 33.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75386-1.jpg",
       "label": "investering",
@@ -34858,11 +34884,11 @@
       "name": "Paz Vizsla and Moff Gideon Battle",
       "owned_by": 10667,
       "pieces": 289,
-      "price_score": 16,
+      "price_score": 10,
       "rating": 3.8,
       "retirement_date": "2025-12-06",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -34893,12 +34919,17 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-05-11T16:34:32.889133Z",
-      "last_updated": "2026-05-11T16:34:32.889142Z",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.126409Z",
+      "last_updated": "2026-06-23T04:34:19.126418Z",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 29.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 33.99,
           "shop": "Brickwatch"
         }
       ],
@@ -46351,6 +46382,17 @@
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-016608/165474.jpg"
         }
+      ],
+      "current_best_price": 75.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-06-23T04:34:19.126857Z",
+      "last_updated": "2026-06-23T04:34:19.126860Z",
+      "price_history": [
+        {
+          "date": "2026-06-23",
+          "price": 75.99,
+          "shop": "Brickwatch"
+        }
       ]
     },
     "76326": {
@@ -49734,17 +49776,23 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-017220/166331.jpg"
         }
       ],
-      "current_best_price": 99.99,
-      "current_best_shop": "Amazon.nl",
+      "current_best_price": 53.19,
+      "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76467-huis-van-loena-of-76463-zweinstein-ziekenzaal-setje-ongeveer-41-korting-tov-adviesprijs-9999-408160",
-      "last_updated": "2026-06-16T10:57:56.046891Z",
+      "last_updated": "2026-06-23T04:34:19.126779Z",
       "price_history": [
         {
           "date": "2026-06-16",
           "price": 99.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-06-23",
+          "price": 53.19,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-06-23T04:34:19.126775Z"
     },
     "76895": {
       "brickset_last_enriched": "2026-05-14T08:30:10Z",
