@@ -4675,9 +4675,9 @@
     "21063": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 34,
-      "current_best_price": 164.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 30,
+      "current_best_price": 178.59,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -4685,7 +4685,7 @@
       "name": "Neuschwanstein Castle",
       "owned_by": 1879,
       "pieces": 3455,
-      "price_score": 34,
+      "price_score": 30,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4700,8 +4700,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-06-21T23:34:21.478197Z",
-      "last_updated": "2026-06-22T11:39:33.774209Z",
+      "last_brickwatch_alert": "2026-06-24T04:04:17.667830Z",
+      "last_updated": "2026-06-24T04:04:17.667832Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -4736,6 +4736,11 @@
           "date": "2026-06-22",
           "price": 164.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 178.59,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -8664,8 +8669,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 37,
-      "current_best_price": 148.5,
+      "buy_score": 41,
+      "current_best_price": 139.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -8674,7 +8679,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 24,
+      "price_score": 28,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -8689,8 +8694,8 @@
       "urgency_score": 3,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-20T04:04:56.488913Z",
-      "last_updated": "2026-06-20T04:04:56.488918Z",
+      "last_brickwatch_alert": "2026-06-24T04:04:17.668037Z",
+      "last_updated": "2026-06-24T04:04:17.668041Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -8740,6 +8745,11 @@
         {
           "date": "2026-06-20",
           "price": 148.5,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 139.99,
           "shop": "Brickwatch"
         }
       ],
@@ -24782,7 +24792,7 @@
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 56,
       "current_best_price": 105.99,
-      "current_best_shop": "Amazon.nl",
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
       "lowest_price_ever": 105.99,
@@ -24804,8 +24814,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-22T15:04:25.770952Z",
-      "last_updated": "2026-06-23T16:23:13.887662Z",
+      "last_brickwatch_alert": "2026-06-24T04:04:17.667958Z",
+      "last_updated": "2026-06-24T04:04:17.667961Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -24847,6 +24857,11 @@
           "date": "2026-06-23",
           "price": 105.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 105.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -36850,8 +36865,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 43,
-      "current_best_price": 109.99,
+      "buy_score": 45,
+      "current_best_price": 103.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -36861,7 +36876,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 14,
+      "price_score": 16,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -36922,6 +36937,11 @@
           "date": "2026-06-21",
           "price": 109.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 103.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -36929,8 +36949,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-06-21T04:34:21.627789Z",
-      "last_brickwatch_alert": "2026-06-21T04:34:21.627781Z"
+      "last_updated": "2026-06-24T04:04:17.668109Z",
+      "last_brickwatch_alert": "2026-06-24T04:04:17.668106Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -48243,7 +48263,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 107.99,
+      "current_best_price": 113.93,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -48276,13 +48296,13 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 32,
+      "price_score": 29,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 46,
+      "buy_score": 43,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -48303,6 +48323,11 @@
           "date": "2026-06-10",
           "price": 107.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 113.93,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -48314,8 +48339,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-11T04:34:20.121863Z",
-      "last_updated": "2026-06-11T04:34:20.121868Z"
+      "last_brickwatch_alert": "2026-06-24T04:04:17.668166Z",
+      "last_updated": "2026-06-24T04:04:17.668169Z"
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
