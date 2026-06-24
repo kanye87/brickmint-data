@@ -15940,12 +15940,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 38,
-      "current_best_price": 145.81,
+      "current_best_price": 145.63,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-06-23T21:34:21.562057Z",
-      "last_updated": "2026-06-23T21:34:21.562070Z",
+      "last_brickwatch_alert": "2026-06-24T08:34:25.793606Z",
+      "last_updated": "2026-06-24T08:34:25.793611Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
@@ -15996,6 +15996,11 @@
         {
           "date": "2026-06-23",
           "price": 145.81,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 145.63,
           "shop": "Brickwatch"
         }
       ],
@@ -37020,19 +37025,19 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 36,
-      "current_best_price": 64.64,
+      "buy_score": 32,
+      "current_best_price": 68.24,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-06-23T10:34:21.556924Z",
-      "last_updated": "2026-06-23T10:34:21.556937Z",
+      "last_brickwatch_alert": "2026-06-24T08:34:25.793332Z",
+      "last_updated": "2026-06-24T08:34:25.793343Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 7,
+      "price_score": 3,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -37125,6 +37130,11 @@
         {
           "date": "2026-06-23",
           "price": 64.64,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 68.24,
           "shop": "Brickwatch"
         }
       ],
