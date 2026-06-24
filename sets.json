@@ -35370,8 +35370,8 @@
     "75392": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 19,
-      "current_best_price": 94.99,
+      "buy_score": 26,
+      "current_best_price": 89.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75392-1.jpg",
       "label": "investering",
@@ -35394,11 +35394,11 @@
       "name": "Creative Play Droid Builder",
       "owned_by": 3333,
       "pieces": 1186,
-      "price_score": 4,
+      "price_score": 9,
       "rating": 3.3,
       "retirement_date": "2025-10-13",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -35428,12 +35428,19 @@
           "date": "2026-05-14",
           "price": 94.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-24",
+          "price": 89.95,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2025-10",
       "date_first_available": "2024-06-29",
       "lego_availability": "Retail",
-      "ean": "5702017600284"
+      "ean": "5702017600284",
+      "last_brickwatch_alert": "2026-06-24T09:04:17.407244Z",
+      "last_updated": "2026-06-24T09:04:17.407253Z"
     },
     "75393": {
       "availability_score": 0,
