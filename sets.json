@@ -38211,20 +38211,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 42,
-      "current_best_price": 93.8,
+      "buy_score": 43,
+      "current_best_price": 91.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-25T04:34:18.009791Z",
-      "last_updated": "2026-06-25T04:34:18.009793Z",
+      "last_brickwatch_alert": "2026-06-25T22:34:16.279497Z",
+      "last_updated": "2026-06-25T22:34:16.279503Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -38294,7 +38294,7 @@
         },
         {
           "date": "2026-06-25",
-          "price": 93.8,
+          "price": 91.99,
           "shop": "Brickwatch"
         }
       ],
@@ -38362,8 +38362,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 40,
-      "current_best_price": 37.47,
+      "buy_score": 37,
+      "current_best_price": 38.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -38372,7 +38372,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 22,
+      "price_score": 19,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -38390,8 +38390,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-06-24T12:34:20.596607Z",
-      "last_updated": "2026-06-24T12:34:20.596619Z",
+      "last_brickwatch_alert": "2026-06-25T22:34:16.279750Z",
+      "last_updated": "2026-06-25T22:34:16.279754Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -38431,6 +38431,11 @@
         {
           "date": "2026-06-24",
           "price": 37.47,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 38.95,
           "shop": "Brickwatch"
         }
       ],
@@ -44989,8 +44994,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 276.12,
+      "buy_score": 47,
+      "current_best_price": 281.73,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -45000,7 +45005,7 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 10,
+      "price_score": 8,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -45114,6 +45119,11 @@
         {
           "date": "2026-06-24",
           "price": 276.12,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 281.73,
           "shop": "Brickwatch"
         }
       ],
@@ -45243,8 +45253,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-76300-dc-batman-arkham-asylum-404619",
-      "last_updated": "2026-06-24T23:34:18.535478Z",
-      "last_brickwatch_alert": "2026-06-24T23:34:18.535474Z"
+      "last_updated": "2026-06-25T22:34:16.279606Z",
+      "last_brickwatch_alert": "2026-06-25T22:34:16.279601Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
