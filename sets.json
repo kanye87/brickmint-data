@@ -4529,11 +4529,11 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 160.99,
+      "current_best_price": 142.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 144.9,
+      "lowest_price_ever": 142.49,
       "msrp": 229.99,
       "name": "Notre-Dame de Paris",
       "owned_by": 4252,
@@ -4582,11 +4582,16 @@
           "date": "2026-06-17",
           "price": 160.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 142.49,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-17T06:34:26.808101Z",
-      "last_updated": "2026-06-17T06:34:26.808110Z"
+      "last_brickwatch_alert": "2026-06-25T04:34:17.710565Z",
+      "last_updated": "2026-06-25T04:34:17.710569Z"
     },
     "21062": {
       "availability_score": 0,
@@ -16261,17 +16266,23 @@
       "score_quality": null,
       "buy_score": null,
       "minifig_list": [],
-      "current_best_price": 106.99,
-      "current_best_shop": "Amazon.nl",
+      "current_best_price": 106.3,
+      "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-lamborghini-revuelto-supersportwagen-42214-409071",
-      "last_updated": "2026-06-23T09:25:47.691145Z",
+      "last_updated": "2026-06-25T04:34:18.009708Z",
       "price_history": [
         {
           "date": "2026-06-23",
           "price": 106.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 106.3,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-06-25T04:34:18.009707Z"
     },
     "42215": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -36903,8 +36914,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 45,
-      "current_best_price": 103.99,
+      "buy_score": 52,
+      "current_best_price": 85.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -36914,7 +36925,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 16,
+      "price_score": 23,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -36980,6 +36991,11 @@
           "date": "2026-06-24",
           "price": 103.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 85.49,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -36987,8 +37003,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-06-24T04:04:17.668109Z",
-      "last_brickwatch_alert": "2026-06-24T04:04:17.668106Z"
+      "last_updated": "2026-06-25T04:34:17.710459Z",
+      "last_brickwatch_alert": "2026-06-25T04:34:17.710452Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -38185,20 +38201,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 37,
-      "current_best_price": 101.68,
+      "buy_score": 42,
+      "current_best_price": 93.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-23T01:04:17.303297Z",
-      "last_updated": "2026-06-23T01:04:17.303306Z",
+      "last_brickwatch_alert": "2026-06-25T04:34:18.009791Z",
+      "last_updated": "2026-06-25T04:34:18.009793Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 26,
+      "price_score": 31,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -38264,6 +38280,11 @@
         {
           "date": "2026-06-23",
           "price": 101.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 93.8,
           "shop": "Brickwatch"
         }
       ],
