@@ -4529,7 +4529,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 142.49,
+      "current_best_price": 160.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -4585,13 +4585,13 @@
         },
         {
           "date": "2026-06-25",
-          "price": 142.49,
+          "price": 160.99,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-25T04:34:17.710565Z",
-      "last_updated": "2026-06-25T04:34:17.710569Z"
+      "last_brickwatch_alert": "2026-06-25T23:34:15.455759Z",
+      "last_updated": "2026-06-25T23:34:15.455765Z"
     },
     "21062": {
       "availability_score": 0,
@@ -34591,20 +34591,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 30,
-      "current_best_price": 64.99,
+      "buy_score": 33,
+      "current_best_price": 60.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-03T20:34:22.370662Z",
-      "last_updated": "2026-06-03T20:34:22.370668Z",
+      "last_brickwatch_alert": "2026-06-25T23:34:15.455939Z",
+      "last_updated": "2026-06-25T23:34:15.455943Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 27,
+      "price_score": 30,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -34648,6 +34648,11 @@
         {
           "date": "2026-06-01",
           "price": 64.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-25",
+          "price": 60.99,
           "shop": "Brickwatch"
         }
       ],
