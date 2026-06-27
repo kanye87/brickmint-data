@@ -54071,8 +54071,8 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 37,
-      "current_best_price": 77.95,
+      "buy_score": 38,
+      "current_best_price": 77.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
@@ -54081,7 +54081,7 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 19,
+      "price_score": 20,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -54094,8 +54094,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-06-19T16:04:20.240844Z",
-      "last_updated": "2026-06-19T16:04:20.240852Z",
+      "last_brickwatch_alert": "2026-06-27T19:34:17.334736Z",
+      "last_updated": "2026-06-27T19:34:17.334748Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -54142,6 +54142,11 @@
         {
           "date": "2026-06-19",
           "price": 77.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 77.0,
           "shop": "Brickwatch"
         }
       ],
