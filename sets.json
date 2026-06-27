@@ -2283,7 +2283,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 17,
-      "current_best_price": 439.88,
+      "current_best_price": 437.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10333-1.jpg",
       "label": "persoonlijk",
@@ -2430,10 +2430,15 @@
           "date": "2026-06-26",
           "price": 439.88,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 437.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-26T23:04:19.507636Z",
-      "last_updated": "2026-06-26T23:04:19.507645Z"
+      "last_brickwatch_alert": "2026-06-27T04:04:22.222831Z",
+      "last_updated": "2026-06-27T04:04:22.222833Z"
     },
     "10334": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -16546,13 +16551,18 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 19.95,
-      "last_brickwatch_alert": "2026-06-01T10:04:19.184346Z",
-      "last_updated": "2026-06-01T10:04:19.184357Z",
+      "current_best_price": 19.99,
+      "last_brickwatch_alert": "2026-06-27T04:04:22.222770Z",
+      "last_updated": "2026-06-27T04:04:22.222772Z",
       "price_history": [
         {
           "date": "2026-06-01",
           "price": 19.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 19.99,
           "shop": "Brickwatch"
         }
       ]
@@ -18291,10 +18301,10 @@
       "lego_availability": "Retail",
       "ean": "5702017814582",
       "minifig_list": [],
-      "current_best_price": 69.99,
-      "current_best_shop": "Bol.com",
+      "current_best_price": 79.99,
+      "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcomflitsdeal-lego-disney-101-dalmatiers-puppy-43269-eur6999-laagste-prijs-ooit-405974",
-      "last_updated": "2026-05-31T19:05:32.383622Z",
+      "last_updated": "2026-06-27T04:04:22.222516Z",
       "price_history": [
         {
           "date": "2026-05-29",
@@ -18305,8 +18315,14 @@
           "date": "2026-05-31",
           "price": 69.99,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 79.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-06-27T04:04:22.222510Z"
     },
     "43270": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -34593,8 +34609,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 44,
-      "current_best_price": 20.15,
+      "buy_score": 36,
+      "current_best_price": 22.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -34617,11 +34633,11 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 24,
+      "price_score": 17,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -34631,8 +34647,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-18T04:04:21.246345Z",
-      "last_updated": "2026-06-18T04:04:21.246347Z",
+      "last_brickwatch_alert": "2026-06-27T04:04:22.222703Z",
+      "last_updated": "2026-06-27T04:04:22.222706Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -34683,6 +34699,11 @@
         {
           "date": "2026-06-18",
           "price": 20.15,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 22.98,
           "shop": "Brickwatch"
         }
       ],
@@ -37894,7 +37915,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 90.99,
+      "current_best_price": 105.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -37916,8 +37937,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-06-08T01:04:17.428951Z",
-      "last_updated": "2026-06-08T01:04:17.428961Z",
+      "last_brickwatch_alert": "2026-06-27T04:04:22.222621Z",
+      "last_updated": "2026-06-27T04:04:22.222625Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -37957,6 +37978,11 @@
         {
           "date": "2026-06-08",
           "price": 90.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 105.29,
           "shop": "Brickwatch"
         }
       ]
