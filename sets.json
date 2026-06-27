@@ -37223,19 +37223,19 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 33,
-      "current_best_price": 66.3,
+      "buy_score": 29,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-06-26T03:04:23.777638Z",
-      "last_updated": "2026-06-26T03:04:23.777646Z",
+      "last_brickwatch_alert": "2026-06-27T09:04:17.612662Z",
+      "last_updated": "2026-06-27T09:04:17.612666Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 4,
+      "price_score": 0,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -37343,6 +37343,11 @@
         {
           "date": "2026-06-26",
           "price": 66.3,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-27",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45170,9 +45175,9 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 64,
-      "current_best_price": 239.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 43,
+      "current_best_price": 289.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
       "lowest_price_ever": 215.99,
@@ -45181,7 +45186,7 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 25,
+      "price_score": 4,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -45309,8 +45314,8 @@
         },
         {
           "date": "2026-06-27",
-          "price": 239.99,
-          "shop": "Pepper.com"
+          "price": 289.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -45439,8 +45444,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-arkham-asylum-76300-409690",
-      "last_updated": "2026-06-27T08:28:10.630754Z",
-      "last_brickwatch_alert": "2026-06-26T21:34:24.481785Z"
+      "last_updated": "2026-06-27T09:04:17.612454Z",
+      "last_brickwatch_alert": "2026-06-27T09:04:17.612445Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
