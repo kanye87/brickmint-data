@@ -27772,7 +27772,7 @@
     },
     "75280": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "current_best_price": 24.49,
+      "current_best_price": 64.95,
       "image_url": "https://images.brickset.com/sets/images/75280-1.jpg",
       "label": "investering",
       "market_value": 50.5,
@@ -27832,6 +27832,11 @@
           "date": "2026-05-14",
           "price": 24.49,
           "shop": null
+        },
+        {
+          "date": "2026-06-27",
+          "price": 64.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -27860,7 +27865,10 @@
       "expected_retirement": "2022-11",
       "date_first_available": "2020-08-28",
       "lego_availability": "{Not specified}",
-      "ean": "5702016617245"
+      "ean": "5702016617245",
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-06-27T00:04:15.948274Z",
+      "last_updated": "2026-06-27T00:04:15.948282Z"
     },
     "75281": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
