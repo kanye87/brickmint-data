@@ -15545,8 +15545,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 169.99,
+      "buy_score": 51,
+      "current_best_price": 166.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -15555,7 +15555,7 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 28,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -15569,8 +15569,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-27T10:34:19.566180Z",
-      "last_updated": "2026-06-27T10:34:19.566190Z",
+      "last_brickwatch_alert": "2026-06-28T04:04:19.841096Z",
+      "last_updated": "2026-06-28T04:04:19.841100Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -15621,6 +15621,11 @@
         {
           "date": "2026-06-27",
           "price": 169.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 166.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34740,20 +34745,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 33,
-      "current_best_price": 60.99,
+      "buy_score": 30,
+      "current_best_price": 64.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-25T23:34:15.455939Z",
-      "last_updated": "2026-06-25T23:34:15.455943Z",
+      "last_brickwatch_alert": "2026-06-28T04:04:19.841245Z",
+      "last_updated": "2026-06-28T04:04:19.841247Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 30,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -34802,6 +34807,11 @@
         {
           "date": "2026-06-25",
           "price": 60.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 64.99,
           "shop": "Brickwatch"
         }
       ],
@@ -37088,8 +37098,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
-      "current_best_price": 85.49,
+      "buy_score": 45,
+      "current_best_price": 104.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -37099,7 +37109,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 23,
+      "price_score": 16,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -37170,6 +37180,11 @@
           "date": "2026-06-25",
           "price": 85.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 104.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -37177,8 +37192,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-06-25T04:34:17.710459Z",
-      "last_brickwatch_alert": "2026-06-25T04:34:17.710452Z"
+      "last_updated": "2026-06-28T04:04:19.840994Z",
+      "last_brickwatch_alert": "2026-06-28T04:04:19.840993Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -38400,20 +38415,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 37,
-      "current_best_price": 101.68,
+      "buy_score": 39,
+      "current_best_price": 98.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-26T23:34:15.277661Z",
-      "last_updated": "2026-06-26T23:34:15.277669Z",
+      "last_brickwatch_alert": "2026-06-28T04:04:19.841178Z",
+      "last_updated": "2026-06-28T04:04:19.841181Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 26,
+      "price_score": 28,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -38489,6 +38504,11 @@
         {
           "date": "2026-06-26",
           "price": 101.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 98.99,
           "shop": "Brickwatch"
         }
       ],
