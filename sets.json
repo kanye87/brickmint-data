@@ -15195,13 +15195,13 @@
     "42165": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 33,
-      "current_best_price": 21.59,
+      "buy_score": 24,
+      "current_best_price": 24.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42165-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-01T10:34:17.386748Z",
-      "last_updated": "2026-06-01T10:34:17.386754Z",
+      "last_brickwatch_alert": "2026-06-28T08:04:16.374595Z",
+      "last_updated": "2026-06-28T08:04:16.374597Z",
       "lowest_price_ever": 12.1,
       "market_value": 31.19,
       "market_value_history": [
@@ -15220,11 +15220,11 @@
       "name": "Mercedes-AMG F1 W14 Pull-Back",
       "owned_by": 3506,
       "pieces": 240,
-      "price_score": 13,
+      "price_score": 5,
       "rating": 3.9,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -15244,6 +15244,11 @@
         {
           "date": "2026-06-01",
           "price": 21.59,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 24.95,
           "shop": "Brickwatch"
         }
       ],
@@ -34358,20 +34363,20 @@
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
-      "current_best_price": 15.29,
+      "buy_score": 40,
+      "current_best_price": 17.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-19T04:04:18.813031Z",
-      "last_updated": "2026-06-19T04:04:18.813042Z",
+      "last_brickwatch_alert": "2026-06-28T08:04:16.374422Z",
+      "last_updated": "2026-06-28T08:04:16.374444Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 20,
+      "price_score": 12,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -34450,6 +34455,11 @@
         {
           "date": "2026-06-19",
           "price": 15.29,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-28",
+          "price": 17.99,
           "shop": "Brickwatch"
         }
       ],
