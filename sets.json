@@ -33636,7 +33636,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 15,
-      "current_best_price": 59.88,
+      "current_best_price": 69.55,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75360-1.jpg",
       "label": "investering",
@@ -33679,6 +33679,11 @@
           "date": "2026-05-14",
           "price": 59.88,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-29",
+          "price": 69.55,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -33700,7 +33705,9 @@
       "expected_retirement": "2024-11",
       "date_first_available": "2023-06-03",
       "lego_availability": "Retail",
-      "ean": "5702017421414"
+      "ean": "5702017421414",
+      "last_brickwatch_alert": "2026-06-29T04:04:21.099761Z",
+      "last_updated": "2026-06-29T04:04:21.099768Z"
     },
     "75364": {
       "availability_score": 0,
@@ -36090,8 +36097,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 34,
-      "current_best_price": 93.99,
+      "buy_score": 31,
+      "current_best_price": 99.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -36101,7 +36108,7 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 31,
+      "price_score": 28,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -36115,8 +36122,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-21T23:04:19.983143Z",
-      "last_updated": "2026-06-21T23:04:19.983146Z",
+      "last_brickwatch_alert": "2026-06-29T04:04:21.099882Z",
+      "last_updated": "2026-06-29T04:04:21.099887Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -36150,6 +36157,11 @@
         {
           "date": "2026-06-21",
           "price": 93.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-29",
+          "price": 99.0,
           "shop": "Brickwatch"
         }
       ],
@@ -38611,8 +38623,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 37,
-      "current_best_price": 38.95,
+      "buy_score": 42,
+      "current_best_price": 35.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -38621,7 +38633,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 19,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -38639,8 +38651,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-06-25T22:34:16.279750Z",
-      "last_updated": "2026-06-25T22:34:16.279754Z",
+      "last_brickwatch_alert": "2026-06-29T04:04:21.099964Z",
+      "last_updated": "2026-06-29T04:04:21.099967Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -38685,6 +38697,11 @@
         {
           "date": "2026-06-25",
           "price": 38.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-29",
+          "price": 35.99,
           "shop": "Brickwatch"
         }
       ],
