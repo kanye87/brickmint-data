@@ -15205,13 +15205,13 @@
     "42165": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 24,
-      "current_best_price": 24.95,
+      "buy_score": 18,
+      "current_best_price": 26.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42165-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-28T08:04:16.374595Z",
-      "last_updated": "2026-06-28T08:04:16.374597Z",
+      "last_brickwatch_alert": "2026-06-29T12:34:19.808489Z",
+      "last_updated": "2026-06-29T12:34:19.808497Z",
       "lowest_price_ever": 12.1,
       "market_value": 31.19,
       "market_value_history": [
@@ -15230,11 +15230,11 @@
       "name": "Mercedes-AMG F1 W14 Pull-Back",
       "owned_by": 3506,
       "pieces": 240,
-      "price_score": 5,
+      "price_score": 0,
       "rating": 3.9,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -15259,6 +15259,11 @@
         {
           "date": "2026-06-28",
           "price": 24.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-29",
+          "price": 26.95,
           "shop": "Brickwatch"
         }
       ],
