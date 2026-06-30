@@ -16658,8 +16658,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-06-02T04:04:18.034512Z",
-      "last_updated": "2026-06-02T04:04:18.034515Z",
+      "last_brickwatch_alert": "2026-06-30T04:04:17.436317Z",
+      "last_updated": "2026-06-30T04:04:17.436319Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -35481,8 +35481,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 50,
-      "current_best_price": 122.99,
+      "buy_score": 49,
+      "current_best_price": 124.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -35492,7 +35492,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 28,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -35506,8 +35506,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-16T04:04:25.350386Z",
-      "last_updated": "2026-06-16T04:04:25.350389Z",
+      "last_brickwatch_alert": "2026-06-30T04:04:17.436267Z",
+      "last_updated": "2026-06-30T04:04:17.436269Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -35591,6 +35591,11 @@
         {
           "date": "2026-06-16",
           "price": 122.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-30",
+          "price": 124.99,
           "shop": "Brickwatch"
         }
       ],
@@ -47266,8 +47271,8 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-11T04:34:20.122080Z",
-      "last_updated": "2026-06-11T04:34:20.122085Z",
+      "last_brickwatch_alert": "2026-06-30T04:04:17.436203Z",
+      "last_updated": "2026-06-30T04:04:17.436206Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
@@ -53222,8 +53227,8 @@
     "77092": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 40,
-      "current_best_price": 293.0,
+      "buy_score": 43,
+      "current_best_price": 280.78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -53233,7 +53238,7 @@
       "name": "Great Deku Tree 2-in-1",
       "owned_by": 2494,
       "pieces": 2500,
-      "price_score": 2,
+      "price_score": 5,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -53248,8 +53253,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-06-29T17:34:16.002516Z",
-      "last_updated": "2026-06-29T17:34:16.002523Z",
+      "last_brickwatch_alert": "2026-06-30T04:04:17.436072Z",
+      "last_updated": "2026-06-30T04:04:17.436079Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -53309,6 +53314,11 @@
         {
           "date": "2026-06-29",
           "price": 293.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-06-30",
+          "price": 280.78,
           "shop": "Brickwatch"
         }
       ]
