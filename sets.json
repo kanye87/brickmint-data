@@ -18372,10 +18372,10 @@
       "lego_availability": "Retail",
       "ean": "5702017814582",
       "minifig_list": [],
-      "current_best_price": 79.99,
+      "current_best_price": 72.99,
       "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcomflitsdeal-lego-disney-101-dalmatiers-puppy-43269-eur6999-laagste-prijs-ooit-405974",
-      "last_updated": "2026-06-27T04:04:22.222516Z",
+      "last_updated": "2026-07-01T06:04:16.872158Z",
       "price_history": [
         {
           "date": "2026-05-29",
@@ -18391,9 +18391,14 @@
           "date": "2026-06-27",
           "price": 79.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-01",
+          "price": 72.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-27T04:04:22.222510Z"
+      "last_brickwatch_alert": "2026-07-01T06:04:16.872146Z"
     },
     "43270": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -34613,8 +34618,8 @@
     "75376": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 36,
-      "current_best_price": 63.98,
+      "buy_score": 46,
+      "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75376-1.jpg",
       "label": "persoonlijk",
@@ -34636,12 +34641,12 @@
       "name": "Tantive IV",
       "owned_by": 9293,
       "pieces": 654,
-      "price_score": 18,
+      "price_score": 27,
       "purchase_price": 54.99,
       "rating": 4.0,
       "retirement_date": "2025-12-23",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 4,
@@ -34656,8 +34661,8 @@
       "wanted_by": 2273,
       "year": 2024,
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-24T10:04:17.544747Z",
-      "last_updated": "2026-06-24T10:04:17.544757Z",
+      "last_brickwatch_alert": "2026-07-01T06:04:16.872372Z",
+      "last_updated": "2026-07-01T06:04:16.872376Z",
       "expected_retirement": "2025-12",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
@@ -34676,6 +34681,11 @@
         {
           "date": "2026-06-24",
           "price": 63.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-01",
+          "price": 54.99,
           "shop": "Brickwatch"
         }
       ]
