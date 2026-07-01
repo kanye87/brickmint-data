@@ -34742,8 +34742,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 36,
-      "current_best_price": 22.98,
+      "buy_score": 39,
+      "current_best_price": 21.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -34766,7 +34766,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 17,
+      "price_score": 20,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -34780,8 +34780,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-27T04:04:22.222703Z",
-      "last_updated": "2026-06-27T04:04:22.222706Z",
+      "last_brickwatch_alert": "2026-07-01T05:04:19.051585Z",
+      "last_updated": "2026-07-01T05:04:19.051592Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -34837,6 +34837,11 @@
         {
           "date": "2026-06-27",
           "price": 22.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-01",
+          "price": 21.99,
           "shop": "Brickwatch"
         }
       ],
