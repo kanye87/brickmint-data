@@ -35111,7 +35111,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 15,
-      "current_best_price": 70.64,
+      "current_best_price": 70.63,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -35194,6 +35194,11 @@
           "date": "2026-06-30",
           "price": 70.64,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-01",
+          "price": 70.63,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -35230,8 +35235,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-06-30T00:34:19.569028Z",
-      "last_updated": "2026-06-30T00:34:19.569036Z"
+      "last_brickwatch_alert": "2026-07-01T10:34:15.064556Z",
+      "last_updated": "2026-07-01T10:34:15.064565Z"
     },
     "75385": {
       "availability_score": 0,
