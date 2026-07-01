@@ -25022,9 +25022,9 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 56,
-      "current_best_price": 105.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 45,
+      "current_best_price": 125.85,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
       "lowest_price_ever": 105.99,
@@ -25032,7 +25032,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -25046,8 +25046,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-27T01:04:14.459290Z",
-      "last_updated": "2026-06-27T08:28:10.632260Z",
+      "last_brickwatch_alert": "2026-07-01T23:04:14.159929Z",
+      "last_updated": "2026-07-01T23:04:14.159935Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -25104,6 +25104,11 @@
           "date": "2026-06-27",
           "price": 105.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-07-01",
+          "price": 125.85,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -32795,8 +32800,8 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 17,
-      "last_brickwatch_alert": "2026-06-28T17:04:15.335326Z",
-      "last_updated": "2026-06-28T17:04:15.335334Z",
+      "last_brickwatch_alert": "2026-07-01T23:04:14.160108Z",
+      "last_updated": "2026-07-01T23:04:14.160112Z",
       "price_history": [
         {
           "date": "2026-05-14",
