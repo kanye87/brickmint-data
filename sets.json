@@ -22997,8 +22997,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 53,
-      "current_best_price": 79.99,
+      "buy_score": 36,
+      "current_best_price": 102.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -23020,12 +23020,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 33,
+      "price_score": 18,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 2,
@@ -23040,8 +23040,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-01T07:34:16.492267Z",
-      "last_updated": "2026-07-01T07:34:16.492275Z",
+      "last_brickwatch_alert": "2026-07-01T23:34:14.104559Z",
+      "last_updated": "2026-07-01T23:34:14.104567Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23090,7 +23090,7 @@
         },
         {
           "date": "2026-07-01",
-          "price": 79.99,
+          "price": 102.0,
           "shop": "Brickwatch"
         }
       ],
@@ -39094,8 +39094,8 @@
       "lego_availability": "Retail",
       "ean": "5702018063040",
       "current_best_price": 89.99,
-      "last_brickwatch_alert": "2026-06-21T03:34:17.070806Z",
-      "last_updated": "2026-06-21T03:34:17.070815Z",
+      "last_brickwatch_alert": "2026-07-01T23:34:14.104764Z",
+      "last_updated": "2026-07-01T23:34:14.104768Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
