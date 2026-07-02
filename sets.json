@@ -31757,7 +31757,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 29,
-      "current_best_price": 24.79,
+      "current_best_price": 24.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -31797,6 +31797,11 @@
         {
           "date": "2026-06-17",
           "price": 24.79,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-02",
+          "price": 24.99,
           "shop": "Brickwatch"
         }
       ],
@@ -31844,8 +31849,8 @@
       "sell_trend_score": 7,
       "sell_age_score": 1,
       "sell_liquidity_score": 1,
-      "last_brickwatch_alert": "2026-06-17T11:04:30.327686Z",
-      "last_updated": "2026-06-17T11:04:30.327694Z"
+      "last_brickwatch_alert": "2026-07-02T11:34:20.032065Z",
+      "last_updated": "2026-07-02T11:34:20.032073Z"
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
