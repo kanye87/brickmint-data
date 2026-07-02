@@ -16641,8 +16641,8 @@
     "43012": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 32,
-      "current_best_price": 21.69,
+      "buy_score": 34,
+      "current_best_price": 21.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -16651,7 +16651,7 @@
       "name": "Cristiano Ronaldo – Football Highlights",
       "owned_by": 467,
       "pieces": 490,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -16668,8 +16668,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-06-30T04:04:17.436317Z",
-      "last_updated": "2026-06-30T04:04:17.436319Z",
+      "last_brickwatch_alert": "2026-07-02T00:04:16.236454Z",
+      "last_updated": "2026-07-02T00:04:16.236463Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -16689,6 +16689,11 @@
         {
           "date": "2026-06-02",
           "price": 21.69,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-02",
+          "price": 21.0,
           "shop": "Brickwatch"
         }
       ],
@@ -17538,8 +17543,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-06-25T13:34:22.100513Z",
-      "last_updated": "2026-06-25T13:34:22.100523Z",
+      "last_brickwatch_alert": "2026-07-02T00:04:16.236668Z",
+      "last_updated": "2026-07-02T00:04:16.236673Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -25523,9 +25528,9 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 52,
-      "current_best_price": 38.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 51,
+      "current_best_price": 39.95,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
       "lowest_price_ever": 38.49,
@@ -25533,7 +25538,7 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 34,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -25547,8 +25552,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-06-19T11:04:20.580461Z",
-      "last_updated": "2026-07-01T09:33:11.018462Z",
+      "last_brickwatch_alert": "2026-07-02T00:04:16.236853Z",
+      "last_updated": "2026-07-02T00:04:16.236857Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -25585,6 +25590,11 @@
           "date": "2026-07-01",
           "price": 38.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-07-02",
+          "price": 39.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
