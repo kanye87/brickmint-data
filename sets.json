@@ -31819,7 +31819,7 @@
     },
     "75331": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 599.95,
+      "current_best_price": 646.31,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-09-28",
       "ean": "5702017155579",
@@ -31870,12 +31870,12 @@
       "year": 2022,
       "subtheme": "Ultimate Collector Series",
       "price_score": 0,
-      "roi_score": 1,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 11,
+      "buy_score": 10,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -31885,6 +31885,11 @@
         {
           "date": "2026-05-19",
           "price": 599.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-02",
+          "price": 646.31,
           "shop": "Brickwatch"
         }
       ],
@@ -31918,8 +31923,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-013154/119021.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-05-19T21:04:30.079676Z",
-      "last_updated": "2026-05-19T21:04:30.079684Z"
+      "last_brickwatch_alert": "2026-07-02T16:04:23.811920Z",
+      "last_updated": "2026-07-02T16:04:23.811929Z"
     },
     "75333": {
       "availability_score": 0,
