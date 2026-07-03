@@ -35164,8 +35164,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 36,
-      "current_best_price": 52.99,
+      "buy_score": 32,
+      "current_best_price": 56.93,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -35174,7 +35174,7 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 33,
+      "price_score": 29,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -35214,10 +35214,15 @@
           "date": "2026-06-01",
           "price": 52.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-03",
+          "price": 56.93,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T07:34:17.156113Z",
-      "last_updated": "2026-06-01T07:34:17.156116Z"
+      "last_brickwatch_alert": "2026-07-03T01:34:17.713142Z",
+      "last_updated": "2026-07-03T01:34:17.713150Z"
     },
     "75376": {
       "availability_score": 0,
