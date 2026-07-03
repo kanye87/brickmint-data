@@ -39538,7 +39538,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
+      "buy_score": 45,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -39547,7 +39547,7 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 26,
+      "price_score": 22,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -39564,9 +39564,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 27.99,
-      "last_brickwatch_alert": "2026-06-01T08:04:23.049069Z",
-      "last_updated": "2026-06-01T08:04:23.049073Z",
+      "current_best_price": 29.95,
+      "last_brickwatch_alert": "2026-07-03T15:34:33.912888Z",
+      "last_updated": "2026-07-03T15:34:33.912895Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -39585,6 +39585,11 @@
         {
           "date": "2026-06-01",
           "price": 27.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-03",
+          "price": 29.95,
           "shop": "Brickwatch"
         }
       ],
