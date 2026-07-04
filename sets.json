@@ -2361,8 +2361,8 @@
     "10333": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 20,
-      "current_best_price": 421.06,
+      "buy_score": 22,
+      "current_best_price": 413.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10333-1.jpg",
       "label": "persoonlijk",
@@ -2372,7 +2372,7 @@
       "name": "The Lord of the Rings: Barad-dûr",
       "owned_by": 6585,
       "pieces": 5471,
-      "price_score": 7,
+      "price_score": 9,
       "rating": 4.6,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2529,10 +2529,15 @@
           "date": "2026-07-01",
           "price": 421.06,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 413.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-01T04:04:15.288624Z",
-      "last_updated": "2026-07-01T04:04:15.288627Z"
+      "last_brickwatch_alert": "2026-07-04T04:04:15.490810Z",
+      "last_updated": "2026-07-04T04:04:15.490819Z"
     },
     "10334": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -26292,7 +26297,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 138.88,
+      "lowest_price_ever": 134.74,
       "msrp": 179.99,
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
@@ -26315,9 +26320,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 138.88,
-      "last_brickwatch_alert": "2026-07-02T08:34:23.042784Z",
-      "last_updated": "2026-07-02T08:34:23.042792Z",
+      "current_best_price": 134.74,
+      "last_brickwatch_alert": "2026-07-04T04:04:15.193057Z",
+      "last_updated": "2026-07-04T04:04:15.193060Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -26363,6 +26368,11 @@
         {
           "date": "2026-06-26",
           "price": 138.88,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 134.74,
           "shop": "Brickwatch"
         }
       ],
@@ -35506,8 +35516,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 49,
-      "current_best_price": 19.99,
+      "buy_score": 51,
+      "current_best_price": 19.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -35517,7 +35527,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -35599,14 +35609,19 @@
           "date": "2026-07-03",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 19.29,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-07-03T04:34:23.510499Z",
-      "last_updated": "2026-07-03T04:34:23.510509Z"
+      "last_brickwatch_alert": "2026-07-04T04:04:15.490897Z",
+      "last_updated": "2026-07-04T04:04:15.490901Z"
     },
     "75373": {
       "availability_score": 0,
@@ -35725,8 +35740,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 32,
-      "current_best_price": 56.93,
+      "buy_score": 35,
+      "current_best_price": 53.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -35735,7 +35750,7 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 29,
+      "price_score": 32,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -35780,10 +35795,15 @@
           "date": "2026-07-03",
           "price": 56.93,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 53.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-03T01:34:17.713142Z",
-      "last_updated": "2026-07-03T01:34:17.713150Z"
+      "last_brickwatch_alert": "2026-07-04T04:04:15.192990Z",
+      "last_updated": "2026-07-04T04:04:15.192993Z"
     },
     "75376": {
       "availability_score": 0,
@@ -38443,8 +38463,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 45,
-      "current_best_price": 104.99,
+      "buy_score": 48,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -38454,7 +38474,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 16,
+      "price_score": 19,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -38530,6 +38550,11 @@
           "date": "2026-06-28",
           "price": 104.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 94.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -38537,8 +38562,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-06-28T04:04:19.840994Z",
-      "last_brickwatch_alert": "2026-06-28T04:04:19.840993Z"
+      "last_updated": "2026-07-04T04:04:15.192784Z",
+      "last_brickwatch_alert": "2026-07-04T04:04:15.192775Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -55007,8 +55032,8 @@
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 45,
-      "current_best_price": 16.99,
+      "buy_score": 50,
+      "current_best_price": 14.88,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -55018,7 +55043,7 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4903,
       "pieces": 269,
-      "price_score": 23,
+      "price_score": 28,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -55042,8 +55067,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-07-01T06:34:24.589001Z",
-      "last_updated": "2026-07-01T06:34:24.589010Z",
+      "last_brickwatch_alert": "2026-07-04T04:04:15.192909Z",
+      "last_updated": "2026-07-04T04:04:15.192914Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -55073,6 +55098,11 @@
         {
           "date": "2026-07-01",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-04",
+          "price": 14.88,
           "shop": "Brickwatch"
         }
       ],
