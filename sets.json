@@ -1705,8 +1705,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-07-03T04:04:15.700355Z",
-      "last_updated": "2026-07-03T04:04:15.700358Z",
+      "last_brickwatch_alert": "2026-07-06T04:04:19.528983Z",
+      "last_updated": "2026-07-06T04:04:19.528988Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -2361,8 +2361,8 @@
     "10333": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 22,
-      "current_best_price": 413.99,
+      "buy_score": 25,
+      "current_best_price": 395.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10333-1.jpg",
       "label": "persoonlijk",
@@ -2372,7 +2372,7 @@
       "name": "The Lord of the Rings: Barad-dûr",
       "owned_by": 6585,
       "pieces": 5471,
-      "price_score": 9,
+      "price_score": 12,
       "rating": 4.6,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2534,10 +2534,15 @@
           "date": "2026-07-04",
           "price": 413.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-06",
+          "price": 395.59,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-04T04:04:15.490810Z",
-      "last_updated": "2026-07-04T04:04:15.490819Z"
+      "last_brickwatch_alert": "2026-07-06T04:04:19.528863Z",
+      "last_updated": "2026-07-06T04:04:19.528871Z"
     },
     "10334": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -32551,7 +32556,7 @@
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
-      "current_best_price": 44.99,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-04",
       "ean": "5702017155548",
@@ -32583,13 +32588,13 @@
       "wanted_by": 2256,
       "year": 2022,
       "subtheme": "Helmet Collection",
-      "price_score": 32,
+      "price_score": 26,
       "roi_score": null,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 46,
+      "buy_score": 40,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -32610,11 +32615,16 @@
           "date": "2026-06-21",
           "price": 44.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-06",
+          "price": 48.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-21T23:04:19.983442Z",
-      "last_updated": "2026-06-21T23:04:19.983447Z"
+      "last_brickwatch_alert": "2026-07-06T04:04:19.529203Z",
+      "last_updated": "2026-07-06T04:04:19.529207Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -40334,8 +40344,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 37.99,
+      "buy_score": 48,
+      "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -40344,7 +40354,7 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 33,
+      "price_score": 30,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -40359,9 +40369,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-06-20T04:04:56.488810Z",
+      "last_updated": "2026-07-06T04:04:19.529068Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-06-20T04:04:56.488804Z",
+      "last_brickwatch_alert": "2026-07-06T04:04:19.529064Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -40391,6 +40401,11 @@
         {
           "date": "2026-06-20",
           "price": 37.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-06",
+          "price": 39.99,
           "shop": "Brickwatch"
         }
       ],
