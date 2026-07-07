@@ -35057,7 +35057,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 15,
-      "current_best_price": 69.55,
+      "current_best_price": 66.76,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75360-1.jpg",
       "label": "investering",
@@ -35109,6 +35109,11 @@
           "date": "2026-06-29",
           "price": 69.55,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 66.76,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -35131,8 +35136,8 @@
       "date_first_available": "2023-06-03",
       "lego_availability": "Retail",
       "ean": "5702017421414",
-      "last_brickwatch_alert": "2026-06-29T04:04:21.099761Z",
-      "last_updated": "2026-06-29T04:04:21.099768Z"
+      "last_brickwatch_alert": "2026-07-07T04:04:18.404665Z",
+      "last_updated": "2026-07-07T04:04:18.404666Z"
     },
     "75364": {
       "availability_score": 0,
@@ -36168,8 +36173,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 39,
-      "current_best_price": 21.99,
+      "buy_score": 40,
+      "current_best_price": 21.31,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -36196,7 +36201,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 20,
+      "price_score": 21,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -36210,8 +36215,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-01T05:04:19.051585Z",
-      "last_updated": "2026-07-01T05:04:19.051592Z",
+      "last_brickwatch_alert": "2026-07-07T04:04:18.404636Z",
+      "last_updated": "2026-07-07T04:04:18.404638Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -36272,6 +36277,11 @@
         {
           "date": "2026-07-01",
           "price": 21.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 21.31,
           "shop": "Brickwatch"
         }
       ],
@@ -38288,8 +38298,8 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 46,
-      "current_best_price": 38.99,
-      "current_best_shop": "Amazon.nl",
+      "current_best_price": 39.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -38359,10 +38369,15 @@
           "date": "2026-06-26",
           "price": 38.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 39.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-26T06:04:24.896558Z",
-      "last_updated": "2026-06-26T08:52:41.471144Z",
+      "last_brickwatch_alert": "2026-07-07T04:04:18.404396Z",
+      "last_updated": "2026-07-07T04:04:18.404408Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -40107,20 +40122,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 42,
-      "current_best_price": 93.99,
+      "buy_score": 41,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-01T01:34:22.291932Z",
-      "last_updated": "2026-07-01T01:34:22.291941Z",
+      "last_brickwatch_alert": "2026-07-07T04:04:18.404605Z",
+      "last_updated": "2026-07-07T04:04:18.404606Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 31,
+      "price_score": 30,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -40207,6 +40222,11 @@
           "date": "2026-07-01",
           "price": 93.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 94.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -40217,7 +40237,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
+      "buy_score": 56,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -40226,7 +40246,7 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 22,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -40243,9 +40263,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 29.95,
-      "last_brickwatch_alert": "2026-07-03T15:34:33.912888Z",
-      "last_updated": "2026-07-03T15:34:33.912895Z",
+      "current_best_price": 24.99,
+      "last_brickwatch_alert": "2026-07-07T04:04:18.404556Z",
+      "last_updated": "2026-07-07T04:04:18.404558Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -40269,6 +40289,11 @@
         {
           "date": "2026-07-03",
           "price": 29.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 24.99,
           "shop": "Brickwatch"
         }
       ],
