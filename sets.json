@@ -36515,8 +36515,8 @@
     "75383": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 18,
-      "current_best_price": 70.58,
+      "buy_score": 17,
+      "current_best_price": 73.54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -36547,7 +36547,7 @@
       "rating": 3.8,
       "retirement_date": "2025-11-27",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -36616,7 +36616,7 @@
         },
         {
           "date": "2026-07-07",
-          "price": 70.58,
+          "price": 73.54,
           "shop": "Brickwatch"
         }
       ],
@@ -36654,8 +36654,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-07-07T01:04:17.819227Z",
-      "last_updated": "2026-07-07T01:04:17.819233Z"
+      "last_brickwatch_alert": "2026-07-07T17:34:19.102638Z",
+      "last_updated": "2026-07-07T17:34:19.102663Z"
     },
     "75385": {
       "availability_score": 0,
