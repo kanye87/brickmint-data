@@ -47213,7 +47213,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 54,
-      "current_best_price": 265.01,
+      "current_best_price": 264.55,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -47373,6 +47373,11 @@
           "date": "2026-07-06",
           "price": 265.01,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-07",
+          "price": 264.55,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -47501,8 +47506,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-arkham-asylum-76300-409690",
-      "last_updated": "2026-07-06T14:04:24.868426Z",
-      "last_brickwatch_alert": "2026-07-06T14:04:24.868422Z"
+      "last_updated": "2026-07-07T08:04:22.459916Z",
+      "last_brickwatch_alert": "2026-07-07T08:04:22.459907Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
