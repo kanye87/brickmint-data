@@ -23848,8 +23848,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 35,
-      "current_best_price": 102.0,
+      "buy_score": 36,
+      "current_best_price": 101.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -23875,7 +23875,7 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 18,
+      "price_score": 19,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
@@ -23895,8 +23895,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-01T23:34:14.104559Z",
-      "last_updated": "2026-07-01T23:34:14.104567Z",
+      "last_brickwatch_alert": "2026-07-08T09:04:19.208123Z",
+      "last_updated": "2026-07-08T09:04:19.208128Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23946,6 +23946,11 @@
         {
           "date": "2026-07-01",
           "price": 102.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-08",
+          "price": 101.0,
           "shop": "Brickwatch"
         }
       ],
@@ -34004,7 +34009,7 @@
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 13.99,
+      "current_best_price": 17.5,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-01-04",
       "ean": "5702017421292",
@@ -34058,15 +34063,15 @@
       "wanted_by": 2012,
       "year": 2023,
       "subtheme": "The Clone Wars",
-      "price_score": 31,
-      "roi_score": 2,
+      "price_score": 13,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 33,
-      "last_brickwatch_alert": "2026-07-05T23:34:20.990086Z",
-      "last_updated": "2026-07-05T23:34:20.990096Z",
+      "buy_score": 13,
+      "last_brickwatch_alert": "2026-07-08T09:04:19.207891Z",
+      "last_updated": "2026-07-08T09:04:19.207900Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -34086,6 +34091,11 @@
         {
           "date": "2026-07-05",
           "price": 13.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-08",
+          "price": 17.5,
           "shop": "Brickwatch"
         }
       ],
