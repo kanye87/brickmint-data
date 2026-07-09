@@ -34040,7 +34040,7 @@
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 17.99,
+      "current_best_price": 13.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-01-04",
       "ean": "5702017421292",
@@ -34094,15 +34094,15 @@
       "wanted_by": 2012,
       "year": 2023,
       "subtheme": "The Clone Wars",
-      "price_score": 10,
-      "roi_score": 0,
+      "price_score": 31,
+      "roi_score": 2,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 10,
-      "last_brickwatch_alert": "2026-07-08T11:34:17.115317Z",
-      "last_updated": "2026-07-08T11:34:17.115327Z",
+      "buy_score": 33,
+      "last_brickwatch_alert": "2026-07-09T19:34:20.812340Z",
+      "last_updated": "2026-07-09T19:34:20.812348Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -34127,6 +34127,11 @@
         {
           "date": "2026-07-08",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 13.99,
           "shop": "Brickwatch"
         }
       ],
