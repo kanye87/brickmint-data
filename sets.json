@@ -35898,20 +35898,20 @@
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
-      "current_best_price": 15.29,
+      "buy_score": 40,
+      "current_best_price": 17.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-03T04:04:15.700421Z",
-      "last_updated": "2026-07-03T04:04:15.700424Z",
+      "last_brickwatch_alert": "2026-07-09T06:14:21.352743Z",
+      "last_updated": "2026-07-09T06:14:21.352747Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 20,
+      "price_score": 12,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -36000,6 +36000,11 @@
         {
           "date": "2026-07-03",
           "price": 15.29,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 17.99,
           "shop": "Brickwatch"
         }
       ],
@@ -55400,7 +55405,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 38,
-      "current_best_price": 339.99,
+      "current_best_price": 354.3,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -55425,8 +55430,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-07-08T09:34:18.965798Z",
-      "last_updated": "2026-07-08T09:34:18.965810Z",
+      "last_brickwatch_alert": "2026-07-09T06:14:21.352528Z",
+      "last_updated": "2026-07-09T06:14:21.352536Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -55506,6 +55511,11 @@
         {
           "date": "2026-07-08",
           "price": 339.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 354.3,
           "shop": "Brickwatch"
         }
       ]
