@@ -1679,7 +1679,7 @@
     },
     "10316": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "current_best_price": 434.99,
+      "current_best_price": 424.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10316-1.jpg",
       "label": "persoonlijk",
@@ -1705,8 +1705,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-07-08T04:04:19.261148Z",
-      "last_updated": "2026-07-08T04:04:19.261159Z",
+      "last_brickwatch_alert": "2026-07-09T04:04:19.148681Z",
+      "last_updated": "2026-07-09T04:04:19.148692Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -1823,13 +1823,13 @@
           "value": null
         }
       ],
-      "price_score": 27,
+      "price_score": 32,
       "roi_score": 5,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 56,
+      "buy_score": 61,
       "expected_retirement": "2026-12",
       "date_first_available": "2023-02-09",
       "lego_availability": "LEGO exclusive",
@@ -1863,6 +1863,11 @@
         {
           "date": "2026-07-08",
           "price": 434.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 424.99,
           "shop": "Brickwatch"
         }
       ]
@@ -37030,7 +37035,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 49,
-      "current_best_price": 124.99,
+      "current_best_price": 124.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -37054,8 +37059,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-06-30T04:04:17.436267Z",
-      "last_updated": "2026-06-30T04:04:17.436269Z",
+      "last_brickwatch_alert": "2026-07-09T04:04:19.148983Z",
+      "last_updated": "2026-07-09T04:04:19.148986Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -37144,6 +37149,11 @@
         {
           "date": "2026-06-30",
           "price": 124.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 124.9,
           "shop": "Brickwatch"
         }
       ],
@@ -56325,8 +56335,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 63,
-      "current_best_price": 20.28,
+      "buy_score": 69,
+      "current_best_price": 18.37,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -56336,7 +56346,7 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 24,
+      "price_score": 30,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -56359,8 +56369,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-22T04:04:21.173645Z",
-      "last_updated": "2026-06-22T04:04:21.173646Z",
+      "last_brickwatch_alert": "2026-07-09T04:04:19.148893Z",
+      "last_updated": "2026-07-09T04:04:19.148896Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -56425,6 +56435,11 @@
         {
           "date": "2026-06-22",
           "price": 20.28,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-09",
+          "price": 18.37,
           "shop": "Brickwatch"
         }
       ],
