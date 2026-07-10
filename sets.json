@@ -17173,8 +17173,8 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-03T10:04:16.305430Z",
-      "last_updated": "2026-07-03T10:04:16.305438Z",
+      "last_brickwatch_alert": "2026-07-10T08:34:19.715051Z",
+      "last_updated": "2026-07-10T08:34:19.715061Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
@@ -40418,8 +40418,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 35.95,
+      "buy_score": 46,
+      "current_best_price": 33.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -40428,7 +40428,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 24,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -40446,8 +40446,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-07-03T16:34:15.807346Z",
-      "last_updated": "2026-07-03T16:34:15.807353Z",
+      "last_brickwatch_alert": "2026-07-10T08:34:19.715304Z",
+      "last_updated": "2026-07-10T08:34:19.715308Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -40502,6 +40502,11 @@
         {
           "date": "2026-07-03",
           "price": 35.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-10",
+          "price": 33.99,
           "shop": "Brickwatch"
         }
       ],
