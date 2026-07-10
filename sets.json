@@ -17610,7 +17610,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 39,
-      "current_best_price": 52.0,
+      "current_best_price": 51.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -17666,13 +17666,18 @@
           "date": "2026-07-01",
           "price": 52.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-10",
+          "price": 51.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-07-01T22:04:19.876333Z",
-      "last_updated": "2026-07-01T22:04:19.876343Z",
+      "last_brickwatch_alert": "2026-07-10T10:04:22.425936Z",
+      "last_updated": "2026-07-10T10:04:22.425939Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516"
     },
     "43016": {
@@ -22740,8 +22745,8 @@
     "71039": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 33,
-      "current_best_price": 5.95,
+      "buy_score": 30,
+      "current_best_price": 8.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71039-1.jpg",
       "label": "investering",
@@ -22772,7 +22777,7 @@
       "rating": 4.1,
       "retirement_date": "2023-12-31",
       "retirement_status": "retired",
-      "roi_score": 8,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -22792,6 +22797,11 @@
         {
           "date": "2026-06-18",
           "price": 5.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-10",
+          "price": 8.95,
           "shop": "Brickwatch"
         }
       ],
@@ -22884,8 +22894,8 @@
       "expected_retirement": "2023-12",
       "date_first_available": "2023-09-01",
       "lego_availability": "Retail",
-      "last_brickwatch_alert": "2026-06-18T13:04:21.820701Z",
-      "last_updated": "2026-06-18T13:04:21.820705Z"
+      "last_brickwatch_alert": "2026-07-10T10:04:22.425589Z",
+      "last_updated": "2026-07-10T10:04:22.425599Z"
     },
     "71040": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -40700,7 +40710,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 35,
+      "buy_score": 39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -40709,7 +40719,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 27,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -40725,9 +40735,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 89.99,
-      "last_brickwatch_alert": "2026-07-01T23:34:14.104764Z",
-      "last_updated": "2026-07-01T23:34:14.104768Z",
+      "current_best_price": 84.99,
+      "last_brickwatch_alert": "2026-07-10T10:04:22.425847Z",
+      "last_updated": "2026-07-10T10:04:22.425851Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -40773,6 +40783,11 @@
         {
           "date": "2026-06-21",
           "price": 89.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-10",
+          "price": 84.99,
           "shop": "Brickwatch"
         }
       ],
