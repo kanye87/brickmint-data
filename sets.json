@@ -40633,8 +40633,8 @@
     "75441": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 53,
-      "current_best_price": 46.99,
+      "buy_score": 48,
+      "current_best_price": 51.27,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
@@ -40643,7 +40643,7 @@
       "name": "Venator-class Attack Cruiser",
       "owned_by": 2099,
       "pieces": 643,
-      "price_score": 35,
+      "price_score": 30,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -40657,8 +40657,8 @@
       "urgency_score": 3,
       "wanted_by": 2462,
       "year": 2026,
-      "last_brickwatch_alert": "2026-06-01T07:34:17.156221Z",
-      "last_updated": "2026-06-01T07:34:17.156224Z",
+      "last_brickwatch_alert": "2026-07-10T19:04:15.324452Z",
+      "last_updated": "2026-07-10T19:04:15.324461Z",
       "subtheme": "Starship Collection",
       "price_history": [
         {
@@ -40674,6 +40674,11 @@
         {
           "date": "2026-06-01",
           "price": 46.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-10",
+          "price": 51.27,
           "shop": "Brickwatch"
         }
       ],
