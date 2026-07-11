@@ -40773,9 +40773,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 84.99,
-      "last_brickwatch_alert": "2026-07-10T10:04:22.425847Z",
-      "last_updated": "2026-07-10T10:04:22.425851Z",
+      "current_best_price": 84.95,
+      "last_brickwatch_alert": "2026-07-11T01:34:29.780301Z",
+      "last_updated": "2026-07-11T01:34:29.780310Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -40826,6 +40826,11 @@
         {
           "date": "2026-07-10",
           "price": 84.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-11",
+          "price": 84.95,
           "shop": "Brickwatch"
         }
       ],
