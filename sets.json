@@ -4,7 +4,7 @@
   },
   "sets": {
     "6975": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "1998-12",
       "image_url": "https://images.brickset.com/sets/images/6975-1.jpg",
       "lego_availability": "Retail",
@@ -4507,7 +4507,7 @@
       ]
     },
     "11986": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "image_url": "https://images.brickset.com/sets/images/11986-1.jpg",
       "lego_availability": "{Not specified}",
       "msrp": null,
@@ -4531,7 +4531,7 @@
       "minifig_list": []
     },
     "12006": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "lego_availability": "{Not specified}",
       "msrp": null,
       "name": "Parts for Brick Like This game",
@@ -4960,7 +4960,7 @@
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-slot-neuschwanstein-verzamelset-21063-408363"
     },
     "21068": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/21068-1.jpg",
       "lego_availability": "Retail",
@@ -7165,7 +7165,7 @@
       "minifig_list": []
     },
     "30454": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702016912036",
       "expected_retirement": "2021-12",
       "image_url": "https://images.brickset.com/sets/images/30454-1.jpg",
@@ -7208,7 +7208,7 @@
           "type": "sell"
         }
       ],
-      "wanted_by": 902,
+      "wanted_by": 903,
       "year": 2021,
       "date_first_available": "2021-04-26",
       "subtheme": "Shang-Chi and the Legend of the Ten Rings",
@@ -7223,7 +7223,7 @@
       ]
     },
     "30495": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2022-12",
       "image_url": "https://images.brickset.com/sets/images/30495-1.jpg",
       "label": "investering",
@@ -7324,7 +7324,7 @@
       "lego_availability": "Retail"
     },
     "30688": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819082",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30688-1.jpg",
@@ -7348,14 +7348,14 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Tropical Toucan",
-      "owned_by": 3579,
+      "owned_by": 3584,
       "pieces": 59,
       "rating": 3.7,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Creator",
-      "wanted_by": 471,
+      "wanted_by": 470,
       "year": 2025,
       "date_first_available": "2025-01-01",
       "subtheme": "3 in 1",
@@ -7369,7 +7369,7 @@
       "minifig_list": []
     },
     "30689": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819099",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30689-1.jpg",
@@ -7393,7 +7393,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Birthday Party Animals",
-      "owned_by": 1237,
+      "owned_by": 1239,
       "pieces": 60,
       "rating": 3.4,
       "retirement_date": "2025-12-31",
@@ -7414,7 +7414,7 @@
       "minifig_list": []
     },
     "30690": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819105",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30690-1.jpg",
@@ -7438,7 +7438,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Easter Egg Chick Painting Fun",
-      "owned_by": 2839,
+      "owned_by": 2842,
       "pieces": 65,
       "rating": 3.1,
       "retirement_date": "2025-12-31",
@@ -7459,7 +7459,7 @@
       "minifig_list": []
     },
     "30691": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819112",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30691-1.jpg",
@@ -7483,7 +7483,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Mini Convertible Monster Truck",
-      "owned_by": 1084,
+      "owned_by": 1086,
       "pieces": 55,
       "rating": 3.5,
       "retirement_date": "2025-12-31",
@@ -7504,14 +7504,14 @@
       "minifig_list": []
     },
     "30692": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819129",
       "expected_retirement": "2026-12",
       "image_url": "https://images.brickset.com/sets/images/30692-1.jpg",
       "lego_availability": "Retail",
       "msrp": null,
       "name": "Christmas Chimney Fun with Santa",
-      "owned_by": 1974,
+      "owned_by": 1976,
       "pieces": 60,
       "rating": 3.4,
       "retirement_date": "2026-12-31",
@@ -7532,7 +7532,7 @@
       "minifig_list": []
     },
     "30693": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819358",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30693-1.jpg",
@@ -7586,7 +7586,7 @@
       ]
     },
     "30694": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017820200",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30694-1.jpg",
@@ -7611,7 +7611,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Space Science Mech",
-      "owned_by": 2183,
+      "owned_by": 2184,
       "pieces": 49,
       "rating": 4.1,
       "retirement_date": "2025-12-31",
@@ -7640,7 +7640,7 @@
       ]
     },
     "30695": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819419",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30695-1.jpg",
@@ -7665,7 +7665,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Cinderella's Mini Garden Castle",
-      "owned_by": 898,
+      "owned_by": 899,
       "pieces": 52,
       "rating": 3.6,
       "retirement_date": "2025-12-31",
@@ -7694,7 +7694,7 @@
       ]
     },
     "30699": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30699-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -7717,7 +7717,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Mini Ninja Combo Mech",
-      "owned_by": 1047,
+      "owned_by": 1048,
       "pieces": 80,
       "rating": 3.4,
       "retirement_date": "2025-12-31",
@@ -7738,7 +7738,7 @@
       "minifig_list": []
     },
     "30700": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017818610",
       "expected_retirement": "2026-12",
       "image_url": "https://images.brickset.com/sets/images/30700-1.jpg",
@@ -7746,14 +7746,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "Arin vs. Dragonian Battle",
-      "owned_by": 1493,
+      "owned_by": 1496,
       "pieces": 48,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "retiring",
       "sell_score": null,
       "theme": "Ninjago",
-      "wanted_by": 352,
+      "wanted_by": 350,
       "year": 2025,
       "date_first_available": "2025-06-01",
       "subtheme": "Dragons Rising Season 3",
@@ -7782,7 +7782,7 @@
       ]
     },
     "30702": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819846",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30702-1.jpg",
@@ -7807,7 +7807,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Toad (Pit Crew)",
-      "owned_by": 1483,
+      "owned_by": 1485,
       "pieces": 39,
       "rating": 3.7,
       "retirement_date": "2025-12-31",
@@ -7828,7 +7828,7 @@
       "minifig_list": []
     },
     "30706": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017820217",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30706-1.jpg",
@@ -7860,7 +7860,7 @@
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Harry Potter",
-      "wanted_by": 739,
+      "wanted_by": 741,
       "year": 2025,
       "date_first_available": "2025-02-01",
       "subtheme": "Philosopher's Stone",
@@ -7889,7 +7889,7 @@
       ]
     },
     "30707": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819396",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30707-1.jpg",
@@ -7914,14 +7914,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "Venom's Museum Robbery",
-      "owned_by": 2392,
+      "owned_by": 2393,
       "pieces": 36,
       "rating": 3.8,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Marvel Super Heroes",
-      "wanted_by": 492,
+      "wanted_by": 493,
       "year": 2025,
       "date_first_available": "2025-02-01",
       "subtheme": "Spider-Man",
@@ -7950,7 +7950,7 @@
       ]
     },
     "30708": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017819402",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30708-1.jpg",
@@ -7974,7 +7974,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Millennium Falcon",
-      "owned_by": 10432,
+      "owned_by": 10440,
       "pieces": 74,
       "rating": 3.4,
       "retirement_date": "2025-12-31",
@@ -7995,7 +7995,7 @@
       "minifig_list": []
     },
     "30709": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017820224",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30709-1.jpg",
@@ -8019,7 +8019,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Ferrari 499P - Hypercar",
-      "owned_by": 3773,
+      "owned_by": 3776,
       "pieces": 62,
       "rating": 3.6,
       "retirement_date": "2025-12-31",
@@ -8040,7 +8040,7 @@
       "minifig_list": []
     },
     "30710": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017820231",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30710-1.jpg",
@@ -8064,7 +8064,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Skid-Steer Loader",
-      "owned_by": 1988,
+      "owned_by": 1991,
       "pieces": 52,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
@@ -8084,7 +8084,7 @@
       "minifig_list": []
     },
     "30711": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017988962",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/30711-1.jpg",
@@ -8108,7 +8108,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Play with Braille Bricks",
-      "owned_by": 360,
+      "owned_by": 361,
       "pieces": 10,
       "rating": 0.0,
       "retirement_date": "2025-12-31",
@@ -8197,7 +8197,7 @@
     },
     "30728": {
       "availability_score": 0,
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "buy_score": 71,
       "current_best_shop": "Brickwatch",
       "ean": "5702018058121",
@@ -8207,7 +8207,7 @@
       "lowest_price_ever": 3.5,
       "msrp": null,
       "name": "The Razor Crest",
-      "owned_by": 3496,
+      "owned_by": 3510,
       "pieces": 74,
       "price_score": null,
       "rating": 3.9,
@@ -8221,7 +8221,7 @@
       "theme": "Star Wars",
       "transactions": [],
       "urgency_score": 14,
-      "wanted_by": 515,
+      "wanted_by": 514,
       "year": 2026,
       "expected_retirement": "2026-12",
       "date_first_available": "2026-04-26",
@@ -10176,7 +10176,7 @@
       "minifig_list": []
     },
     "40506": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830155",
       "image_url": "https://images.brickset.com/sets/images/40506-1.jpg",
       "lego_availability": "Retail - limited",
@@ -10202,14 +10202,14 @@
       "minifig_list": []
     },
     "40512": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017106625",
       "image_url": "https://images.brickset.com/sets/images/40512-1.jpg",
       "label": "investering",
       "lego_availability": "LEGO exclusive",
       "msrp": null,
       "name": "Fun and Funky VIP Add On Pack",
-      "owned_by": 9029,
+      "owned_by": 9030,
       "pieces": 148,
       "rating": 3.3,
       "retirement_status": "active",
@@ -10217,7 +10217,7 @@
       "status": "portfolio",
       "theme": "Miscellaneous",
       "transactions": [],
-      "wanted_by": 475,
+      "wanted_by": 474,
       "year": 2022,
       "subtheme": "VIP Add On Pack",
       "price_score": null,
@@ -10421,7 +10421,7 @@
       "date_first_available": "2022-04-15"
     },
     "40531": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2022-12",
       "image_url": "https://images.brickset.com/sets/images/40531-1.jpg",
       "label": "investering",
@@ -10446,7 +10446,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Lars Family Homestead Kitchen",
-      "owned_by": 12434,
+      "owned_by": 12436,
       "pieces": 195,
       "rating": 4.0,
       "retirement_date": "2022-12-31",
@@ -10454,7 +10454,7 @@
       "sell_score": null,
       "subtheme": "Promotional",
       "theme": "Star Wars",
-      "wanted_by": 2247,
+      "wanted_by": 2246,
       "year": 2022,
       "date_first_available": "2022-05-01",
       "price_score": null,
@@ -11003,7 +11003,7 @@
       "minifig_list": []
     },
     "40580": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017422749",
       "expected_retirement": "2023-12",
       "image_url": "https://images.brickset.com/sets/images/40580-1.jpg",
@@ -11054,7 +11054,7 @@
           "type": "sell"
         }
       ],
-      "wanted_by": 1470,
+      "wanted_by": 1469,
       "year": 2023,
       "date_first_available": "2023-01-01",
       "subtheme": "Space System",
@@ -11076,7 +11076,7 @@
       ]
     },
     "40581": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2023-12",
       "image_url": "https://images.brickset.com/sets/images/40581-1.jpg",
       "label": "investering",
@@ -11100,7 +11100,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "BIONICLE Tahu and Takua",
-      "owned_by": 3768,
+      "owned_by": 3769,
       "pieces": 219,
       "rating": 3.9,
       "retirement_date": "2023-12-31",
@@ -11118,7 +11118,7 @@
           "type": "sell"
         }
       ],
-      "wanted_by": 573,
+      "wanted_by": 574,
       "year": 2023,
       "date_first_available": "2023-01-19",
       "subtheme": "Promotional",
@@ -12261,7 +12261,7 @@
       ]
     },
     "40757": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830179",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40757-1.jpg",
@@ -12286,14 +12286,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "Corner Kiosk",
-      "owned_by": 4683,
+      "owned_by": 4685,
       "pieces": 205,
       "rating": 3.9,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Icons",
-      "wanted_by": 1576,
+      "wanted_by": 1575,
       "year": 2025,
       "date_first_available": "2025-01-01",
       "subtheme": "Promotional",
@@ -12320,7 +12320,7 @@
       "buy_score": null
     },
     "40758": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830186",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40758-1.jpg",
@@ -12340,7 +12340,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Celebration Series: Ferris Wheel with Fireworks",
-      "owned_by": 2987,
+      "owned_by": 2990,
       "pieces": 230,
       "rating": 3.3,
       "retirement_date": "2025-12-31",
@@ -12361,7 +12361,7 @@
       "buy_score": null
     },
     "40759": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830193",
       "expected_retirement": "2025-07",
       "image_url": "https://images.brickset.com/sets/images/40759-1.jpg",
@@ -12385,7 +12385,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Celebration Series: Valentine's Day Box",
-      "owned_by": 3335,
+      "owned_by": 3336,
       "pieces": 172,
       "rating": 3.6,
       "retirement_date": "2025-07-31",
@@ -12406,7 +12406,7 @@
       "buy_score": null
     },
     "40760": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830209",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40760-1.jpg",
@@ -12430,14 +12430,14 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Adventure Peely & Cuddle Team Leader",
-      "owned_by": 2813,
+      "owned_by": 2815,
       "pieces": 258,
       "rating": 3.5,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "BrickHeadz",
-      "wanted_by": 277,
+      "wanted_by": 278,
       "year": 2025,
       "date_first_available": "2025-08-01",
       "subtheme": "Fortnite",
@@ -12451,7 +12451,7 @@
       "buy_score": null
     },
     "40761": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40761-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -12475,14 +12475,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "The Lord of the Rings: Sméagol & Déagol",
-      "owned_by": 4533,
+      "owned_by": 4536,
       "pieces": 181,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Icons",
-      "wanted_by": 1257,
+      "wanted_by": 1260,
       "year": 2025,
       "date_first_available": "2025-04-02",
       "subtheme": "The Lord of the Rings",
@@ -12509,7 +12509,7 @@
       "buy_score": null
     },
     "40763": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830230",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40763-1.jpg",
@@ -12554,7 +12554,7 @@
       "buy_score": null
     },
     "40765": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830254",
       "expected_retirement": "2025-05",
       "image_url": "https://images.brickset.com/sets/images/40765-1.jpg",
@@ -12579,7 +12579,7 @@
       "minifigs": 3,
       "msrp": null,
       "name": "Kamino Training Facility",
-      "owned_by": 8830,
+      "owned_by": 8835,
       "pieces": 190,
       "rating": 3.9,
       "retirement_date": "2025-05-31",
@@ -12607,7 +12607,7 @@
       "buy_score": null
     },
     "40766": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017832081",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40766-1.jpg",
@@ -12632,7 +12632,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Tribute to Jane Austen's Books",
-      "owned_by": 3692,
+      "owned_by": 3693,
       "pieces": 361,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
@@ -12660,7 +12660,7 @@
       "buy_score": null
     },
     "40767": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829777",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40767-1.jpg",
@@ -12684,14 +12684,14 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Up-Scaled Baby Astronaut",
-      "owned_by": 6071,
+      "owned_by": 6075,
       "pieces": 250,
       "rating": 4.1,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 724,
+      "wanted_by": 725,
       "year": 2025,
       "date_first_available": "2025-05-15",
       "subtheme": "Gift with Purchase",
@@ -12705,7 +12705,7 @@
       "buy_score": null
     },
     "40768": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829784",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40768-1.jpg",
@@ -12730,7 +12730,7 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Star Trek: Type-15 Shuttlepod",
-      "owned_by": 3250,
+      "owned_by": 3252,
       "pieces": 261,
       "rating": 4.4,
       "retirement_date": "2025-12-31",
@@ -12758,7 +12758,7 @@
       "buy_score": null
     },
     "40770": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2025-10",
       "image_url": "https://images.brickset.com/sets/images/40770-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -12811,7 +12811,7 @@
     },
     "40771": {
       "availability_score": 10,
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "buy_score": 64,
       "current_best_shop": "Brickwatch",
       "ean": "5702017829814",
@@ -12840,7 +12840,7 @@
       "minifigs": 3,
       "msrp": null,
       "name": "TIE Fighter with Imperial Hangar Rack",
-      "owned_by": 1705,
+      "owned_by": 1709,
       "pieces": 236,
       "price_score": null,
       "rating": 3.2,
@@ -12880,7 +12880,7 @@
       ]
     },
     "40772": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829821",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40772-1.jpg",
@@ -12904,14 +12904,14 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Celebration Series: Luminous Ghost",
-      "owned_by": 4036,
+      "owned_by": 4037,
       "pieces": 167,
       "rating": 3.9,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Creator",
-      "wanted_by": 265,
+      "wanted_by": 266,
       "year": 2025,
       "date_first_available": "2025-09-28",
       "subtheme": "Seasonal",
@@ -12925,7 +12925,7 @@
       "buy_score": null
     },
     "40773": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40773-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -12949,14 +12949,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "The Goonies: The Walshes' Attic",
-      "owned_by": 1985,
+      "owned_by": 1987,
       "pieces": 179,
       "rating": 4.1,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Ideas",
-      "wanted_by": 528,
+      "wanted_by": 530,
       "year": 2025,
       "date_first_available": "2025-11-01",
       "subtheme": "Promotional",
@@ -12983,7 +12983,7 @@
       "buy_score": null
     },
     "40774": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017831039",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40774-1.jpg",
@@ -13008,14 +13008,14 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Classic Animation Scenes",
-      "owned_by": 4597,
+      "owned_by": 4603,
       "pieces": 270,
       "rating": 3.9,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Disney",
-      "wanted_by": 557,
+      "wanted_by": 558,
       "year": 2025,
       "date_first_available": "2025-10-10",
       "subtheme": "Promotional",
@@ -13036,12 +13036,12 @@
       "buy_score": null
     },
     "40775": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "image_url": "https://images.brickset.com/sets/images/40775-1.jpg",
       "lego_availability": "LEGO exclusive",
       "msrp": null,
       "name": "Mini Knight's Castle",
-      "owned_by": 6065,
+      "owned_by": 6069,
       "pieces": 590,
       "rating": 3.6,
       "retirement_status": "active",
@@ -13061,7 +13061,7 @@
       "buy_score": null
     },
     "40776": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829845",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40776-1.jpg",
@@ -13086,14 +13086,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "Hot Chocolate Stand",
-      "owned_by": 7669,
+      "owned_by": 7674,
       "pieces": 256,
       "rating": 4.1,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 446,
+      "wanted_by": 447,
       "year": 2025,
       "date_first_available": "2025-11-22",
       "subtheme": "Gift with Purchase",
@@ -13122,7 +13122,7 @@
       ]
     },
     "40777": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829852",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40777-1.jpg",
@@ -13146,7 +13146,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Celebration Series: Gingerbread Train Ornament",
-      "owned_by": 2980,
+      "owned_by": 2984,
       "pieces": 190,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
@@ -13167,7 +13167,7 @@
       "buy_score": null
     },
     "40778": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017829869",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40778-1.jpg",
@@ -13192,7 +13192,7 @@
       "minifigs": 3,
       "msrp": null,
       "name": "Winter Gazebo",
-      "owned_by": 2670,
+      "owned_by": 2671,
       "pieces": 245,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
@@ -13232,7 +13232,7 @@
       "buy_score": null
     },
     "40782": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830728",
       "expected_retirement": "2025-07",
       "image_url": "https://images.brickset.com/sets/images/40782-1.jpg",
@@ -13277,7 +13277,7 @@
       "buy_score": null
     },
     "40783": {
-      "brickset_last_enriched": "2026-07-10T21:00:32Z",
+      "brickset_last_enriched": "2026-07-11T07:43:13Z",
       "ean": "5702017830773",
       "expected_retirement": "2025-10",
       "image_url": "https://images.brickset.com/sets/images/40783-1.jpg",
@@ -13322,7 +13322,7 @@
       "buy_score": null
     },
     "40784": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017830834",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40784-1.jpg",
@@ -13367,7 +13367,7 @@
       "buy_score": null
     },
     "40785": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017830988",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40785-1.jpg",
@@ -13412,7 +13412,7 @@
       "buy_score": null
     },
     "40786": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017830759",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40786-1.jpg",
@@ -13437,14 +13437,14 @@
       "minifigs": 1,
       "msrp": null,
       "name": "Micro Command Centre",
-      "owned_by": 4229,
+      "owned_by": 4231,
       "pieces": 214,
       "rating": 3.7,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Ideas",
-      "wanted_by": 832,
+      "wanted_by": 835,
       "year": 2025,
       "date_first_available": "2025-03-01",
       "subtheme": "Promotional",
@@ -13465,7 +13465,7 @@
       "buy_score": null
     },
     "40787": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40787-1.jpg",
       "lego_availability": "Insiders Reward",
@@ -13488,7 +13488,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Mario Kart - Spiny Shell",
-      "owned_by": 2845,
+      "owned_by": 2848,
       "pieces": 234,
       "rating": 4.4,
       "retirement_date": "2025-12-31",
@@ -13509,7 +13509,7 @@
       "buy_score": null
     },
     "40788": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017830841",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40788-1.jpg",
@@ -13533,14 +13533,14 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Friendly Snails",
-      "owned_by": 2785,
+      "owned_by": 2789,
       "pieces": 264,
       "rating": 4.0,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Ideas",
-      "wanted_by": 671,
+      "wanted_by": 672,
       "year": 2025,
       "date_first_available": "2025-07-01",
       "subtheme": "Promotional",
@@ -13554,7 +13554,7 @@
       "buy_score": null
     },
     "40789": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017829883",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/40789-1.jpg",
@@ -13579,14 +13579,14 @@
       "minifigs": 2,
       "msrp": null,
       "name": "Flying Moon Car",
-      "owned_by": 3340,
+      "owned_by": 3344,
       "pieces": 211,
       "rating": 4.3,
       "retirement_date": "2025-12-31",
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Ideas",
-      "wanted_by": 857,
+      "wanted_by": 859,
       "year": 2025,
       "date_first_available": "2025-07-01",
       "subtheme": "Promotional",
@@ -13613,18 +13613,18 @@
       "buy_score": null
     },
     "40790": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/40790-1.jpg",
       "lego_availability": "{Not specified}",
       "msrp": null,
       "name": "LEGO House Chef",
-      "owned_by": 166,
+      "owned_by": 167,
       "pieces": 7,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 234,
+      "wanted_by": 235,
       "year": 2025,
       "date_first_available": "2025-03-01",
       "subtheme": "LEGO House",
@@ -14255,14 +14255,14 @@
       "ean": "5702017829968"
     },
     "40810": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "ean": "5702017830568",
       "image_url": "https://images.brickset.com/sets/images/40810-1.jpg",
       "lego_availability": "LEGOLAND exclusive",
       "minifigs": 1,
       "msrp": null,
       "name": "LEGOLAND Park Portal",
-      "owned_by": 423,
+      "owned_by": 424,
       "pieces": 323,
       "rating": 0.0,
       "retirement_status": "active",
@@ -14427,7 +14427,7 @@
     },
     "40892": {
       "availability_score": 10,
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "buy_score": 89,
       "current_best_shop": "Brickwatch",
       "expected_retirement": "2026-12",
@@ -14437,7 +14437,7 @@
       "lowest_price_ever": 28.45,
       "msrp": null,
       "name": "Kanto Region Badge Collection",
-      "owned_by": 1015,
+      "owned_by": 1017,
       "pieces": 312,
       "price_score": null,
       "rating": 4.1,
@@ -14451,7 +14451,7 @@
       "theme": "Pokémon",
       "transactions": [],
       "urgency_score": 14,
-      "wanted_by": 530,
+      "wanted_by": 535,
       "year": 2026,
       "date_first_available": "2026-02-27",
       "subtheme": "Promotional",
@@ -22144,7 +22144,7 @@
       "minifig_list": []
     },
     "66802": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/66802-1.jpg",
       "lego_availability": "Retail - limited",
@@ -22167,7 +22167,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Ultimate Formula 1 Collector's Pack",
-      "owned_by": 569,
+      "owned_by": 570,
       "pieces": 2601,
       "rating": 4.6,
       "retirement_date": "2025-12-31",
@@ -22188,7 +22188,7 @@
       "minifig_list": []
     },
     "66803": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/66803-1.jpg",
       "lego_availability": "Retail - limited",
@@ -22232,7 +22232,7 @@
       "minifig_list": []
     },
     "66804": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/66804-1.jpg",
       "lego_availability": "Retail - limited",
@@ -22255,7 +22255,7 @@
       "market_value_source": "ebay",
       "msrp": null,
       "name": "Star Wars: The Clone Wars and The Mandalorian Gift Set",
-      "owned_by": 498,
+      "owned_by": 499,
       "pieces": 423,
       "rating": 4.1,
       "retirement_date": "2025-12-31",
@@ -22276,13 +22276,13 @@
       "minifig_list": []
     },
     "66808": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/66808-1.jpg",
       "lego_availability": "Retail - limited",
       "msrp": null,
       "name": "Epic Battle Set",
-      "owned_by": 181,
+      "owned_by": 183,
       "pieces": 1308,
       "rating": 0.0,
       "retirement_date": "2025-12-31",
@@ -22303,7 +22303,7 @@
       "minifig_list": []
     },
     "66810": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "expected_retirement": "2025-12",
       "image_url": "https://images.brickset.com/sets/images/66810-1.jpg",
       "lego_availability": "Retail - limited",
@@ -34286,7 +34286,7 @@
       "rating": 4.1,
       "retirement_date": "2026-04-28",
       "retirement_status": "retired",
-      "sell_score": 26,
+      "sell_score": 27,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [
@@ -34323,7 +34323,7 @@
       ],
       "sell_roi_score": 21,
       "sell_trend_score": 1,
-      "sell_age_score": 1,
+      "sell_age_score": 2,
       "sell_liquidity_score": 3,
       "subtheme": "Helmet Collection",
       "last_brickwatch_alert": "2026-07-06T19:34:17.926837Z",
@@ -56691,7 +56691,7 @@
       "expected_retirement": "2027-12"
     },
     "112501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56731,7 +56731,7 @@
       ]
     },
     "112502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112502-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56771,7 +56771,7 @@
       ]
     },
     "112503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56811,7 +56811,7 @@
       ]
     },
     "112504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56851,7 +56851,7 @@
       ]
     },
     "112505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56891,14 +56891,14 @@
       ]
     },
     "112506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
       "msrp": null,
       "name": "Arin vs. Spectral Dragonian Scout",
       "owned_by": 263,
-      "pieces": 2,
+      "pieces": 13,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
@@ -56931,7 +56931,7 @@
       ]
     },
     "112507": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/112507-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -56971,19 +56971,19 @@
       ]
     },
     "122409": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122409-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Robert Muldoon and Raptor",
-      "owned_by": 339,
+      "owned_by": 340,
       "pieces": 19,
-      "rating": 3.1,
+      "rating": 3.4,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Jurassic World",
-      "wanted_by": 204,
+      "wanted_by": 203,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57004,13 +57004,13 @@
       ]
     },
     "122501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Ranger and Raptor",
-      "owned_by": 266,
+      "owned_by": 268,
       "pieces": 29,
       "rating": 3.2,
       "retirement_status": "active",
@@ -57037,7 +57037,7 @@
       ]
     },
     "122502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122502-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57061,7 +57061,7 @@
       "minifig_list": []
     },
     "122503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57094,7 +57094,7 @@
       ]
     },
     "122504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122504-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57118,7 +57118,7 @@
       "minifig_list": []
     },
     "122505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57130,7 +57130,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Jurassic World",
-      "wanted_by": 91,
+      "wanted_by": 92,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57151,7 +57151,7 @@
       ]
     },
     "122508": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/122508-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57183,7 +57183,7 @@
       ]
     },
     "212501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212501-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57207,7 +57207,7 @@
       "minifig_list": []
     },
     "212502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212502-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57231,7 +57231,7 @@
       "minifig_list": []
     },
     "212503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57264,7 +57264,7 @@
       ]
     },
     "212504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57297,13 +57297,13 @@
       ]
     },
     "212505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "The Joker with Robot",
-      "owned_by": 262,
+      "owned_by": 263,
       "pieces": 23,
       "rating": 0.0,
       "retirement_status": "active",
@@ -57330,7 +57330,7 @@
       ]
     },
     "212506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/212506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57363,13 +57363,13 @@
       ]
     },
     "242501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Iron Legion",
-      "owned_by": 639,
+      "owned_by": 640,
       "pieces": 16,
       "rating": 3.8,
       "retirement_status": "active",
@@ -57396,7 +57396,7 @@
       ]
     },
     "242502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242502-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57428,7 +57428,7 @@
       ]
     },
     "242503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57440,7 +57440,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Marvel Super Heroes",
-      "wanted_by": 148,
+      "wanted_by": 149,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57461,7 +57461,7 @@
       ]
     },
     "242504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242504-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57471,7 +57471,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Marvel Super Heroes",
-      "wanted_by": 129,
+      "wanted_by": 130,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57493,19 +57493,19 @@
       "pieces": 14
     },
     "242505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Black Widow",
-      "owned_by": 207,
+      "owned_by": 208,
       "pieces": 6,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Marvel Super Heroes",
-      "wanted_by": 113,
+      "wanted_by": 114,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57526,13 +57526,13 @@
       ]
     },
     "242506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/242506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Captain America",
-      "owned_by": 297,
+      "owned_by": 298,
       "pieces": 18,
       "rating": 0.0,
       "retirement_status": "active",
@@ -57559,7 +57559,7 @@
       ]
     },
     "412502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/412502-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57583,12 +57583,12 @@
       "buy_score": null
     },
     "412503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/412503-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
       "name": "Gyrocopter",
-      "owned_by": 211,
+      "owned_by": 212,
       "pieces": 63,
       "rating": 0.0,
       "retirement_status": "active",
@@ -57607,7 +57607,7 @@
       "buy_score": null
     },
     "412504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/412504-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57618,7 +57618,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Technic",
-      "wanted_by": 103,
+      "wanted_by": 104,
       "year": 2025,
       "minifig_list": [],
       "subtheme": "Magazine Gift",
@@ -57631,7 +57631,7 @@
       "buy_score": null
     },
     "412505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/412505-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57655,7 +57655,7 @@
       "minifig_list": []
     },
     "412506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/412506-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57680,19 +57680,19 @@
       "minifig_list": []
     },
     "472518": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/472518-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Ahsoka Tano",
-      "owned_by": 1103,
+      "owned_by": 1105,
       "pieces": 8,
       "rating": 4.5,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 292,
+      "wanted_by": 293,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "price_score": null,
@@ -57713,7 +57713,7 @@
       ]
     },
     "682501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/682501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57746,13 +57746,13 @@
       ]
     },
     "682502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/682502-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Venomised Doc Ock",
-      "owned_by": 534,
+      "owned_by": 535,
       "pieces": 27,
       "rating": 3.4,
       "retirement_status": "active",
@@ -57779,7 +57779,7 @@
       ]
     },
     "682503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/682503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57812,7 +57812,7 @@
       ]
     },
     "682504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:14Z",
       "image_url": "https://images.brickset.com/sets/images/682504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57845,7 +57845,7 @@
       ]
     },
     "682505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/682505-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -57877,7 +57877,7 @@
       ]
     },
     "682506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/682506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57910,7 +57910,7 @@
       ]
     },
     "892501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57942,7 +57942,7 @@
       "buy_score": null
     },
     "892502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892502-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -57954,7 +57954,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Ninjago",
-      "wanted_by": 136,
+      "wanted_by": 135,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "minifig_list": [
@@ -57974,7 +57974,7 @@
       "buy_score": null
     },
     "892503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58006,7 +58006,7 @@
       "buy_score": null
     },
     "892504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58018,7 +58018,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Ninjago",
-      "wanted_by": 173,
+      "wanted_by": 172,
       "year": 2025,
       "subtheme": "Magazine Gift",
       "minifig_list": [
@@ -58038,7 +58038,7 @@
       "buy_score": null
     },
     "892505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58070,7 +58070,7 @@
       "buy_score": null
     },
     "892506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58102,7 +58102,7 @@
       "buy_score": null
     },
     "892507": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892507-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58134,7 +58134,7 @@
       "buy_score": null
     },
     "892508": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892508-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58166,13 +58166,13 @@
       "buy_score": null
     },
     "892509": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892509-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Spectral Dragonian Warrior",
-      "owned_by": 433,
+      "owned_by": 434,
       "pieces": 13,
       "rating": 4.3,
       "retirement_status": "active",
@@ -58198,7 +58198,7 @@
       "buy_score": null
     },
     "892510": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892510-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58230,7 +58230,7 @@
       "buy_score": null
     },
     "892511": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892511-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58262,13 +58262,13 @@
       "buy_score": null
     },
     "892512": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892512-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Cole",
-      "owned_by": 287,
+      "owned_by": 288,
       "pieces": 1,
       "rating": 4.2,
       "retirement_status": "active",
@@ -58294,7 +58294,7 @@
       "buy_score": null
     },
     "892513": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/892513-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58326,7 +58326,7 @@
       "buy_score": null
     },
     "910010": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "ean": "5702017234366",
       "image_url": "https://images.brickset.com/sets/images/910010-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -58351,7 +58351,7 @@
           "type": "buy"
         }
       ],
-      "wanted_by": 1528,
+      "wanted_by": 1530,
       "year": 2021,
       "subtheme": "2021 Designer Program",
       "minifig_list": [
@@ -58740,7 +58740,7 @@
       "ean": "5702017764702"
     },
     "912501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58772,7 +58772,7 @@
       "buy_score": null
     },
     "912502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912502-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58805,7 +58805,7 @@
       ]
     },
     "912503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58837,13 +58837,13 @@
       "buy_score": null
     },
     "912504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Praetorian Guard",
-      "owned_by": 1260,
+      "owned_by": 1261,
       "pieces": 9,
       "rating": 4.0,
       "retirement_status": "active",
@@ -58869,7 +58869,7 @@
       "buy_score": null
     },
     "912505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912505-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -58893,7 +58893,7 @@
       "buy_score": null
     },
     "912506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912506-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -58917,7 +58917,7 @@
       "buy_score": null
     },
     "912507": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912507-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58949,7 +58949,7 @@
       "buy_score": null
     },
     "912508": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912508-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -58981,13 +58981,13 @@
       "buy_score": null
     },
     "912509": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912509-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Darth Maul",
-      "owned_by": 1149,
+      "owned_by": 1150,
       "pieces": 7,
       "rating": 4.2,
       "retirement_status": "active",
@@ -59013,7 +59013,7 @@
       "buy_score": null
     },
     "912510": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912510-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -59045,7 +59045,7 @@
       "buy_score": null
     },
     "912511": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912511-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -59057,7 +59057,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 281,
+      "wanted_by": 282,
       "year": 2025,
       "minifig_list": [
         {
@@ -59077,12 +59077,12 @@
       "buy_score": null
     },
     "912512": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912512-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
       "name": "U-wing",
-      "owned_by": 411,
+      "owned_by": 412,
       "pieces": 37,
       "rating": 4.2,
       "retirement_status": "active",
@@ -59101,7 +59101,7 @@
       "minifig_list": []
     },
     "912513": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/912513-1.jpg",
       "lego_availability": "Magazine gift",
       "msrp": null,
@@ -59144,7 +59144,7 @@
       "minifig_list": []
     },
     "952501": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952501-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -59184,7 +59184,7 @@
       ]
     },
     "952502": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952502-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -59217,13 +59217,13 @@
       ]
     },
     "952503": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952503-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Diver with Robot and Shark",
-      "owned_by": 284,
+      "owned_by": 285,
       "pieces": 20,
       "rating": 3.9,
       "retirement_status": "active",
@@ -59250,13 +59250,13 @@
       ]
     },
     "952504": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952504-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Astronaut with Space Hoverbike",
-      "owned_by": 335,
+      "owned_by": 336,
       "pieces": 32,
       "rating": 4.0,
       "retirement_status": "active",
@@ -59283,13 +59283,13 @@
       ]
     },
     "952505": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952505-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Fireman with Water Scooter",
-      "owned_by": 158,
+      "owned_by": 159,
       "pieces": 27,
       "rating": 0.0,
       "retirement_status": "active",
@@ -59316,7 +59316,7 @@
       ]
     },
     "952506": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952506-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -59349,13 +59349,13 @@
       ]
     },
     "952507": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952507-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Police Officer with Jet Pack",
-      "owned_by": 185,
+      "owned_by": 186,
       "pieces": 16,
       "rating": 0.0,
       "retirement_status": "active",
@@ -59382,13 +59382,13 @@
       ]
     },
     "952508": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952508-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Air boat",
-      "owned_by": 199,
+      "owned_by": 200,
       "pieces": 25,
       "rating": 0.0,
       "retirement_status": "active",
@@ -59415,7 +59415,7 @@
       ]
     },
     "952509": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952509-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
@@ -59448,13 +59448,13 @@
       ]
     },
     "952510": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952510-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Construction Worker with Vibration Plate",
-      "owned_by": 209,
+      "owned_by": 210,
       "pieces": 26,
       "rating": 4.4,
       "retirement_status": "active",
@@ -59481,7 +59481,7 @@
       ]
     },
     "952511": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952511-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 2,
@@ -59521,13 +59521,13 @@
       ]
     },
     "952512": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/952512-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Snowmobile",
-      "owned_by": 137,
+      "owned_by": 139,
       "pieces": 23,
       "rating": 0.0,
       "retirement_status": "active",
@@ -59554,7 +59554,7 @@
       ]
     },
     "4000043": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/4000043-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -59578,7 +59578,7 @@
       "minifig_list": []
     },
     "4000045": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/4000045-1.jpg",
       "lego_availability": "{Not specified}",
       "msrp": null,
@@ -59602,7 +59602,7 @@
       "minifig_list": []
     },
     "4000046": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/4000046-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -59626,13 +59626,13 @@
       "minifig_list": []
     },
     "4002025": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/4002025-1.jpg",
       "lego_availability": "Not sold",
       "minifigs": 7,
       "msrp": null,
       "name": "Toy Store",
-      "owned_by": 421,
+      "owned_by": 423,
       "pieces": 1769,
       "rating": 4.6,
       "retirement_status": "active",
@@ -59701,19 +59701,19 @@
       ]
     },
     "5009157": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "ean": "5702017968636",
       "image_url": "https://images.brickset.com/sets/images/5009157-1.jpg",
       "lego_availability": "LEGO exclusive",
       "msrp": null,
       "name": "Amelia Ticket Booth",
-      "owned_by": 744,
+      "owned_by": 747,
       "pieces": 152,
       "rating": 3.8,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 307,
+      "wanted_by": 305,
       "year": 2025,
       "subtheme": "Gift with Purchase",
       "price_score": null,
@@ -59726,7 +59726,7 @@
       "minifig_list": []
     },
     "5009181": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/5009181-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -59750,7 +59750,7 @@
       "minifig_list": []
     },
     "5009182": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "lego_availability": "{Not specified}",
       "msrp": null,
       "name": "1001 Boylston",
@@ -59772,7 +59772,7 @@
       "minifig_list": []
     },
     "5009189": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "image_url": "https://images.brickset.com/sets/images/5009189-1.jpg",
       "lego_availability": "{Not specified}",
       "msrp": null,
@@ -59796,7 +59796,7 @@
       "minifig_list": []
     },
     "5009203": {
-      "brickset_last_enriched": "2026-07-10T21:00:33Z",
+      "brickset_last_enriched": "2026-07-11T07:43:15Z",
       "ean": "5702017991627",
       "image_url": "https://images.brickset.com/sets/images/6570382-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -61252,7 +61252,7 @@
       "minifig_list": []
     },
     "5010009": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018178515",
       "image_url": "https://images.brickset.com/sets/images/5010009-1.jpg",
       "lego_availability": "Promotional",
@@ -61276,7 +61276,7 @@
       "minifig_list": []
     },
     "6557633": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6557633-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -61300,7 +61300,7 @@
       "subtheme": "Promotional"
     },
     "6557640": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/STS2501-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61325,7 +61325,7 @@
       "subtheme": "Formula 1"
     },
     "6557644": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6557644-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -61349,19 +61349,19 @@
       "subtheme": "LEGO brand stores"
     },
     "6562113": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/LBR2502-1.jpg",
       "lego_availability": "Promotional",
       "minifigs": 1,
       "msrp": null,
       "name": "Soap Box Racer M&T",
-      "owned_by": 334,
+      "owned_by": 335,
       "pieces": 39,
       "rating": 4.1,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "City",
-      "wanted_by": 366,
+      "wanted_by": 365,
       "year": 2025,
       "minifig_list": [
         {
@@ -61381,7 +61381,7 @@
       "subtheme": "Promotional"
     },
     "6562115": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/EASTEREGG-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61405,7 +61405,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6562116": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/HEART-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61416,7 +61416,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 98,
+      "wanted_by": 99,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61429,12 +61429,12 @@
       "subtheme": "LEGO brand stores"
     },
     "6565144": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/THUNDERFANG-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Ninjago Thunderfang",
-      "owned_by": 164,
+      "owned_by": 165,
       "pieces": 55,
       "rating": 3.9,
       "retirement_status": "active",
@@ -61453,7 +61453,7 @@
       "subtheme": "Promotional"
     },
     "6565145": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702017971278",
       "image_url": "https://images.brickset.com/sets/images/SUNFLOWERS-1.jpg",
       "lego_availability": "Promotional",
@@ -61478,12 +61478,12 @@
       "subtheme": "LEGO brand stores"
     },
     "6565151": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/LBR2505-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "F1 Steering Wheel M&T",
-      "owned_by": 291,
+      "owned_by": 292,
       "pieces": 33,
       "rating": 4.1,
       "retirement_status": "active",
@@ -61503,12 +61503,12 @@
       "subtheme": "Formula 1"
     },
     "6565152": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6565152-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
       "name": "Paddle",
-      "owned_by": 122,
+      "owned_by": 123,
       "pieces": 23,
       "rating": 0.0,
       "retirement_status": "active",
@@ -61527,7 +61527,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6565155": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6565155-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61551,19 +61551,19 @@
       "subtheme": "LEGO brand stores"
     },
     "6565158": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702017971353",
       "image_url": "https://images.brickset.com/sets/images/BUTTERBEER-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Butterbeer Truck",
-      "owned_by": 265,
+      "owned_by": 266,
       "pieces": 61,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Harry Potter",
-      "wanted_by": 338,
+      "wanted_by": 341,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61576,13 +61576,13 @@
       "subtheme": "Promotional"
     },
     "6565159": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702017971377",
       "image_url": "https://images.brickset.com/sets/images/WITCH-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Witch",
-      "owned_by": 126,
+      "owned_by": 127,
       "pieces": 27,
       "rating": 0.0,
       "retirement_status": "active",
@@ -61601,12 +61601,12 @@
       "subtheme": "LEGO brand stores"
     },
     "6565180": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6565180-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Mother's Day Flower M&T",
-      "owned_by": 158,
+      "owned_by": 159,
       "pieces": 23,
       "rating": 4.3,
       "retirement_status": "active",
@@ -61625,7 +61625,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6565181": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/CRAYONS-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -61649,7 +61649,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6568276": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6568276-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61660,7 +61660,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 189,
+      "wanted_by": 190,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61672,7 +61672,7 @@
       "buy_score": null
     },
     "6569140": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6569140-1.jpg",
       "lego_availability": "LEGO exclusive",
       "msrp": null,
@@ -61683,7 +61683,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 104,
+      "wanted_by": 105,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61696,7 +61696,7 @@
       "subtheme": "LEGO Brand Store Opening Set"
     },
     "6573698": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6573698-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61707,7 +61707,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 260,
+      "wanted_by": 262,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61720,18 +61720,18 @@
       "subtheme": "Promotional"
     },
     "6573699": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/GROGU-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Grogu M&T",
-      "owned_by": 444,
+      "owned_by": 445,
       "pieces": 51,
       "rating": 3.7,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 273,
+      "wanted_by": 274,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -61744,12 +61744,12 @@
       "subtheme": "Promotional"
     },
     "6575258": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6575258-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
       "name": "Boom Box M&T",
-      "owned_by": 134,
+      "owned_by": 135,
       "pieces": 34,
       "rating": 0.0,
       "retirement_status": "active",
@@ -61768,12 +61768,12 @@
       "subtheme": "LEGO brand stores"
     },
     "6575259": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6575259-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Gaming Controller",
-      "owned_by": 142,
+      "owned_by": 143,
       "pieces": 47,
       "rating": 3.2,
       "retirement_status": "active",
@@ -61792,13 +61792,13 @@
       "subtheme": "LEGO brand stores"
     },
     "6575260": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018007136",
       "image_url": "https://images.brickset.com/sets/images/ORNAMENT-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Holiday Ornament",
-      "owned_by": 58,
+      "owned_by": 59,
       "pieces": 60,
       "rating": 0.0,
       "retirement_status": "active",
@@ -61817,7 +61817,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6581209": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6581209-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -61841,37 +61841,13 @@
       "subtheme": "LEGO brand stores"
     },
     "6581677": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6581677-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
       "name": "Creative Wildlife Panda and Flamingo",
       "owned_by": 40,
       "pieces": 48,
-      "rating": 0.0,
-      "retirement_status": "active",
-      "sell_score": null,
-      "theme": "Promotional",
-      "wanted_by": 49,
-      "year": 2025,
-      "minifig_list": [],
-      "price_score": null,
-      "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
-      "subtheme": "Miscellaneous"
-    },
-    "6581684": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
-      "image_url": "https://images.brickset.com/sets/images/6581684-1.jpg",
-      "lego_availability": "Promotional",
-      "msrp": null,
-      "name": "Creative Wildlife Flower and Fish",
-      "owned_by": 11,
-      "pieces": 54,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
@@ -61888,8 +61864,32 @@
       "buy_score": null,
       "subtheme": "Miscellaneous"
     },
+    "6581684": {
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
+      "image_url": "https://images.brickset.com/sets/images/6581684-1.jpg",
+      "lego_availability": "Promotional",
+      "msrp": null,
+      "name": "Creative Wildlife Flower and Fish",
+      "owned_by": 11,
+      "pieces": 54,
+      "rating": 0.0,
+      "retirement_status": "active",
+      "sell_score": null,
+      "theme": "Promotional",
+      "wanted_by": 51,
+      "year": 2025,
+      "minifig_list": [],
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "subtheme": "Miscellaneous"
+    },
     "6583586": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018045008",
       "image_url": "https://images.brickset.com/sets/images/6583586-1.jpg",
       "lego_availability": "Promotional",
@@ -61914,7 +61914,7 @@
       "subtheme": "Miscellaneous"
     },
     "6583587": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018045022",
       "image_url": "https://images.brickset.com/sets/images/6583587-1.jpg",
       "lego_availability": "Promotional",
@@ -61939,7 +61939,7 @@
       "subtheme": "Miscellaneous"
     },
     "6583588": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018045046",
       "image_url": "https://images.brickset.com/sets/images/6583588-1.jpg",
       "lego_availability": "Promotional",
@@ -61964,7 +61964,7 @@
       "subtheme": "Miscellaneous"
     },
     "6586973": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018057865",
       "image_url": "https://images.brickset.com/sets/images/6586973-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -61989,7 +61989,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6588949": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018062586",
       "image_url": "https://images.brickset.com/sets/images/6588949-1.jpg",
       "lego_availability": "LEGO exclusive",
@@ -62014,7 +62014,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6595892": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6595892-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -62038,7 +62038,7 @@
       "subtheme": "Miscellaneous"
     },
     "6596072": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018090169",
       "expected_retirement": "2025-04",
       "image_url": "https://images.brickset.com/sets/images/6596072-1.jpg",
@@ -62052,7 +62052,7 @@
       "retirement_status": "retired",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 290,
+      "wanted_by": 292,
       "year": 2025,
       "date_first_available": "2025-04-18",
       "minifig_list": [],
@@ -62066,7 +62066,7 @@
       "subtheme": "Promotional"
     },
     "6597570": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6597570-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62090,7 +62090,7 @@
       "subtheme": "Formula 1"
     },
     "6598833": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/WORLDPLAYDAY-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62114,13 +62114,13 @@
       "subtheme": "LEGO brand stores"
     },
     "6598863": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018093467",
       "image_url": "https://images.brickset.com/sets/images/6598863-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Dragon",
-      "owned_by": 21,
+      "owned_by": 22,
       "pieces": 58,
       "rating": 0.0,
       "retirement_status": "active",
@@ -62139,7 +62139,7 @@
       "subtheme": "LEGO brand stores"
     },
     "6600034": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6600034-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62163,13 +62163,13 @@
       "subtheme": "Miscellaneous"
     },
     "6603212": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018126080",
       "image_url": "https://images.brickset.com/sets/images/NSSCASTLE-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Castle",
-      "owned_by": 33,
+      "owned_by": 34,
       "pieces": 62,
       "rating": 0.0,
       "retirement_status": "active",
@@ -62188,19 +62188,19 @@
       "subtheme": "LEGO brand stores"
     },
     "6614230": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018194621",
       "image_url": "https://images.brickset.com/sets/images/6614230-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Holiday Kangaroo",
-      "owned_by": 14,
+      "owned_by": 15,
       "pieces": 54,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 41,
+      "wanted_by": 42,
       "year": 2025,
       "minifig_list": [],
       "price_score": null,
@@ -62213,18 +62213,18 @@
       "subtheme": "Miscellaneous"
     },
     "6615760": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/6615760-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
       "name": "Trench Run",
-      "owned_by": 49,
+      "owned_by": 50,
       "pieces": 138,
       "rating": 0.0,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 202,
+      "wanted_by": 203,
       "year": 2025,
       "date_first_available": "2025-10-01",
       "minifig_list": [],
@@ -62238,7 +62238,7 @@
       "subtheme": "Promotional"
     },
     "6616332": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018155196",
       "image_url": "https://images.brickset.com/sets/images/6616332-1.jpg",
       "lego_availability": "Promotional",
@@ -62262,7 +62262,7 @@
       "minifig_list": []
     },
     "6616333": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018155219",
       "image_url": "https://images.brickset.com/sets/images/6616333-1.jpg",
       "lego_availability": "Promotional",
@@ -62286,7 +62286,7 @@
       "minifig_list": []
     },
     "CONTROLLER": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018084977",
       "image_url": "https://images.brickset.com/sets/images/CONTROLLER-1.jpg",
       "lego_availability": "Promotional",
@@ -62310,7 +62310,7 @@
       "minifig_list": []
     },
     "CROWN": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/CROWN-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62321,7 +62321,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 34,
+      "wanted_by": 35,
       "year": 2025,
       "price_score": null,
       "roi_score": null,
@@ -62334,7 +62334,7 @@
       "minifig_list": []
     },
     "DS2025": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/DS2025-1.jpg",
       "lego_availability": "Not sold",
       "msrp": null,
@@ -62357,7 +62357,7 @@
       "minifig_list": []
     },
     "FABULANDMT": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/FABULANDMT-1.jpg",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62367,7 +62367,7 @@
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Promotional",
-      "wanted_by": 104,
+      "wanted_by": 107,
       "year": 2025,
       "price_score": null,
       "roi_score": null,
@@ -62380,7 +62380,7 @@
       "minifig_list": []
     },
     "HEADPHONEHOLDER": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018044766",
       "lego_availability": "Promotional",
       "msrp": null,
@@ -62403,7 +62403,7 @@
       "minifig_list": []
     },
     "HOLIDAYTRAIN": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "ean": "5702018118689",
       "image_url": "https://images.brickset.com/sets/images/HOLIDAYTRAIN-1.jpg",
       "lego_availability": "Promotional",
@@ -62427,19 +62427,19 @@
       "minifig_list": []
     },
     "L0002198": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/L0002198-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Tyr",
-      "owned_by": 331,
+      "owned_by": 333,
       "pieces": 4,
       "rating": 4.7,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Ninjago",
-      "wanted_by": 57,
+      "wanted_by": 58,
       "year": 2025,
       "price_score": null,
       "roi_score": null,
@@ -62460,19 +62460,19 @@
       ]
     },
     "L0002231": {
-      "brickset_last_enriched": "2026-07-05T08:43:57Z",
+      "brickset_last_enriched": "2026-07-11T07:43:17Z",
       "image_url": "https://images.brickset.com/sets/images/912514-1.jpg",
       "lego_availability": "Magazine gift",
       "minifigs": 1,
       "msrp": null,
       "name": "Phase 1 Clone Pilot",
-      "owned_by": 1120,
+      "owned_by": 1127,
       "pieces": 5,
       "rating": 4.5,
       "retirement_status": "active",
       "sell_score": null,
       "theme": "Star Wars",
-      "wanted_by": 310,
+      "wanted_by": 317,
       "year": 2025,
       "date_first_available": "2025-12-29",
       "price_score": null,
