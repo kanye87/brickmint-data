@@ -9034,8 +9034,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 42,
-      "current_best_price": 148.5,
+      "buy_score": 43,
+      "current_best_price": 146.41,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -9044,7 +9044,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 24,
+      "price_score": 25,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -9059,8 +9059,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-13T04:04:26.361396Z",
-      "last_updated": "2026-07-13T04:04:26.361401Z",
+      "last_brickwatch_alert": "2026-07-13T07:04:18.495965Z",
+      "last_updated": "2026-07-13T07:04:18.495976Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -9139,7 +9139,7 @@
         },
         {
           "date": "2026-07-13",
-          "price": 148.5,
+          "price": 146.41,
           "shop": "Brickwatch"
         }
       ],
