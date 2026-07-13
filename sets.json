@@ -37944,7 +37944,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 56,
-      "current_best_price": 44.1,
+      "current_best_price": 44.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -37968,8 +37968,8 @@
       "urgency_score": 14,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-22T04:04:21.173550Z",
-      "last_updated": "2026-06-22T04:04:21.173553Z",
+      "last_brickwatch_alert": "2026-07-13T03:34:19.179408Z",
+      "last_updated": "2026-07-13T03:34:19.179418Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -38056,6 +38056,11 @@
         {
           "date": "2026-06-22",
           "price": 44.1,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-13",
+          "price": 44.09,
           "shop": "Brickwatch"
         }
       ],
