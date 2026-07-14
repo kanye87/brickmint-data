@@ -4722,7 +4722,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 160.99,
+      "current_best_price": 157.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -4780,11 +4780,16 @@
           "date": "2026-06-25",
           "price": 160.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-14",
+          "price": 157.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-06-25T23:34:15.455759Z",
-      "last_updated": "2026-06-25T23:34:15.455765Z"
+      "last_brickwatch_alert": "2026-07-14T04:04:17.962390Z",
+      "last_updated": "2026-07-14T04:04:17.962395Z"
     },
     "21062": {
       "availability_score": 0,
@@ -26611,8 +26616,8 @@
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 47,
-      "current_best_price": 133.99,
+      "buy_score": 49,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
@@ -26621,7 +26626,7 @@
       "name": "Pikachu and Poké Ball",
       "owned_by": 449,
       "pieces": 2050,
-      "price_score": 29,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -26635,8 +26640,8 @@
       "urgency_score": 3,
       "wanted_by": 660,
       "year": 2026,
-      "last_brickwatch_alert": "2026-07-12T04:04:15.999739Z",
-      "last_updated": "2026-07-12T04:04:15.999749Z",
+      "last_brickwatch_alert": "2026-07-14T04:04:17.962277Z",
+      "last_updated": "2026-07-14T04:04:17.962284Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -26677,6 +26682,11 @@
         {
           "date": "2026-07-12",
           "price": 133.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-14",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -49545,8 +49555,8 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 59,
-      "current_best_price": 266.98,
+      "buy_score": 60,
+      "current_best_price": 265.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -49555,7 +49565,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -49572,8 +49582,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-07-13T04:04:26.361241Z",
-      "last_updated": "2026-07-13T04:04:26.361251Z",
+      "last_brickwatch_alert": "2026-07-14T04:04:17.962473Z",
+      "last_updated": "2026-07-14T04:04:17.962476Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -49613,6 +49623,11 @@
         {
           "date": "2026-07-13",
           "price": 266.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-14",
+          "price": 265.5,
           "shop": "Brickwatch"
         }
       ],
