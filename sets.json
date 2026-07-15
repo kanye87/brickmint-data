@@ -49602,8 +49602,8 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 60,
-      "current_best_price": 265.5,
+      "buy_score": 58,
+      "current_best_price": 269.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -49612,7 +49612,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 32,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": null,
@@ -49629,8 +49629,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-07-14T04:04:17.962473Z",
-      "last_updated": "2026-07-14T04:04:17.962476Z",
+      "last_brickwatch_alert": "2026-07-15T11:34:20.051750Z",
+      "last_updated": "2026-07-15T11:34:20.051757Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -49675,6 +49675,11 @@
         {
           "date": "2026-07-14",
           "price": 265.5,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-15",
+          "price": 269.99,
           "shop": "Brickwatch"
         }
       ],
