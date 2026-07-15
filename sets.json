@@ -26929,7 +26929,7 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 52,
+      "buy_score": 56,
       "current_best_price": 38.99,
       "current_best_shop": "Pepper.com",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
@@ -26943,7 +26943,7 @@
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -27003,12 +27003,21 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069264",
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bol-dag-deal-lego-pokemon-eevee-72151-laasgte-prijs-ooit-410261"
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bol-dag-deal-lego-pokemon-eevee-72151-laasgte-prijs-ooit-410261",
+      "market_value": 50.45,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 50.45
+        }
+      ]
     },
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 49,
+      "buy_score": 53,
       "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
@@ -27022,7 +27031,7 @@
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -27087,7 +27096,16 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069271",
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-pokemon-pikachu-en-pokeball-bouwpakket-voor-volwassenen-en-woondecoratie-72152-eur12069-laagste-ooit-eevee-72151-eur3899-410262"
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-pokemon-pikachu-en-pokeball-bouwpakket-voor-volwassenen-en-woondecoratie-72152-eur12069-laagste-ooit-eevee-72151-eur3899-410262",
+      "market_value": 162.5,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 162.5
+        }
+      ]
     },
     "72153": {
       "availability_score": 0,
@@ -27105,7 +27123,7 @@
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -27134,6 +27152,15 @@
           "date": "2026-06-26",
           "price": 589.0,
           "shop": "Brickwatch"
+        }
+      ],
+      "market_value": 524.93,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 524.93
         }
       ]
     },
@@ -33127,7 +33154,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "sell_score": null,
+      "sell_score": 28,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [
@@ -33143,12 +33170,12 @@
       "year": 2022,
       "subtheme": "Helmet Collection",
       "price_score": 30,
-      "roi_score": null,
+      "roi_score": 4,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 44,
+      "buy_score": 48,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -33183,7 +33210,20 @@
       ],
       "minifig_list": [],
       "last_brickwatch_alert": "2026-07-10T04:04:20.850170Z",
-      "last_updated": "2026-07-10T04:04:20.850173Z"
+      "last_updated": "2026-07-10T04:04:20.850173Z",
+      "market_value": 59.99,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 59.99
+        }
+      ],
+      "sell_roi_score": 25,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 3
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -36077,7 +36117,7 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
+      "buy_score": 51,
       "current_best_price": 469.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
@@ -36093,10 +36133,10 @@
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 32,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -36150,7 +36190,20 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
       "last_brickwatch_alert": "2026-07-11T02:34:25.082193Z",
-      "last_updated": "2026-07-11T02:34:25.082201Z"
+      "last_updated": "2026-07-11T02:34:25.082201Z",
+      "market_value": 541.39,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 541.39
+        }
+      ],
+      "sell_roi_score": 22,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 10
     },
     "75368": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -36349,7 +36402,7 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 51,
+      "buy_score": 54,
       "current_best_price": 19.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
@@ -36364,7 +36417,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -36454,7 +36507,16 @@
       "lego_availability": "Retail",
       "ean": "5702017584317",
       "last_brickwatch_alert": "2026-07-04T04:04:15.490897Z",
-      "last_updated": "2026-07-04T04:04:15.490901Z"
+      "last_updated": "2026-07-04T04:04:15.490901Z",
+      "market_value": 23.99,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 23.99
+        }
+      ]
     },
     "75373": {
       "availability_score": 0,
@@ -36587,7 +36649,7 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 35,
+      "buy_score": 38,
       "current_best_price": 53.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
@@ -36602,10 +36664,10 @@
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 26,
       "status": "portfolio",
       "subtheme": "Starship Collection",
       "theme": "Star Wars",
@@ -36650,7 +36712,20 @@
         }
       ],
       "last_brickwatch_alert": "2026-07-04T04:04:15.192990Z",
-      "last_updated": "2026-07-04T04:04:15.192993Z"
+      "last_updated": "2026-07-04T04:04:15.192993Z",
+      "market_value": 64.11,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 64.11
+        }
+      ],
+      "sell_roi_score": 22,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 4
     },
     "75376": {
       "availability_score": 0,
@@ -36922,7 +36997,7 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 30,
+      "buy_score": 33,
       "current_best_price": 64.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
@@ -36939,7 +37014,7 @@
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -36995,7 +37070,16 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
-      "ean": "5702017584379"
+      "ean": "5702017584379",
+      "market_value": 74.44,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 74.44
+        }
+      ]
     },
     "75380": {
       "availability_score": 0,
@@ -37634,7 +37718,7 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 49,
+      "buy_score": 52,
       "current_best_price": 124.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
@@ -37649,7 +37733,7 @@
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -37760,7 +37844,16 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-06-26",
       "lego_availability": "Retail",
-      "ean": "5702017584454"
+      "ean": "5702017584454",
+      "market_value": 141.95,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 141.95
+        }
+      ]
     },
     "75391": {
       "availability_score": 0,
@@ -38357,7 +38450,7 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 31,
+      "buy_score": 35,
       "current_best_price": 99.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
@@ -38372,7 +38465,7 @@
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -38428,12 +38521,21 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-02",
       "lego_availability": "Retail",
-      "ean": "5702017584508"
+      "ean": "5702017584508",
+      "market_value": 132.94,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 132.94
+        }
+      ]
     },
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 56,
+      "buy_score": 58,
       "current_best_price": 44.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
@@ -38448,7 +38550,7 @@
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -38557,7 +38659,16 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
-      "ean": "5702017817439"
+      "ean": "5702017817439",
+      "market_value": 47.77,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 47.77
+        }
+      ]
     },
     "75400": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -38937,7 +39048,7 @@
     "75406": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
+      "buy_score": 49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75406-1.jpg",
       "label": "investering",
@@ -38951,7 +39062,7 @@
       "rating": 3.7,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -38996,12 +39107,21 @@
           "price": 59.99,
           "shop": "Brickwatch"
         }
+      ],
+      "market_value": 72.72,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 72.72
+        }
       ]
     },
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
+      "buy_score": 50,
       "current_best_price": 37.99,
       "current_best_shop": "Amazon.nl",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
@@ -39016,10 +39136,10 @@
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 25,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -39096,12 +39216,25 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817583",
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-logo-75407-411495"
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-logo-75407-411495",
+      "market_value": 49.98,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 49.98
+        }
+      ],
+      "sell_roi_score": 22,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 3
     },
     "75408": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
+      "buy_score": 56,
       "current_best_price": 46.14,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75408-1.jpg",
@@ -39115,7 +39248,7 @@
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -39164,12 +39297,21 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
-      "ean": "5702017817590"
+      "ean": "5702017817590",
+      "market_value": 64.99,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 64.99
+        }
+      ]
     },
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 32,
+      "buy_score": 34,
       "current_best_price": 259.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
@@ -39186,7 +39328,7 @@
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -39366,7 +39508,16 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017824178"
+      "ean": "5702017824178",
+      "market_value": 283.97,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 283.97
+        }
+      ]
     },
     "75410": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -39505,7 +39656,7 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
+      "buy_score": 51,
       "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
@@ -39520,7 +39671,7 @@
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -39605,7 +39756,16 @@
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
       "last_updated": "2026-07-04T04:04:15.192784Z",
-      "last_brickwatch_alert": "2026-07-04T04:04:15.192775Z"
+      "last_brickwatch_alert": "2026-07-04T04:04:15.192775Z",
+      "market_value": 107.45,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 107.45
+        }
+      ]
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -39687,10 +39847,10 @@
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 27,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [
@@ -39801,12 +39961,25 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
-      "ean": "5702017824581"
+      "ean": "5702017824581",
+      "market_value": 69.5,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 69.5
+        }
+      ],
+      "sell_roi_score": 23,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 4
     },
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
+      "buy_score": 54,
       "current_best_price": 64.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
@@ -39821,7 +39994,7 @@
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -39862,7 +40035,16 @@
       "lego_availability": "Retail",
       "ean": "5702017817651",
       "last_brickwatch_alert": "2026-06-05T04:04:15.702782Z",
-      "last_updated": "2026-06-05T04:04:15.702785Z"
+      "last_updated": "2026-06-05T04:04:15.702785Z",
+      "market_value": 76.12,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 76.12
+        }
+      ]
     },
     "75417": {
       "availability_score": 10,
@@ -40092,7 +40274,7 @@
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -40376,7 +40558,16 @@
       "expected_retirement": "2028-12",
       "date_first_available": "2025-09-05",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017824185"
+      "ean": "5702017824185",
+      "market_value": 114.15,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 114.15
+        }
+      ]
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -40460,7 +40651,7 @@
     "75429": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 38,
+      "buy_score": 41,
       "current_best_price": 71.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75429-1.jpg",
@@ -40474,7 +40665,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -40503,12 +40694,21 @@
       "lego_availability": "Retail",
       "ean": "5702017824604",
       "last_brickwatch_alert": "2026-06-01T03:34:19.896920Z",
-      "last_updated": "2026-06-01T03:34:19.896928Z"
+      "last_updated": "2026-06-01T03:34:19.896928Z",
+      "market_value": 81.88,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 81.88
+        }
+      ]
     },
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
+      "buy_score": 51,
       "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
@@ -40525,7 +40725,7 @@
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -40604,12 +40804,21 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-07-23",
       "lego_availability": "Retail",
-      "ean": "5702017824611"
+      "ean": "5702017824611",
+      "market_value": 119.94,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 119.94
+        }
+      ]
     },
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
+      "buy_score": 55,
       "current_best_price": 26.45,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
@@ -40624,7 +40833,7 @@
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -40707,7 +40916,16 @@
       "expected_retirement": "2027-07",
       "date_first_available": "2025-07-04",
       "lego_availability": "Retail",
-      "ean": "5702017901213"
+      "ean": "5702017901213",
+      "market_value": 30.97,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 30.97
+        }
+      ]
     },
     "75432": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -40860,7 +41078,7 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 41,
+      "buy_score": 46,
       "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
@@ -40877,7 +41095,7 @@
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -40970,12 +41188,21 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-07-02",
       "lego_availability": "Retail",
-      "ean": "5702017901251"
+      "ean": "5702017901251",
+      "market_value": 141.45,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 141.45
+        }
+      ]
     },
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 47,
+      "buy_score": 51,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -40987,7 +41214,7 @@
       "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41041,12 +41268,21 @@
         }
       ],
       "retirement_date": "2027-07-31",
-      "expected_retirement": "2027-07"
+      "expected_retirement": "2027-07",
+      "market_value": 39.09,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 39.09
+        }
+      ]
     },
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 46,
+      "buy_score": 50,
       "current_best_price": 33.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
@@ -41059,7 +41295,7 @@
       "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41148,12 +41384,21 @@
         }
       ],
       "retirement_date": "2027-12-31",
-      "expected_retirement": "2027-12"
+      "expected_retirement": "2027-12",
+      "market_value": 46.16,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 46.16
+        }
+      ]
     },
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
+      "buy_score": 52,
       "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
@@ -41167,7 +41412,7 @@
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41222,12 +41467,21 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
-      "ean": "5702018062999"
+      "ean": "5702018062999",
+      "market_value": 55.28,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 55.28
+        }
+      ]
     },
     "75441": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
+      "buy_score": 51,
       "current_best_price": 51.27,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
@@ -41241,7 +41495,7 @@
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41280,7 +41534,16 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
-      "ean": "5702018063002"
+      "ean": "5702018063002",
+      "market_value": 57.8,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 57.8
+        }
+      ]
     },
     "75442": {
       "availability_score": 10,
@@ -41328,12 +41591,21 @@
         }
       ],
       "retirement_date": "2028-12-31",
-      "expected_retirement": "2028-12"
+      "expected_retirement": "2028-12",
+      "market_value": 221.66,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 221.66
+        }
+      ]
     },
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 39,
+      "buy_score": 42,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -41345,7 +41617,7 @@
       "price_score": 31,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -41430,12 +41702,21 @@
       ],
       "minifigs": 1,
       "retirement_date": "2028-12-31",
-      "expected_retirement": "2028-12"
+      "expected_retirement": "2028-12",
+      "market_value": 97.66,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 97.66
+        }
+      ]
     },
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 42,
+      "buy_score": 46,
       "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
@@ -41450,7 +41731,7 @@
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -41492,7 +41773,16 @@
       "lego_availability": "Retail",
       "ean": "5702018063095",
       "last_brickwatch_alert": "2026-07-02T04:04:19.281150Z",
-      "last_updated": "2026-07-02T04:04:19.281153Z"
+      "last_updated": "2026-07-02T04:04:19.281153Z",
+      "market_value": 77.06,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 77.06
+        }
+      ]
     },
     "75682": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -47604,6 +47894,15 @@
           "value": null,
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-012898/118470.jpg"
         }
+      ],
+      "market_value": 253.96,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 253.96
+        }
       ]
     },
     "76271": {
@@ -47836,7 +48135,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -47956,7 +48255,16 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-10-18",
       "lego_availability": "LEGO exclusive",
-      "ean": "5702017590158"
+      "ean": "5702017590158",
+      "market_value": 42.48,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 42.48
+        }
+      ]
     },
     "76297": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -47990,7 +48298,7 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 54,
+      "buy_score": 57,
       "current_best_price": 264.57,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
@@ -48005,7 +48313,7 @@
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -48300,7 +48608,16 @@
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-arkham-asylum-76300-409690",
       "last_updated": "2026-07-14T07:34:19.909360Z",
-      "last_brickwatch_alert": "2026-07-14T07:34:19.909352Z"
+      "last_brickwatch_alert": "2026-07-14T07:34:19.909352Z",
+      "market_value": 299.79,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 299.79
+        }
+      ]
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
@@ -49796,7 +50113,7 @@
       "rating": 0.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -49818,12 +50135,21 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2025-06-02",
       "lego_availability": "Retail",
-      "ean": "5702017824628"
+      "ean": "5702017824628",
+      "market_value": 48.48,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 48.48
+        }
+      ]
     },
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 35,
+      "buy_score": 39,
       "current_best_price": 92.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
@@ -49838,7 +50164,7 @@
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -49895,12 +50221,21 @@
       "expected_retirement": "2027-12",
       "date_first_available": "2025-11-02",
       "lego_availability": "Retail",
-      "ean": "5702018063279"
+      "ean": "5702018063279",
+      "market_value": 115.92,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 115.92
+        }
+      ]
     },
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 42,
+      "buy_score": 45,
       "current_best_price": 72.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
@@ -49915,7 +50250,7 @@
       "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -49968,7 +50303,16 @@
       ],
       "minifig_list": [],
       "retirement_date": "2027-12-31",
-      "expected_retirement": "2027-12"
+      "expected_retirement": "2027-12",
+      "market_value": 87.55,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 87.55
+        }
+      ]
     },
     "76350": {
       "availability_score": 0,
@@ -49988,7 +50332,7 @@
       "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -50036,7 +50380,16 @@
       ],
       "minifig_list": [],
       "retirement_date": "2027-12-31",
-      "expected_retirement": "2027-12"
+      "expected_retirement": "2027-12",
+      "market_value": 20.99,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 20.99
+        }
+      ]
     },
     "76354": {
       "availability_score": 10,
@@ -50054,7 +50407,7 @@
       "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -50126,7 +50479,16 @@
       "minifigs": 6,
       "retirement_date": "2027-12-31",
       "expected_retirement": "2027-12",
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-shield-helicarrier-76354-408201"
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-shield-helicarrier-76354-408201",
+      "market_value": 76.82,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 76.82
+        }
+      ]
     },
     "76382": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -51516,7 +51878,7 @@
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "sell_score": null,
+      "sell_score": 27,
       "status": "portfolio",
       "theme": "Harry Potter",
       "transactions": [
@@ -51532,12 +51894,12 @@
       "year": 2023,
       "subtheme": "Miscellaneous",
       "price_score": 29,
-      "roi_score": null,
+      "roi_score": 4,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 43,
+      "buy_score": 47,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -51575,7 +51937,20 @@
         }
       ],
       "last_brickwatch_alert": "2026-06-24T04:04:17.668166Z",
-      "last_updated": "2026-06-24T04:04:17.668169Z"
+      "last_updated": "2026-06-24T04:04:17.668169Z",
+      "market_value": 142.45,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 142.45
+        }
+      ],
+      "sell_roi_score": 21,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 6
     },
     "76425": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -56479,7 +56854,7 @@
     "77242": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 48,
+      "buy_score": 50,
       "current_best_price": 17.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
@@ -56494,7 +56869,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -56550,12 +56925,21 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
-      "ean": "5702017816098"
+      "ean": "5702017816098",
+      "market_value": 18.89,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 18.89
+        }
+      ]
     },
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 55,
+      "buy_score": 60,
       "current_best_price": 16.64,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
@@ -56571,10 +56955,10 @@
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 56,
       "status": "portfolio",
       "theme": "Speed Champions",
       "transactions": [],
@@ -56617,12 +57001,25 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
-      "ean": "5702017816104"
+      "ean": "5702017816104",
+      "market_value": 26.31,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 26.31
+        }
+      ],
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 1
     },
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 55,
+      "buy_score": 61,
       "current_best_price": 16.68,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
@@ -56637,7 +57034,7 @@
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -56679,12 +57076,21 @@
       "lego_availability": "Retail",
       "ean": "5702017816111",
       "last_brickwatch_alert": "2026-06-10T04:04:25.756429Z",
-      "last_updated": "2026-06-10T04:04:25.756439Z"
+      "last_updated": "2026-06-10T04:04:25.756439Z",
+      "market_value": 27.95,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 27.95
+        }
+      ]
     },
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 42,
+      "buy_score": 46,
       "current_best_price": 18.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
@@ -56700,10 +57106,10 @@
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 33,
       "status": "portfolio",
       "theme": "Speed Champions",
       "transactions": [],
@@ -56766,12 +57172,25 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
-      "ean": "5702017816128"
+      "ean": "5702017816128",
+      "market_value": 25.31,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 25.31
+        }
+      ],
+      "sell_roi_score": 32,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 1
     },
     "77246": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 54,
+      "buy_score": 58,
       "current_best_price": 16.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77246-1.jpg",
@@ -56787,10 +57206,10 @@
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": null,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 26,
       "status": "portfolio",
       "theme": "Speed Champions",
       "transactions": [],
@@ -56828,7 +57247,20 @@
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
-      "ean": "5702017816135"
+      "ean": "5702017816135",
+      "market_value": 21.46,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-07-15",
+          "value": 21.46
+        }
+      ],
+      "sell_roi_score": 26,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 0
     },
     "77247": {
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
