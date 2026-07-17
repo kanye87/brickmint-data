@@ -2278,8 +2278,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 42,
-      "current_best_price": 49.32,
+      "buy_score": 39,
+      "current_best_price": 51.27,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2289,11 +2289,11 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -2312,8 +2312,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-07-12T04:04:15.825312Z",
-      "last_updated": "2026-07-12T04:04:15.825320Z",
+      "last_brickwatch_alert": "2026-07-17T09:04:18.690679Z",
+      "last_updated": "2026-07-17T09:04:18.690687Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -2362,6 +2362,11 @@
         {
           "date": "2026-07-12",
           "price": 49.32,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-17",
+          "price": 51.27,
           "shop": "Brickwatch"
         }
       ],
