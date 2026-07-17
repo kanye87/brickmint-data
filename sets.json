@@ -2416,8 +2416,8 @@
     "10333": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 24,
-      "current_best_price": 400.19,
+      "buy_score": 22,
+      "current_best_price": 413.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10333-1.jpg",
       "label": "persoonlijk",
@@ -2427,7 +2427,7 @@
       "name": "The Lord of the Rings: Barad-dûr",
       "owned_by": 6585,
       "pieces": 5471,
-      "price_score": 11,
+      "price_score": 9,
       "rating": 4.6,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2599,10 +2599,15 @@
           "date": "2026-07-15",
           "price": 400.19,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-17",
+          "price": 413.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-15T04:04:21.897518Z",
-      "last_updated": "2026-07-15T04:04:21.897523Z",
+      "last_brickwatch_alert": "2026-07-17T04:04:22.538774Z",
+      "last_updated": "2026-07-17T04:04:22.538776Z",
       "market_value": 231.28,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:53:43.450462+00:00",
@@ -5000,8 +5005,8 @@
     "21063": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 30,
-      "current_best_price": 185.99,
+      "buy_score": 33,
+      "current_best_price": 180.39,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -5010,11 +5015,11 @@
       "name": "Neuschwanstein Castle",
       "owned_by": 1879,
       "pieces": 3455,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -5025,8 +5030,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-07-03T04:04:15.700273Z",
-      "last_updated": "2026-07-03T04:04:15.700277Z",
+      "last_brickwatch_alert": "2026-07-17T04:04:22.538570Z",
+      "last_updated": "2026-07-17T04:04:22.538577Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -5075,6 +5080,11 @@
         {
           "date": "2026-07-03",
           "price": 185.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-17",
+          "price": 180.39,
           "shop": "Brickwatch"
         }
       ],
@@ -17113,7 +17123,7 @@
     "42207": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 28,
+      "buy_score": 30,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42207-1.jpg",
       "label": "investering",
@@ -17122,7 +17132,7 @@
       "name": "Ferrari SF-24 F1 Car",
       "owned_by": 2275,
       "pieces": 1361,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -17142,9 +17152,9 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816302",
-      "current_best_price": 159.0,
-      "last_brickwatch_alert": "2026-07-03T09:04:27.439449Z",
-      "last_updated": "2026-07-03T09:04:27.439453Z",
+      "current_best_price": 155.19,
+      "last_brickwatch_alert": "2026-07-17T04:04:22.538669Z",
+      "last_updated": "2026-07-17T04:04:22.538672Z",
       "price_history": [
         {
           "date": "2026-05-22",
@@ -17159,6 +17169,11 @@
         {
           "date": "2026-07-03",
           "price": 159.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-17",
+          "price": 155.19,
           "shop": "Brickwatch"
         }
       ],
@@ -50419,8 +50434,8 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 58,
-      "current_best_price": 269.99,
+      "buy_score": 60,
+      "current_best_price": 265.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -50429,7 +50444,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 30,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -50446,8 +50461,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-07-15T11:34:20.051750Z",
-      "last_updated": "2026-07-15T11:34:20.051757Z",
+      "last_brickwatch_alert": "2026-07-17T04:04:22.538721Z",
+      "last_updated": "2026-07-17T04:04:22.538723Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -50497,6 +50512,11 @@
         {
           "date": "2026-07-15",
           "price": 269.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-17",
+          "price": 265.5,
           "shop": "Brickwatch"
         }
       ],
@@ -56586,8 +56606,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-07-16T00:04:16.370665Z",
-      "last_updated": "2026-07-16T00:04:16.370672Z",
+      "last_brickwatch_alert": "2026-07-17T04:04:22.538859Z",
+      "last_updated": "2026-07-17T04:04:22.538861Z",
       "minifig_list": [
         {
           "id": "fig-015498",
