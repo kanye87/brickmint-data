@@ -17030,19 +17030,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 34,
-      "current_best_price": 158.99,
+      "buy_score": 35,
+      "current_best_price": 154.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-07-03T04:04:15.700479Z",
-      "last_updated": "2026-07-03T04:04:15.700481Z",
+      "last_brickwatch_alert": "2026-07-18T04:04:24.966563Z",
+      "last_updated": "2026-07-18T04:04:24.966565Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 23,
+      "price_score": 24,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -17102,6 +17102,11 @@
         {
           "date": "2026-07-03",
           "price": 158.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-18",
+          "price": 154.19,
           "shop": "Brickwatch"
         }
       ],
@@ -18131,7 +18136,7 @@
     "43019": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 42,
+      "buy_score": 43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43019-1.jpg",
       "label": "investering",
@@ -18140,7 +18145,7 @@
       "name": "Football",
       "owned_by": 254,
       "pieces": 1498,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -18155,9 +18160,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 84.09,
-      "last_brickwatch_alert": "2026-06-26T17:34:21.872360Z",
-      "last_updated": "2026-06-26T17:34:21.872369Z",
+      "current_best_price": 82.46,
+      "last_brickwatch_alert": "2026-07-18T04:04:24.966458Z",
+      "last_updated": "2026-07-18T04:04:24.966466Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18177,6 +18182,11 @@
         {
           "date": "2026-06-26",
           "price": 84.09,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-18",
+          "price": 82.46,
           "shop": "Brickwatch"
         }
       ],
@@ -33565,8 +33575,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 22,
-      "current_best_price": 27.3,
+      "buy_score": 29,
+      "current_best_price": 24.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -33576,12 +33586,12 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 19,
+      "price_score": 25,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 21,
@@ -33616,6 +33626,11 @@
         {
           "date": "2026-07-13",
           "price": 27.3,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-18",
+          "price": 24.99,
           "shop": "Brickwatch"
         }
       ],
@@ -33667,8 +33682,8 @@
       "sell_trend_score": 2,
       "sell_age_score": 1,
       "sell_liquidity_score": 2,
-      "last_brickwatch_alert": "2026-07-16T04:04:18.260300Z",
-      "last_updated": "2026-07-16T04:04:18.260303Z"
+      "last_brickwatch_alert": "2026-07-18T04:04:24.966618Z",
+      "last_updated": "2026-07-18T04:04:24.966619Z"
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -57452,8 +57467,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 46,
-      "current_best_price": 17.79,
+      "buy_score": 43,
+      "current_best_price": 18.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -57463,7 +57478,7 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 19,
+      "price_score": 16,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
@@ -57501,10 +57516,15 @@
           "date": "2026-06-16",
           "price": 17.79,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-18",
+          "price": 18.9,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-16T04:04:25.350591Z",
-      "last_updated": "2026-06-16T04:04:25.350594Z",
+      "last_brickwatch_alert": "2026-07-18T04:04:24.966657Z",
+      "last_updated": "2026-07-18T04:04:24.966658Z",
       "market_value": 26.81,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T20:51:41.077682+00:00",
