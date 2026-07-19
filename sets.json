@@ -17787,8 +17787,8 @@
     "43013": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 19.95,
+      "buy_score": 45,
+      "current_best_price": 19.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -17797,7 +17797,7 @@
       "name": "Kylian Mbappé – Football Highlights",
       "owned_by": 151,
       "pieces": 490,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -17834,10 +17834,15 @@
           "date": "2026-06-01",
           "price": 19.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 19.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T11:34:22.257079Z",
-      "last_updated": "2026-06-01T11:34:22.257087Z",
+      "last_brickwatch_alert": "2026-07-19T13:04:15.927395Z",
+      "last_updated": "2026-07-19T13:04:15.927399Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -17991,8 +17996,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
-      "current_best_price": 48.95,
+      "buy_score": 49,
+      "current_best_price": 48.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -18001,7 +18006,7 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 6,
@@ -18058,13 +18063,18 @@
           "date": "2026-07-13",
           "price": 48.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 48.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-07-13T09:34:17.839494Z",
-      "last_updated": "2026-07-13T09:34:17.839502Z",
+      "last_brickwatch_alert": "2026-07-19T13:04:15.927256Z",
+      "last_updated": "2026-07-19T13:04:15.927259Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 88.5,
       "market_value_source": "ebay",
@@ -18079,8 +18089,8 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 43,
-      "current_best_price": 51.95,
+      "buy_score": 48,
+      "current_best_price": 48.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -18089,10 +18099,10 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 31,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -18105,8 +18115,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-07-13T10:04:20.991770Z",
-      "last_updated": "2026-07-13T10:04:20.991781Z",
+      "last_brickwatch_alert": "2026-07-19T13:04:15.927172Z",
+      "last_updated": "2026-07-19T13:04:15.927176Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -18127,6 +18137,11 @@
         {
           "date": "2026-07-13",
           "price": 51.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 48.0,
           "shop": "Brickwatch"
         }
       ],
@@ -18354,8 +18369,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 19.95,
+      "buy_score": 45,
+      "current_best_price": 19.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -18364,7 +18379,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -18381,8 +18396,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-07-01T09:04:16.218528Z",
-      "last_updated": "2026-07-01T09:04:16.218537Z",
+      "last_brickwatch_alert": "2026-07-19T13:04:15.926940Z",
+      "last_updated": "2026-07-19T13:04:15.926948Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18407,6 +18422,11 @@
         {
           "date": "2026-07-01",
           "price": 19.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 19.0,
           "shop": "Brickwatch"
         }
       ],
@@ -51826,7 +51846,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 18,
-      "current_best_price": 499.99,
+      "current_best_price": 499.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76417-1.jpg",
       "label": "investering",
@@ -51881,7 +51901,7 @@
         },
         {
           "date": "2026-07-19",
-          "price": 499.99,
+          "price": 499.0,
           "shop": "Brickwatch"
         }
       ],
@@ -51982,8 +52002,8 @@
       "date_first_available": "2023-07-21",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017413211",
-      "last_brickwatch_alert": "2026-07-19T11:34:20.885504Z",
-      "last_updated": "2026-07-19T11:34:20.885512Z"
+      "last_brickwatch_alert": "2026-07-19T13:04:15.927534Z",
+      "last_updated": "2026-07-19T13:04:15.927539Z"
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
