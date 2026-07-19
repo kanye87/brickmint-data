@@ -17629,7 +17629,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 19.95,
+      "lowest_price_ever": 19.0,
       "msrp": 29.99,
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
@@ -17663,9 +17663,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 19.99,
-      "last_brickwatch_alert": "2026-06-27T04:04:22.222770Z",
-      "last_updated": "2026-06-27T04:04:22.222772Z",
+      "current_best_price": 19.0,
+      "last_brickwatch_alert": "2026-07-19T12:34:20.228643Z",
+      "last_updated": "2026-07-19T12:34:20.228651Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -17675,6 +17675,11 @@
         {
           "date": "2026-06-27",
           "price": 19.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 19.0,
           "shop": "Brickwatch"
         }
       ],
@@ -17691,8 +17696,8 @@
     "43012": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 42,
-      "current_best_price": 19.99,
+      "buy_score": 46,
+      "current_best_price": 19.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -17701,10 +17706,10 @@
       "name": "Cristiano Ronaldo – Football Highlights",
       "owned_by": 467,
       "pieces": 490,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17718,8 +17723,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-07-15T04:04:21.897670Z",
-      "last_updated": "2026-07-15T04:04:21.897673Z",
+      "last_brickwatch_alert": "2026-07-19T12:34:20.525801Z",
+      "last_updated": "2026-07-19T12:34:20.525810Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -17749,6 +17754,11 @@
         {
           "date": "2026-07-15",
           "price": 19.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-19",
+          "price": 19.0,
           "shop": "Brickwatch"
         }
       ],
