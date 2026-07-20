@@ -3829,8 +3829,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 40,
-      "current_best_price": 71.99,
+      "buy_score": 38,
+      "current_best_price": 72.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -3840,11 +3840,11 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -3855,8 +3855,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-07-10T04:04:20.849920Z",
-      "last_updated": "2026-07-10T04:04:20.849930Z",
+      "last_brickwatch_alert": "2026-07-20T12:04:16.970952Z",
+      "last_updated": "2026-07-20T12:04:16.970960Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -3938,6 +3938,11 @@
         {
           "date": "2026-07-10",
           "price": 71.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-20",
+          "price": 72.9,
           "shop": "Brickwatch"
         }
       ],
@@ -24373,8 +24378,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 31,
-      "current_best_price": 107.0,
+      "buy_score": 34,
+      "current_best_price": 104.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -24400,12 +24405,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 15,
+      "price_score": 17,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 2,
@@ -24420,8 +24425,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-19T20:34:18.454756Z",
-      "last_updated": "2026-07-19T20:34:18.454765Z",
+      "last_brickwatch_alert": "2026-07-20T12:04:16.971102Z",
+      "last_updated": "2026-07-20T12:04:16.971107Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24486,6 +24491,11 @@
         {
           "date": "2026-07-19",
           "price": 107.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-20",
+          "price": 104.0,
           "shop": "Brickwatch"
         }
       ],
