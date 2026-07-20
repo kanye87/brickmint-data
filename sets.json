@@ -27009,9 +27009,9 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 56,
-      "current_best_price": 38.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 44,
+      "current_best_price": 44.95,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
       "lowest_price_ever": 38.49,
@@ -27019,11 +27019,11 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 34,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -27033,8 +27033,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-07-02T00:04:16.236853Z",
-      "last_updated": "2026-07-02T08:44:09.348994Z",
+      "last_brickwatch_alert": "2026-07-20T09:04:23.809112Z",
+      "last_updated": "2026-07-20T09:04:23.809122Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -27076,6 +27076,11 @@
           "date": "2026-07-02",
           "price": 38.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-07-20",
+          "price": 44.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
