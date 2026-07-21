@@ -39518,24 +39518,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 44,
-      "current_best_price": 229.99,
+      "buy_score": 34,
+      "current_best_price": 259.71,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-20T23:34:17.492844Z",
-      "last_updated": "2026-07-20T23:34:17.492854Z",
+      "last_brickwatch_alert": "2026-07-21T22:34:25.170997Z",
+      "last_updated": "2026-07-21T22:34:25.170999Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 20,
+      "price_score": 11,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -39719,6 +39719,11 @@
         {
           "date": "2026-07-20",
           "price": 229.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-21",
+          "price": 259.71,
           "shop": "Brickwatch"
         }
       ],
@@ -40935,20 +40940,20 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 55,
-      "current_best_price": 89.99,
+      "buy_score": 51,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-20T23:34:17.493139Z",
-      "last_updated": "2026-07-20T23:34:17.493142Z",
+      "last_brickwatch_alert": "2026-07-21T22:34:25.170873Z",
+      "last_updated": "2026-07-21T22:34:25.170880Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 22,
+      "price_score": 18,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -41030,6 +41035,11 @@
         {
           "date": "2026-07-20",
           "price": 89.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-21",
+          "price": 94.99,
           "shop": "Brickwatch"
         }
       ],
