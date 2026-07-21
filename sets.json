@@ -27250,7 +27250,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72153-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 589.0,
+      "lowest_price_ever": 588.0,
       "msrp": 649.99,
       "name": "Venusaur, Charizard and Blastoise",
       "owned_by": 915,
@@ -27275,9 +27275,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 589.0,
-      "last_brickwatch_alert": "2026-06-26T11:34:21.651532Z",
-      "last_updated": "2026-06-26T11:34:21.651538Z",
+      "current_best_price": 588.0,
+      "last_brickwatch_alert": "2026-07-21T09:34:28.036806Z",
+      "last_updated": "2026-07-21T09:34:28.036813Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -27287,6 +27287,11 @@
         {
           "date": "2026-06-26",
           "price": 589.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-21",
+          "price": 588.0,
           "shop": "Brickwatch"
         }
       ],
@@ -27646,7 +27651,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 599.99,
+      "current_best_price": 609.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -27684,8 +27689,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-07-21T00:04:21.825628Z",
-      "last_updated": "2026-07-21T00:04:21.825634Z",
+      "last_brickwatch_alert": "2026-07-21T09:34:28.419847Z",
+      "last_updated": "2026-07-21T09:34:28.419854Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -27728,7 +27733,7 @@
         },
         {
           "date": "2026-07-21",
-          "price": 599.99,
+          "price": 609.0,
           "shop": "Brickwatch"
         }
       ],
