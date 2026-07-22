@@ -16607,8 +16607,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-21T04:34:30.773165Z",
-      "last_updated": "2026-07-21T04:34:30.773172Z",
+      "last_brickwatch_alert": "2026-07-22T04:04:15.372586Z",
+      "last_updated": "2026-07-22T04:04:15.372594Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -17676,11 +17676,11 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 50,
+      "buy_score": 51,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 19.0,
+      "lowest_price_ever": 17.99,
       "msrp": 29.99,
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
@@ -17688,7 +17688,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 7,
+      "roi_score": 8,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17714,9 +17714,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 19.0,
-      "last_brickwatch_alert": "2026-07-19T12:34:20.228643Z",
-      "last_updated": "2026-07-19T12:34:20.228651Z",
+      "current_best_price": 17.99,
+      "last_brickwatch_alert": "2026-07-22T04:04:15.372726Z",
+      "last_updated": "2026-07-22T04:04:15.372729Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -17731,6 +17731,11 @@
         {
           "date": "2026-07-19",
           "price": 19.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 17.99,
           "shop": "Brickwatch"
         }
       ],
@@ -36610,7 +36615,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 54,
-      "current_best_price": 19.52,
+      "current_best_price": 19.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -36717,14 +36722,19 @@
           "date": "2026-07-20",
           "price": 19.52,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 19.29,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-07-20T04:04:20.426181Z",
-      "last_updated": "2026-07-20T04:04:20.426189Z",
+      "last_brickwatch_alert": "2026-07-22T04:04:15.652684Z",
+      "last_updated": "2026-07-22T04:04:15.652688Z",
       "market_value": 23.99,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
@@ -50620,12 +50630,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
       "buy_score": 42,
-      "current_best_price": 65.49,
+      "current_best_price": 64.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-30T04:04:17.436203Z",
-      "last_updated": "2026-06-30T04:04:17.436206Z",
+      "last_brickwatch_alert": "2026-07-22T04:04:15.652559Z",
+      "last_updated": "2026-07-22T04:04:15.652566Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
@@ -50677,6 +50687,11 @@
         {
           "date": "2026-06-11",
           "price": 65.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 64.99,
           "shop": "Brickwatch"
         }
       ],
@@ -57709,8 +57724,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 44,
-      "current_best_price": 18.79,
+      "buy_score": 42,
+      "current_best_price": 19.3,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -57720,12 +57735,12 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 17,
+      "price_score": 16,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -57768,10 +57783,15 @@
           "date": "2026-07-19",
           "price": 18.79,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 19.3,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-19T04:04:21.869061Z",
-      "last_updated": "2026-07-19T04:04:21.869065Z",
+      "last_brickwatch_alert": "2026-07-22T04:04:15.652764Z",
+      "last_updated": "2026-07-22T04:04:15.652769Z",
       "market_value": 26.81,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T20:51:41.077682+00:00",
