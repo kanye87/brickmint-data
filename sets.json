@@ -3146,8 +3146,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 45,
-      "current_best_price": 194.99,
+      "buy_score": 38,
+      "current_best_price": 209.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -3157,12 +3157,12 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 32,
+      "price_score": 26,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 25,
@@ -3273,10 +3273,15 @@
           "date": "2026-07-20",
           "price": 194.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 209.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-20T23:04:22.272810Z",
-      "last_updated": "2026-07-20T23:04:22.272813Z",
+      "last_brickwatch_alert": "2026-07-22T00:04:15.339150Z",
+      "last_updated": "2026-07-22T00:04:15.339154Z",
       "market_value": 233.67,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:53:43.450462+00:00",
@@ -27677,8 +27682,8 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 599.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 675.0,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -27715,8 +27720,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-07-21T09:34:28.419847Z",
-      "last_updated": "2026-07-21T11:42:52.804577Z",
+      "last_brickwatch_alert": "2026-07-22T00:04:15.338772Z",
+      "last_updated": "2026-07-22T00:04:15.338781Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -27761,6 +27766,11 @@
           "date": "2026-07-21",
           "price": 599.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 675.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -40067,24 +40077,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 50,
-      "current_best_price": 55.99,
+      "buy_score": 29,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-07-20T23:04:22.272708Z",
-      "last_updated": "2026-07-20T23:04:22.272713Z",
+      "last_brickwatch_alert": "2026-07-22T00:04:15.338996Z",
+      "last_updated": "2026-07-22T00:04:15.339001Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 18,
+      "price_score": 0,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 27,
@@ -40197,6 +40207,11 @@
         {
           "date": "2026-07-20",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
