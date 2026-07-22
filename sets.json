@@ -14074,7 +14074,7 @@
     "40795": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "buy_score": 44,
+      "buy_score": 43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/40795-1.jpg",
       "label": "persoonlijk",
@@ -14087,7 +14087,7 @@
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -14097,9 +14097,9 @@
       "urgency_score": 14,
       "wanted_by": 703,
       "year": 2025,
-      "current_best_price": 12.99,
-      "last_brickwatch_alert": "2026-05-07T18:04:28.379713Z",
-      "last_updated": "2026-05-07T18:04:28.379722Z",
+      "current_best_price": 14.99,
+      "last_brickwatch_alert": "2026-07-22T06:34:18.262734Z",
+      "last_updated": "2026-07-22T06:34:18.262742Z",
       "subtheme": "Star Wars",
       "minifig_list": [],
       "expected_retirement": "2026-12",
@@ -14110,6 +14110,11 @@
         {
           "date": "2026-05-14",
           "price": 12.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-22",
+          "price": 14.99,
           "shop": "Brickwatch"
         }
       ],
