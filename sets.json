@@ -17939,8 +17939,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 55,
-      "current_best_price": 58.95,
+      "buy_score": 57,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -17949,7 +17949,7 @@
       "name": "Scuderia Ferrari HP Charles Leclerc Helmet",
       "owned_by": 71,
       "pieces": 886,
-      "price_score": 30,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -17984,8 +17984,8 @@
           "value": 38.34
         }
       ],
-      "last_brickwatch_alert": "2026-07-01T08:04:34.875516Z",
-      "last_updated": "2026-07-01T08:04:34.875525Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845095Z",
+      "last_updated": "2026-07-23T04:04:16.845104Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -18051,6 +18051,11 @@
         {
           "date": "2026-07-01",
           "price": 58.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ],
@@ -40868,7 +40873,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 98.79,
+      "current_best_price": 111.7,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -40890,8 +40895,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-07-01T04:04:15.288711Z",
-      "last_updated": "2026-07-01T04:04:15.288713Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845382Z",
+      "last_updated": "2026-07-23T04:04:16.845385Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -40941,6 +40946,11 @@
         {
           "date": "2026-07-01",
           "price": 98.79,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 111.7,
           "shop": "Brickwatch"
         }
       ]
@@ -41514,7 +41524,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 51,
+      "buy_score": 61,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -41523,10 +41533,10 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 24,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41540,9 +41550,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 28.9,
-      "last_brickwatch_alert": "2026-07-11T03:04:17.716369Z",
-      "last_updated": "2026-07-11T03:04:17.716375Z",
+      "current_best_price": 24.99,
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845239Z",
+      "last_updated": "2026-07-23T04:04:16.845243Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -41576,6 +41586,11 @@
         {
           "date": "2026-07-11",
           "price": 28.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 24.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48625,9 +48640,9 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 57,
-      "current_best_price": 264.57,
-      "current_best_shop": "Bol.com",
+      "buy_score": 51,
+      "current_best_price": 275.2,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
       "lowest_price_ever": 215.99,
@@ -48636,11 +48651,11 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 15,
+      "price_score": 10,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -48811,6 +48826,11 @@
           "date": "2026-07-17",
           "price": 264.57,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 275.2,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -48939,8 +48959,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-batman-arkham-asylum-76300-412025",
-      "last_updated": "2026-07-17T07:56:35.731910Z",
-      "last_brickwatch_alert": "2026-07-17T03:04:27.114059Z",
+      "last_updated": "2026-07-23T04:04:16.845663Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845659Z",
       "market_value": 299.79,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
@@ -50768,8 +50788,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-07-17T04:04:22.538721Z",
-      "last_updated": "2026-07-17T04:04:22.538723Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845523Z",
+      "last_updated": "2026-07-23T04:04:16.845526Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -57238,8 +57258,8 @@
     "77242": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 50,
-      "current_best_price": 17.95,
+      "buy_score": 53,
+      "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
       "label": "persoonlijk",
@@ -57249,7 +57269,7 @@
       "name": "Ferrari SF-24",
       "owned_by": 8164,
       "pieces": 275,
-      "price_score": 26,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -57264,8 +57284,8 @@
       "wanted_by": 1102,
       "year": 2025,
       "subtheme": "Formula 1",
-      "last_brickwatch_alert": "2026-07-10T16:34:22.845390Z",
-      "last_updated": "2026-07-10T16:34:22.845397Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845443Z",
+      "last_updated": "2026-07-23T04:04:16.845445Z",
       "minifig_list": [
         {
           "id": "fig-016097",
@@ -57303,6 +57323,11 @@
         {
           "date": "2026-06-26",
           "price": 17.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 16.99,
           "shop": "Brickwatch"
         }
       ],
@@ -57990,8 +58015,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 73,
-      "current_best_price": 18.37,
+      "buy_score": 79,
+      "current_best_price": 15.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -58001,11 +58026,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -58024,8 +58049,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-07-09T04:04:19.148893Z",
-      "last_updated": "2026-07-09T04:04:19.148896Z",
+      "last_brickwatch_alert": "2026-07-23T04:04:16.845317Z",
+      "last_updated": "2026-07-23T04:04:16.845321Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -58095,6 +58120,11 @@
         {
           "date": "2026-07-09",
           "price": 18.37,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 15.99,
           "shop": "Brickwatch"
         }
       ],
