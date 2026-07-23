@@ -24408,8 +24408,8 @@
     "71426": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 46,
-      "current_best_price": 51.95,
+      "buy_score": 42,
+      "current_best_price": 54.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71426-1.jpg",
       "label": "persoonlijk",
@@ -24418,7 +24418,7 @@
       "name": "Piranha Plant",
       "owned_by": 6932,
       "pieces": 540,
-      "price_score": 18,
+      "price_score": 14,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
@@ -24435,8 +24435,8 @@
       "wanted_by": 1509,
       "year": 2023,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-super-mario-71426-piranha-plant-laagste-prijs-ooit-3847-korting-tov-adviesprijs-6499-402846",
-      "last_updated": "2026-06-26T05:34:16.259787Z",
-      "last_brickwatch_alert": "2026-06-26T05:34:16.259779Z",
+      "last_updated": "2026-07-23T14:04:15.599804Z",
+      "last_brickwatch_alert": "2026-07-23T14:04:15.599795Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24451,6 +24451,11 @@
         {
           "date": "2026-06-26",
           "price": 51.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 54.95,
           "shop": "Brickwatch"
         }
       ],
@@ -41031,24 +41036,24 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 63,
-      "current_best_price": 80.74,
+      "buy_score": 51,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-22T17:04:23.259438Z",
-      "last_updated": "2026-07-22T17:04:23.259449Z",
+      "last_brickwatch_alert": "2026-07-23T14:04:15.599929Z",
+      "last_updated": "2026-07-23T14:04:15.599934Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 29,
+      "price_score": 18,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41136,6 +41141,11 @@
         {
           "date": "2026-07-22",
           "price": 80.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-23",
+          "price": 94.99,
           "shop": "Brickwatch"
         }
       ],
