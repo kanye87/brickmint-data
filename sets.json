@@ -64305,7 +64305,18 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-07-20T12:10:50Z",
       "subtheme": "Landmark Series",
-      "sell_score": null
+      "sell_score": null,
+      "current_best_price": 243.95,
+      "current_best_shop": "Pepper.com",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/pre-order-lego-tower-bridge-21067-413210",
+      "last_updated": "2026-07-24T20:56:04.185978Z",
+      "price_history": [
+        {
+          "date": "2026-07-24",
+          "price": 243.95,
+          "shop": "Pepper.com"
+        }
+      ]
     },
     "21369": {
       "name": "The X-Files",
