@@ -16633,8 +16633,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-22T04:04:15.372586Z",
-      "last_updated": "2026-07-22T04:04:15.372594Z",
+      "last_brickwatch_alert": "2026-07-24T04:04:18.176666Z",
+      "last_updated": "2026-07-24T04:04:18.176675Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -17874,8 +17874,8 @@
     "43013": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
-      "current_best_price": 19.0,
+      "buy_score": 49,
+      "current_best_price": 17.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -17884,10 +17884,10 @@
       "name": "Kylian Mbappé – Football Highlights",
       "owned_by": 151,
       "pieces": 490,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17926,10 +17926,15 @@
           "date": "2026-07-19",
           "price": 19.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-24",
+          "price": 17.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-19T13:04:15.927395Z",
-      "last_updated": "2026-07-19T13:04:15.927399Z",
+      "last_brickwatch_alert": "2026-07-24T04:04:18.176877Z",
+      "last_updated": "2026-07-24T04:04:18.176880Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -26961,9 +26966,9 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 51,
-      "current_best_price": 30.71,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 43,
+      "current_best_price": 39.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -26971,11 +26976,11 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -26986,8 +26991,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-06-10T10:34:20.250407Z",
-      "last_updated": "2026-06-22T20:36:08.909610Z",
+      "last_brickwatch_alert": "2026-07-24T04:04:18.176928Z",
+      "last_updated": "2026-07-24T04:04:18.176930Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -27018,6 +27023,11 @@
           "date": "2026-06-22",
           "price": 30.71,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-07-24",
+          "price": 39.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -57826,8 +57836,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 42,
-      "current_best_price": 19.3,
+      "buy_score": 46,
+      "current_best_price": 17.89,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -57837,12 +57847,12 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 16,
+      "price_score": 19,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -57890,10 +57900,15 @@
           "date": "2026-07-22",
           "price": 19.3,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-24",
+          "price": 17.89,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-22T04:04:15.652764Z",
-      "last_updated": "2026-07-22T04:04:15.652769Z",
+      "last_brickwatch_alert": "2026-07-24T04:04:18.176803Z",
+      "last_updated": "2026-07-24T04:04:18.176806Z",
       "market_value": 26.81,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T20:51:41.077682+00:00",
