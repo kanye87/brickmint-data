@@ -37754,8 +37754,8 @@
     "75386": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 28,
-      "current_best_price": 33.99,
+      "buy_score": 26,
+      "current_best_price": 34.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75386-1.jpg",
       "label": "investering",
@@ -37782,7 +37782,7 @@
       "name": "Paz Vizsla and Moff Gideon Battle",
       "owned_by": 10667,
       "pieces": 289,
-      "price_score": 10,
+      "price_score": 8,
       "rating": 3.8,
       "retirement_date": "2025-12-06",
       "retirement_status": "retired",
@@ -37817,8 +37817,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-23T04:34:19.126409Z",
-      "last_updated": "2026-06-23T04:34:19.126418Z",
+      "last_brickwatch_alert": "2026-07-24T03:34:17.662646Z",
+      "last_updated": "2026-07-24T03:34:17.662657Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -37828,6 +37828,11 @@
         {
           "date": "2026-06-23",
           "price": 33.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-24",
+          "price": 34.95,
           "shop": "Brickwatch"
         }
       ],
