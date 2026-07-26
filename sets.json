@@ -26654,9 +26654,9 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 61,
-      "current_best_price": 105.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 49,
+      "current_best_price": 125.0,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
       "lowest_price_ever": 105.99,
@@ -26664,11 +26664,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 35,
+      "price_score": 25,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -26678,8 +26678,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-07-26T09:04:20.608786Z",
-      "last_updated": "2026-07-26T11:14:53.441915Z",
+      "last_brickwatch_alert": "2026-07-26T18:04:16.405309Z",
+      "last_updated": "2026-07-26T18:04:16.405321Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -26759,8 +26759,8 @@
         },
         {
           "date": "2026-07-26",
-          "price": 105.99,
-          "shop": "Pepper.com"
+          "price": 125.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -50963,7 +50963,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
       "buy_score": 60,
-      "current_best_price": 265.5,
+      "current_best_price": 265.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -50989,8 +50989,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-07-23T04:04:16.845523Z",
-      "last_updated": "2026-07-23T04:04:16.845526Z",
+      "last_brickwatch_alert": "2026-07-26T18:04:16.405468Z",
+      "last_updated": "2026-07-26T18:04:16.405472Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -51045,6 +51045,11 @@
         {
           "date": "2026-07-17",
           "price": 265.5,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 265.0,
           "shop": "Brickwatch"
         }
       ],
