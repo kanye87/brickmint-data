@@ -4608,7 +4608,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 43,
-      "current_best_price": 48.99,
+      "current_best_price": 49.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -4634,8 +4634,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-06-12T04:04:16.855833Z",
-      "last_updated": "2026-06-12T04:04:16.855837Z",
+      "last_brickwatch_alert": "2026-07-26T16:34:19.579104Z",
+      "last_updated": "2026-07-26T16:34:19.579108Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -4679,6 +4679,11 @@
         {
           "date": "2026-06-12",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 49.0,
           "shop": "Brickwatch"
         }
       ],
@@ -18149,8 +18154,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_price": 48.0,
+      "buy_score": 48,
+      "current_best_price": 48.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -18159,7 +18164,7 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 6,
@@ -18221,13 +18226,18 @@
           "date": "2026-07-19",
           "price": 48.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 48.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-07-19T13:04:15.927256Z",
-      "last_updated": "2026-07-19T13:04:15.927259Z",
+      "last_brickwatch_alert": "2026-07-26T16:34:19.578883Z",
+      "last_updated": "2026-07-26T16:34:19.578892Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 88.5,
       "market_value_source": "ebay",
