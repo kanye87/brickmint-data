@@ -18860,7 +18860,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 44,
-      "current_best_price": 109.95,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -18885,8 +18885,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-07-02T00:04:16.236668Z",
-      "last_updated": "2026-07-02T00:04:16.236673Z",
+      "last_brickwatch_alert": "2026-07-26T11:34:18.039027Z",
+      "last_updated": "2026-07-26T11:34:18.039040Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18916,6 +18916,11 @@
         {
           "date": "2026-06-25",
           "price": 109.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
