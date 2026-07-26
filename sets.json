@@ -34830,8 +34830,8 @@
     "75343": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 16,
-      "current_best_price": 100.84,
+      "buy_score": 17,
+      "current_best_price": 96.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "investering",
@@ -34861,7 +34861,7 @@
       "rating": 3.6,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -34953,13 +34953,13 @@
         },
         {
           "date": "2026-07-26",
-          "price": 100.84,
+          "price": 96.79,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-07-26T06:04:18.157849Z",
-      "last_updated": "2026-07-26T06:04:18.157853Z"
+      "last_brickwatch_alert": "2026-07-26T08:04:29.057019Z",
+      "last_updated": "2026-07-26T08:04:29.057025Z"
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -38265,8 +38265,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 34,
-      "current_best_price": 12.32,
+      "buy_score": 40,
+      "current_best_price": 11.66,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -38276,11 +38276,11 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 4,
+      "price_score": 9,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -38327,12 +38327,12 @@
         },
         {
           "date": "2026-07-26",
-          "price": 12.32,
+          "price": 11.66,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-26T06:04:18.157661Z",
-      "last_updated": "2026-07-26T06:04:18.157665Z",
+      "last_brickwatch_alert": "2026-07-26T08:04:29.057390Z",
+      "last_updated": "2026-07-26T08:04:29.057394Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
@@ -46937,8 +46937,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-11T05:34:18.131243Z",
-      "last_updated": "2026-06-11T05:34:18.131252Z",
+      "last_brickwatch_alert": "2026-07-26T08:04:29.057208Z",
+      "last_updated": "2026-07-26T08:04:29.057212Z",
       "minifig_list": [
         {
           "id": "fig-013192",
@@ -48422,7 +48422,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 25,
-      "current_best_price": 393.46,
+      "current_best_price": 378.4,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -48492,7 +48492,7 @@
         },
         {
           "date": "2026-07-26",
-          "price": 393.46,
+          "price": 378.4,
           "shop": "Brickwatch"
         }
       ],
@@ -48530,8 +48530,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-07-26T06:34:17.731765Z",
-      "last_updated": "2026-07-26T06:34:17.731768Z"
+      "last_brickwatch_alert": "2026-07-26T08:04:29.057466Z",
+      "last_updated": "2026-07-26T08:04:29.057470Z"
     },
     "76290": {
       "availability_score": 0,
