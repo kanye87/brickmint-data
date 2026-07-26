@@ -35688,7 +35688,7 @@
     "75356": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 5,
+      "buy_score": 2,
       "image_url": "https://images.brickset.com/sets/images/75356-1.jpg",
       "label": "investering",
       "lowest_price_ever": 48.99,
@@ -35696,7 +35696,7 @@
       "name": "Executor Super Star Destroyer",
       "owned_by": 12898,
       "pieces": 630,
-      "price_score": 3,
+      "price_score": 0,
       "rating": 4.4,
       "retirement_date": "2026-05-01",
       "retirement_status": "retired",
@@ -35711,10 +35711,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 68.43,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-07-13T08:04:30.389997Z",
-      "last_updated": "2026-07-13T08:04:30.390008Z",
+      "last_brickwatch_alert": "2026-07-26T06:34:17.731895Z",
+      "last_updated": "2026-07-26T06:34:17.731898Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -35845,6 +35845,11 @@
         {
           "date": "2026-07-13",
           "price": 68.43,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ]
@@ -48402,7 +48407,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 25,
-      "current_best_price": 378.4,
+      "current_best_price": 393.46,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -48469,6 +48474,11 @@
           "date": "2026-07-24",
           "price": 378.4,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 393.46,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -48505,8 +48515,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-07-24T06:34:26.378577Z",
-      "last_updated": "2026-07-24T06:34:26.378586Z"
+      "last_brickwatch_alert": "2026-07-26T06:34:17.731765Z",
+      "last_updated": "2026-07-26T06:34:17.731768Z"
     },
     "76290": {
       "availability_score": 0,
@@ -57074,7 +57084,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 38,
-      "current_best_price": 365.41,
+      "current_best_price": 379.96,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -57099,8 +57109,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-07-25T15:34:17.656713Z",
-      "last_updated": "2026-07-25T15:34:17.656725Z",
+      "last_brickwatch_alert": "2026-07-26T06:34:17.731555Z",
+      "last_updated": "2026-07-26T06:34:17.731558Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -57220,6 +57230,11 @@
         {
           "date": "2026-07-25",
           "price": 365.41,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-26",
+          "price": 379.96,
           "shop": "Brickwatch"
         }
       ],
