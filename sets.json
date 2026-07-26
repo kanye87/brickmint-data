@@ -9310,8 +9310,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-13T07:04:18.495965Z",
-      "last_updated": "2026-07-13T07:04:18.495976Z",
+      "last_brickwatch_alert": "2026-07-26T08:34:18.290829Z",
+      "last_updated": "2026-07-26T08:34:18.290832Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -16758,7 +16758,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 18,
-      "current_best_price": 57.12,
+      "current_best_price": 54.78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42184-1.jpg",
       "label": "investering",
@@ -16799,8 +16799,8 @@
       "wanted_by": 631,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-07-26T07:38:04.038694Z",
-      "last_updated": "2026-07-26T07:38:04.038702Z",
+      "last_brickwatch_alert": "2026-07-26T08:34:18.290748Z",
+      "last_updated": "2026-07-26T08:34:18.290752Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -16869,7 +16869,7 @@
         },
         {
           "date": "2026-07-26",
-          "price": 57.12,
+          "price": 54.78,
           "shop": "Brickwatch"
         }
       ],
@@ -35698,7 +35698,7 @@
     "75356": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 2,
+      "buy_score": 5,
       "image_url": "https://images.brickset.com/sets/images/75356-1.jpg",
       "label": "investering",
       "lowest_price_ever": 48.99,
@@ -35706,7 +35706,7 @@
       "name": "Executor Super Star Destroyer",
       "owned_by": 12898,
       "pieces": 630,
-      "price_score": 0,
+      "price_score": 3,
       "rating": 4.4,
       "retirement_date": "2026-05-01",
       "retirement_status": "retired",
@@ -35721,10 +35721,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 69.99,
+      "current_best_price": 68.43,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-07-26T06:34:17.731895Z",
-      "last_updated": "2026-07-26T06:34:17.731898Z",
+      "last_brickwatch_alert": "2026-07-26T08:34:18.290943Z",
+      "last_updated": "2026-07-26T08:34:18.290946Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -35859,7 +35859,7 @@
         },
         {
           "date": "2026-07-26",
-          "price": 69.99,
+          "price": 68.43,
           "shop": "Brickwatch"
         }
       ]
@@ -57099,7 +57099,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 38,
-      "current_best_price": 379.96,
+      "current_best_price": 365.41,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -57124,8 +57124,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-07-26T06:34:17.731555Z",
-      "last_updated": "2026-07-26T06:34:17.731558Z",
+      "last_brickwatch_alert": "2026-07-26T08:34:18.290484Z",
+      "last_updated": "2026-07-26T08:34:18.290495Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -57249,7 +57249,7 @@
         },
         {
           "date": "2026-07-26",
-          "price": 379.96,
+          "price": 365.41,
           "shop": "Brickwatch"
         }
       ],
