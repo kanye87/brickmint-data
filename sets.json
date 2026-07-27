@@ -17773,7 +17773,7 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 51,
+      "buy_score": 47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
@@ -17782,10 +17782,10 @@
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
       "pieces": 500,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 8,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17811,9 +17811,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 17.99,
-      "last_brickwatch_alert": "2026-07-22T04:04:15.372726Z",
-      "last_updated": "2026-07-22T04:04:15.372729Z",
+      "current_best_price": 19.0,
+      "last_brickwatch_alert": "2026-07-27T09:04:21.568066Z",
+      "last_updated": "2026-07-27T09:04:21.568070Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -17833,6 +17833,11 @@
         {
           "date": "2026-07-22",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-27",
+          "price": 19.0,
           "shop": "Brickwatch"
         }
       ],
@@ -38295,8 +38300,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 40,
-      "current_best_price": 11.66,
+      "buy_score": 39,
+      "current_best_price": 11.87,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -38306,7 +38311,7 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 9,
+      "price_score": 8,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -38359,10 +38364,15 @@
           "date": "2026-07-26",
           "price": 11.66,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-27",
+          "price": 11.87,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-26T08:04:29.057390Z",
-      "last_updated": "2026-07-26T08:04:29.057394Z",
+      "last_brickwatch_alert": "2026-07-27T09:04:21.567913Z",
+      "last_updated": "2026-07-27T09:04:21.567916Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
@@ -41730,7 +41740,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 61,
+      "buy_score": 51,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -41739,10 +41749,10 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 33,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41756,9 +41766,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 24.99,
-      "last_brickwatch_alert": "2026-07-23T04:04:16.845239Z",
-      "last_updated": "2026-07-23T04:04:16.845243Z",
+      "current_best_price": 28.9,
+      "last_brickwatch_alert": "2026-07-27T09:04:21.568151Z",
+      "last_updated": "2026-07-27T09:04:21.568154Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -41797,6 +41807,11 @@
         {
           "date": "2026-07-23",
           "price": 24.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-27",
+          "price": 28.9,
           "shop": "Brickwatch"
         }
       ],
