@@ -24598,8 +24598,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 30,
-      "current_best_price": 108.95,
+      "buy_score": 34,
+      "current_best_price": 104.97,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -24625,12 +24625,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 14,
+      "price_score": 17,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 2,
@@ -24645,8 +24645,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-26T22:34:26.497213Z",
-      "last_updated": "2026-07-26T22:34:26.497220Z",
+      "last_brickwatch_alert": "2026-07-29T05:34:16.372014Z",
+      "last_updated": "2026-07-29T05:34:16.372022Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24726,6 +24726,11 @@
         {
           "date": "2026-07-26",
           "price": 108.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-29",
+          "price": 104.97,
           "shop": "Brickwatch"
         }
       ],
