@@ -16680,8 +16680,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 60,
-      "current_best_price": 149.99,
+      "buy_score": 46,
+      "current_best_price": 180.06,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -16690,11 +16690,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -16704,8 +16704,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-24T04:04:18.176666Z",
-      "last_updated": "2026-07-24T04:04:18.176675Z",
+      "last_brickwatch_alert": "2026-07-30T07:34:16.977848Z",
+      "last_updated": "2026-07-30T07:34:16.977860Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -16766,6 +16766,11 @@
         {
           "date": "2026-07-02",
           "price": 149.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-30",
+          "price": 180.06,
           "shop": "Brickwatch"
         }
       ],
