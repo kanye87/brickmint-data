@@ -50814,8 +50814,8 @@
     "76329": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 53,
-      "current_best_price": 54.99,
+      "buy_score": 45,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76329-1.jpg",
       "label": "investering",
@@ -50824,7 +50824,7 @@
       "name": "Miles Morales' Mask",
       "owned_by": 744,
       "pieces": 487,
-      "price_score": 24,
+      "price_score": 16,
       "rating": 0.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -50844,6 +50844,11 @@
           "date": "2026-05-14",
           "price": 54.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-07-31",
+          "price": 59.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -50859,7 +50864,9 @@
           "date": "2026-07-15",
           "value": 48.48
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-07-31T12:04:18.895946Z",
+      "last_updated": "2026-07-31T12:04:18.895955Z"
     },
     "76344": {
       "availability_score": 0,
