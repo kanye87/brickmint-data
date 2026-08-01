@@ -24833,8 +24833,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 34,
-      "current_best_price": 104.97,
+      "buy_score": 30,
+      "current_best_price": 108.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -24860,12 +24860,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 17,
+      "price_score": 14,
       "purchase_price": 14.14,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 2,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 2,
@@ -24880,8 +24880,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-29T05:34:16.372014Z",
-      "last_updated": "2026-07-29T05:34:16.372022Z",
+      "last_brickwatch_alert": "2026-08-01T18:34:22.113196Z",
+      "last_updated": "2026-08-01T18:34:22.113200Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24966,6 +24966,11 @@
         {
           "date": "2026-07-29",
           "price": 104.97,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 108.95,
           "shop": "Brickwatch"
         }
       ],
@@ -40135,12 +40140,12 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 34,
-      "current_best_price": 259.71,
+      "current_best_price": 260.17,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-21T22:34:25.170997Z",
-      "last_updated": "2026-07-21T22:34:25.170999Z",
+      "last_brickwatch_alert": "2026-08-01T18:34:22.112877Z",
+      "last_updated": "2026-08-01T18:34:22.112883Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
@@ -40340,6 +40345,11 @@
         {
           "date": "2026-07-21",
           "price": 259.71,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 260.17,
           "shop": "Brickwatch"
         }
       ],
@@ -42307,8 +42317,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
-      "current_best_price": 39.99,
+      "buy_score": 43,
+      "current_best_price": 46.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -42317,11 +42327,11 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 30,
+      "price_score": 22,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -42332,9 +42342,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-07-06T04:04:19.529068Z",
+      "last_updated": "2026-08-01T18:34:22.113054Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-07-06T04:04:19.529064Z",
+      "last_brickwatch_alert": "2026-08-01T18:34:22.113050Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -42369,6 +42379,11 @@
         {
           "date": "2026-07-06",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 46.95,
           "shop": "Brickwatch"
         }
       ],
