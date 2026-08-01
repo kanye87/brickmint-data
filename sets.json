@@ -39150,8 +39150,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 52,
-      "current_best_price": 48.56,
+      "buy_score": 51,
+      "current_best_price": 48.91,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -39161,7 +39161,7 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 23,
+      "price_score": 22,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -39175,8 +39175,8 @@
       "urgency_score": 14,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-01T05:04:17.688591Z",
-      "last_updated": "2026-08-01T05:04:17.688601Z",
+      "last_brickwatch_alert": "2026-08-01T07:04:29.746178Z",
+      "last_updated": "2026-08-01T07:04:29.746188Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -39272,7 +39272,7 @@
         },
         {
           "date": "2026-08-01",
-          "price": 48.56,
+          "price": 48.91,
           "shop": "Brickwatch"
         }
       ],
