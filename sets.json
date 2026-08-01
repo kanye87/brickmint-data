@@ -16416,8 +16416,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 60,
-      "current_best_price": 132.8,
+      "buy_score": 49,
+      "current_best_price": 157.02,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -16426,11 +16426,11 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 35,
+      "price_score": 25,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -16441,8 +16441,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-07-16T04:04:18.260075Z",
-      "last_updated": "2026-07-16T04:04:18.260083Z",
+      "last_brickwatch_alert": "2026-08-01T04:04:22.059439Z",
+      "last_updated": "2026-08-01T04:04:22.059443Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -16482,6 +16482,11 @@
         {
           "date": "2026-07-16",
           "price": 132.8,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 157.02,
           "shop": "Brickwatch"
         }
       ],
@@ -18369,20 +18374,20 @@
     "43019": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 43,
+      "buy_score": 47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43019-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 78.9,
+      "lowest_price_ever": 71.99,
       "msrp": 119.99,
       "name": "Football",
       "owned_by": 254,
       "pieces": 1498,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -18393,9 +18398,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 82.46,
-      "last_brickwatch_alert": "2026-07-18T04:04:24.966458Z",
-      "last_updated": "2026-07-18T04:04:24.966466Z",
+      "current_best_price": 71.99,
+      "last_brickwatch_alert": "2026-08-01T04:04:21.817792Z",
+      "last_updated": "2026-08-01T04:04:21.817794Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18420,6 +18425,11 @@
         {
           "date": "2026-07-18",
           "price": 82.46,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 71.99,
           "shop": "Brickwatch"
         }
       ],
@@ -57779,8 +57789,8 @@
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 60,
-      "current_best_price": 16.64,
+      "buy_score": 63,
+      "current_best_price": 16.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
       "label": "persoonlijk",
@@ -57790,12 +57800,12 @@
       "name": "Oracle Red Bull Racing RB20",
       "owned_by": 7985,
       "pieces": 251,
-      "price_score": 33,
+      "price_score": 35,
       "purchase_price": 8.67,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 56,
@@ -57834,10 +57844,15 @@
           "date": "2026-06-18",
           "price": 16.64,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 16.19,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-18T04:04:21.246505Z",
-      "last_updated": "2026-06-18T04:04:21.246507Z",
+      "last_brickwatch_alert": "2026-08-01T04:04:22.059545Z",
+      "last_updated": "2026-08-01T04:04:22.059549Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -57930,8 +57945,8 @@
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 46,
-      "current_best_price": 18.49,
+      "buy_score": 52,
+      "current_best_price": 16.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -57941,12 +57956,12 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4903,
       "pieces": 269,
-      "price_score": 20,
+      "price_score": 25,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 33,
@@ -57965,8 +57980,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-07-13T04:04:26.361549Z",
-      "last_updated": "2026-07-13T04:04:26.361552Z",
+      "last_brickwatch_alert": "2026-08-01T04:04:22.059295Z",
+      "last_updated": "2026-08-01T04:04:22.059304Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -58006,6 +58021,11 @@
         {
           "date": "2026-07-13",
           "price": 18.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 16.19,
           "shop": "Brickwatch"
         }
       ],
@@ -58371,8 +58391,8 @@
     "77251": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 58,
-      "current_best_price": 16.9,
+      "buy_score": 62,
+      "current_best_price": 16.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77251-1.jpg",
       "label": "persoonlijk",
@@ -58382,11 +58402,11 @@
       "name": "McLaren F1 Team MCL38",
       "owned_by": 6017,
       "pieces": 269,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -58430,14 +58450,19 @@
           "date": "2026-07-10",
           "price": 16.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-01",
+          "price": 16.19,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-07-10T04:04:20.850268Z",
-      "last_updated": "2026-07-10T04:04:20.850270Z",
+      "last_brickwatch_alert": "2026-08-01T04:04:22.059628Z",
+      "last_updated": "2026-08-01T04:04:22.059632Z",
       "market_value": 23.33,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T20:51:41.077682+00:00",
