@@ -1743,7 +1743,7 @@
     },
     "10316": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "current_best_price": 438.18,
+      "current_best_price": 465.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10316-1.jpg",
       "label": "persoonlijk",
@@ -1769,8 +1769,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-07-25T04:04:14.907601Z",
-      "last_updated": "2026-07-25T04:04:14.907604Z",
+      "last_brickwatch_alert": "2026-08-02T11:04:28.004996Z",
+      "last_updated": "2026-08-02T11:04:28.005003Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -1887,13 +1887,13 @@
           "value": null
         }
       ],
-      "price_score": 26,
+      "price_score": 14,
       "roi_score": 5,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 55,
+      "buy_score": 43,
       "expected_retirement": "2026-12",
       "date_first_available": "2023-02-09",
       "lego_availability": "LEGO exclusive",
@@ -1942,6 +1942,11 @@
         {
           "date": "2026-07-25",
           "price": 438.18,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-02",
+          "price": 465.77,
           "shop": "Brickwatch"
         }
       ],
