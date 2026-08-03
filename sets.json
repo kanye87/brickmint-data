@@ -18410,7 +18410,7 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 47,
+      "buy_score": 44,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
@@ -18419,7 +18419,7 @@
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
       "pieces": 500,
-      "price_score": 32,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 7,
@@ -18448,9 +18448,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 19.0,
-      "last_brickwatch_alert": "2026-07-27T09:04:21.568066Z",
-      "last_updated": "2026-07-27T09:04:21.568070Z",
+      "current_best_price": 19.99,
+      "last_brickwatch_alert": "2026-08-03T15:34:21.383507Z",
+      "last_updated": "2026-08-03T15:34:21.383519Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -18475,6 +18475,11 @@
         {
           "date": "2026-07-27",
           "price": 19.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-03",
+          "price": 19.99,
           "shop": "Brickwatch"
         }
       ],
