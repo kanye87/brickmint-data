@@ -18269,19 +18269,19 @@
     "42228": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 39,
-      "current_best_price": 149.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 38,
+      "current_best_price": 152.08,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-21T23:04:23.121255Z",
-      "last_updated": "2026-07-22T08:12:39.645884Z",
+      "last_brickwatch_alert": "2026-08-03T04:04:28.542526Z",
+      "last_updated": "2026-08-03T04:04:28.542527Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
       "owned_by": 243,
       "pieces": 1675,
-      "price_score": 31,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -18360,6 +18360,11 @@
           "date": "2026-07-22",
           "price": 149.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-03",
+          "price": 152.08,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -43228,7 +43233,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
+      "buy_score": 43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -43237,7 +43242,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 3,
@@ -43253,9 +43258,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 84.95,
-      "last_brickwatch_alert": "2026-08-02T10:34:23.550899Z",
-      "last_updated": "2026-08-02T10:34:23.550908Z",
+      "current_best_price": 81.8,
+      "last_brickwatch_alert": "2026-08-03T04:04:28.542738Z",
+      "last_updated": "2026-08-03T04:04:28.542742Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -43321,6 +43326,11 @@
         {
           "date": "2026-08-02",
           "price": 84.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-03",
+          "price": 81.8,
           "shop": "Brickwatch"
         }
       ],
@@ -51915,22 +51925,22 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 45,
-      "current_best_price": 72.79,
+      "buy_score": 52,
+      "current_best_price": 65.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-15T04:04:21.897732Z",
-      "last_updated": "2026-07-15T04:04:21.897734Z",
+      "last_brickwatch_alert": "2026-08-03T04:04:28.542808Z",
+      "last_updated": "2026-08-03T04:04:28.542810Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 24,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51979,6 +51989,11 @@
           "date": "2026-07-15",
           "price": 72.79,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-03",
+          "price": 65.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -51997,19 +52012,19 @@
     "76350": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 42,
-      "current_best_price": 64.99,
+      "buy_score": 48,
+      "current_best_price": 58.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-22T04:04:15.652559Z",
-      "last_updated": "2026-07-22T04:04:15.652566Z",
+      "last_brickwatch_alert": "2026-08-03T04:04:28.542656Z",
+      "last_updated": "2026-08-03T04:04:28.542659Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 112,
       "pieces": 534,
-      "price_score": 24,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -52060,6 +52075,11 @@
         {
           "date": "2026-07-22",
           "price": 64.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-03",
+          "price": 58.99,
           "shop": "Brickwatch"
         }
       ],
