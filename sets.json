@@ -9545,8 +9545,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 47,
-      "current_best_price": 146.41,
+      "buy_score": 50,
+      "current_best_price": 139.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -9555,7 +9555,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 25,
+      "price_score": 28,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -9570,8 +9570,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-26T08:34:18.290829Z",
-      "last_updated": "2026-07-26T08:34:18.290832Z",
+      "last_brickwatch_alert": "2026-08-05T04:04:23.594084Z",
+      "last_updated": "2026-08-05T04:04:23.594086Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -9651,6 +9651,11 @@
         {
           "date": "2026-07-13",
           "price": 146.41,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-05",
+          "price": 139.99,
           "shop": "Brickwatch"
         }
       ],
@@ -18611,8 +18616,8 @@
     "43013": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 19.99,
+      "buy_score": 45,
+      "current_best_price": 18.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -18621,7 +18626,7 @@
       "name": "Kylian Mbappé – Football Highlights",
       "owned_by": 151,
       "pieces": 490,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -18673,10 +18678,15 @@
           "date": "2026-08-03",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-05",
+          "price": 18.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-03T12:04:33.393975Z",
-      "last_updated": "2026-08-03T12:04:33.393982Z",
+      "last_brickwatch_alert": "2026-08-05T04:04:23.594342Z",
+      "last_updated": "2026-08-05T04:04:23.594344Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -19226,8 +19236,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_price": 16.99,
+      "buy_score": 45,
+      "current_best_price": 18.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -19236,10 +19246,10 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19253,8 +19263,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-07-21T04:34:30.773341Z",
-      "last_updated": "2026-07-21T04:34:30.773342Z",
+      "last_brickwatch_alert": "2026-08-05T04:04:23.594390Z",
+      "last_updated": "2026-08-05T04:04:23.594392Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19289,6 +19299,11 @@
         {
           "date": "2026-07-21",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-05",
+          "price": 18.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43136,20 +43151,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 94.99,
+      "buy_score": 44,
+      "current_best_price": 98.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-07-07T04:04:18.404605Z",
-      "last_updated": "2026-07-07T04:04:18.404606Z",
+      "last_brickwatch_alert": "2026-08-05T04:04:23.594230Z",
+      "last_updated": "2026-08-05T04:04:23.594233Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 30,
+      "price_score": 28,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -43240,6 +43255,11 @@
         {
           "date": "2026-07-07",
           "price": 94.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-05",
+          "price": 98.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43350,8 +43370,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 37.99,
+      "buy_score": 45,
+      "current_best_price": 36.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -43360,10 +43380,10 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 21,
+      "price_score": 23,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -43378,8 +43398,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-08-04T04:04:27.855719Z",
-      "last_updated": "2026-08-04T04:04:27.855723Z",
+      "last_brickwatch_alert": "2026-08-05T04:04:23.594292Z",
+      "last_updated": "2026-08-05T04:04:23.594295Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43454,6 +43474,11 @@
         {
           "date": "2026-08-04",
           "price": 37.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-05",
+          "price": 36.99,
           "shop": "Brickwatch"
         }
       ],
