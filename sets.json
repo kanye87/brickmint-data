@@ -2028,12 +2028,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 212.99,
+      "current_best_price": 255.07,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-07-24T21:04:23.724860Z",
-      "last_updated": "2026-07-24T21:04:23.724868Z",
+      "last_brickwatch_alert": "2026-08-07T16:34:21.382514Z",
+      "last_updated": "2026-08-07T16:34:21.382517Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -2122,6 +2122,11 @@
         {
           "date": "2026-07-24",
           "price": 212.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 255.07,
           "shop": "Brickwatch"
         }
       ]
@@ -18868,8 +18873,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_price": 48.0,
+      "buy_score": 50,
+      "current_best_price": 47.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -18881,7 +18886,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -18945,13 +18950,18 @@
           "date": "2026-07-26",
           "price": 48.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 47.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-07-26T18:34:16.607369Z",
-      "last_updated": "2026-07-26T18:34:16.607377Z",
+      "last_brickwatch_alert": "2026-08-07T16:34:21.382181Z",
+      "last_updated": "2026-08-07T16:34:21.382190Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 88.5,
       "market_value_source": "ebay",
@@ -35077,7 +35087,7 @@
     },
     "75331": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 649.0,
+      "current_best_price": 645.21,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-09-28",
       "ean": "5702017155579",
@@ -35172,6 +35182,11 @@
           "date": "2026-07-23",
           "price": 649.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 645.21,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -35204,8 +35219,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-013154/119021.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-07-23T19:04:22.210285Z",
-      "last_updated": "2026-07-23T19:04:22.210328Z"
+      "last_brickwatch_alert": "2026-08-07T16:34:21.382428Z",
+      "last_updated": "2026-08-07T16:34:21.382433Z"
     },
     "75333": {
       "availability_score": 0,
