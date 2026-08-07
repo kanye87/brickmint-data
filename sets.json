@@ -2367,8 +2367,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 36,
-      "current_best_price": 53.99,
+      "buy_score": 37,
+      "current_best_price": 52.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2378,7 +2378,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 30,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2401,8 +2401,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-08-04T06:04:16.032291Z",
-      "last_updated": "2026-08-04T06:04:16.032300Z",
+      "last_brickwatch_alert": "2026-08-07T04:04:20.255535Z",
+      "last_updated": "2026-08-07T04:04:20.255536Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -2486,6 +2486,11 @@
         {
           "date": "2026-08-04",
           "price": 53.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 52.99,
           "shop": "Brickwatch"
         }
       ],
@@ -19856,14 +19861,19 @@
           "image_url": null
         }
       ],
-      "current_best_price": 59.99,
+      "current_best_price": 59.95,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-07-31T04:04:18.926290Z",
-      "last_updated": "2026-07-31T04:04:18.926298Z",
+      "last_brickwatch_alert": "2026-08-07T04:04:20.255297Z",
+      "last_updated": "2026-08-07T04:04:20.255299Z",
       "price_history": [
         {
           "date": "2026-07-31",
           "price": 59.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 59.95,
           "shop": "Brickwatch"
         }
       ]
@@ -38237,8 +38247,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 52,
-      "current_best_price": 19.99,
+      "buy_score": 54,
+      "current_best_price": 19.29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -38248,7 +38258,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -38360,14 +38370,19 @@
           "date": "2026-08-06",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 19.29,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-08-06T05:04:17.339815Z",
-      "last_updated": "2026-08-06T05:04:17.339826Z",
+      "last_brickwatch_alert": "2026-08-07T04:04:20.255575Z",
+      "last_updated": "2026-08-07T04:04:20.255577Z",
       "market_value": 23.99,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
@@ -43408,8 +43423,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
-      "current_best_price": 36.99,
+      "buy_score": 52,
+      "current_best_price": 32.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -43418,7 +43433,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 23,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -43436,8 +43451,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-08-05T04:04:23.594292Z",
-      "last_updated": "2026-08-05T04:04:23.594295Z",
+      "last_brickwatch_alert": "2026-08-07T04:04:20.255475Z",
+      "last_updated": "2026-08-07T04:04:20.255479Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43517,6 +43532,11 @@
         {
           "date": "2026-08-05",
           "price": 36.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 32.99,
           "shop": "Brickwatch"
         }
       ],
