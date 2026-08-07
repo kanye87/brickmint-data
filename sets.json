@@ -25449,8 +25449,8 @@
     "71426": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 21,
-      "current_best_price": 55.99,
+      "buy_score": 30,
+      "current_best_price": 49.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71426-1.jpg",
       "label": "persoonlijk",
@@ -25459,7 +25459,7 @@
       "name": "Piranha Plant",
       "owned_by": 6932,
       "pieces": 540,
-      "price_score": 13,
+      "price_score": 22,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
@@ -25476,8 +25476,8 @@
       "wanted_by": 1509,
       "year": 2023,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-super-mario-71426-piranha-plant-laagste-prijs-ooit-3847-korting-tov-adviesprijs-6499-402846",
-      "last_updated": "2026-08-04T12:04:25.757593Z",
-      "last_brickwatch_alert": "2026-08-04T12:04:25.757585Z",
+      "last_updated": "2026-08-07T20:04:29.628753Z",
+      "last_brickwatch_alert": "2026-08-07T20:04:29.628743Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -25502,6 +25502,11 @@
         {
           "date": "2026-08-04",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 49.49,
           "shop": "Brickwatch"
         }
       ],
