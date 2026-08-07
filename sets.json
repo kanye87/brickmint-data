@@ -12953,8 +12953,8 @@
     "40751": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "buy_score": 33,
-      "current_best_price": 19.99,
+      "buy_score": 25,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/40751-1.jpg",
       "label": "investering",
@@ -12984,7 +12984,7 @@
       "rating": 4.4,
       "retirement_date": "2024-12-25",
       "retirement_status": "retired",
-      "roi_score": 8,
+      "roi_score": 0,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -13005,8 +13005,15 @@
           "date": "2026-05-14",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-07",
+          "price": 49.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-08-07T21:34:17.179267Z",
+      "last_updated": "2026-08-07T21:34:17.179276Z"
     },
     "40757": {
       "brickset_last_enriched": "2026-08-07T14:46:18Z",
