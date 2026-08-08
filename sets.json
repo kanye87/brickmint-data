@@ -35608,7 +35608,7 @@
     },
     "75337": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "current_best_price": 138.39,
+      "current_best_price": 109.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75337-1.jpg",
       "label": "persoonlijk",
@@ -35636,16 +35636,16 @@
       ],
       "wanted_by": 3832,
       "year": 2022,
-      "last_brickwatch_alert": "2026-07-26T09:34:15.322246Z",
-      "last_updated": "2026-07-26T09:34:15.322256Z",
+      "last_brickwatch_alert": "2026-08-08T16:34:23.990877Z",
+      "last_updated": "2026-08-08T16:34:23.990884Z",
       "subtheme": "Episode III",
-      "price_score": 1,
-      "roi_score": 0,
+      "price_score": 20,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 1,
+      "buy_score": 23,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -35695,6 +35695,11 @@
         {
           "date": "2026-07-26",
           "price": 138.39,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-08",
+          "price": 109.9,
           "shop": "Brickwatch"
         }
       ],
