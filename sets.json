@@ -11099,7 +11099,7 @@
     },
     "40539": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 9.99,
+      "current_best_price": 29.89,
       "date_first_available": "2022-01-04",
       "ean": "5702017166902",
       "expected_retirement": "2023-11",
@@ -11155,20 +11155,28 @@
       "year": 2022,
       "subtheme": "Star Wars",
       "price_score": 0,
-      "roi_score": 7,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 22,
+      "buy_score": 15,
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 9.99,
           "shop": null
+        },
+        {
+          "date": "2026-08-09",
+          "price": 29.89,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-09T04:04:38.098119Z",
+      "last_updated": "2026-08-09T04:04:38.098121Z"
     },
     "40547": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -53020,11 +53028,11 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
       "buy_score": 63,
-      "current_best_price": 245.99,
-      "current_best_shop": "Amazon.nl",
+      "current_best_price": 244.89,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 245.99,
+      "lowest_price_ever": 244.89,
       "msrp": 369.99,
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
@@ -53046,8 +53054,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-08-06T15:34:24.684435Z",
-      "last_updated": "2026-08-06T23:52:11.653507Z",
+      "last_brickwatch_alert": "2026-08-09T04:04:37.806424Z",
+      "last_updated": "2026-08-09T04:04:37.806425Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53128,6 +53136,11 @@
           "date": "2026-08-06",
           "price": 245.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-09",
+          "price": 244.89,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
