@@ -38973,24 +38973,24 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 33,
-      "current_best_price": 64.99,
+      "buy_score": 28,
+      "current_best_price": 69.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-06-28T04:04:19.841245Z",
-      "last_updated": "2026-06-28T04:04:19.841247Z",
+      "last_brickwatch_alert": "2026-08-10T04:04:19.187527Z",
+      "last_updated": "2026-08-10T04:04:19.187529Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 27,
+      "price_score": 23,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -39040,6 +39040,11 @@
         {
           "date": "2026-06-28",
           "price": 64.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-10",
+          "price": 69.98,
           "shop": "Brickwatch"
         }
       ],
@@ -40527,8 +40532,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 33,
-      "current_best_price": 101.99,
+      "buy_score": 32,
+      "current_best_price": 102.48,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -40538,7 +40543,7 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 26,
+      "price_score": 25,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -40552,8 +40557,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-07-27T04:04:22.773038Z",
-      "last_updated": "2026-07-27T04:04:22.773042Z",
+      "last_brickwatch_alert": "2026-08-10T04:04:19.187450Z",
+      "last_updated": "2026-08-10T04:04:19.187453Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -40597,6 +40602,11 @@
         {
           "date": "2026-07-27",
           "price": 101.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-10",
+          "price": 102.48,
           "shop": "Brickwatch"
         }
       ],
@@ -40989,8 +40999,8 @@
     "75404": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 46,
-      "current_best_price": 34.65,
+      "buy_score": 55,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75404-1.jpg",
       "label": "persoonlijk",
@@ -40999,11 +41009,11 @@
       "name": "Acclamator-class Assault Ship",
       "owned_by": 6108,
       "pieces": 450,
-      "price_score": 27,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41024,8 +41034,8 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-02T03:34:13.987186Z",
-      "last_updated": "2026-08-02T03:34:13.987196Z",
+      "last_brickwatch_alert": "2026-08-10T04:04:19.187367Z",
+      "last_updated": "2026-08-10T04:04:19.187371Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-acclamator-class-assault-shi-75404-laagste-prijs-ooit-50-onder-adviesprijs-403465",
       "price_history": [
         {
@@ -41056,6 +41066,11 @@
         {
           "date": "2026-08-02",
           "price": 34.65,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-10",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52801,8 +52816,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-09T23:34:22.126730Z",
-      "last_updated": "2026-08-09T23:34:22.126732Z",
+      "last_brickwatch_alert": "2026-08-10T04:04:19.187233Z",
+      "last_updated": "2026-08-10T04:04:19.187241Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
