@@ -18756,8 +18756,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 51,
-      "current_best_price": 66.95,
+      "buy_score": 53,
+      "current_best_price": 63.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -18766,7 +18766,7 @@
       "name": "Scuderia Ferrari HP Charles Leclerc Helmet",
       "owned_by": 71,
       "pieces": 886,
-      "price_score": 23,
+      "price_score": 25,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 3,
@@ -18805,8 +18805,8 @@
           "value": 75.48
         }
       ],
-      "last_brickwatch_alert": "2026-08-07T14:34:26.620579Z",
-      "last_updated": "2026-08-07T14:34:26.620587Z",
+      "last_brickwatch_alert": "2026-08-10T04:34:14.728945Z",
+      "last_updated": "2026-08-10T04:34:14.728955Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -18882,6 +18882,11 @@
         {
           "date": "2026-08-07",
           "price": 66.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-10",
+          "price": 63.99,
           "shop": "Brickwatch"
         }
       ],
