@@ -19300,8 +19300,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
-      "current_best_price": 18.99,
+      "buy_score": 42,
+      "current_best_price": 19.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -19310,7 +19310,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 32,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -19327,8 +19327,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-08-05T04:04:23.594390Z",
-      "last_updated": "2026-08-05T04:04:23.594392Z",
+      "last_brickwatch_alert": "2026-08-11T04:04:26.678150Z",
+      "last_updated": "2026-08-11T04:04:26.678153Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19368,6 +19368,11 @@
         {
           "date": "2026-08-05",
           "price": 18.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-11",
+          "price": 19.98,
           "shop": "Brickwatch"
         }
       ],
@@ -23252,7 +23257,18 @@
       "scarcity_score": null,
       "availability_score": null,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "current_best_price": 68.0,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-11T04:04:26.677737Z",
+      "last_updated": "2026-08-11T04:04:26.677746Z",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 68.0,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "60472": {
       "brickset_last_enriched": "2026-05-08T09:08:48Z",
@@ -43043,8 +43059,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 27.99,
+      "buy_score": 50,
+      "current_best_price": 28.64,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -43054,7 +43070,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 26,
+      "price_score": 25,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -43068,8 +43084,8 @@
       "urgency_score": 8,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-03T05:04:24.310476Z",
-      "last_updated": "2026-08-03T05:04:24.310486Z",
+      "last_brickwatch_alert": "2026-08-11T04:04:26.678085Z",
+      "last_updated": "2026-08-11T04:04:26.678088Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -43145,6 +43161,11 @@
         {
           "date": "2026-08-03",
           "price": 27.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-11",
+          "price": 28.64,
           "shop": "Brickwatch"
         }
       ],
@@ -59146,7 +59167,18 @@
       "expected_retirement": "2026-07",
       "date_first_available": "2025-03-07",
       "lego_availability": "Retail",
-      "ean": "5702017812786"
+      "ean": "5702017812786",
+      "current_best_price": 68.0,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-11T04:04:26.677877Z",
+      "last_updated": "2026-08-11T04:04:26.677901Z",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 68.0,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "76974": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -60048,8 +60080,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 61,
-      "current_best_price": 16.68,
+      "buy_score": 63,
+      "current_best_price": 16.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -60059,7 +60091,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 33,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -60089,6 +60121,11 @@
           "date": "2026-06-10",
           "price": 16.68,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-11",
+          "price": 16.19,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60104,8 +60141,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-06-10T04:04:25.756429Z",
-      "last_updated": "2026-06-10T04:04:25.756439Z",
+      "last_brickwatch_alert": "2026-08-11T04:04:26.678010Z",
+      "last_updated": "2026-08-11T04:04:26.678012Z",
       "market_value": 27.95,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
