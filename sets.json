@@ -50947,8 +50947,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 275.18,
+      "buy_score": 61,
+      "current_best_price": 255.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -50958,11 +50958,11 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 10,
+      "price_score": 19,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51138,6 +51138,11 @@
           "date": "2026-07-23",
           "price": 275.18,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-11",
+          "price": 255.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -51266,8 +51271,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-batman-arkham-asylum-76300-412025",
-      "last_updated": "2026-07-23T12:04:17.071434Z",
-      "last_brickwatch_alert": "2026-07-23T12:04:17.071425Z",
+      "last_updated": "2026-08-11T12:04:18.032700Z",
+      "last_brickwatch_alert": "2026-08-11T12:04:18.032688Z",
       "market_value": 299.79,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-07-15T18:59:04.948925+00:00",
