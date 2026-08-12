@@ -4783,8 +4783,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-08-10T06:04:13.967481Z",
-      "last_updated": "2026-08-10T06:04:13.967491Z",
+      "last_brickwatch_alert": "2026-08-12T18:34:30.001033Z",
+      "last_updated": "2026-08-12T18:34:30.001035Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -53171,9 +53171,9 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 63,
-      "current_best_price": 245.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 59,
+      "current_best_price": 258.0,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
       "lowest_price_ever": 244.89,
@@ -53181,7 +53181,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 35,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -53198,8 +53198,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-08-09T11:34:15.591810Z",
-      "last_updated": "2026-08-09T12:34:29.708445Z",
+      "last_brickwatch_alert": "2026-08-12T18:34:30.000931Z",
+      "last_updated": "2026-08-12T18:34:30.000938Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53285,6 +53285,11 @@
           "date": "2026-08-09",
           "price": 245.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-12",
+          "price": 258.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
