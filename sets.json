@@ -2028,12 +2028,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 229.0,
+      "current_best_price": 264.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-08-07T19:04:24.019892Z",
-      "last_updated": "2026-08-07T19:04:24.019902Z",
+      "last_brickwatch_alert": "2026-08-12T08:04:18.650819Z",
+      "last_updated": "2026-08-12T08:04:18.650827Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -2127,6 +2127,11 @@
         {
           "date": "2026-08-07",
           "price": 229.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-12",
+          "price": 264.95,
           "shop": "Brickwatch"
         }
       ]
