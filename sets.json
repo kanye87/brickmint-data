@@ -43567,8 +43567,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 43,
-      "current_best_price": 37.49,
+      "buy_score": 58,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -43577,10 +43577,10 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 22,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -43595,8 +43595,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-08-11T04:34:15.646166Z",
-      "last_updated": "2026-08-11T04:34:15.646177Z",
+      "last_brickwatch_alert": "2026-08-12T00:04:26.441110Z",
+      "last_updated": "2026-08-12T00:04:26.441117Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43691,6 +43691,11 @@
         {
           "date": "2026-08-11",
           "price": 37.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-12",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
