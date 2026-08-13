@@ -28272,7 +28272,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 134.74,
+      "lowest_price_ever": 124.89,
       "msrp": 179.99,
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
@@ -28295,9 +28295,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 134.74,
-      "last_brickwatch_alert": "2026-07-25T04:04:14.907533Z",
-      "last_updated": "2026-07-25T04:04:14.907536Z",
+      "current_best_price": 124.89,
+      "last_brickwatch_alert": "2026-08-13T04:04:17.934520Z",
+      "last_updated": "2026-08-13T04:04:17.934531Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -28359,6 +28359,11 @@
           "date": "2026-07-25",
           "price": 134.74,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-13",
+          "price": 124.89,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -28376,8 +28381,8 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 44,
-      "current_best_price": 44.95,
+      "buy_score": 54,
+      "current_best_price": 40.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
@@ -28386,11 +28391,11 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 24,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -28400,8 +28405,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-05T04:34:16.443948Z",
-      "last_updated": "2026-08-05T04:34:16.443956Z",
+      "last_brickwatch_alert": "2026-08-13T04:04:18.175809Z",
+      "last_updated": "2026-08-13T04:04:18.175820Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -28457,6 +28462,11 @@
         {
           "date": "2026-08-05",
           "price": 44.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-13",
+          "price": 40.19,
           "shop": "Brickwatch"
         }
       ],
