@@ -27777,8 +27777,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
-      "current_best_price": 125.85,
+      "buy_score": 49,
+      "current_best_price": 125.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -27787,7 +27787,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 24,
+      "price_score": 25,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -27801,8 +27801,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-12T14:34:15.759622Z",
-      "last_updated": "2026-08-12T14:34:15.759624Z",
+      "last_brickwatch_alert": "2026-08-13T07:34:23.034484Z",
+      "last_updated": "2026-08-13T07:34:23.034493Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -27888,6 +27888,11 @@
         {
           "date": "2026-08-12",
           "price": 125.85,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-13",
+          "price": 125.0,
           "shop": "Brickwatch"
         }
       ],
