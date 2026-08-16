@@ -19452,8 +19452,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 41,
-      "current_best_price": 19.98,
+      "buy_score": 44,
+      "current_best_price": 19.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -19462,7 +19462,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -19479,8 +19479,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-08-11T04:04:26.678150Z",
-      "last_updated": "2026-08-11T04:04:26.678153Z",
+      "last_brickwatch_alert": "2026-08-16T04:04:15.979799Z",
+      "last_updated": "2026-08-16T04:04:15.979809Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19525,6 +19525,11 @@
         {
           "date": "2026-08-11",
           "price": 19.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-16",
+          "price": 19.0,
           "shop": "Brickwatch"
         }
       ],
@@ -60398,7 +60403,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 51,
-      "current_best_price": 18.46,
+      "current_best_price": 18.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
       "label": "persoonlijk",
@@ -60423,8 +60428,8 @@
       "wanted_by": 1102,
       "year": 2025,
       "subtheme": "Formula 1",
-      "last_brickwatch_alert": "2026-08-10T02:34:21.804247Z",
-      "last_updated": "2026-08-10T02:34:21.804255Z",
+      "last_brickwatch_alert": "2026-08-16T04:04:15.979954Z",
+      "last_updated": "2026-08-16T04:04:15.979956Z",
       "minifig_list": [
         {
           "id": "fig-016097",
@@ -60482,6 +60487,11 @@
         {
           "date": "2026-08-10",
           "price": 18.46,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-16",
+          "price": 18.59,
           "shop": "Brickwatch"
         }
       ],
