@@ -44398,7 +44398,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
+      "buy_score": 49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -44410,7 +44410,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -44423,9 +44423,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 74.99,
-      "last_brickwatch_alert": "2026-08-12T00:34:19.521210Z",
-      "last_updated": "2026-08-12T00:34:19.521217Z",
+      "current_best_price": 59.99,
+      "last_brickwatch_alert": "2026-08-16T23:34:19.189886Z",
+      "last_updated": "2026-08-16T23:34:19.189895Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -44506,6 +44506,11 @@
         {
           "date": "2026-08-10",
           "price": 74.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-16",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
