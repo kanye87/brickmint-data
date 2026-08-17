@@ -15522,9 +15522,9 @@
       "year": 2026,
       "date_first_available": "2026-05-01",
       "subtheme": "Promotional",
-      "current_best_price": 69.95,
-      "last_brickwatch_alert": "2026-08-17T00:04:15.017287Z",
-      "last_updated": "2026-08-17T00:04:15.017290Z",
+      "current_best_price": 64.99,
+      "last_brickwatch_alert": "2026-08-17T12:04:19.003407Z",
+      "last_updated": "2026-08-17T12:04:19.003415Z",
       "minifig_list": [],
       "price_history": [
         {
@@ -15539,7 +15539,7 @@
         },
         {
           "date": "2026-08-17",
-          "price": 69.95,
+          "price": 64.99,
           "shop": "Brickwatch"
         }
       ],
