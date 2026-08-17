@@ -19171,7 +19171,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 46,
-      "current_best_price": 48.0,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -19196,8 +19196,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-07-19T13:04:15.927172Z",
-      "last_updated": "2026-07-19T13:04:15.927176Z",
+      "last_brickwatch_alert": "2026-08-17T02:34:13.591437Z",
+      "last_updated": "2026-08-17T02:34:13.591443Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -19223,6 +19223,11 @@
         {
           "date": "2026-07-19",
           "price": 48.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-17",
+          "price": 47.99,
           "shop": "Brickwatch"
         }
       ],
