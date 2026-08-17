@@ -68407,6 +68407,976 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-08-17T08:34:08Z",
       "sell_score": null
+    },
+    "10462": {
+      "name": "Frozen Creative Box with Elsa and Olaf",
+      "theme": "Duplo",
+      "date_first_available": "2026-06-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/10462-1.jpg",
+      "sell_score": null
+    },
+    "10464": {
+      "name": "Team Spidey Webquarters",
+      "theme": "Duplo",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/10464-1.jpg",
+      "sell_score": null
+    },
+    "10469": {
+      "name": "Pizza Girls with Muffin and Bluey",
+      "theme": "Duplo",
+      "date_first_available": "2026-05-03",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/10469-1.jpg",
+      "sell_score": null
+    },
+    "10472": {
+      "name": "Animal Building Game",
+      "theme": "Duplo",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/10472-1.jpg",
+      "sell_score": null
+    },
+    "10479": {
+      "name": "Colourful Creative Box",
+      "theme": "Duplo",
+      "date_first_available": "2026-08-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/10479-1.jpg",
+      "sell_score": null
+    },
+    "10480": {
+      "name": "Discovery Forest with Wild Animals",
+      "theme": "Duplo",
+      "date_first_available": "2026-06-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/10480-1.jpg",
+      "sell_score": null
+    },
+    "11045": {
+      "name": "Creative Colourful Bricks",
+      "theme": "Classic",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/11045-1.jpg",
+      "sell_score": null
+    },
+    "11209": {
+      "name": "Ultron vs. Iron Man",
+      "theme": "Marvel Super Heroes",
+      "date_first_available": "2026-06-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/11209-1.jpg",
+      "sell_score": null
+    },
+    "11211": {
+      "name": "Loki vs. Team Iron Man",
+      "theme": "Marvel Super Heroes",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/11211-1.jpg",
+      "sell_score": null
+    },
+    "11216": {
+      "name": "Grannies with Bingo and Bluey",
+      "theme": "Bluey",
+      "date_first_available": "2026-06-01",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/11216-1.jpg",
+      "sell_score": null
+    },
+    "11217": {
+      "name": "Brick-Built Bluey Family",
+      "theme": "Bluey",
+      "date_first_available": "2026-06-01",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/11217-1.jpg",
+      "sell_score": null
+    },
+    "11221": {
+      "name": "School with Rusty and Bluey",
+      "theme": "Bluey",
+      "date_first_available": "2026-06-01",
+      "msrp": 24.99,
+      "image_url": "https://images.brickset.com/sets/images/11221-1.jpg",
+      "sell_score": null
+    },
+    "11374": {
+      "name": "Arcade Pinball Machine",
+      "theme": "Icons",
+      "date_first_available": "2026-07-01",
+      "msrp": 209.99,
+      "image_url": "https://images.brickset.com/sets/images/11374-1.jpg",
+      "sell_score": null
+    },
+    "11377": {
+      "name": "The Lord of the Rings: Minas Tirith",
+      "theme": "Icons",
+      "date_first_available": "2026-06-01",
+      "msrp": 649.99,
+      "image_url": "https://images.brickset.com/sets/images/11377-1.jpg",
+      "sell_score": null
+    },
+    "11380": {
+      "name": "Road Bike",
+      "theme": "Icons",
+      "date_first_available": "2026-06-01",
+      "msrp": 119.99,
+      "image_url": "https://images.brickset.com/sets/images/11380-1.jpg",
+      "sell_score": null
+    },
+    "11381": {
+      "name": "Jaguar E-Type",
+      "theme": "Icons",
+      "date_first_available": "2026-08-01",
+      "msrp": 139.99,
+      "image_url": "https://images.brickset.com/sets/images/11381-1.jpg",
+      "sell_score": null
+    },
+    "11382": {
+      "name": "Hubble Space Telescope",
+      "theme": "Icons",
+      "date_first_available": "2026-08-01",
+      "msrp": 129.99,
+      "image_url": "https://images.brickset.com/sets/images/11382-1.jpg",
+      "sell_score": null
+    },
+    "11505": {
+      "name": "Woodland Mushrooms",
+      "theme": "Botanicals",
+      "date_first_available": "2026-06-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/11505-1.jpg",
+      "current_best_price": 46.04,
+      "current_best_shop": "Amazon.nl",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-botanicals-bospaddenstoelen-kunstplanten-11505-nog-meer-aanbiedingen-415571",
+      "last_updated": "2026-08-17T16:57:36.845610Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 46.04,
+          "shop": "Amazon.nl"
+        }
+      ],
+      "sell_score": null
+    },
+    "11506": {
+      "name": "Rocking Plants",
+      "theme": "Botanicals",
+      "date_first_available": "2026-05-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/11506-1.jpg",
+      "sell_score": null
+    },
+    "11507": {
+      "name": "Olivia Rodrigo's Flower Bouquet",
+      "theme": "Botanicals",
+      "date_first_available": "2026-07-01",
+      "msrp": 44.99,
+      "image_url": "https://images.brickset.com/sets/images/11507-1.jpg",
+      "sell_score": null
+    },
+    "11511": {
+      "name": "Water Lilies",
+      "theme": "Botanicals",
+      "date_first_available": "2026-06-01",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/11511-1.jpg",
+      "sell_score": null
+    },
+    "11512": {
+      "name": "Hanging Golden Pothos",
+      "theme": "Botanicals",
+      "date_first_available": "2026-07-03",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/11512-1.jpg",
+      "sell_score": null
+    },
+    "11513": {
+      "name": "Dark Flower Arrangement",
+      "theme": "Botanicals",
+      "date_first_available": "2026-08-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/11513-1.jpg",
+      "sell_score": null
+    },
+    "11514": {
+      "name": "Cosmos Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2026-06-01",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/11514-1.jpg",
+      "sell_score": null
+    },
+    "21066": {
+      "name": "New York City – The Big Apple",
+      "theme": "Architecture",
+      "date_first_available": "2026-06-01",
+      "msrp": 139.99,
+      "image_url": "https://images.brickset.com/sets/images/21066-1.jpg",
+      "sell_score": null
+    },
+    "21367": {
+      "name": "Tintin Moon Rocket",
+      "theme": "Ideas",
+      "date_first_available": "2026-04-01",
+      "msrp": 159.99,
+      "image_url": "https://images.brickset.com/sets/images/21367-1.jpg",
+      "sell_score": null
+    },
+    "21368": {
+      "name": "Peanuts: Snoopy's Doghouse",
+      "theme": "Ideas",
+      "date_first_available": "2026-06-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/21368-1.jpg",
+      "current_best_price": 47.99,
+      "current_best_shop": "Amazon.nl",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-peanuts-snoopys-doghouse-21368-laagste-prijs-ooit-415574",
+      "last_updated": "2026-08-17T16:57:36.845499Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 47.99,
+          "shop": "Amazon.nl"
+        }
+      ],
+      "sell_score": null
+    },
+    "21582": {
+      "name": "Chicken Jockey",
+      "theme": "Minecraft",
+      "date_first_available": "2026-08-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/21582-1.jpg",
+      "sell_score": null
+    },
+    "30713": {
+      "name": "Fancy Restaurant with Bingo",
+      "theme": "Bluey",
+      "date_first_available": "2026-06-01",
+      "image_url": "https://images.brickset.com/sets/images/30713-1.jpg",
+      "sell_score": null
+    },
+    "30717": {
+      "name": "Fun Halloween Skeleton",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "image_url": "https://images.brickset.com/sets/images/30717-1.jpg",
+      "sell_score": null
+    },
+    "30718": {
+      "name": "Cataclaws Snow Adventure",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "image_url": "https://images.brickset.com/sets/images/30718-1.jpg",
+      "sell_score": null
+    },
+    "31383": {
+      "name": "Floral Perfume Bottle",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/31383-1.jpg",
+      "sell_score": null
+    },
+    "31386": {
+      "name": "Wild Animals: Majestic Lion",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 64.99,
+      "image_url": "https://images.brickset.com/sets/images/31386-1.jpg",
+      "sell_score": null
+    },
+    "31387": {
+      "name": "Iconic Pirate Ship",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/31387-1.jpg",
+      "sell_score": null
+    },
+    "31388": {
+      "name": "Wild Animals: Family of Koalas",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 119.99,
+      "image_url": "https://images.brickset.com/sets/images/31388-1.jpg",
+      "sell_score": null
+    },
+    "31389": {
+      "name": "Iconic Ferris Wheel",
+      "theme": "Creator",
+      "date_first_available": "2026-08-01",
+      "msrp": 89.99,
+      "image_url": "https://images.brickset.com/sets/images/31389-1.jpg",
+      "sell_score": null
+    },
+    "31390": {
+      "name": "Floral Art Painting",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/31390-1.jpg",
+      "sell_score": null
+    },
+    "31391": {
+      "name": "Fashion Bag with Storage",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/31391-1.jpg",
+      "sell_score": null
+    },
+    "31392": {
+      "name": "Music Décor Piano",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/31392-1.jpg",
+      "sell_score": null
+    },
+    "31393": {
+      "name": "Forest Animals: Grey Wolf",
+      "theme": "Creator",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/31393-1.jpg",
+      "sell_score": null
+    },
+    "40902": {
+      "name": "Tribute to Leonardo da Vinci",
+      "theme": "Promotional",
+      "date_first_available": "2026-06-19",
+      "image_url": "https://images.brickset.com/sets/images/40902-1.jpg",
+      "sell_score": null
+    },
+    "40912": {
+      "name": "Sea Serpent",
+      "theme": "Ideas",
+      "date_first_available": "2026-07-07",
+      "image_url": "https://images.brickset.com/sets/images/40912-1.jpg",
+      "sell_score": null
+    },
+    "40916": {
+      "name": "Floral Picture Frame",
+      "theme": "Botanicals",
+      "date_first_available": "2026-03-09",
+      "image_url": "https://images.brickset.com/sets/images/40916-1.jpg",
+      "sell_score": null
+    },
+    "40926": {
+      "name": "SEGA Mega Drive Console",
+      "theme": "Sonic the Hedgehog",
+      "date_first_available": "2026-06-01",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/40926-1.jpg",
+      "sell_score": null
+    },
+    "42229": {
+      "name": "Mitsubishi Eclipse",
+      "theme": "Technic",
+      "date_first_available": "2026-06-01",
+      "msrp": 64.99,
+      "image_url": "https://images.brickset.com/sets/images/42229-1.jpg",
+      "sell_score": null
+    },
+    "42231": {
+      "name": "Dodge Charger R/T",
+      "theme": "Technic",
+      "date_first_available": "2026-06-01",
+      "msrp": 149.99,
+      "image_url": "https://images.brickset.com/sets/images/42231-1.jpg",
+      "sell_score": null
+    },
+    "42232": {
+      "name": "Koenigsegg Sadair's Spear Megacar",
+      "theme": "Technic",
+      "date_first_available": "2026-07-01",
+      "msrp": 449.99,
+      "image_url": "https://images.brickset.com/sets/images/42232-1.jpg",
+      "sell_score": null
+    },
+    "42233": {
+      "name": "Mighty Machines  - Series 1 {Random pack}",
+      "theme": "Technic",
+      "date_first_available": "2026-08-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/42233-0.jpg",
+      "current_best_price": 3.99,
+      "current_best_shop": "Pepper.com",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/trekpleister-lego-bouwset-2e-halve-prijs-oa-lego-technic-42233-415201",
+      "last_updated": "2026-08-17T16:57:36.847006Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 3.99,
+          "shop": "Pepper.com"
+        }
+      ],
+      "sell_score": null
+    },
+    "42238": {
+      "name": "Ducati Desmo450 MX Factory Motorcycle",
+      "theme": "Technic",
+      "date_first_available": "2026-08-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/42238-1.jpg",
+      "sell_score": null
+    },
+    "42240": {
+      "name": "Aston Martin Aramco AMR25 F1 Car",
+      "theme": "Technic",
+      "date_first_available": "2026-07-01",
+      "msrp": 229.99,
+      "image_url": "https://images.brickset.com/sets/images/42240-1.jpg",
+      "sell_score": null
+    },
+    "43017": {
+      "name": "Oscar Piastri Helmet",
+      "theme": "Editions",
+      "date_first_available": "2026-06-03",
+      "msrp": 89.99,
+      "image_url": "https://images.brickset.com/sets/images/43017-1.jpg",
+      "sell_score": null
+    },
+    "43023": {
+      "name": "Lando Norris Helmet",
+      "theme": "Editions",
+      "date_first_available": "2026-06-03",
+      "msrp": 89.99,
+      "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
+      "sell_score": null
+    },
+    "43028": {
+      "name": "Olivia Rodrigo's Vinyl",
+      "theme": "Editions",
+      "date_first_available": "2026-07-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/43028-1.jpg",
+      "sell_score": null
+    },
+    "43029": {
+      "name": "Olivia Rodrigo's Concert Moon",
+      "theme": "Editions",
+      "date_first_available": "2026-07-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/43029-1.jpg",
+      "sell_score": null
+    },
+    "43030": {
+      "name": "Olivia Rodrigo's Secret Storage",
+      "theme": "Editions",
+      "date_first_available": "2026-07-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/43030-1.jpg",
+      "sell_score": null
+    },
+    "43031": {
+      "name": "Olivia Rodrigo's Dual Guitar",
+      "theme": "Editions",
+      "date_first_available": "2026-07-01",
+      "msrp": 119.99,
+      "image_url": "https://images.brickset.com/sets/images/43031-1.jpg",
+      "sell_score": null
+    },
+    "43294": {
+      "name": "Rapunzel's Mini Tower",
+      "theme": "Disney",
+      "date_first_available": "2026-06-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/43294-1.jpg",
+      "sell_score": null
+    },
+    "43302": {
+      "name": "Main Street, U.S.A.",
+      "theme": "Disney",
+      "date_first_available": "2026-06-01",
+      "msrp": 349.99,
+      "image_url": "https://images.brickset.com/sets/images/43302-1.jpg",
+      "sell_score": null
+    },
+    "5007787": {
+      "name": "Hydration Bottle 0.5L New York",
+      "theme": "Gear",
+      "date_first_available": "2026-05-22",
+      "msrp": 12.99,
+      "image_url": "https://images.brickset.com/sets/images/5007787-1.jpg",
+      "sell_score": null
+    },
+    "5010075": {
+      "name": "Dolphin",
+      "theme": "Promotional",
+      "date_first_available": "2026-04-15",
+      "image_url": "https://images.brickset.com/sets/images/5010075-1.jpg",
+      "sell_score": null
+    },
+    "5010101": {
+      "name": "Coloured Pencils with Topper",
+      "theme": "Gear",
+      "date_first_available": "2026-05-19",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/5010101-1.jpg",
+      "sell_score": null
+    },
+    "5010204": {
+      "name": "Grogu in Pram",
+      "theme": "Star Wars",
+      "date_first_available": "2026-05-03",
+      "image_url": "https://images.brickset.com/sets/images/5010204-1.jpg",
+      "sell_score": null
+    },
+    "5010220": {
+      "name": "I Love LEGO Store Leeds",
+      "theme": "Promotional",
+      "date_first_available": "2026-04-23",
+      "image_url": "https://images.brickset.com/sets/images/5010220-1.jpg",
+      "sell_score": null
+    },
+    "5010224": {
+      "name": "Sports Stadium",
+      "theme": "Promotional",
+      "date_first_available": "2026-06-16",
+      "image_url": "https://images.brickset.com/sets/images/5010224-1.jpg",
+      "sell_score": null
+    },
+    "5010326": {
+      "name": "Botanicals Enamel Mug",
+      "theme": "Gear",
+      "date_first_available": "2026-04-01",
+      "image_url": "https://images.brickset.com/sets/images/5010326-1.jpg",
+      "sell_score": null
+    },
+    "5010388": {
+      "name": "Play Box",
+      "theme": "Miscellaneous",
+      "date_first_available": "2026-06-11",
+      "image_url": "https://images.brickset.com/sets/images/5010388-1.jpg",
+      "sell_score": null
+    },
+    "5010392": {
+      "name": "Vase - Bricks",
+      "theme": "Gear",
+      "date_first_available": "2026-06-22",
+      "msrp": 11.99,
+      "image_url": "https://images.brickset.com/sets/images/5010392-1.jpg",
+      "sell_score": null
+    },
+    "5010393": {
+      "name": "Vase - Wildflowers",
+      "theme": "Gear",
+      "date_first_available": "2026-06-17",
+      "msrp": 11.99,
+      "image_url": "https://images.brickset.com/sets/images/5010393-1.jpg",
+      "sell_score": null
+    },
+    "5010423": {
+      "name": "Herschel Classic XL Backpack – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 79.99,
+      "sell_score": null
+    },
+    "5010424": {
+      "name": "Herschel Classic XL Backpack – Abstract Bricks Black",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 79.99,
+      "sell_score": null
+    },
+    "5010425": {
+      "name": "Herschel Retreat Tote – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 89.99,
+      "sell_score": null
+    },
+    "5010426": {
+      "name": "Herschel Heritage Youth Backpack – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 64.99,
+      "sell_score": null
+    },
+    "5010427": {
+      "name": "Herschel Heritage Youth Backpack – Abstract Bricks Blue",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 64.99,
+      "sell_score": null
+    },
+    "5010428": {
+      "name": "Herschel Heritage Kids Backpack – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 54.99,
+      "sell_score": null
+    },
+    "5010429": {
+      "name": "Herschel Heritage Kids Backpack – Abstract Bricks Blue",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 54.99,
+      "sell_score": null
+    },
+    "5010430": {
+      "name": "Pop Quiz Lunch Box Little Herschel – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 44.99,
+      "sell_score": null
+    },
+    "5010431": {
+      "name": "Pop Quiz Lunch Box Little Herschel – Abstract Bricks Blue",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 44.99,
+      "sell_score": null
+    },
+    "5010432": {
+      "name": "Settlement Pencil Case Little Herschel – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 29.99,
+      "sell_score": null
+    },
+    "5010433": {
+      "name": "Settlement Pencil Case Little Herschel – Abstract Bricks Blue",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 29.99,
+      "sell_score": null
+    },
+    "5010434": {
+      "name": "Herschel Heritage Backpack – Black Abstract Bricks Black",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 99.99,
+      "sell_score": null
+    },
+    "5010435": {
+      "name": "Herschel Heritage Backpack – Black Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 99.99,
+      "sell_score": null
+    },
+    "5010436": {
+      "name": "Herschel Little America Backpack – Black Abstract Bricks Black",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 149.99,
+      "sell_score": null
+    },
+    "5010437": {
+      "name": "Herschel Heritage Duffle – Black Abstract Bricks Black",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 119.99,
+      "sell_score": null
+    },
+    "5010438": {
+      "name": "Herschel Heritage Duffle – Black Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 119.99,
+      "sell_score": null
+    },
+    "5010439": {
+      "name": "Herschel Retreat Small Backpack – Black Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 99.99,
+      "sell_score": null
+    },
+    "5010440": {
+      "name": "Herschel Classic Hip Pack – Falling Florals",
+      "theme": "Gear",
+      "date_first_available": "2026-07-02",
+      "msrp": 44.99,
+      "sell_score": null
+    },
+    "5010485": {
+      "name": "LEGO Batman: Legacy of the Dark Knight - PlayStation  5",
+      "theme": "Gear",
+      "date_first_available": "2026-04-07",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/5010485-1.jpg",
+      "sell_score": null
+    },
+    "5010486": {
+      "name": "LEGO Batman: Legacy of the Dark Knight - Xbox Series X",
+      "theme": "Gear",
+      "date_first_available": "2026-04-07",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/5010486-1.jpg",
+      "sell_score": null
+    },
+    "60480": {
+      "name": "Backhoe Loader",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/60480-1.jpg",
+      "sell_score": null
+    },
+    "60492": {
+      "name": "Passenger Jet",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/60492-1.jpg",
+      "sell_score": null
+    },
+    "60494": {
+      "name": "Dump Truck & Front End Loader",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 119.99,
+      "image_url": "https://images.brickset.com/sets/images/60494-1.jpg",
+      "current_best_price": 77.99,
+      "current_best_shop": "Amazon.nl",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-60494-city-kiepwagen-en-voorlader-laagste-prijs-ooit-at-amazon-415592",
+      "last_updated": "2026-08-17T16:57:36.845327Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 77.99,
+          "shop": "Amazon.nl"
+        }
+      ],
+      "sell_score": null
+    },
+    "60496": {
+      "name": "Pizza Delivery Experience",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/60496-1.jpg",
+      "sell_score": null
+    },
+    "60497": {
+      "name": "Drive-Through Car Wash",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 54.99,
+      "image_url": "https://images.brickset.com/sets/images/60497-1.jpg",
+      "sell_score": null
+    },
+    "60501": {
+      "name": "Lava Land",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/60501-1.jpg",
+      "sell_score": null
+    },
+    "60506": {
+      "name": "Classic Beach Tram",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/60506-1.jpg",
+      "current_best_price": 40.94,
+      "current_best_shop": "Amazon.nl",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-city-tram-60506-gratis-poppetje-laagste-prijs-ooit-415560",
+      "last_updated": "2026-08-17T16:57:36.845744Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 40.94,
+          "shop": "Amazon.nl"
+        }
+      ],
+      "sell_score": null
+    },
+    "60509": {
+      "name": "Harbour Freight Train",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/60509-1.jpg",
+      "sell_score": null
+    },
+    "60511": {
+      "name": "Vintage Steam Train",
+      "theme": "City",
+      "date_first_available": "2026-08-01",
+      "msrp": 89.99,
+      "image_url": "https://images.brickset.com/sets/images/60511-1.jpg",
+      "sell_score": null
+    },
+    "60512": {
+      "name": "Mountain Bike Adventure Van",
+      "theme": "City",
+      "date_first_available": "2026-06-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/60512-1.jpg",
+      "sell_score": null
+    },
+    "6614210": {
+      "name": "Fries Stand",
+      "theme": "City",
+      "date_first_available": "2026-04-29",
+      "image_url": "https://images.brickset.com/sets/images/6614187-1.jpg",
+      "sell_score": null
+    },
+    "6626049": {
+      "name": "N-1 Starfighter",
+      "theme": "Star Wars",
+      "date_first_available": "2026-05-02",
+      "image_url": "https://images.brickset.com/sets/images/MININ1-1.jpg",
+      "sell_score": null
+    },
+    "6638188": {
+      "name": "Trophy",
+      "theme": "Promotional",
+      "date_first_available": "2026-06-06",
+      "image_url": "https://images.brickset.com/sets/images/FIFATROPHY-1.jpg",
+      "sell_score": null
+    },
+    "6638818": {
+      "name": "Trophy",
+      "theme": "Promotional",
+      "date_first_available": "2026-06-06",
+      "image_url": "https://images.brickset.com/sets/images/FIFATROPHY-1.jpg",
+      "sell_score": null
+    },
+    "72537": {
+      "name": "Derpy Tiger and Sussie Bird",
+      "theme": "KPop Demon Hunters",
+      "date_first_available": "2026-06-16",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/72537-1.jpg",
+      "sell_score": null
+    },
+    "75423": {
+      "name": "Luke's Red Five X-wing",
+      "theme": "Star Wars",
+      "date_first_available": "2026-03-01",
+      "msrp": 89.99,
+      "image_url": "https://images.brickset.com/sets/images/75423-1.jpg",
+      "sell_score": null
+    },
+    "75453": {
+      "name": "Offworld Sandcrawler and Mudhorn",
+      "theme": "Star Wars",
+      "date_first_available": "2026-08-01",
+      "msrp": 199.99,
+      "image_url": "https://images.brickset.com/sets/images/75453-1.jpg",
+      "sell_score": null
+    },
+    "75454": {
+      "name": "Imperial Remnant AT-AT with INT-4",
+      "theme": "Star Wars",
+      "date_first_available": "2026-08-01",
+      "msrp": 159.99,
+      "image_url": "https://images.brickset.com/sets/images/75454-1.jpg",
+      "sell_score": null
+    },
+    "75455": {
+      "name": "Boba Fett",
+      "theme": "Star Wars",
+      "date_first_available": "2026-08-01",
+      "msrp": 169.99,
+      "image_url": "https://images.brickset.com/sets/images/75455-1.jpg",
+      "sell_score": null
+    },
+    "75459": {
+      "name": "Imperial Lambda-class Shuttle",
+      "theme": "Star Wars",
+      "date_first_available": "2026-07-01",
+      "msrp": 149.99,
+      "image_url": "https://images.brickset.com/sets/images/75459-1.jpg",
+      "sell_score": null
+    },
+    "76356": {
+      "name": "Venom Bust",
+      "theme": "Marvel Super Heroes",
+      "date_first_available": "2026-07-01",
+      "msrp": 49.99,
+      "image_url": "https://images.brickset.com/sets/images/76356-1.jpg",
+      "sell_score": null
+    },
+    "76471": {
+      "name": "Knockturn Alley Wizarding Shops",
+      "theme": "Harry Potter",
+      "date_first_available": "2026-06-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/76471-1.jpg",
+      "sell_score": null
+    },
+    "77263": {
+      "name": "BMW M3 (E30)",
+      "theme": "Speed Champions",
+      "date_first_available": "2026-08-01",
+      "msrp": 27.99,
+      "image_url": "https://images.brickset.com/sets/images/77263-1.jpg",
+      "sell_score": null
+    },
+    "910064": {
+      "name": "Dustmark Keep",
+      "theme": "BrickLink",
+      "date_first_available": "2026-06-10",
+      "msrp": 349.99,
+      "image_url": "https://images.brickset.com/sets/images/910064-1.jpg",
+      "sell_score": null
+    },
+    "910065": {
+      "name": "Coconut Cape",
+      "theme": "BrickLink",
+      "date_first_available": "2026-06-10",
+      "msrp": 209.99,
+      "image_url": "https://images.brickset.com/sets/images/910065-1.jpg",
+      "sell_score": null
+    },
+    "910066": {
+      "name": "Brick Railroad Locomotive",
+      "theme": "BrickLink",
+      "date_first_available": "2026-06-10",
+      "msrp": 119.99,
+      "image_url": "https://images.brickset.com/sets/images/910066-1.jpg",
+      "sell_score": null
+    },
+    "910067": {
+      "name": "Hot Air Balloon",
+      "theme": "BrickLink",
+      "date_first_available": "2026-06-10",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/910067-1.jpg",
+      "sell_score": null
+    },
+    "910068": {
+      "name": "University of Science",
+      "theme": "BrickLink",
+      "date_first_available": "2026-06-10",
+      "msrp": 359.99,
+      "image_url": "https://images.brickset.com/sets/images/910068-1.jpg",
+      "sell_score": null
+    },
+    "ISBN9780241788080": {
+      "name": "LEGO DC Batman: Adventures in Gotham City",
+      "theme": "Books",
+      "date_first_available": "2026-07-02",
+      "image_url": "https://images.brickset.com/sets/images/ISBN9780241788080-1.jpg",
+      "sell_score": null
+    },
+    "L0002292": {
+      "name": "Motorcycle",
+      "theme": "Technic",
+      "date_first_available": "2026-05-08",
+      "image_url": "https://images.brickset.com/sets/images/L0002292-1.jpg",
+      "sell_score": null
+    },
+    "SIEGETOWER": {
+      "name": "Siege Tower",
+      "theme": "The Lord of the Rings",
+      "date_first_available": "2026-06-01",
+      "image_url": "https://images.brickset.com/sets/images/SIEGETOWER-1.jpg",
+      "sell_score": null
     }
   }
 }
