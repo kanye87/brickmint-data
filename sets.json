@@ -19091,8 +19091,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 46,
-      "current_best_price": 47.95,
+      "buy_score": 47,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -19104,7 +19104,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19173,13 +19173,18 @@
           "date": "2026-08-07",
           "price": 47.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-17",
+          "price": 42.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-08-07T16:34:21.382181Z",
-      "last_updated": "2026-08-07T16:34:21.382190Z",
+      "last_brickwatch_alert": "2026-08-17T17:04:15.169449Z",
+      "last_updated": "2026-08-17T17:04:15.169463Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 58.11,
       "market_value_source": "ebay",
@@ -68849,7 +68854,18 @@
       "date_first_available": "2026-06-03",
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
-      "sell_score": null
+      "sell_score": null,
+      "current_best_price": 49.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-17T17:04:15.169762Z",
+      "last_updated": "2026-08-17T17:04:15.169768Z",
+      "price_history": [
+        {
+          "date": "2026-08-17",
+          "price": 49.99,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "43028": {
       "name": "Olivia Rodrigo's Vinyl",
