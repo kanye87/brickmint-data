@@ -16795,11 +16795,11 @@
     },
     "42154": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 83.99,
+      "current_best_price": 73.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42154-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 75.99,
+      "lowest_price_ever": 73.99,
       "msrp": 119.99,
       "name": "2022 Ford GT",
       "owned_by": 5480,
@@ -16840,9 +16840,16 @@
           "date": "2026-05-14",
           "price": 83.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-17",
+          "price": 73.99,
+          "shop": "Brickwatch"
         }
       ],
-      "minifig_list": []
+      "minifig_list": [],
+      "last_brickwatch_alert": "2026-08-17T04:04:22.486260Z",
+      "last_updated": "2026-08-17T04:04:22.486266Z"
     },
     "42156": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
