@@ -29304,8 +29304,8 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 599.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 678.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -29342,8 +29342,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-07-22T00:04:15.338772Z",
-      "last_updated": "2026-07-22T08:12:39.645130Z",
+      "last_brickwatch_alert": "2026-08-18T11:34:15.249050Z",
+      "last_updated": "2026-08-18T11:34:15.249054Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -29393,6 +29393,11 @@
           "date": "2026-07-22",
           "price": 599.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-18",
+          "price": 678.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -41953,20 +41958,20 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 219.99,
+      "buy_score": 51,
+      "current_best_price": 209.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-16T22:34:14.555160Z",
-      "last_updated": "2026-08-16T22:34:14.555164Z",
+      "last_brickwatch_alert": "2026-08-18T11:34:15.248764Z",
+      "last_updated": "2026-08-18T11:34:15.248773Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -42169,6 +42174,11 @@
         {
           "date": "2026-08-16",
           "price": 219.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-18",
+          "price": 209.99,
           "shop": "Brickwatch"
         }
       ],
@@ -69562,14 +69572,19 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 49.99,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-17T17:04:15.169762Z",
-      "last_updated": "2026-08-17T17:04:15.169768Z",
+      "last_brickwatch_alert": "2026-08-18T11:34:15.248901Z",
+      "last_updated": "2026-08-18T11:34:15.248905Z",
       "price_history": [
         {
           "date": "2026-08-17",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-18",
+          "price": 47.99,
           "shop": "Brickwatch"
         }
       ],
