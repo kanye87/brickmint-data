@@ -20886,10 +20886,10 @@
       "lego_availability": "Retail",
       "ean": "5702017814582",
       "minifig_list": [],
-      "current_best_price": 72.99,
+      "current_best_price": 79.99,
       "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcomflitsdeal-lego-disney-101-dalmatiers-puppy-43269-eur6999-laagste-prijs-ooit-405974",
-      "last_updated": "2026-07-01T06:04:16.872158Z",
+      "last_updated": "2026-08-18T13:04:14.999985Z",
       "price_history": [
         {
           "date": "2026-05-29",
@@ -20910,9 +20910,14 @@
           "date": "2026-07-01",
           "price": 72.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-18",
+          "price": 79.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-01T06:04:16.872146Z"
+      "last_brickwatch_alert": "2026-08-18T13:04:14.999976Z"
     },
     "43270": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -53402,8 +53407,8 @@
     "76329": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 29,
-      "current_best_price": 69.95,
+      "buy_score": 32,
+      "current_best_price": 67.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76329-1.jpg",
       "label": "investering",
@@ -53412,7 +53417,7 @@
       "name": "Miles Morales' Mask",
       "owned_by": 744,
       "pieces": 487,
-      "price_score": 0,
+      "price_score": 3,
       "rating": 0.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -53447,6 +53452,11 @@
           "date": "2026-08-04",
           "price": 69.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-18",
+          "price": 67.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -53467,8 +53477,8 @@
           "value": 31.62
         }
       ],
-      "last_brickwatch_alert": "2026-08-04T01:04:15.811346Z",
-      "last_updated": "2026-08-04T01:04:15.811357Z"
+      "last_brickwatch_alert": "2026-08-18T13:04:15.000185Z",
+      "last_updated": "2026-08-18T13:04:15.000189Z"
     },
     "76344": {
       "availability_score": 0,
