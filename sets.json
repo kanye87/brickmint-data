@@ -68841,7 +68841,18 @@
       "owned_by": 383,
       "rating": 4.3,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
-      "subtheme": "Vehicles"
+      "subtheme": "Vehicles",
+      "current_best_price": 100.11,
+      "current_best_shop": "Pepper.com",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jaguar-e-type-11381-laagste-prijs-ooit-415871",
+      "last_updated": "2026-08-18T18:25:54.891497Z",
+      "price_history": [
+        {
+          "date": "2026-08-18",
+          "price": 100.11,
+          "shop": "Pepper.com"
+        }
+      ]
     },
     "11382": {
       "name": "Hubble Space Telescope",
