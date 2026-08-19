@@ -29334,7 +29334,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 678.99,
+      "current_best_price": 695.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -29372,8 +29372,8 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null,
-      "last_brickwatch_alert": "2026-08-18T11:34:15.249050Z",
-      "last_updated": "2026-08-18T11:34:15.249054Z",
+      "last_brickwatch_alert": "2026-08-19T05:04:22.021496Z",
+      "last_updated": "2026-08-19T05:04:22.021506Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -29427,6 +29427,11 @@
         {
           "date": "2026-08-18",
           "price": 678.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 695.0,
           "shop": "Brickwatch"
         }
       ],
@@ -39557,8 +39562,8 @@
     "75380": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 21,
-      "current_best_price": 72.95,
+      "buy_score": 31,
+      "current_best_price": 63.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75380-1.jpg",
       "label": "persoonlijk",
@@ -39588,12 +39593,12 @@
       "name": "Mos Espa Podrace Diorama",
       "owned_by": 7318,
       "pieces": 718,
-      "price_score": 6,
+      "price_score": 14,
       "purchase_price": 59.99,
       "rating": 3.7,
       "retirement_date": "2025-11-25",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 5,
@@ -39609,8 +39614,8 @@
       "year": 2024,
       "subtheme": "Diorama Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-17T04:34:19.446279Z",
-      "last_updated": "2026-08-17T04:34:19.446287Z",
+      "last_brickwatch_alert": "2026-08-19T05:04:22.021727Z",
+      "last_updated": "2026-08-19T05:04:22.021731Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -39630,6 +39635,11 @@
         {
           "date": "2026-08-17",
           "price": 72.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 63.98,
           "shop": "Brickwatch"
         }
       ],
