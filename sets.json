@@ -29516,7 +29516,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-002057/104893.jpg"
         }
       ],
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-millennium-falcon-75192-412736"
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-millennium-falcon-75192-412736",
+      "status": "watchlist"
     },
     "75209": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -68332,7 +68333,9 @@
           "price": 2.95,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "status": "watchlist",
+      "label": "investering"
     },
     "40859": {
       "name": "Golden Age Superman and Batman",
@@ -68921,7 +68924,9 @@
           "price": 84.55,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "status": "watchlist",
+      "label": "investering"
     },
     "11381": {
       "name": "Jaguar E-Type",
@@ -69714,7 +69719,9 @@
           "price": 56.04,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "status": "watchlist",
+      "label": "investering"
     },
     "43023": {
       "name": "McLaren Mastercard F1 Team Lando Norris Helmet",
@@ -69755,7 +69762,9 @@
       "owned_by": 332,
       "rating": 0.0,
       "brickset_last_enriched": "2026-08-18T06:29:10Z",
-      "subtheme": "F1 Helmets"
+      "subtheme": "F1 Helmets",
+      "status": "watchlist",
+      "label": "investering"
     },
     "43028": {
       "name": "Olivia Rodrigo's Vinyl",
@@ -70988,6 +70997,26 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-08-19T15:07:13Z",
       "subtheme": "Promotional"
+    },
+    "72051": {
+      "name": "Donkey Kong Arcade",
+      "status": "watchlist",
+      "label": "investering"
+    },
+    "72154": {
+      "name": "Iconic Trainer Moments Poke Ball",
+      "status": "watchlist",
+      "label": "investering"
+    },
+    "75458": {
+      "name": "Imperial Remnant AT-RT Driver Helmet",
+      "status": "watchlist",
+      "label": "investering"
+    },
+    "75461": {
+      "name": "Up-Scaled Darth Vader Minifigure",
+      "status": "watchlist",
+      "label": "investering"
     }
   }
 }
