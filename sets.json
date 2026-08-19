@@ -29355,7 +29355,7 @@
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
-      "market_value": 1250,
+      "market_value": 442.47,
       "minifigs": 8,
       "msrp": 799.99,
       "name": "Millennium Falcon",
@@ -29381,13 +29381,13 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": null,
-      "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
+      "price_score": 11,
+      "roi_score": 0,
+      "urgency_score": 14,
+      "scarcity_score": 0,
+      "availability_score": 10,
+      "score_quality": "full",
+      "buy_score": 35,
       "last_brickwatch_alert": "2026-08-19T05:04:22.021496Z",
       "last_updated": "2026-08-19T05:04:22.021506Z",
       "expected_retirement": "2026-12",
@@ -29517,7 +29517,15 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-millennium-falcon-75192-412736",
-      "status": "watchlist"
+      "status": "watchlist",
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-19T20:40:47.095085+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-19",
+          "value": 442.47
+        }
+      ]
     },
     "75209": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -68335,7 +68343,23 @@
         }
       ],
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 6.74,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-19T20:40:47.095085+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-19",
+          "value": 6.74
+        }
+      ],
+      "price_score": 23,
+      "roi_score": 8,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": 0,
+      "score_quality": "partial",
+      "buy_score": 56
     },
     "40859": {
       "name": "Golden Age Superman and Batman",
@@ -68926,7 +68950,23 @@
         }
       ],
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 123.0,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-19T20:40:47.095085+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-19",
+          "value": 123.0
+        }
+      ],
+      "price_score": 26,
+      "roi_score": 5,
+      "urgency_score": 0,
+      "scarcity_score": 8,
+      "availability_score": 0,
+      "score_quality": "full",
+      "buy_score": 39
     },
     "11381": {
       "name": "Jaguar E-Type",
@@ -69721,7 +69761,23 @@
         }
       ],
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 62.14,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-19T20:40:47.095085+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-19",
+          "value": 62.14
+        }
+      ],
+      "price_score": 33,
+      "roi_score": 2,
+      "urgency_score": 3,
+      "scarcity_score": 15,
+      "availability_score": 0,
+      "score_quality": "full",
+      "buy_score": 53
     },
     "43023": {
       "name": "McLaren Mastercard F1 Team Lando Norris Helmet",
@@ -69764,7 +69820,23 @@
       "brickset_last_enriched": "2026-08-18T06:29:10Z",
       "subtheme": "F1 Helmets",
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 77.56,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-19T20:40:47.095085+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-19",
+          "value": 77.56
+        }
+      ],
+      "price_score": 30,
+      "roi_score": 4,
+      "urgency_score": 3,
+      "scarcity_score": 15,
+      "availability_score": 0,
+      "score_quality": "full",
+      "buy_score": 52
     },
     "43028": {
       "name": "Olivia Rodrigo's Vinyl",
@@ -71001,22 +71073,54 @@
     "72051": {
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "72154": {
       "name": "Iconic Trainer Moments Poke Ball",
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "75458": {
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "75461": {
       "name": "Up-Scaled Darth Vader Minifigure",
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     }
   }
 }
