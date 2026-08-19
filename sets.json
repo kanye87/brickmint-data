@@ -42586,24 +42586,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 59,
-      "current_best_price": 49.99,
+      "buy_score": 32,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-08-16T22:34:14.852156Z",
-      "last_updated": "2026-08-16T22:34:14.852159Z",
+      "last_brickwatch_alert": "2026-08-19T10:34:18.474161Z",
+      "last_updated": "2026-08-19T10:34:18.474165Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 25,
+      "price_score": 0,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 32,
@@ -42726,6 +42726,11 @@
         {
           "date": "2026-08-16",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43518,24 +43523,24 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 63,
-      "current_best_price": 79.99,
+      "buy_score": 51,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-16T22:34:14.554890Z",
-      "last_updated": "2026-08-16T22:34:14.554898Z",
+      "last_brickwatch_alert": "2026-08-19T10:34:18.474092Z",
+      "last_updated": "2026-08-19T10:34:18.474096Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 29,
+      "price_score": 18,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -43633,6 +43638,11 @@
         {
           "date": "2026-08-16",
           "price": 79.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 94.99,
           "shop": "Brickwatch"
         }
       ],
@@ -51214,8 +51224,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 28,
-      "current_best_price": 378.4,
+      "buy_score": 27,
+      "current_best_price": 393.46,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -51250,7 +51260,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51291,6 +51301,11 @@
           "date": "2026-07-26",
           "price": 378.4,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 393.46,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -51327,8 +51342,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-07-26T08:04:29.057466Z",
-      "last_updated": "2026-07-26T08:04:29.057470Z"
+      "last_brickwatch_alert": "2026-08-19T10:34:18.473845Z",
+      "last_updated": "2026-08-19T10:34:18.473856Z"
     },
     "76290": {
       "availability_score": 0,
@@ -69658,14 +69673,19 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-08-18T06:29:10Z",
       "subtheme": "F1 Helmets",
-      "current_best_price": 47.99,
+      "current_best_price": 56.04,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-18T12:04:17.304556Z",
-      "last_updated": "2026-08-18T12:04:17.304566Z",
+      "last_brickwatch_alert": "2026-08-19T10:34:18.474011Z",
+      "last_updated": "2026-08-19T10:34:18.474016Z",
       "price_history": [
         {
           "date": "2026-08-18",
           "price": 47.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 56.04,
           "shop": "Brickwatch"
         }
       ]
