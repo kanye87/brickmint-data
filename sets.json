@@ -17489,8 +17489,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 47,
-      "current_best_price": 180.06,
+      "buy_score": 50,
+      "current_best_price": 174.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -17499,11 +17499,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17513,8 +17513,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-16T12:34:13.519380Z",
-      "last_updated": "2026-08-16T12:34:13.519387Z",
+      "last_brickwatch_alert": "2026-08-19T04:04:14.535750Z",
+      "last_updated": "2026-08-19T04:04:14.535753Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -17590,6 +17590,11 @@
         {
           "date": "2026-08-16",
           "price": 180.06,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 174.99,
           "shop": "Brickwatch"
         }
       ],
@@ -18051,19 +18056,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 34,
-      "current_best_price": 158.98,
+      "buy_score": 36,
+      "current_best_price": 149.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-08-18T04:04:17.030679Z",
-      "last_updated": "2026-08-18T04:04:17.030682Z",
+      "last_brickwatch_alert": "2026-08-19T04:04:14.535607Z",
+      "last_updated": "2026-08-19T04:04:14.535617Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 23,
+      "price_score": 25,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -18133,6 +18138,11 @@
         {
           "date": "2026-08-18",
           "price": 158.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 149.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44148,8 +44158,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 58,
-      "current_best_price": 29.99,
+      "buy_score": 40,
+      "current_best_price": 38.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -44158,10 +44168,10 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 35,
+      "price_score": 19,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -44176,8 +44186,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-08-12T00:04:26.441110Z",
-      "last_updated": "2026-08-12T00:04:26.441117Z",
+      "last_brickwatch_alert": "2026-08-19T04:04:14.535870Z",
+      "last_updated": "2026-08-19T04:04:14.535872Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44278,6 +44288,11 @@
           "date": "2026-08-12",
           "price": 29.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 38.98,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -44308,8 +44323,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 44,
-      "current_best_price": 46.95,
+      "buy_score": 49,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -44318,7 +44333,7 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 22,
+      "price_score": 27,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -44333,9 +44348,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-08-01T18:34:22.113054Z",
+      "last_updated": "2026-08-19T04:04:14.535821Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-08-01T18:34:22.113050Z",
+      "last_brickwatch_alert": "2026-08-19T04:04:14.535818Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44375,6 +44390,11 @@
         {
           "date": "2026-08-01",
           "price": 46.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-19",
+          "price": 42.99,
           "shop": "Brickwatch"
         }
       ],
