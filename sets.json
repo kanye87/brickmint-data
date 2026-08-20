@@ -4136,8 +4136,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 35,
-      "current_best_price": 76.0,
+      "buy_score": 36,
+      "current_best_price": 74.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -4147,7 +4147,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 32,
+      "price_score": 33,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4162,8 +4162,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-08-18T11:04:16.811723Z",
-      "last_updated": "2026-08-18T11:04:16.811727Z",
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571722Z",
+      "last_updated": "2026-08-20T04:04:13.571724Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -4255,6 +4255,11 @@
         {
           "date": "2026-08-18",
           "price": 76.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 74.99,
           "shop": "Brickwatch"
         }
       ],
@@ -40261,7 +40266,7 @@
       "date_first_available": "2024-04-16",
       "lego_availability": "Retail",
       "ean": "5702017584386",
-      "prev_buy_score": 31
+      "prev_buy_score": 21
     },
     "75382": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -41679,8 +41684,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 102.48,
+      "buy_score": 38,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -41690,11 +41695,11 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 25,
+      "price_score": 30,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -41704,8 +41709,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-10T04:04:19.187450Z",
-      "last_updated": "2026-08-10T04:04:19.187453Z",
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571608Z",
+      "last_updated": "2026-08-20T04:04:13.571611Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -41755,6 +41760,11 @@
           "date": "2026-08-10",
           "price": 102.48,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 94.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -41779,8 +41789,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 53,
-      "current_best_price": 48.91,
+      "buy_score": 62,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -41790,11 +41800,11 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 22,
+      "price_score": 29,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -41804,8 +41814,8 @@
       "urgency_score": 14,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-01T07:04:29.746178Z",
-      "last_updated": "2026-08-01T07:04:29.746188Z",
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571654Z",
+      "last_updated": "2026-08-20T04:04:13.571656Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -41902,6 +41912,11 @@
         {
           "date": "2026-08-01",
           "price": 48.91,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 42.99,
           "shop": "Brickwatch"
         }
       ],
@@ -42160,8 +42175,8 @@
     "75404": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 41,
-      "current_best_price": 35.99,
+      "buy_score": 54,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75404-1.jpg",
       "label": "persoonlijk",
@@ -42170,11 +42185,11 @@
       "name": "Acclamator-class Assault Ship",
       "owned_by": 6108,
       "pieces": 450,
-      "price_score": 24,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -42195,8 +42210,8 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-11T08:34:19.610070Z",
-      "last_updated": "2026-08-11T08:34:19.610085Z",
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571556Z",
+      "last_updated": "2026-08-20T04:04:13.571559Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-acclamator-class-assault-shi-75404-laagste-prijs-ooit-50-onder-adviesprijs-403465",
       "price_history": [
         {
@@ -42237,6 +42252,11 @@
         {
           "date": "2026-08-11",
           "price": 35.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43036,8 +43056,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 101.89,
+      "buy_score": 52,
+      "current_best_price": 89.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -43047,11 +43067,11 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 17,
+      "price_score": 21,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -43133,6 +43153,11 @@
           "date": "2026-08-12",
           "price": 101.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 89.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -43140,8 +43165,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-08-12T04:04:18.282141Z",
-      "last_brickwatch_alert": "2026-08-12T04:04:18.282136Z",
+      "last_updated": "2026-08-20T04:04:13.571363Z",
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571354Z",
       "market_value": 97.45,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -45256,8 +45281,8 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_shop": "Bol.com",
+      "buy_score": 44,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -45265,10 +45290,10 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -45281,9 +45306,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 59.99,
-      "last_brickwatch_alert": "2026-08-18T10:34:15.913354Z",
-      "last_updated": "2026-08-18T12:29:41.498089Z",
+      "current_best_price": 81.8,
+      "last_brickwatch_alert": "2026-08-20T04:04:13.571491Z",
+      "last_updated": "2026-08-20T04:04:13.571494Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -45375,6 +45400,11 @@
           "date": "2026-08-18",
           "price": 59.99,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 81.8,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
