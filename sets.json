@@ -4276,7 +4276,7 @@
           "value": 86.99
         }
       ],
-      "prev_buy_score": 35
+      "prev_buy_score": 36
     },
     "10370": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -17924,7 +17924,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 18,
-      "current_best_price": 54.79,
+      "current_best_price": 54.78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42184-1.jpg",
       "label": "investering",
@@ -17965,8 +17965,8 @@
       "wanted_by": 631,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-08-19T05:34:17.462437Z",
-      "last_updated": "2026-08-19T05:34:17.462448Z",
+      "last_brickwatch_alert": "2026-08-20T06:04:16.059474Z",
+      "last_updated": "2026-08-20T06:04:16.059484Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18076,6 +18076,11 @@
         {
           "date": "2026-08-19",
           "price": 54.79,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 54.78,
           "shop": "Brickwatch"
         }
       ],
@@ -41784,7 +41789,7 @@
           "value": 136.16
         }
       ],
-      "prev_buy_score": 32
+      "prev_buy_score": 38
     },
     "75399": {
       "availability_score": 0,
@@ -41937,7 +41942,7 @@
           "value": 54.17
         }
       ],
-      "prev_buy_score": 53
+      "prev_buy_score": 62
     },
     "75400": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -42277,7 +42282,7 @@
           "value": 39.0
         }
       ],
-      "prev_buy_score": 41
+      "prev_buy_score": 54
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -43180,7 +43185,7 @@
           "value": 97.45
         }
       ],
-      "prev_buy_score": 46
+      "prev_buy_score": 52
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -45433,7 +45438,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-star-wars-grogu-mandalorian-apprentice-75446-eur5999-laagste-prijs-ooit-415525",
-      "prev_buy_score": 49
+      "prev_buy_score": 44
     },
     "75452": {
       "availability_score": 0,
