@@ -29297,8 +29297,8 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 57,
-      "current_best_price": 119.99,
-      "current_best_shop": "Brickwatch",
+      "current_best_price": 109.99,
+      "current_best_shop": "Amazon.nl",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -29321,7 +29321,7 @@
       "wanted_by": 660,
       "year": 2026,
       "last_brickwatch_alert": "2026-08-16T23:04:13.226836Z",
-      "last_updated": "2026-08-16T23:04:13.226848Z",
+      "last_updated": "2026-08-20T18:27:28.671064Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29383,6 +29383,11 @@
           "date": "2026-08-16",
           "price": 119.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-20",
+          "price": 109.99,
+          "shop": "Amazon.nl"
         }
       ],
       "minifig_list": [],
@@ -29390,7 +29395,7 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069271",
-      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-pokemon-pikachu-en-pokeball-bouwpakket-voor-volwassenen-en-woondecoratie-72152-eur12069-laagste-ooit-eevee-72151-eur3899-410262",
+      "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-pokemon-pikachu-en-pokeball-72152-45-onder-adviesprijs-laagste-prijs-ooit-amazon-416188",
       "market_value": 150.0,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
