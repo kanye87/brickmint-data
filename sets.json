@@ -61262,8 +61262,8 @@
     "77092": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 18,
-      "current_best_price": 384.9,
+      "buy_score": 19,
+      "current_best_price": 349.25,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -61277,7 +61277,7 @@
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -61288,8 +61288,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-08-16T21:04:14.439959Z",
-      "last_updated": "2026-08-16T21:04:14.439967Z",
+      "last_brickwatch_alert": "2026-08-21T14:34:18.434458Z",
+      "last_updated": "2026-08-21T14:34:18.434466Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -61444,6 +61444,11 @@
         {
           "date": "2026-08-16",
           "price": 384.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 349.25,
           "shop": "Brickwatch"
         }
       ],
