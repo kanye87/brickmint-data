@@ -29329,9 +29329,9 @@
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 51,
-      "current_best_price": 132.98,
-      "current_best_shop": "Brickwatch",
+      "buy_score": 57,
+      "current_best_price": 109.99,
+      "current_best_shop": "Amazon.nl",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -29339,11 +29339,11 @@
       "name": "Pikachu and Poké Ball",
       "owned_by": 449,
       "pieces": 2050,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -29354,7 +29354,7 @@
       "wanted_by": 660,
       "year": 2026,
       "last_brickwatch_alert": "2026-08-21T17:34:19.057044Z",
-      "last_updated": "2026-08-21T17:34:19.057048Z",
+      "last_updated": "2026-08-21T18:25:16.217311Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29424,8 +29424,8 @@
         },
         {
           "date": "2026-08-21",
-          "price": 132.98,
-          "shop": "Brickwatch"
+          "price": 109.99,
+          "shop": "Amazon.nl"
         }
       ],
       "minifig_list": [],
@@ -29447,7 +29447,7 @@
           "value": 150.0
         }
       ],
-      "prev_buy_score": 57
+      "prev_buy_score": 51
     },
     "72153": {
       "availability_score": 0,
@@ -42454,7 +42454,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43
+      "prev_buy_score": 46
     },
     "75406": {
       "availability_score": 0,
