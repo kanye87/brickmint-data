@@ -1767,11 +1767,11 @@
     },
     "10316": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "current_best_price": 443.99,
+      "current_best_price": 403.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10316-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 416.99,
+      "lowest_price_ever": 403.99,
       "market_value": 182.0,
       "minifigs": 21,
       "msrp": 499.99,
@@ -1793,8 +1793,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-08-06T04:04:30.156755Z",
-      "last_updated": "2026-08-06T04:04:30.156762Z",
+      "last_brickwatch_alert": "2026-08-21T04:04:14.878670Z",
+      "last_updated": "2026-08-21T04:04:14.878673Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -1911,13 +1911,13 @@
           "value": null
         }
       ],
-      "price_score": 24,
+      "price_score": 35,
       "roi_score": 5,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 53,
+      "buy_score": 64,
       "expected_retirement": "2026-12",
       "date_first_available": "2023-02-09",
       "lego_availability": "LEGO exclusive",
@@ -1976,6 +1976,11 @@
         {
           "date": "2026-08-06",
           "price": 443.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 403.99,
           "shop": "Brickwatch"
         }
       ],
@@ -3771,7 +3776,7 @@
     },
     "10359": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
-      "current_best_price": 49.9,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10359-1.jpg",
       "label": "investering",
@@ -3805,9 +3810,16 @@
           "date": "2026-05-14",
           "price": 49.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 59.99,
+          "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "last_brickwatch_alert": "2026-08-21T04:04:15.043815Z",
+      "last_updated": "2026-08-21T04:04:15.043824Z"
     },
     "10360": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -17803,8 +17815,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 174.99,
+      "buy_score": 61,
+      "current_best_price": 139.96,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -17813,11 +17825,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 26,
+      "price_score": 35,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -17827,8 +17839,8 @@
       "urgency_score": 14,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-19T04:04:14.535750Z",
-      "last_updated": "2026-08-19T04:04:14.535753Z",
+      "last_brickwatch_alert": "2026-08-21T04:04:14.878522Z",
+      "last_updated": "2026-08-21T04:04:14.878533Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -17909,6 +17921,11 @@
         {
           "date": "2026-08-19",
           "price": 174.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 139.96,
           "shop": "Brickwatch"
         }
       ],
@@ -43542,8 +43559,8 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 61,
-      "current_best_price": 141.99,
+      "buy_score": 66,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -43553,7 +43570,7 @@
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 26,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
@@ -43567,8 +43584,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-07-10T06:34:18.811414Z",
-      "last_updated": "2026-07-10T06:34:18.811424Z",
+      "last_brickwatch_alert": "2026-08-21T04:04:15.043931Z",
+      "last_updated": "2026-08-21T04:04:15.043935Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -43597,6 +43614,11 @@
         {
           "date": "2026-06-22",
           "price": 141.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -72101,7 +72123,18 @@
       "rating": 4.4,
       "brickset_last_enriched": "2026-08-18T06:29:11Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "current_best_price": 127.49,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-21T04:04:15.044001Z",
+      "last_updated": "2026-08-21T04:04:15.044002Z",
+      "price_history": [
+        {
+          "date": "2026-08-21",
+          "price": 127.49,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "76356": {
       "name": "Venom Bust",
