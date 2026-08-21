@@ -29329,9 +29329,9 @@
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 57,
-      "current_best_price": 109.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 51,
+      "current_best_price": 132.98,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -29339,11 +29339,11 @@
       "name": "Pikachu and Poké Ball",
       "owned_by": 449,
       "pieces": 2050,
-      "price_score": 35,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -29353,8 +29353,8 @@
       "urgency_score": 3,
       "wanted_by": 660,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-16T23:04:13.226836Z",
-      "last_updated": "2026-08-20T18:27:28.671064Z",
+      "last_brickwatch_alert": "2026-08-21T17:34:19.057044Z",
+      "last_updated": "2026-08-21T17:34:19.057048Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29421,6 +29421,11 @@
           "date": "2026-08-20",
           "price": 109.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 132.98,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -42351,8 +42356,8 @@
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 43,
-      "current_best_price": 49.99,
+      "buy_score": 46,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75405-1.jpg",
       "label": "investering",
@@ -42361,7 +42366,7 @@
       "name": "Home One Starcruiser",
       "owned_by": 4992,
       "pieces": 559,
-      "price_score": 25,
+      "price_score": 27,
       "purchase_price": 39.99,
       "rating": 3.8,
       "retirement_date": "2026-07-31",
@@ -42375,12 +42380,12 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "last_brickwatch_alert": "2026-08-07T13:04:26.075293Z",
-      "last_updated": "2026-08-07T13:04:26.075302Z",
+      "last_brickwatch_alert": "2026-08-21T17:34:19.056831Z",
+      "last_updated": "2026-08-21T17:34:19.056838Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -42420,6 +42425,11 @@
         {
           "date": "2026-08-07",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-21",
+          "price": 47.99,
           "shop": "Brickwatch"
         }
       ],
