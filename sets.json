@@ -5442,8 +5442,8 @@
     "21063": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 33,
-      "current_best_price": 180.39,
+      "buy_score": 30,
+      "current_best_price": 184.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -5452,11 +5452,11 @@
       "name": "Neuschwanstein Castle",
       "owned_by": 1879,
       "pieces": 3455,
-      "price_score": 29,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -5467,8 +5467,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-07-17T04:04:22.538570Z",
-      "last_updated": "2026-07-17T04:04:22.538577Z",
+      "last_brickwatch_alert": "2026-08-22T04:04:15.212934Z",
+      "last_updated": "2026-08-22T04:04:15.212937Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -5522,6 +5522,11 @@
         {
           "date": "2026-07-17",
           "price": 180.39,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-22",
+          "price": 184.99,
           "shop": "Brickwatch"
         }
       ],
@@ -47631,7 +47636,7 @@
     },
     "76156": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "current_best_price": 56.89,
+      "current_best_price": 60.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76156-1.jpg",
       "label": "investering",
@@ -47688,6 +47693,11 @@
           "date": "2026-06-06",
           "price": 56.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-22",
+          "price": 60.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -47738,8 +47748,8 @@
       "date_first_available": "2021-10-02",
       "lego_availability": "Retail",
       "ean": "5702016619362",
-      "last_brickwatch_alert": "2026-06-06T04:04:20.338891Z",
-      "last_updated": "2026-06-06T04:04:20.338901Z",
+      "last_brickwatch_alert": "2026-08-22T04:04:15.212706Z",
+      "last_updated": "2026-08-22T04:04:15.212717Z",
       "prev_buy_score": null
     },
     "76162": {
@@ -61885,8 +61895,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-14T04:04:19.189557Z",
-      "last_updated": "2026-08-14T04:04:19.189560Z",
+      "last_brickwatch_alert": "2026-08-22T04:04:15.212863Z",
+      "last_updated": "2026-08-22T04:04:15.212867Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -70207,7 +70217,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 33,
-      "prev_buy_score": 39
+      "prev_buy_score": 33
     },
     "11381": {
       "name": "Jaguar E-Type",
