@@ -42275,8 +42275,8 @@
     "75404": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 54,
-      "current_best_price": 29.99,
+      "buy_score": 40,
+      "current_best_price": 36.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75404-1.jpg",
       "label": "persoonlijk",
@@ -42285,11 +42285,11 @@
       "name": "Acclamator-class Assault Ship",
       "owned_by": 6108,
       "pieces": 450,
-      "price_score": 35,
+      "price_score": 23,
       "rating": 4.1,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -42310,8 +42310,8 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-20T04:04:13.571556Z",
-      "last_updated": "2026-08-20T04:04:13.571559Z",
+      "last_brickwatch_alert": "2026-08-23T11:04:14.964687Z",
+      "last_updated": "2026-08-23T11:04:14.964696Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-acclamator-class-assault-shi-75404-laagste-prijs-ooit-50-onder-adviesprijs-403465",
       "price_history": [
         {
@@ -42357,6 +42357,11 @@
         {
           "date": "2026-08-20",
           "price": 29.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-23",
+          "price": 36.99,
           "shop": "Brickwatch"
         }
       ],
@@ -54484,7 +54489,7 @@
       ],
       "last_brickwatch_alert": "2026-08-23T10:34:14.816583Z",
       "last_updated": "2026-08-23T10:34:14.816595Z",
-      "prev_buy_score": 29
+      "prev_buy_score": 34
     },
     "76344": {
       "availability_score": 0,
