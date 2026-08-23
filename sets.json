@@ -62723,9 +62723,9 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 56,
-      "current_best_price": 61.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 45,
+      "current_best_price": 71.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -62733,10 +62733,10 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 33,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -62746,8 +62746,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-18T04:04:17.030761Z",
-      "last_updated": "2026-08-21T10:21:39.128635Z",
+      "last_brickwatch_alert": "2026-08-23T23:04:16.815977Z",
+      "last_updated": "2026-08-23T23:04:16.815985Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -62815,6 +62815,11 @@
           "date": "2026-08-21",
           "price": 61.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-23",
+          "price": 71.99,
+          "shop": "Brickwatch"
         }
       ],
       "date_first_available": "2026-04-09",
