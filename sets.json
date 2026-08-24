@@ -4349,8 +4349,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 25,
-      "current_best_price": 57.99,
+      "buy_score": 30,
+      "current_best_price": 53.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -4359,7 +4359,7 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 15,
+      "price_score": 20,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4373,8 +4373,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-06-21T23:04:19.982936Z",
-      "last_updated": "2026-06-21T23:04:19.982943Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457585Z",
+      "last_updated": "2026-08-24T10:34:17.457589Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -4400,6 +4400,11 @@
         {
           "date": "2026-06-21",
           "price": 57.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 53.9,
           "shop": "Brickwatch"
         }
       ],
@@ -18952,19 +18957,19 @@
     "42228": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 43,
-      "current_best_price": 129.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 39,
+      "current_best_price": 149.9,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-17T11:34:14.505405Z",
-      "last_updated": "2026-08-17T12:27:34.306883Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457324Z",
+      "last_updated": "2026-08-24T10:34:17.457334Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
       "owned_by": 243,
       "pieces": 1675,
-      "price_score": 35,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -19058,6 +19063,11 @@
           "date": "2026-08-17",
           "price": 129.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 149.9,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -29278,8 +29288,8 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 46,
-      "current_best_price": 44.95,
+      "buy_score": 52,
+      "current_best_price": 41.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
@@ -29288,11 +29298,11 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 24,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -29302,8 +29312,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-21T19:34:20.580196Z",
-      "last_updated": "2026-08-21T19:34:20.580205Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.458095Z",
+      "last_updated": "2026-08-24T10:34:17.458098Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29370,6 +29380,11 @@
           "date": "2026-08-21",
           "price": 44.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 41.9,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -29396,9 +29411,9 @@
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 57,
-      "current_best_price": 109.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 54,
+      "current_best_price": 124.9,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -29406,11 +29421,11 @@
       "name": "Pikachu and Poké Ball",
       "owned_by": 449,
       "pieces": 2050,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -29420,8 +29435,8 @@
       "urgency_score": 3,
       "wanted_by": 660,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-24T02:34:22.979398Z",
-      "last_updated": "2026-08-24T06:40:29.905087Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457724Z",
+      "last_updated": "2026-08-24T10:34:17.457727Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29496,8 +29511,8 @@
         },
         {
           "date": "2026-08-24",
-          "price": 109.99,
-          "shop": "Amazon.nl"
+          "price": 124.9,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -39244,8 +39259,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 47,
-      "current_best_price": 499.0,
+      "buy_score": 49,
+      "current_best_price": 489.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -39255,7 +39270,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 20,
+      "price_score": 22,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -39325,14 +39340,19 @@
           "date": "2026-08-19",
           "price": 499.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 489.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-08-19T11:34:21.275856Z",
-      "last_updated": "2026-08-19T11:34:21.275866Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457665Z",
+      "last_updated": "2026-08-24T10:34:17.457667Z",
       "market_value": 562.72,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -44983,7 +45003,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
+      "buy_score": 50,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -44992,7 +45012,7 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 24,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 1,
@@ -45009,9 +45029,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 28.9,
-      "last_brickwatch_alert": "2026-07-27T09:04:21.568151Z",
-      "last_updated": "2026-07-27T09:04:21.568154Z",
+      "current_best_price": 27.9,
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457864Z",
+      "last_updated": "2026-08-24T10:34:17.457867Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -45055,6 +45075,11 @@
         {
           "date": "2026-07-27",
           "price": 28.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 27.9,
           "shop": "Brickwatch"
         }
       ],
@@ -61418,7 +61443,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 19,
-      "current_best_price": 349.29,
+      "current_best_price": 349.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -61443,8 +61468,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-08-22T23:04:17.801832Z",
-      "last_updated": "2026-08-22T23:04:17.801840Z",
+      "last_brickwatch_alert": "2026-08-24T10:34:17.457974Z",
+      "last_updated": "2026-08-24T10:34:17.457977Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -61609,6 +61634,11 @@
         {
           "date": "2026-08-22",
           "price": 349.29,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 349.0,
           "shop": "Brickwatch"
         }
       ],
