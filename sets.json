@@ -3411,8 +3411,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 39,
-      "current_best_price": 209.0,
+      "buy_score": 49,
+      "current_best_price": 189.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -3422,12 +3422,12 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 26,
+      "price_score": 35,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 29,
@@ -3543,10 +3543,15 @@
           "date": "2026-07-22",
           "price": 209.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 189.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-22T00:04:15.339150Z",
-      "last_updated": "2026-07-22T00:04:15.339154Z",
+      "last_brickwatch_alert": "2026-08-24T09:04:16.516784Z",
+      "last_updated": "2026-08-24T09:04:16.516787Z",
       "market_value": 253.84,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-14T20:23:06.765617+00:00",
@@ -18423,19 +18428,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 36,
-      "current_best_price": 149.99,
+      "buy_score": 37,
+      "current_best_price": 148.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-08-19T04:04:14.535607Z",
-      "last_updated": "2026-08-19T04:04:14.535617Z",
+      "last_brickwatch_alert": "2026-08-24T09:04:16.516467Z",
+      "last_updated": "2026-08-24T09:04:16.516475Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 25,
+      "price_score": 26,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -18510,6 +18515,11 @@
         {
           "date": "2026-08-19",
           "price": 149.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 148.9,
           "shop": "Brickwatch"
         }
       ],
@@ -43885,8 +43895,8 @@
     "75419": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 25,
-      "current_best_price": 829.0,
+      "buy_score": 33,
+      "current_best_price": 739.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75419-1.jpg",
       "label": "investering",
@@ -43896,7 +43906,7 @@
       "name": "Death Star",
       "owned_by": 2092,
       "pieces": 9023,
-      "price_score": 15,
+      "price_score": 23,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -44147,8 +44157,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-06-26T23:04:19.507913Z",
-      "last_updated": "2026-06-26T23:04:19.507918Z",
+      "last_brickwatch_alert": "2026-08-24T09:04:16.516697Z",
+      "last_updated": "2026-08-24T09:04:16.516701Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44178,6 +44188,11 @@
         {
           "date": "2026-06-26",
           "price": 829.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 739.0,
           "shop": "Brickwatch"
         }
       ],
