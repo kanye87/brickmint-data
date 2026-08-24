@@ -15931,11 +15931,11 @@
       "year": 2017,
       "price_score": null,
       "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
+      "urgency_score": 0,
+      "scarcity_score": 25,
+      "availability_score": 0,
+      "score_quality": "partial",
+      "buy_score": 45,
       "expected_retirement": "2018-02",
       "date_first_available": "2017-11-02",
       "lego_availability": "Retail - limited",
@@ -44290,13 +44290,13 @@
           "value": null
         }
       ],
-      "price_score": null,
-      "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
+      "price_score": 17,
+      "roi_score": 5,
+      "urgency_score": 14,
+      "scarcity_score": 15,
+      "availability_score": 0,
+      "score_quality": "full",
+      "buy_score": 51,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44345,7 +44345,16 @@
         }
       ],
       "prev_buy_score": null,
-      "status": "watchlist"
+      "status": "watchlist",
+      "market_value": 149.78,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-24T18:28:12.322199+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-24",
+          "value": 149.78
+        }
+      ]
     },
     "75429": {
       "availability_score": 0,
@@ -57129,13 +57138,13 @@
       "wanted_by": 1844,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "price_score": null,
-      "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
+      "price_score": 31,
+      "roi_score": 4,
+      "urgency_score": 3,
+      "scarcity_score": 8,
+      "availability_score": 0,
+      "score_quality": "full",
+      "buy_score": 46,
       "expected_retirement": "2027-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
@@ -57172,7 +57181,16 @@
       "last_updated": "2026-06-17T04:04:18.925734Z",
       "prev_buy_score": null,
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 169.7,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-24T18:28:12.322199+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-24",
+          "value": 169.7
+        }
+      ]
     },
     "76445": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -69562,7 +69580,14 @@
       "minifig_list": [],
       "prev_buy_score": null,
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": 0,
+      "score_quality": null,
+      "buy_score": null
     },
     "40894": {
       "name": "Koenigsegg Sadair's Spear Steering Wheel",
@@ -69908,7 +69933,14 @@
       "minifig_list": [],
       "prev_buy_score": null,
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": 0,
+      "score_quality": null,
+      "buy_score": null
     },
     "31394": {
       "name": "Red Panda",
@@ -69962,7 +69994,23 @@
       "sell_score": null,
       "prev_buy_score": null,
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 147.5,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-24T18:28:12.322199+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-24",
+          "value": 147.5
+        }
+      ],
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": 20,
+      "scarcity_score": 25,
+      "availability_score": 0,
+      "score_quality": "partial",
+      "buy_score": 82
     },
     "40901": {
       "name": "Ministry Munchies & The Daily Prophet Stands",
@@ -70329,7 +70377,23 @@
       "subtheme": "The Lord of the Rings",
       "prev_buy_score": null,
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 79.0,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-24T18:28:12.322199+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-24",
+          "value": 79.0
+        }
+      ],
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": 0,
+      "scarcity_score": 8,
+      "availability_score": 10,
+      "score_quality": "partial",
+      "buy_score": 33
     },
     "11380": {
       "name": "Road Bike",
@@ -72401,7 +72465,23 @@
         }
       ],
       "status": "watchlist",
-      "label": "investering"
+      "label": "investering",
+      "market_value": 154.76,
+      "market_value_source": "ebay",
+      "market_value_last_updated": "2026-08-24T18:28:12.322199+00:00",
+      "market_value_history": [
+        {
+          "date": "2026-08-24",
+          "value": 154.76
+        }
+      ],
+      "price_score": 13,
+      "roi_score": 3,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": 0,
+      "score_quality": "partial",
+      "buy_score": 29
     },
     "76356": {
       "name": "Venom Bust",
@@ -72876,28 +72956,64 @@
       "status": "watchlist",
       "label": "investering",
       "current_best_price": null,
-      "current_best_shop": "Brickwatch"
+      "current_best_shop": "Brickwatch",
+      "prev_buy_score": null,
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "21376": {
       "name": "Set 21376",
       "status": "watchlist",
       "label": "investering",
       "current_best_price": null,
-      "current_best_shop": "Brickwatch"
+      "current_best_shop": "Brickwatch",
+      "prev_buy_score": null,
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "40856": {
       "name": "Set 40856",
       "status": "watchlist",
       "label": "investering",
       "current_best_price": null,
-      "current_best_shop": "Brickwatch"
+      "current_best_shop": "Brickwatch",
+      "prev_buy_score": null,
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     },
     "5008946": {
       "name": "Set 5008946",
       "status": "watchlist",
       "label": "investering",
       "current_best_price": null,
-      "current_best_shop": "Brickwatch"
+      "current_best_shop": "Brickwatch",
+      "prev_buy_score": null,
+      "price_score": null,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null,
+      "sell_score": null
     }
   }
 }
