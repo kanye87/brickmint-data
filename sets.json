@@ -62840,7 +62840,7 @@
           "value": 87.38
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 45,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256"
     },
     "112501": {
@@ -70208,10 +70208,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 90.78,
+      "current_best_price": 84.53,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-22T02:34:17.778279Z",
-      "last_updated": "2026-08-22T02:34:17.778284Z",
+      "last_brickwatch_alert": "2026-08-24T01:34:15.325212Z",
+      "last_updated": "2026-08-24T01:34:15.325222Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -70221,6 +70221,11 @@
         {
           "date": "2026-08-22",
           "price": 90.78,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 84.53,
           "shop": "Brickwatch"
         }
       ],
@@ -70235,13 +70240,13 @@
           "value": 123.0
         }
       ],
-      "price_score": 21,
-      "roi_score": 4,
+      "price_score": 26,
+      "roi_score": 5,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 33,
+      "buy_score": 39,
       "prev_buy_score": 33
     },
     "11381": {
