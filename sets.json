@@ -15941,7 +15941,7 @@
       "lego_availability": "Retail - limited",
       "ean": "5702016198966",
       "minifig_list": [],
-      "prev_buy_score": null,
+      "prev_buy_score": 45,
       "status": "watchlist"
     },
     "41585": {
@@ -44344,7 +44344,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": null,
+      "prev_buy_score": 51,
       "status": "watchlist",
       "market_value": 149.78,
       "market_value_source": "ebay",
@@ -57179,7 +57179,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-06-17T04:04:18.925731Z",
       "last_updated": "2026-06-17T04:04:18.925734Z",
-      "prev_buy_score": null,
+      "prev_buy_score": 46,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.7,
@@ -69992,7 +69992,7 @@
       "brickset_last_enriched": "2026-08-24T16:21:47Z",
       "subtheme": "The Lord of the Rings",
       "sell_score": null,
-      "prev_buy_score": null,
+      "prev_buy_score": 82,
       "status": "watchlist",
       "label": "investering",
       "market_value": 147.5,
@@ -70375,7 +70375,7 @@
       "rating": 4.5,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "The Lord of the Rings",
-      "prev_buy_score": null,
+      "prev_buy_score": 33,
       "status": "watchlist",
       "label": "investering",
       "market_value": 79.0,
@@ -72452,7 +72452,7 @@
       "rating": 4.4,
       "brickset_last_enriched": "2026-08-18T06:29:11Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": null,
+      "prev_buy_score": 29,
       "current_best_price": 127.49,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-08-21T04:04:15.044001Z",
