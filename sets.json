@@ -19960,8 +19960,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 44,
-      "current_best_price": 19.0,
+      "buy_score": 48,
+      "current_best_price": 17.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -19970,10 +19970,10 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19987,8 +19987,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-08-16T04:04:15.979799Z",
-      "last_updated": "2026-08-16T04:04:15.979809Z",
+      "last_brickwatch_alert": "2026-08-24T04:04:21.338724Z",
+      "last_updated": "2026-08-24T04:04:21.338725Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -20038,6 +20038,11 @@
         {
           "date": "2026-08-16",
           "price": 19.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 17.99,
           "shop": "Brickwatch"
         }
       ],
@@ -36969,7 +36974,7 @@
     },
     "75339": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 71.99,
+      "current_best_price": 137.89,
       "date_first_available": "2022-05-08",
       "ean": "5702017189642",
       "expected_retirement": "2024-01",
@@ -37025,18 +37030,23 @@
       "wanted_by": 3551,
       "year": 2022,
       "subtheme": "Diorama Collection",
-      "price_score": 18,
-      "roi_score": 3,
+      "price_score": 0,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 36,
+      "buy_score": 15,
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 71.99,
           "shop": null
+        },
+        {
+          "date": "2026-08-24",
+          "price": 137.89,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -37083,7 +37093,10 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-004417/106344.jpg"
         }
       ],
-      "prev_buy_score": 36
+      "prev_buy_score": 36,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-24T04:04:21.338755Z",
+      "last_updated": "2026-08-24T04:04:21.338756Z"
     },
     "75340": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -40972,8 +40985,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 52,
-      "current_best_price": 124.99,
+      "buy_score": 54,
+      "current_best_price": 120.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -40983,7 +40996,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -40997,8 +41010,8 @@
       "urgency_score": 14,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-04T04:04:27.855551Z",
-      "last_updated": "2026-08-04T04:04:27.855553Z",
+      "last_brickwatch_alert": "2026-08-24T04:04:21.338680Z",
+      "last_updated": "2026-08-24T04:04:21.338682Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -41102,6 +41115,11 @@
         {
           "date": "2026-08-04",
           "price": 124.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 120.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44749,24 +44767,24 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 89.99,
+      "buy_score": 38,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-16T22:34:14.555238Z",
-      "last_updated": "2026-08-16T22:34:14.555240Z",
+      "last_brickwatch_alert": "2026-08-24T04:04:21.338562Z",
+      "last_updated": "2026-08-24T04:04:21.338571Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 33,
+      "price_score": 27,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -44873,6 +44891,11 @@
         {
           "date": "2026-08-16",
           "price": 89.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-24",
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
