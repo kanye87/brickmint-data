@@ -15941,7 +15941,8 @@
       "lego_availability": "Retail - limited",
       "ean": "5702016198966",
       "minifig_list": [],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist"
     },
     "41585": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -44343,7 +44344,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist"
     },
     "75429": {
       "availability_score": 0,
@@ -57168,7 +57170,9 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-06-17T04:04:18.925731Z",
       "last_updated": "2026-06-17T04:04:18.925734Z",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "76445": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -69556,7 +69560,9 @@
       "subtheme": "Marvel Super Heroes",
       "sell_score": null,
       "minifig_list": [],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "40894": {
       "name": "Koenigsegg Sadair's Spear Steering Wheel",
@@ -69900,7 +69906,9 @@
       "subtheme": "Miscellaneous",
       "sell_score": null,
       "minifig_list": [],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "31394": {
       "name": "Red Panda",
@@ -69952,7 +69960,9 @@
       "brickset_last_enriched": "2026-08-24T16:21:47Z",
       "subtheme": "The Lord of the Rings",
       "sell_score": null,
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "40901": {
       "name": "Ministry Munchies & The Daily Prophet Stands",
@@ -70317,7 +70327,9 @@
       "rating": 4.5,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "The Lord of the Rings",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "11380": {
       "name": "Road Bike",
@@ -72387,7 +72399,9 @@
           "price": 127.49,
           "shop": "Brickwatch"
         }
-      ]
+      ],
+      "status": "watchlist",
+      "label": "investering"
     },
     "76356": {
       "name": "Venom Bust",
@@ -72856,6 +72870,34 @@
       "subtheme": "Up-Scaled Minifigure",
       "prev_buy_score": null,
       "sell_score": null
+    },
+    "11389": {
+      "name": "Set 11389",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": null,
+      "current_best_shop": "Brickwatch"
+    },
+    "21376": {
+      "name": "Set 21376",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": null,
+      "current_best_shop": "Brickwatch"
+    },
+    "40856": {
+      "name": "Set 40856",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": null,
+      "current_best_shop": "Brickwatch"
+    },
+    "5008946": {
+      "name": "Set 5008946",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": null,
+      "current_best_shop": "Brickwatch"
     }
   }
 }
