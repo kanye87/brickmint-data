@@ -40396,8 +40396,8 @@
     "75380": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 21,
-      "current_best_price": 72.95,
+      "buy_score": 20,
+      "current_best_price": 74.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75380-1.jpg",
       "label": "persoonlijk",
@@ -40427,7 +40427,7 @@
       "name": "Mos Espa Podrace Diorama",
       "owned_by": 7318,
       "pieces": 718,
-      "price_score": 6,
+      "price_score": 5,
       "purchase_price": 59.99,
       "rating": 3.7,
       "retirement_date": "2025-11-25",
@@ -40448,8 +40448,8 @@
       "year": 2024,
       "subtheme": "Diorama Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-20T00:34:17.062987Z",
-      "last_updated": "2026-08-20T00:34:17.062998Z",
+      "last_brickwatch_alert": "2026-08-25T17:04:23.262957Z",
+      "last_updated": "2026-08-25T17:04:23.262970Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -40479,6 +40479,11 @@
         {
           "date": "2026-08-20",
           "price": 72.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 74.95,
           "shop": "Brickwatch"
         }
       ],
