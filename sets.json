@@ -2874,7 +2874,8 @@
           "value": 289.0
         }
       ],
-      "prev_buy_score": 17
+      "prev_buy_score": 17,
+      "purchase_price": 390
     },
     "10334": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -12799,7 +12800,8 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 15
+      "prev_buy_score": 15,
+      "purchase_price": 15
     },
     "40631": {
       "availability_score": 0,
@@ -13234,7 +13236,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 56
+      "prev_buy_score": 56,
+      "purchase_price": 40
     },
     "40693": {
       "availability_score": 10,
@@ -15240,7 +15243,8 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 57
+      "prev_buy_score": 57,
+      "purchase_price": 40
     },
     "40797": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -26497,7 +26501,7 @@
       "owned_by": 2325,
       "pieces": 1215,
       "price_score": 14,
-      "purchase_price": 14.14,
+      "purchase_price": 78.28,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
@@ -42907,7 +42911,8 @@
           "value": 63.86
         }
       ],
-      "prev_buy_score": 55
+      "prev_buy_score": 55,
+      "purchase_price": 47
     },
     "75409": {
       "availability_score": 10,
@@ -45417,7 +45422,8 @@
           "value": 59.99
         }
       ],
-      "prev_buy_score": 49
+      "prev_buy_score": 49,
+      "purchase_price": 42
     },
     "75441": {
       "availability_score": 0,
@@ -45494,7 +45500,8 @@
           "value": 67.06
         }
       ],
-      "prev_buy_score": 54
+      "prev_buy_score": 54,
+      "purchase_price": 35
     },
     "75442": {
       "availability_score": 10,
@@ -52273,7 +52280,8 @@
           "value": 397.43
         }
       ],
-      "prev_buy_score": 24
+      "prev_buy_score": 24,
+      "purchase_price": 325
     },
     "76271": {
       "availability_score": 10,
@@ -62059,7 +62067,8 @@
           "value": 23.19
         }
       ],
-      "prev_buy_score": 52
+      "prev_buy_score": 52,
+      "purchase_price": 12
     },
     "77243": {
       "availability_score": 0,
@@ -62226,7 +62235,8 @@
           "value": 35.49
         }
       ],
-      "prev_buy_score": 65
+      "prev_buy_score": 65,
+      "purchase_price": 12
     },
     "77245": {
       "availability_score": 0,
@@ -62789,7 +62799,8 @@
           "value": 24.18
         }
       ],
-      "prev_buy_score": 62
+      "prev_buy_score": 62,
+      "purchase_price": 12
     },
     "77259": {
       "availability_score": 0,
@@ -64934,7 +64945,8 @@
       "date_first_available": "2025-06-02",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017595290",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "purchase_price": 359
     },
     "910033": {
       "brickset_last_enriched": "2026-05-13T11:57:47Z",
@@ -65022,7 +65034,8 @@
       "date_first_available": "2024-02-08",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017594538",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "purchase_price": 220
     },
     "910037": {
       "brickset_last_enriched": "2026-05-13T11:57:47Z",
@@ -65096,7 +65109,8 @@
       "date_first_available": "2026-02-21",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017652696",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "purchase_price": 89
     },
     "910039": {
       "brickset_last_enriched": "2026-05-13T11:57:47Z",
@@ -65201,7 +65215,8 @@
       "date_first_available": "2024-10-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017764702",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "purchase_price": 215
     },
     "912501": {
       "brickset_last_enriched": "2026-08-25T16:27:01Z",
