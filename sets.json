@@ -5281,7 +5281,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 157.99,
+      "current_best_price": 152.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -5344,11 +5344,16 @@
           "date": "2026-07-14",
           "price": 157.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 152.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-07-14T04:04:17.962390Z",
-      "last_updated": "2026-07-14T04:04:17.962395Z",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483370Z",
+      "last_updated": "2026-08-25T04:04:17.483373Z",
       "prev_buy_score": null
     },
     "21062": {
@@ -5462,8 +5467,8 @@
     "21063": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 30,
-      "current_best_price": 184.99,
+      "buy_score": 33,
+      "current_best_price": 179.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -5472,11 +5477,11 @@
       "name": "Neuschwanstein Castle",
       "owned_by": 1879,
       "pieces": 3455,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -5487,8 +5492,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-08-22T04:04:15.212934Z",
-      "last_updated": "2026-08-22T04:04:15.212937Z",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483213Z",
+      "last_updated": "2026-08-25T04:04:17.483217Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -5547,6 +5552,11 @@
         {
           "date": "2026-08-22",
           "price": 184.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 179.99,
           "shop": "Brickwatch"
         }
       ],
@@ -17661,9 +17671,9 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 45,
-      "current_best_price": 271.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 38,
+      "current_best_price": 299.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
       "lowest_price_ever": 240.75,
@@ -17671,12 +17681,12 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 30,
+      "price_score": 25,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 0,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -17717,10 +17727,15 @@
           "date": "2026-06-01",
           "price": 271.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 299.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-06-01T06:34:21.426078Z",
-      "last_updated": "2026-06-01T11:14:20.681550Z",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483065Z",
+      "last_updated": "2026-08-25T04:04:17.483075Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -29063,9 +29078,9 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 49,
-      "current_best_price": 36.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 46,
+      "current_best_price": 38.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -29073,11 +29088,11 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 33,
+      "price_score": 31,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -29088,8 +29103,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-08-02T09:34:22.724465Z",
-      "last_updated": "2026-08-02T11:11:48.682050Z",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483435Z",
+      "last_updated": "2026-08-25T04:04:17.483438Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -29140,6 +29155,11 @@
           "date": "2026-08-02",
           "price": 36.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 38.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -45694,8 +45714,8 @@
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
-      "current_best_price": 52.99,
+      "buy_score": 45,
+      "current_best_price": 55.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -45705,11 +45725,11 @@
       "name": "BB-8",
       "owned_by": 998,
       "pieces": 569,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -45740,6 +45760,11 @@
           "date": "2026-07-21",
           "price": 52.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 55.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -45755,8 +45780,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-07-21T04:34:30.773307Z",
-      "last_updated": "2026-07-21T04:34:30.773309Z",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483299Z",
+      "last_updated": "2026-08-25T04:04:17.483303Z",
       "market_value": 75.09,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -72715,13 +72740,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": null,
-      "roi_score": null,
+      "price_score": 19,
+      "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
-      "score_quality": null,
-      "buy_score": null,
+      "score_quality": "partial",
+      "buy_score": 42,
       "sell_score": null,
       "prev_buy_score": null,
       "theme": "Super Mario",
@@ -72746,6 +72771,17 @@
         {
           "date": "2026-08-20",
           "value": 171.84
+        }
+      ],
+      "current_best_price": 131.9,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-25T04:04:17.483522Z",
+      "last_updated": "2026-08-25T04:04:17.483524Z",
+      "price_history": [
+        {
+          "date": "2026-08-25",
+          "price": 131.9,
+          "shop": "Brickwatch"
         }
       ]
     },
