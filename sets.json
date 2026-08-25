@@ -59930,8 +59930,8 @@
     "76923": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 30,
-      "current_best_price": 22.94,
+      "buy_score": 17,
+      "current_best_price": 26.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76923-1.jpg",
       "label": "investering",
@@ -59962,11 +59962,11 @@
       "name": "Lamborghini Lambo V12 Vision Gran Turismo",
       "owned_by": 6844,
       "pieces": 230,
-      "price_score": 11,
+      "price_score": 0,
       "rating": 4.1,
       "retirement_date": "2025-12-04",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -59976,13 +59976,18 @@
       "urgency_score": 0,
       "wanted_by": 1321,
       "year": 2024,
-      "last_brickwatch_alert": "2026-05-04T14:04:25.431680Z",
-      "last_updated": "2026-05-04T14:04:25.431689Z",
+      "last_brickwatch_alert": "2026-08-25T13:34:14.725302Z",
+      "last_updated": "2026-08-25T13:34:14.725313Z",
       "subtheme": "Lamborghini",
       "price_history": [
         {
           "date": "2026-05-14",
           "price": 22.94,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 26.95,
           "shop": "Brickwatch"
         }
       ],
