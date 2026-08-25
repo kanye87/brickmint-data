@@ -5575,7 +5575,7 @@
           "value": 227.89
         }
       ],
-      "prev_buy_score": 30
+      "prev_buy_score": 33
     },
     "21068": {
       "brickset_last_enriched": "2026-08-24T16:21:40Z",
@@ -17755,7 +17755,7 @@
           "value": 294.74
         }
       ],
-      "prev_buy_score": 45
+      "prev_buy_score": 38
     },
     "42173": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -29181,7 +29181,7 @@
           "value": 52.0
         }
       ],
-      "prev_buy_score": 49
+      "prev_buy_score": 46
     },
     "72050": {
       "availability_score": 0,
@@ -45795,7 +45795,7 @@
           "value": 75.09
         }
       ],
-      "prev_buy_score": 48
+      "prev_buy_score": 45
     },
     "75682": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -62900,9 +62900,9 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 56,
-      "current_best_price": 61.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 42,
+      "current_best_price": 76.0,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -62910,10 +62910,10 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 33,
+      "price_score": 21,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -62923,8 +62923,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-23T23:04:16.815977Z",
-      "last_updated": "2026-08-24T06:40:29.904809Z",
+      "last_brickwatch_alert": "2026-08-25T04:34:21.794356Z",
+      "last_updated": "2026-08-25T04:34:21.794362Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -63002,6 +63002,11 @@
           "date": "2026-08-24",
           "price": 61.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 76.0,
+          "shop": "Brickwatch"
         }
       ],
       "date_first_available": "2026-04-09",
@@ -72748,7 +72753,7 @@
       "score_quality": "partial",
       "buy_score": 42,
       "sell_score": null,
-      "prev_buy_score": null,
+      "prev_buy_score": 42,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
