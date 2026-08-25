@@ -19787,7 +19787,7 @@
     "43019": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
+      "buy_score": 41,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43019-1.jpg",
       "label": "investering",
@@ -19796,11 +19796,11 @@
       "name": "Football",
       "owned_by": 254,
       "pieces": 1498,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19811,9 +19811,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 71.99,
-      "last_brickwatch_alert": "2026-08-01T04:04:21.817792Z",
-      "last_updated": "2026-08-01T04:04:21.817794Z",
+      "current_best_price": 79.9,
+      "last_brickwatch_alert": "2026-08-25T14:04:18.702990Z",
+      "last_updated": "2026-08-25T14:04:18.703006Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19843,6 +19843,11 @@
         {
           "date": "2026-08-01",
           "price": 71.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-25",
+          "price": 79.9,
           "shop": "Brickwatch"
         }
       ],
@@ -60004,7 +60009,7 @@
       "date_first_available": "2024-05-02",
       "lego_availability": "Retail",
       "ean": "5702017583761",
-      "prev_buy_score": 30
+      "prev_buy_score": 17
     },
     "76934": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
