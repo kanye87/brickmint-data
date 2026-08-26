@@ -29343,8 +29343,8 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 52,
-      "current_best_price": 41.9,
+      "buy_score": 55,
+      "current_best_price": 40.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
@@ -29353,7 +29353,7 @@
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -29367,8 +29367,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-24T10:34:17.458095Z",
-      "last_updated": "2026-08-24T10:34:17.458098Z",
+      "last_brickwatch_alert": "2026-08-26T04:04:16.198398Z",
+      "last_updated": "2026-08-26T04:04:16.198402Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -29439,6 +29439,11 @@
         {
           "date": "2026-08-24",
           "price": 41.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-26",
+          "price": 40.19,
           "shop": "Brickwatch"
         }
       ],
@@ -37091,7 +37096,7 @@
     },
     "75339": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 137.89,
+      "current_best_price": 137.3,
       "date_first_available": "2022-05-08",
       "ean": "5702017189642",
       "expected_retirement": "2024-01",
@@ -37164,6 +37169,11 @@
           "date": "2026-08-24",
           "price": 137.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-26",
+          "price": 137.3,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -37212,8 +37222,8 @@
       ],
       "prev_buy_score": 15,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-24T04:04:21.338755Z",
-      "last_updated": "2026-08-24T04:04:21.338756Z"
+      "last_brickwatch_alert": "2026-08-26T04:04:16.198464Z",
+      "last_updated": "2026-08-26T04:04:16.198467Z"
     },
     "75340": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -42430,8 +42440,8 @@
     "75404": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 40,
-      "current_best_price": 36.99,
+      "buy_score": 54,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75404-1.jpg",
       "label": "persoonlijk",
@@ -42440,11 +42450,11 @@
       "name": "Acclamator-class Assault Ship",
       "owned_by": 6108,
       "pieces": 450,
-      "price_score": 23,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -42465,8 +42475,8 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-23T11:04:14.964687Z",
-      "last_updated": "2026-08-23T11:04:14.964696Z",
+      "last_brickwatch_alert": "2026-08-26T04:04:16.198066Z",
+      "last_updated": "2026-08-26T04:04:16.198075Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-acclamator-class-assault-shi-75404-laagste-prijs-ooit-50-onder-adviesprijs-403465",
       "price_history": [
         {
@@ -42517,6 +42527,11 @@
         {
           "date": "2026-08-23",
           "price": 36.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-26",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43326,8 +43341,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 44,
-      "current_best_price": 107.06,
+      "buy_score": 47,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -43337,7 +43352,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 15,
+      "price_score": 18,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -43428,6 +43443,11 @@
           "date": "2026-08-20",
           "price": 107.06,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-26",
+          "price": 99.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -43435,8 +43455,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-08-20T23:05:22.832781Z",
-      "last_brickwatch_alert": "2026-08-20T23:05:22.832772Z",
+      "last_updated": "2026-08-26T04:04:16.198218Z",
+      "last_brickwatch_alert": "2026-08-26T04:04:16.198214Z",
       "market_value": 97.45,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -62989,9 +63009,9 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 56,
-      "current_best_price": 61.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 45,
+      "current_best_price": 71.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -62999,10 +63019,10 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 33,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -63012,8 +63032,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-25T04:34:21.794356Z",
-      "last_updated": "2026-08-25T06:33:11.687189Z",
+      "last_brickwatch_alert": "2026-08-26T04:04:16.198298Z",
+      "last_updated": "2026-08-26T04:04:16.198302Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -63096,6 +63116,11 @@
           "date": "2026-08-25",
           "price": 61.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-26",
+          "price": 71.99,
+          "shop": "Brickwatch"
         }
       ],
       "date_first_available": "2026-04-09",
