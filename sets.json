@@ -9899,8 +9899,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 49,
-      "current_best_price": 139.99,
+      "buy_score": 51,
+      "current_best_price": 136.21,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -9909,7 +9909,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 28,
+      "price_score": 30,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -9924,8 +9924,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-05T04:04:23.594084Z",
-      "last_updated": "2026-08-05T04:04:23.594086Z",
+      "last_brickwatch_alert": "2026-08-27T11:04:19.154122Z",
+      "last_updated": "2026-08-27T11:04:19.154130Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -10010,6 +10010,11 @@
         {
           "date": "2026-08-05",
           "price": 139.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-27",
+          "price": 136.21,
           "shop": "Brickwatch"
         }
       ],
@@ -18022,7 +18027,7 @@
           "value": 187.3
         }
       ],
-      "prev_buy_score": 61
+      "prev_buy_score": 48
     },
     "42184": {
       "availability_score": 0,
@@ -39823,7 +39828,7 @@
           "value": 21.5
         }
       ],
-      "prev_buy_score": 53
+      "prev_buy_score": 61
     },
     "75373": {
       "availability_score": 0,
@@ -42577,7 +42582,7 @@
           "value": 39.0
         }
       ],
-      "prev_buy_score": 54
+      "prev_buy_score": 40
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -42684,7 +42689,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 46
+      "prev_buy_score": 55
     },
     "75406": {
       "availability_score": 0,
@@ -43914,7 +43919,7 @@
           "value": 115.02
         }
       ],
-      "prev_buy_score": 60
+      "prev_buy_score": 66
     },
     "75418": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -54769,9 +54774,9 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 71.24,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 43,
+      "current_best_price": 88.11,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -54780,11 +54785,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 35,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -54794,8 +54799,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-14T15:04:14.939154Z",
-      "last_updated": "2026-08-14T16:42:16.136912Z",
+      "last_brickwatch_alert": "2026-08-27T11:04:19.154311Z",
+      "last_updated": "2026-08-27T11:04:19.154315Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -54852,6 +54857,11 @@
           "date": "2026-08-14",
           "price": 71.24,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-08-27",
+          "price": 88.11,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -57333,7 +57343,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-08-27T04:04:13.436843Z",
       "last_updated": "2026-08-27T04:04:13.436854Z",
-      "prev_buy_score": 46,
+      "prev_buy_score": 50,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.7,
@@ -63186,7 +63196,7 @@
           "value": 87.38
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 51,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256"
     },
     "112501": {
