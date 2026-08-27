@@ -30049,7 +30049,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 675.0,
+      "current_best_price": 719.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -30080,15 +30080,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 14,
+      "price_score": 9,
       "roi_score": 0,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 38,
-      "last_brickwatch_alert": "2026-08-27T00:04:19.198830Z",
-      "last_updated": "2026-08-27T00:04:19.198839Z",
+      "buy_score": 33,
+      "last_brickwatch_alert": "2026-08-27T17:34:19.971301Z",
+      "last_updated": "2026-08-27T17:34:19.971310Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -30161,7 +30161,7 @@
         },
         {
           "date": "2026-08-27",
-          "price": 675.0,
+          "price": 719.99,
           "shop": "Brickwatch"
         }
       ],
@@ -63216,7 +63216,7 @@
           "value": 87.38
         }
       ],
-      "prev_buy_score": 51,
+      "prev_buy_score": 56,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256"
     },
     "112501": {
