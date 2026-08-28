@@ -28760,8 +28760,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 51,
-      "current_best_price": 122.55,
+      "buy_score": 55,
+      "current_best_price": 114.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -28770,7 +28770,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 26,
+      "price_score": 30,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -28784,8 +28784,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-24T23:34:15.603477Z",
-      "last_updated": "2026-08-24T23:34:15.603485Z",
+      "last_brickwatch_alert": "2026-08-28T04:04:17.417986Z",
+      "last_updated": "2026-08-28T04:04:17.417988Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -28891,6 +28891,11 @@
         {
           "date": "2026-08-19",
           "price": 122.55,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 114.99,
           "shop": "Brickwatch"
         }
       ],
@@ -39892,8 +39897,8 @@
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-08-27T04:04:13.437227Z",
-      "last_updated": "2026-08-27T04:04:13.437230Z",
+      "last_brickwatch_alert": "2026-08-28T04:04:17.418053Z",
+      "last_updated": "2026-08-28T04:04:17.418055Z",
       "market_value": 21.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -42544,8 +42549,8 @@
     "75404": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 40,
-      "current_best_price": 36.99,
+      "buy_score": 54,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75404-1.jpg",
       "label": "persoonlijk",
@@ -42554,11 +42559,11 @@
       "name": "Acclamator-class Assault Ship",
       "owned_by": 6108,
       "pieces": 450,
-      "price_score": 23,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -42579,8 +42584,8 @@
       "year": 2025,
       "subtheme": "Starship Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-27T04:04:13.717235Z",
-      "last_updated": "2026-08-27T04:04:13.717248Z",
+      "last_brickwatch_alert": "2026-08-28T04:04:17.417888Z",
+      "last_updated": "2026-08-28T04:04:17.417896Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-acclamator-class-assault-shi-75404-laagste-prijs-ooit-50-onder-adviesprijs-403465",
       "price_history": [
         {
@@ -42641,6 +42646,11 @@
         {
           "date": "2026-08-27",
           "price": 36.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45224,7 +45234,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 50,
+      "buy_score": 54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -45233,10 +45243,10 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 26,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -45250,9 +45260,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 27.9,
-      "last_brickwatch_alert": "2026-08-24T10:34:17.457864Z",
-      "last_updated": "2026-08-24T10:34:17.457867Z",
+      "current_best_price": 26.99,
+      "last_brickwatch_alert": "2026-08-28T04:04:17.418094Z",
+      "last_updated": "2026-08-28T04:04:17.418095Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -45301,6 +45311,11 @@
         {
           "date": "2026-08-24",
           "price": 27.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 26.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45675,7 +45690,7 @@
           "value": 67.06
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 52,
       "purchase_price": 35,
       "sell_roi_score": 37,
       "sell_trend_score": 0,
