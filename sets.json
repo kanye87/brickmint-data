@@ -37619,7 +37619,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": 17,
-      "current_best_price": 96.79,
+      "current_best_price": 96.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "investering",
@@ -37757,11 +37757,16 @@
           "date": "2026-08-22",
           "price": 96.79,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 96.8,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-22T01:04:12.991111Z",
-      "last_updated": "2026-08-22T01:04:12.991121Z",
+      "last_brickwatch_alert": "2026-08-28T09:04:15.209760Z",
+      "last_updated": "2026-08-28T09:04:15.209764Z",
       "prev_buy_score": 17
     },
     "75345": {
@@ -43076,24 +43081,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 209.99,
-      "current_best_shop": "Bol.com",
+      "buy_score": 42,
+      "current_best_price": 239.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-19T09:04:17.386871Z",
-      "last_updated": "2026-08-19T10:20:42.366165Z",
+      "last_brickwatch_alert": "2026-08-28T09:04:15.209352Z",
+      "last_updated": "2026-08-28T09:04:15.209381Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 26,
+      "price_score": 18,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -43303,6 +43308,11 @@
           "date": "2026-08-19",
           "price": 209.99,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 239.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -54788,8 +54798,8 @@
     "76329": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 32,
-      "current_best_price": 67.99,
+      "buy_score": 34,
+      "current_best_price": 66.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76329-1.jpg",
       "label": "investering",
@@ -54798,7 +54808,7 @@
       "name": "Miles Morales' Mask",
       "owned_by": 744,
       "pieces": 487,
-      "price_score": 3,
+      "price_score": 5,
       "rating": 0.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -54863,6 +54873,11 @@
           "date": "2026-08-27",
           "price": 67.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-28",
+          "price": 66.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -54883,8 +54898,8 @@
           "value": 31.62
         }
       ],
-      "last_brickwatch_alert": "2026-08-27T17:04:15.931898Z",
-      "last_updated": "2026-08-27T17:04:15.931907Z",
+      "last_brickwatch_alert": "2026-08-28T09:04:15.209597Z",
+      "last_updated": "2026-08-28T09:04:15.209601Z",
       "prev_buy_score": 32
     },
     "76344": {
