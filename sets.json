@@ -18098,7 +18098,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 18,
-      "current_best_price": 54.79,
+      "current_best_price": 54.78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42184-1.jpg",
       "label": "investering",
@@ -18139,8 +18139,8 @@
       "wanted_by": 631,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-08-21T02:04:13.957870Z",
-      "last_updated": "2026-08-21T02:04:13.957880Z",
+      "last_brickwatch_alert": "2026-08-29T06:34:19.428804Z",
+      "last_updated": "2026-08-29T06:34:19.428812Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18260,6 +18260,11 @@
         {
           "date": "2026-08-21",
           "price": 54.79,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-29",
+          "price": 54.78,
           "shop": "Brickwatch"
         }
       ],
@@ -29575,7 +29580,7 @@
           "value": 59.09
         }
       ],
-      "prev_buy_score": 52
+      "prev_buy_score": 56
     },
     "72152": {
       "availability_score": 0,
@@ -38605,10 +38610,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 68.43,
+      "current_best_price": 68.41,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-07-26T08:34:18.290943Z",
-      "last_updated": "2026-07-26T08:34:18.290946Z",
+      "last_brickwatch_alert": "2026-08-29T06:34:19.429031Z",
+      "last_updated": "2026-08-29T06:34:19.429035Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -38748,6 +38753,11 @@
         {
           "date": "2026-07-26",
           "price": 68.43,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-29",
+          "price": 68.41,
           "shop": "Brickwatch"
         }
       ],
@@ -45730,7 +45740,7 @@
           "value": 67.06
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 54,
       "purchase_price": 35,
       "sell_roi_score": 37,
       "sell_trend_score": 0,
@@ -46055,7 +46065,7 @@
           "value": 75.09
         }
       ],
-      "prev_buy_score": 45
+      "prev_buy_score": 46
     },
     "75682": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -55067,7 +55077,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 43
+      "prev_buy_score": 51
     },
     "76346": {
       "availability_score": 0,
@@ -71795,7 +71805,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 57,
-      "prev_buy_score": 52
+      "prev_buy_score": 57
     },
     "43028": {
       "name": "Olivia Rodrigo's Vinyl",
