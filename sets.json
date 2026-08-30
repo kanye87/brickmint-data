@@ -71778,10 +71778,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 54.99,
+      "current_best_price": 58.95,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-29T04:04:23.267521Z",
-      "last_updated": "2026-08-29T04:04:23.267524Z",
+      "last_brickwatch_alert": "2026-08-30T00:34:14.322246Z",
+      "last_updated": "2026-08-30T00:34:14.322253Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -71801,6 +71801,11 @@
         {
           "date": "2026-08-29",
           "price": 54.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-30",
+          "price": 58.95,
           "shop": "Brickwatch"
         }
       ],
@@ -71827,13 +71832,13 @@
           "value": 77.56
         }
       ],
-      "price_score": 34,
-      "roi_score": 5,
+      "price_score": 30,
+      "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 57,
+      "buy_score": 52,
       "prev_buy_score": 57
     },
     "43028": {
