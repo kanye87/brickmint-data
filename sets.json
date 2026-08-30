@@ -30151,7 +30151,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 699.99,
+      "current_best_price": 719.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -30182,15 +30182,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 11,
+      "price_score": 9,
       "roi_score": 0,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 35,
-      "last_brickwatch_alert": "2026-08-29T10:04:14.916768Z",
-      "last_updated": "2026-08-29T10:04:14.916780Z",
+      "buy_score": 33,
+      "last_brickwatch_alert": "2026-08-30T05:34:15.241556Z",
+      "last_updated": "2026-08-30T05:34:15.241561Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -30269,6 +30269,11 @@
         {
           "date": "2026-08-29",
           "price": 699.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-30",
+          "price": 719.99,
           "shop": "Brickwatch"
         }
       ],
@@ -41117,7 +41122,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 17,
-      "current_best_price": 54.95,
+      "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75387-1.jpg",
       "label": "persoonlijk",
@@ -41226,14 +41231,19 @@
           "date": "2026-07-10",
           "price": 54.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-30",
+          "price": 54.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2025-11",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
       "ean": "5702017584430",
-      "last_brickwatch_alert": "2026-07-10T18:34:18.205610Z",
-      "last_updated": "2026-07-10T18:34:18.205621Z",
+      "last_brickwatch_alert": "2026-08-30T05:34:15.241338Z",
+      "last_updated": "2026-08-30T05:34:15.241348Z",
       "prev_buy_score": 17
     },
     "75388": {
