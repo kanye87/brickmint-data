@@ -26748,8 +26748,8 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 18,
-      "current_best_price": 369.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 417.24,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71799-1.jpg",
       "label": "investering",
       "lowest_price_ever": 258.99,
@@ -26819,6 +26819,11 @@
           "date": "2026-08-03",
           "price": 369.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 417.24,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -26974,8 +26979,8 @@
       "date_first_available": "2023-05-12",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017435787",
-      "last_brickwatch_alert": "2026-08-03T02:04:21.788478Z",
-      "last_updated": "2026-08-03T09:28:45.396960Z",
+      "last_brickwatch_alert": "2026-08-31T06:04:16.096063Z",
+      "last_updated": "2026-08-31T06:04:16.096071Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/beschikbaarheidsdeal-lego-71799-ninjago-city-markets-weer-beschikbaar-voor-de-adviesprijs-413950",
       "prev_buy_score": 18
     },
@@ -73259,7 +73264,7 @@
       "score_quality": "partial",
       "buy_score": 44,
       "sell_score": null,
-      "prev_buy_score": 42,
+      "prev_buy_score": 44,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
