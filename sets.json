@@ -60459,8 +60459,8 @@
     "76940": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 45,
-      "current_best_price": 20.95,
+      "buy_score": 15,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76940-1.jpg",
       "label": "investering",
@@ -60491,11 +60491,11 @@
       "name": "T. rex Dinosaur Fossil Exhibition",
       "owned_by": 4953,
       "pieces": 198,
-      "price_score": 24,
+      "price_score": 0,
       "rating": 3.7,
       "retirement_date": "2022-11-22",
       "retirement_status": "retired",
-      "roi_score": 6,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -60510,6 +60510,11 @@
         {
           "date": "2026-05-14",
           "price": 20.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -60533,7 +60538,9 @@
       "date_first_available": "2021-09-10",
       "lego_availability": "Retail",
       "ean": "5702017079738",
-      "prev_buy_score": 45
+      "prev_buy_score": 45,
+      "last_brickwatch_alert": "2026-08-31T13:04:17.222316Z",
+      "last_updated": "2026-08-31T13:04:17.222326Z"
     },
     "76946": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
