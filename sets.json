@@ -29735,7 +29735,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72153-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 588.0,
+      "lowest_price_ever": 584.99,
       "msrp": 649.99,
       "name": "Venusaur, Charizard and Blastoise",
       "owned_by": 915,
@@ -29760,9 +29760,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 588.0,
-      "last_brickwatch_alert": "2026-08-23T04:04:24.290212Z",
-      "last_updated": "2026-08-23T04:04:24.290219Z",
+      "current_best_price": 584.99,
+      "last_brickwatch_alert": "2026-08-31T03:04:16.421812Z",
+      "last_updated": "2026-08-31T03:04:16.421814Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -29777,6 +29777,11 @@
         {
           "date": "2026-07-21",
           "price": 588.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 584.99,
           "shop": "Brickwatch"
         }
       ],
@@ -30161,7 +30166,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 719.99,
+      "current_best_price": 674.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -30192,15 +30197,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 9,
+      "price_score": 14,
       "roi_score": 0,
       "urgency_score": 14,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 33,
-      "last_brickwatch_alert": "2026-08-30T05:34:15.241556Z",
-      "last_updated": "2026-08-30T05:34:15.241561Z",
+      "buy_score": 38,
+      "last_brickwatch_alert": "2026-08-31T03:04:16.751689Z",
+      "last_updated": "2026-08-31T03:04:16.751699Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -30284,6 +30289,11 @@
         {
           "date": "2026-08-30",
           "price": 719.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 674.99,
           "shop": "Brickwatch"
         }
       ],
@@ -38035,7 +38045,7 @@
     },
     "75349": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 49.99,
+      "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75349-1.jpg",
       "label": "persoonlijk",
@@ -38092,15 +38102,15 @@
       "sell_age_score": 3,
       "sell_liquidity_score": 4,
       "subtheme": "Helmet Collection",
-      "last_brickwatch_alert": "2026-07-06T19:34:17.926837Z",
-      "last_updated": "2026-07-06T19:34:17.926847Z",
-      "price_score": 27,
-      "roi_score": 4,
+      "last_brickwatch_alert": "2026-08-31T03:04:16.421724Z",
+      "last_updated": "2026-08-31T03:04:16.421728Z",
+      "price_score": 20,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 31,
+      "buy_score": 23,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -38145,6 +38155,11 @@
         {
           "date": "2026-07-06",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 54.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44670,8 +44685,8 @@
     "75429": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 41,
-      "current_best_price": 71.99,
+      "buy_score": 55,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75429-1.jpg",
       "label": "persoonlijk",
@@ -44680,11 +44695,11 @@
       "name": "AT-AT Driver Helmet",
       "owned_by": 4633,
       "pieces": 730,
-      "price_score": 9,
+      "price_score": 22,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -44706,14 +44721,19 @@
           "date": "2026-06-01",
           "price": 71.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 59.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2025-01-28",
       "lego_availability": "Retail",
       "ean": "5702017824604",
-      "last_brickwatch_alert": "2026-06-01T03:34:19.896920Z",
-      "last_updated": "2026-06-01T03:34:19.896928Z",
+      "last_brickwatch_alert": "2026-08-31T03:04:16.421565Z",
+      "last_updated": "2026-08-31T03:04:16.421573Z",
       "market_value": 82.49,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -45171,20 +45191,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 50,
-      "current_best_price": 112.49,
+      "buy_score": 51,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-27T12:34:15.835320Z",
-      "last_updated": "2026-08-27T12:34:15.835325Z",
+      "last_brickwatch_alert": "2026-08-31T03:04:16.751863Z",
+      "last_updated": "2026-08-31T03:04:16.751865Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 21,
+      "price_score": 22,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -45305,6 +45325,11 @@
         {
           "date": "2026-08-27",
           "price": 112.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52717,7 +52742,7 @@
       "ean": "5702017590226",
       "last_brickwatch_alert": "2026-08-31T02:34:16.662098Z",
       "last_updated": "2026-08-31T02:34:16.662105Z",
-      "prev_buy_score": 28
+      "prev_buy_score": 27
     },
     "76290": {
       "availability_score": 0,
@@ -73357,13 +73382,13 @@
       "name": "Up-Scaled Darth Vader Minifigure",
       "status": "watchlist",
       "label": "investering",
-      "price_score": null,
-      "roi_score": null,
+      "price_score": 22,
+      "roi_score": 5,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
-      "score_quality": "partial",
-      "buy_score": 33,
+      "score_quality": "full",
+      "buy_score": 45,
       "sell_score": null,
       "prev_buy_score": 33,
       "theme": "Star Wars",
@@ -73389,6 +73414,17 @@
         {
           "date": "2026-08-20",
           "value": 116.49
+        }
+      ],
+      "current_best_price": 74.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-08-31T03:04:16.751809Z",
+      "last_updated": "2026-08-31T03:04:16.751812Z",
+      "price_history": [
+        {
+          "date": "2026-08-31",
+          "price": 74.99,
+          "shop": "Brickwatch"
         }
       ]
     },
