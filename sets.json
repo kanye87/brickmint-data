@@ -26748,7 +26748,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 18,
-      "current_best_price": 417.24,
+      "current_best_price": 419.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71799-1.jpg",
       "label": "investering",
@@ -26822,7 +26822,7 @@
         },
         {
           "date": "2026-08-31",
-          "price": 417.24,
+          "price": 419.0,
           "shop": "Brickwatch"
         }
       ],
@@ -26979,8 +26979,8 @@
       "date_first_available": "2023-05-12",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017435787",
-      "last_brickwatch_alert": "2026-08-31T06:04:16.096063Z",
-      "last_updated": "2026-08-31T06:04:16.096071Z",
+      "last_brickwatch_alert": "2026-08-31T13:34:16.641855Z",
+      "last_updated": "2026-08-31T13:34:16.641862Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/beschikbaarheidsdeal-lego-71799-ninjago-city-markets-weer-beschikbaar-voor-de-adviesprijs-413950",
       "prev_buy_score": 18
     },
@@ -60538,7 +60538,7 @@
       "date_first_available": "2021-09-10",
       "lego_availability": "Retail",
       "ean": "5702017079738",
-      "prev_buy_score": 45,
+      "prev_buy_score": 15,
       "last_brickwatch_alert": "2026-08-31T13:04:17.222316Z",
       "last_updated": "2026-08-31T13:04:17.222326Z"
     },
@@ -73686,6 +73686,92 @@
       "rating": 3.3,
       "brickset_last_enriched": "2026-08-31T12:19:20Z",
       "subtheme": "Promotional"
+    },
+    "30762": {
+      "name": "Retro Video Game Batman",
+      "theme": "DC Comics Super Heroes",
+      "date_first_available": "2026-09-15",
+      "image_url": "https://images.brickset.com/sets/images/30762-1.jpg",
+      "prev_buy_score": null
+    },
+    "40897": {
+      "name": "Darth Vader's Lightsaber",
+      "theme": "Star Wars",
+      "date_first_available": "2026-10-01",
+      "image_url": "https://images.brickset.com/sets/images/40897-1.jpg",
+      "prev_buy_score": null
+    },
+    "72052": {
+      "name": "Mario's Pipe Jump",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 9.99,
+      "image_url": "https://images.brickset.com/sets/images/72052-1.jpg",
+      "prev_buy_score": null
+    },
+    "72054": {
+      "name": "Racing with Mario",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/72054-1.jpg",
+      "prev_buy_score": null
+    },
+    "72055": {
+      "name": "Mario's Beach Adventures",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/72055-1.jpg",
+      "prev_buy_score": null
+    },
+    "72056": {
+      "name": "Luigi & Bowser Jr.'s Race",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/72056-1.jpg",
+      "prev_buy_score": null
+    },
+    "72057": {
+      "name": "Yoshi at Mario's House",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/72057-1.jpg",
+      "prev_buy_score": null
+    },
+    "72058": {
+      "name": "Bowser's Rumbling Race",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/72058-1.jpg",
+      "prev_buy_score": null
+    },
+    "72060": {
+      "name": "Fire Mario & Bowser's Castle",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/72060-1.jpg",
+      "prev_buy_score": null
+    },
+    "72061": {
+      "name": "Fire Luigi vs. Koopa Troopa Battle",
+      "theme": "Super Mario",
+      "date_first_available": "2027-01-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/72061-1.jpg",
+      "prev_buy_score": null
+    },
+    "75457": {
+      "name": "Executor Super Star Destroyer",
+      "theme": "Star Wars",
+      "date_first_available": "2026-10-01",
+      "msrp": 749.99,
+      "image_url": "https://images.brickset.com/sets/images/75457-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
