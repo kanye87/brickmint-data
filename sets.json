@@ -3433,8 +3433,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 49,
-      "current_best_price": 189.0,
+      "buy_score": 39,
+      "current_best_price": 209.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -3444,12 +3444,12 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 35,
+      "price_score": 26,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 29,
@@ -3570,10 +3570,15 @@
           "date": "2026-08-24",
           "price": 189.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-08-31",
+          "price": 209.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-24T09:04:16.516784Z",
-      "last_updated": "2026-08-24T09:04:16.516787Z",
+      "last_brickwatch_alert": "2026-08-31T15:34:17.828590Z",
+      "last_updated": "2026-08-31T15:34:17.828599Z",
       "market_value": 253.84,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-14T20:23:06.765617+00:00",
@@ -70994,7 +70999,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 34,
-      "prev_buy_score": 38
+      "prev_buy_score": 34
     },
     "11381": {
       "name": "Jaguar E-Type",
