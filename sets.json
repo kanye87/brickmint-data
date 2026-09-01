@@ -13516,7 +13516,7 @@
       ],
       "last_brickwatch_alert": "2026-05-28T07:04:25.716995Z",
       "last_updated": "2026-05-28T07:04:25.717006Z",
-      "prev_buy_score": 15
+      "prev_buy_score": 19
     },
     "40675": {
       "availability_score": 0,
@@ -13648,7 +13648,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 53,
       "purchase_price": 40,
       "sell_roi_score": 17,
       "sell_trend_score": 14,
@@ -49213,7 +49213,7 @@
     },
     "76178": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "current_best_price": 499.95,
+      "current_best_price": 499.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76178-1.jpg",
       "label": "persoonlijk",
@@ -49291,7 +49291,7 @@
         },
         {
           "date": "2026-09-01",
-          "price": 499.95,
+          "price": 499.0,
           "shop": "Brickwatch"
         }
       ],
@@ -49472,8 +49472,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-011308/103836.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-09-01T14:04:23.294760Z",
-      "last_updated": "2026-09-01T14:04:23.294770Z",
+      "last_brickwatch_alert": "2026-09-01T16:04:16.038652Z",
+      "last_updated": "2026-09-01T16:04:16.038659Z",
       "prev_buy_score": 10
     },
     "76179": {
