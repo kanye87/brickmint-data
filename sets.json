@@ -42492,7 +42492,7 @@
           "value": 23.77
         }
       ],
-      "prev_buy_score": 23
+      "prev_buy_score": 44
     },
     "75392": {
       "availability_score": 0,
@@ -52112,7 +52112,7 @@
     },
     "76218": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 199.95,
+      "current_best_price": 349.95,
       "date_first_available": "2022-08-04",
       "ean": "5702017154619",
       "expected_retirement": "2024-10",
@@ -52177,6 +52177,11 @@
           "date": "2026-05-14",
           "price": 199.95,
           "shop": null
+        },
+        {
+          "date": "2026-09-02",
+          "price": 349.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -52244,7 +52249,10 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-012898/118470.jpg"
         }
       ],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-02T15:34:23.957296Z",
+      "last_updated": "2026-09-02T15:34:23.957303Z"
     },
     "76223": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
@@ -55976,7 +55984,7 @@
       ],
       "last_brickwatch_alert": "2026-09-02T12:04:23.466536Z",
       "last_updated": "2026-09-02T12:04:23.466544Z",
-      "prev_buy_score": 38
+      "prev_buy_score": 35
     },
     "76344": {
       "availability_score": 0,
