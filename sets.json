@@ -1854,8 +1854,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-08-21T04:04:14.878670Z",
-      "last_updated": "2026-08-21T04:04:14.878673Z",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461146Z",
+      "last_updated": "2026-09-02T04:04:14.461154Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -18350,8 +18350,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 38,
-      "current_best_price": 299.99,
+      "buy_score": 37,
+      "current_best_price": 309.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -18360,7 +18360,7 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 25,
+      "price_score": 24,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
@@ -18411,10 +18411,15 @@
           "date": "2026-08-25",
           "price": 299.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-02",
+          "price": 309.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-25T04:04:17.483065Z",
-      "last_updated": "2026-08-25T04:04:17.483075Z",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461468Z",
+      "last_updated": "2026-09-02T04:04:14.461471Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -29536,8 +29541,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
-      "current_best_price": 125.85,
+      "buy_score": 55,
+      "current_best_price": 114.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -29546,11 +29551,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 24,
+      "price_score": 30,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -29560,8 +29565,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-28T22:34:19.423784Z",
-      "last_updated": "2026-08-28T22:34:19.423793Z",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461399Z",
+      "last_updated": "2026-09-02T04:04:14.461403Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -29672,6 +29677,11 @@
         {
           "date": "2026-08-28",
           "price": 125.85,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-02",
+          "price": 114.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43527,7 +43537,7 @@
           "value": 39.0
         }
       ],
-      "prev_buy_score": 48
+      "prev_buy_score": 40
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -44785,8 +44795,8 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 60,
-      "current_best_price": 143.45,
+      "buy_score": 66,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -44796,7 +44806,7 @@
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 25,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
@@ -44810,8 +44820,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-30T11:34:15.517051Z",
-      "last_updated": "2026-08-30T11:34:15.517060Z",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461317Z",
+      "last_updated": "2026-09-02T04:04:14.461321Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -44860,6 +44870,11 @@
         {
           "date": "2026-08-30",
           "price": 143.45,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-02",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50610,12 +50625,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": 0,
-      "current_best_price": 99.95,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76191-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-03T14:04:34.570163Z",
-      "last_updated": "2026-08-03T14:04:34.570177Z",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461700Z",
+      "last_updated": "2026-09-02T04:04:14.461705Z",
       "lowest_price_ever": 83.4,
       "market_value": 89.9,
       "market_value_history": [
@@ -50679,6 +50694,11 @@
         {
           "date": "2026-08-03",
           "price": 99.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-02",
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
@@ -71686,13 +71706,24 @@
           "value": 79.0
         }
       ],
-      "price_score": null,
-      "roi_score": null,
+      "price_score": 0,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 10,
-      "score_quality": "partial",
-      "buy_score": 33
+      "score_quality": "full",
+      "buy_score": 18,
+      "current_best_price": 649.0,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-02T04:04:14.461528Z",
+      "last_updated": "2026-09-02T04:04:14.461531Z",
+      "price_history": [
+        {
+          "date": "2026-09-02",
+          "price": 649.0,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "11380": {
       "name": "Road Bike",
