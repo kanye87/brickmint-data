@@ -19311,7 +19311,7 @@
     "42207": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 34,
+      "buy_score": 29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42207-1.jpg",
       "label": "investering",
@@ -19320,11 +19320,11 @@
       "name": "Ferrari SF-24 F1 Car",
       "owned_by": 2275,
       "pieces": 1361,
-      "price_score": 28,
+      "price_score": 24,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -19340,9 +19340,9 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816302",
-      "current_best_price": 148.9,
-      "last_brickwatch_alert": "2026-08-24T10:04:23.166683Z",
-      "last_updated": "2026-08-24T10:04:23.166686Z",
+      "current_best_price": 159.99,
+      "last_brickwatch_alert": "2026-09-02T21:04:24.422245Z",
+      "last_updated": "2026-09-02T21:04:24.422282Z",
       "price_history": [
         {
           "date": "2026-05-22",
@@ -19367,6 +19367,11 @@
         {
           "date": "2026-08-24",
           "price": 148.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-02",
+          "price": 159.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34974,7 +34979,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-004422/112279.jpg"
         }
       ],
-      "prev_buy_score": 32
+      "prev_buy_score": 33
     },
     "75302": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -35462,7 +35467,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-003503/156691.jpg"
         }
       ],
-      "prev_buy_score": 34
+      "prev_buy_score": 33
     },
     "75309": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -36451,7 +36456,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
         }
       ],
-      "prev_buy_score": 34
+      "prev_buy_score": 32
     },
     "75319": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -36732,7 +36737,7 @@
       "date_first_available": "2022-01-04",
       "lego_availability": "Retail",
       "ean": "5702017155470",
-      "prev_buy_score": 50
+      "prev_buy_score": 51
     },
     "75322": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -37304,7 +37309,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 58
+      "prev_buy_score": 57
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
