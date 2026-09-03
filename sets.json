@@ -46904,8 +46904,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 42.99,
+      "buy_score": 40,
+      "current_best_price": 48.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -46914,11 +46914,11 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 27,
+      "price_score": 19,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 28,
@@ -46929,9 +46929,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-08-19T04:04:14.535821Z",
+      "last_updated": "2026-09-03T03:34:25.714982Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-08-19T04:04:14.535818Z",
+      "last_brickwatch_alert": "2026-09-03T03:34:25.714975Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -46976,6 +46976,11 @@
         {
           "date": "2026-08-19",
           "price": 42.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-03",
+          "price": 48.95,
           "shop": "Brickwatch"
         }
       ],
