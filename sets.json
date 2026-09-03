@@ -18892,7 +18892,7 @@
       "date_first_available": "2024-07-03",
       "lego_availability": "Retail",
       "ean": "5702017599106",
-      "prev_buy_score": 18
+      "prev_buy_score": 15
     },
     "42197": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -52615,7 +52615,7 @@
     },
     "76218": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 349.95,
+      "current_best_price": 329.0,
       "date_first_available": "2022-08-04",
       "ean": "5702017154619",
       "expected_retirement": "2024-10",
@@ -52684,6 +52684,11 @@
         {
           "date": "2026-09-02",
           "price": 349.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-03",
+          "price": 329.0,
           "shop": "Brickwatch"
         }
       ],
@@ -52754,8 +52759,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-02T15:34:23.957296Z",
-      "last_updated": "2026-09-02T15:34:23.957303Z"
+      "last_brickwatch_alert": "2026-09-03T13:34:17.097516Z",
+      "last_updated": "2026-09-03T13:34:17.097525Z"
     },
     "76223": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
