@@ -46169,8 +46169,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 27.99,
+      "buy_score": 54,
+      "current_best_price": 26.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -46180,11 +46180,11 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 26,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -46194,8 +46194,8 @@
       "urgency_score": 8,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-18T04:04:17.030465Z",
-      "last_updated": "2026-08-18T04:04:17.030470Z",
+      "last_brickwatch_alert": "2026-09-03T05:34:21.446916Z",
+      "last_updated": "2026-09-03T05:34:21.446923Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -46281,6 +46281,11 @@
         {
           "date": "2026-08-18",
           "price": 27.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-03",
+          "price": 26.99,
           "shop": "Brickwatch"
         }
       ],
