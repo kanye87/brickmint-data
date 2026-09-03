@@ -20325,7 +20325,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 46,
-      "current_best_price": 47.95,
+      "current_best_price": 47.06,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -20416,13 +20416,18 @@
           "date": "2026-08-20",
           "price": 47.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-03",
+          "price": 47.06,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-08-20T06:34:16.494382Z",
-      "last_updated": "2026-08-20T06:34:16.494391Z",
+      "last_brickwatch_alert": "2026-09-03T22:34:16.067512Z",
+      "last_updated": "2026-09-03T22:34:16.067517Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 58.11,
       "market_value_source": "ebay",
@@ -58676,7 +58681,7 @@
       "ean": "5702017413211",
       "last_brickwatch_alert": "2026-07-19T13:04:15.927534Z",
       "last_updated": "2026-07-19T13:04:15.927539Z",
-      "prev_buy_score": 20
+      "prev_buy_score": 21
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -61510,7 +61515,7 @@
       "date_first_available": "2022-08-04",
       "lego_availability": "Retail",
       "ean": "5702017231044",
-      "prev_buy_score": 47
+      "prev_buy_score": 49
     },
     "76912": {
       "availability_score": 0,
@@ -62054,7 +62059,7 @@
       "ean": "5702017583723",
       "last_brickwatch_alert": "2026-08-10T06:04:13.967643Z",
       "last_updated": "2026-08-10T06:04:13.967646Z",
-      "prev_buy_score": 35
+      "prev_buy_score": 33
     },
     "76920": {
       "availability_score": 0,
@@ -62225,7 +62230,7 @@
       "date_first_available": "2024-05-02",
       "lego_availability": "Retail",
       "ean": "5702017583761",
-      "prev_buy_score": 17
+      "prev_buy_score": 18
     },
     "76934": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -73676,10 +73681,10 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-08-18T06:29:10Z",
       "subtheme": "F1 Helmets",
-      "current_best_price": 56.04,
+      "current_best_price": 57.82,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-19T10:34:18.474011Z",
-      "last_updated": "2026-08-19T10:34:18.474016Z",
+      "last_brickwatch_alert": "2026-09-03T22:34:16.067294Z",
+      "last_updated": "2026-09-03T22:34:16.067302Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -73689,6 +73694,11 @@
         {
           "date": "2026-08-19",
           "price": 56.04,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-03",
+          "price": 57.82,
           "shop": "Brickwatch"
         }
       ],
@@ -73703,13 +73713,13 @@
           "value": 62.14
         }
       ],
-      "price_score": 33,
+      "price_score": 32,
       "roi_score": 2,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 53,
+      "buy_score": 52,
       "prev_buy_score": 53
     },
     "43023": {
