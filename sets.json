@@ -73720,7 +73720,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 52,
-      "prev_buy_score": 53
+      "prev_buy_score": 52
     },
     "43023": {
       "name": "McLaren Mastercard F1 Team Lando Norris Helmet",
@@ -74883,14 +74883,19 @@
       "brickset_last_enriched": "2026-09-01T10:53:40Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 29,
-      "current_best_price": 127.49,
+      "current_best_price": 145.51,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-21T04:04:15.044001Z",
-      "last_updated": "2026-08-21T04:04:15.044002Z",
+      "last_brickwatch_alert": "2026-09-04T00:04:24.672851Z",
+      "last_updated": "2026-09-04T00:04:24.672862Z",
       "price_history": [
         {
           "date": "2026-08-21",
           "price": 127.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 145.51,
           "shop": "Brickwatch"
         }
       ],
@@ -74905,13 +74910,13 @@
           "value": 154.76
         }
       ],
-      "price_score": 13,
-      "roi_score": 3,
+      "price_score": 3,
+      "roi_score": 2,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 29
+      "buy_score": 9
     },
     "76356": {
       "name": "Venom Bust",
