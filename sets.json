@@ -10161,8 +10161,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-27T11:04:19.154122Z",
-      "last_updated": "2026-08-27T11:04:19.154130Z",
+      "last_brickwatch_alert": "2026-09-04T14:34:26.440187Z",
+      "last_updated": "2026-09-04T14:34:26.440195Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -39398,7 +39398,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 23
+      "prev_buy_score": 25
     },
     "75350": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -63215,7 +63215,7 @@
       "date_first_available": "2024-05-14",
       "lego_availability": "Retail",
       "ean": "5702017583198",
-      "prev_buy_score": 28
+      "prev_buy_score": 29
     },
     "76967": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
