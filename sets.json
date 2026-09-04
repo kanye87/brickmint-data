@@ -19316,7 +19316,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 37
+      "prev_buy_score": 36
     },
     "42207": {
       "availability_score": 0,
@@ -41678,8 +41678,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 22.98,
+      "buy_score": 25,
+      "current_best_price": 25.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -41714,7 +41714,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 17,
+      "price_score": 10,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -41728,8 +41728,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-06T04:04:30.156930Z",
-      "last_updated": "2026-08-06T04:04:30.156931Z",
+      "last_brickwatch_alert": "2026-09-04T09:04:18.164915Z",
+      "last_updated": "2026-09-04T09:04:18.164924Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -41805,6 +41805,11 @@
         {
           "date": "2026-08-06",
           "price": 22.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 25.95,
           "shop": "Brickwatch"
         }
       ],
@@ -46736,9 +46741,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 27.88,
-      "last_brickwatch_alert": "2026-09-04T04:04:21.804704Z",
-      "last_updated": "2026-09-04T04:04:21.804706Z",
+      "current_best_price": 27.9,
+      "last_brickwatch_alert": "2026-09-04T09:04:18.165134Z",
+      "last_updated": "2026-09-04T09:04:18.165138Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -46801,7 +46806,7 @@
         },
         {
           "date": "2026-09-04",
-          "price": 27.88,
+          "price": 27.9,
           "shop": "Brickwatch"
         }
       ],
@@ -75445,7 +75450,7 @@
       "label": "investering",
       "current_best_price": 90.56,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 15,
+      "prev_buy_score": 27,
       "price_score": 16,
       "roi_score": 3,
       "urgency_score": 0,
