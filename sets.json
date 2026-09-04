@@ -19193,19 +19193,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 37,
-      "current_best_price": 148.9,
+      "buy_score": 36,
+      "current_best_price": 152.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-08-24T09:04:16.516467Z",
-      "last_updated": "2026-08-24T09:04:16.516475Z",
+      "last_brickwatch_alert": "2026-09-04T04:04:21.804454Z",
+      "last_updated": "2026-09-04T04:04:21.804465Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 26,
+      "price_score": 25,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -19285,6 +19285,11 @@
         {
           "date": "2026-08-24",
           "price": 148.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 152.77,
           "shop": "Brickwatch"
         }
       ],
@@ -20448,7 +20453,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 46,
-      "current_best_price": 48.0,
+      "current_best_price": 47.04,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -20473,8 +20478,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-09-03T04:04:16.521767Z",
-      "last_updated": "2026-09-03T04:04:16.521774Z",
+      "last_brickwatch_alert": "2026-09-04T04:04:21.804654Z",
+      "last_updated": "2026-09-04T04:04:21.804656Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -20510,6 +20515,11 @@
         {
           "date": "2026-08-29",
           "price": 48.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 47.04,
           "shop": "Brickwatch"
         }
       ],
@@ -38437,7 +38447,7 @@
     },
     "75339": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 137.3,
+      "current_best_price": 136.13,
       "date_first_available": "2022-05-08",
       "ean": "5702017189642",
       "expected_retirement": "2024-01",
@@ -38519,6 +38529,11 @@
           "date": "2026-08-26",
           "price": 137.3,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 136.13,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -38567,8 +38582,8 @@
       ],
       "prev_buy_score": 15,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-26T04:04:16.198464Z",
-      "last_updated": "2026-08-26T04:04:16.198467Z"
+      "last_brickwatch_alert": "2026-09-04T04:04:21.804751Z",
+      "last_updated": "2026-09-04T04:04:21.804753Z"
     },
     "75340": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -46721,9 +46736,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 27.9,
-      "last_brickwatch_alert": "2026-09-02T10:04:19.011165Z",
-      "last_updated": "2026-09-02T10:04:19.011172Z",
+      "current_best_price": 27.88,
+      "last_brickwatch_alert": "2026-09-04T04:04:21.804704Z",
+      "last_updated": "2026-09-04T04:04:21.804706Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -46782,6 +46797,11 @@
         {
           "date": "2026-09-02",
           "price": 27.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 27.88,
           "shop": "Brickwatch"
         }
       ],
@@ -74882,7 +74902,7 @@
       "rating": 4.2,
       "brickset_last_enriched": "2026-09-01T10:53:40Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 29,
+      "prev_buy_score": 9,
       "current_best_price": 145.51,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-09-04T00:04:24.672851Z",
@@ -75423,16 +75443,16 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": null,
+      "current_best_price": 90.56,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 15,
-      "price_score": null,
-      "roi_score": null,
+      "price_score": 16,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
-      "score_quality": "partial",
-      "buy_score": 15,
+      "score_quality": "full",
+      "buy_score": 27,
       "sell_score": null,
       "theme": "Icons",
       "year": 2026,
@@ -75458,6 +75478,15 @@
         {
           "date": "2026-08-25",
           "value": 107.71
+        }
+      ],
+      "last_brickwatch_alert": "2026-09-04T04:04:21.804588Z",
+      "last_updated": "2026-09-04T04:04:21.804591Z",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 90.56,
+          "shop": "Brickwatch"
         }
       ]
     },
