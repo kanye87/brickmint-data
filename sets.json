@@ -72906,10 +72906,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 89.99,
+      "current_best_price": 89.95,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-08-31T14:04:21.998036Z",
-      "last_updated": "2026-08-31T14:04:21.998048Z",
+      "last_brickwatch_alert": "2026-09-04T16:34:17.925680Z",
+      "last_updated": "2026-09-04T16:34:17.925690Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -72934,6 +72934,11 @@
         {
           "date": "2026-08-31",
           "price": 89.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-04",
+          "price": 89.95,
           "shop": "Brickwatch"
         }
       ],
