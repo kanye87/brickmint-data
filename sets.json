@@ -42853,8 +42853,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 44,
-      "current_best_price": 8.99,
+      "buy_score": 18,
+      "current_best_price": 12.62,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -42864,11 +42864,11 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 27,
+      "price_score": 3,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 9,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -42952,10 +42952,15 @@
           "date": "2026-09-02",
           "price": 8.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-05",
+          "price": 12.62,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-02T12:04:23.466719Z",
-      "last_updated": "2026-09-02T12:04:23.466722Z",
+      "last_brickwatch_alert": "2026-09-05T17:04:23.721667Z",
+      "last_updated": "2026-09-05T17:04:23.721674Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
