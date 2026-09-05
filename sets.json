@@ -5056,7 +5056,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 43,
-      "current_best_price": 49.0,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -5082,8 +5082,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-08-30T02:04:20.569325Z",
-      "last_updated": "2026-08-30T02:04:20.569335Z",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.372847Z",
+      "last_updated": "2026-09-05T04:04:21.372853Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -5132,6 +5132,11 @@
         {
           "date": "2026-07-26",
           "price": 49.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-05",
+          "price": 48.99,
           "shop": "Brickwatch"
         }
       ],
@@ -18427,8 +18432,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-02T04:04:14.461468Z",
-      "last_updated": "2026-09-02T04:04:14.461471Z",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.372986Z",
+      "last_updated": "2026-09-05T04:04:21.372988Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -20677,19 +20682,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 60,
-      "current_best_price": 52.24,
+      "buy_score": 54,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-18T23:04:14.457211Z",
-      "last_updated": "2026-08-18T23:04:14.457222Z",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.372938Z",
+      "last_updated": "2026-09-05T04:04:21.372940Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -20779,6 +20784,11 @@
         {
           "date": "2026-08-18",
           "price": 52.24,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-05",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
@@ -36448,8 +36458,8 @@
     "75318": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 32,
-      "current_best_price": 54.36,
+      "buy_score": 0,
+      "current_best_price": 120.4,
       "image_url": "https://images.brickset.com/sets/images/75318-1.jpg",
       "label": "investering",
       "lowest_price_ever": 46.24,
@@ -36483,11 +36493,11 @@
       "name": "The Child",
       "owned_by": 18003,
       "pieces": 1073,
-      "price_score": 29,
+      "price_score": 0,
       "rating": 4.2,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -36506,6 +36516,11 @@
           "date": "2026-05-14",
           "price": 54.36,
           "shop": null
+        },
+        {
+          "date": "2026-09-05",
+          "price": 120.4,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -36517,7 +36532,10 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-010525/75011.jpg"
         }
       ],
-      "prev_buy_score": 32
+      "prev_buy_score": 32,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.373099Z",
+      "last_updated": "2026-09-05T04:04:21.373100Z"
     },
     "75319": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -41290,8 +41308,8 @@
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-09-01T04:04:16.498799Z",
-      "last_updated": "2026-09-01T04:04:16.498808Z",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.373018Z",
+      "last_updated": "2026-09-05T04:04:21.373020Z",
       "market_value": 21.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -41699,8 +41717,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 25,
-      "current_best_price": 25.95,
+      "buy_score": 28,
+      "current_best_price": 24.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -41735,7 +41753,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 10,
+      "price_score": 13,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -41749,8 +41767,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-04T09:04:18.164915Z",
-      "last_updated": "2026-09-04T09:04:18.164924Z",
+      "last_brickwatch_alert": "2026-09-05T04:04:21.373048Z",
+      "last_updated": "2026-09-05T04:04:21.373049Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -41831,6 +41849,11 @@
         {
           "date": "2026-09-04",
           "price": 25.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-05",
+          "price": 24.74,
           "shop": "Brickwatch"
         }
       ],
@@ -44257,7 +44280,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 55
+      "prev_buy_score": 46
     },
     "75406": {
       "availability_score": 0,
