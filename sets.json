@@ -10484,7 +10484,7 @@
       "rating": 3.9,
       "retirement_date": "2020-11-10",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 78,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -10500,7 +10500,11 @@
       "buy_score": 33,
       "minifig_list": [],
       "prev_buy_score": 33,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 6,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 2
     },
     "40367": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -15740,7 +15744,7 @@
       "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 26,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -15778,7 +15782,11 @@
         }
       ],
       "prev_buy_score": 50,
-      "purchase_price": 12.99
+      "purchase_price": 12.99,
+      "sell_roi_score": 26,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 0
     },
     "40796": {
       "availability_score": 10,
@@ -16493,7 +16501,7 @@
       "roi_score": 0,
       "scarcity_score": 25,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 62,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -16538,7 +16546,11 @@
         }
       ],
       "prev_buy_score": 35,
-      "purchase_price": 0.01
+      "purchase_price": 0.01,
+      "sell_roi_score": 55,
+      "sell_trend_score": 2,
+      "sell_age_score": 2,
+      "sell_liquidity_score": 3
     },
     "41486": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
@@ -16800,7 +16812,7 @@
       "rating": 3.8,
       "retirement_date": "2018-01-03",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 74,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -16816,7 +16828,11 @@
       "buy_score": 64,
       "minifig_list": [],
       "prev_buy_score": 64,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 4
     },
     "41590": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -16853,7 +16869,7 @@
       "rating": 3.8,
       "retirement_date": "2018-01-07",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 73,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -16869,7 +16885,11 @@
       "buy_score": 64,
       "minifig_list": [],
       "prev_buy_score": 64,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 3
     },
     "41591": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -16906,7 +16926,7 @@
       "rating": 3.9,
       "retirement_date": "2017-12-30",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 75,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -16922,7 +16942,11 @@
       "buy_score": 64,
       "minifig_list": [],
       "prev_buy_score": 64,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 3,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 2
     },
     "41592": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -17016,7 +17040,7 @@
       "rating": 3.7,
       "retirement_date": "2019-04-12",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 71,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -17032,7 +17056,11 @@
       "buy_score": 27,
       "minifig_list": [],
       "prev_buy_score": 27,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 1
     },
     "41603": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -17074,7 +17102,7 @@
       "rating": 3.9,
       "retirement_date": "2019-04-01",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 71,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -17090,7 +17118,11 @@
       "buy_score": 27,
       "minifig_list": [],
       "prev_buy_score": 27,
-      "purchase_price": 10.0
+      "purchase_price": 10.0,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 1
     },
     "41604": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -17132,7 +17164,7 @@
       "rating": 4,
       "retirement_date": "2018-11-06",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 72,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -17148,7 +17180,11 @@
       "buy_score": 45,
       "minifig_list": [],
       "prev_buy_score": 45,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 2
     },
     "41605": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -17190,7 +17226,7 @@
       "rating": 3.9,
       "retirement_date": "2018-11-24",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 73,
       "status": "portfolio",
       "theme": "BrickHeadz",
       "transactions": [],
@@ -17206,7 +17242,11 @@
       "buy_score": 45,
       "minifig_list": [],
       "prev_buy_score": 45,
-      "purchase_price": 9.99
+      "purchase_price": 9.99,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 3
     },
     "41606": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
@@ -30199,7 +30239,7 @@
       "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 39,
       "status": "portfolio",
       "theme": "Super Mario",
       "transactions": [],
@@ -30306,7 +30346,11 @@
         }
       ],
       "prev_buy_score": 46,
-      "purchase_price": 28.0
+      "purchase_price": 28.0,
+      "sell_roi_score": 36,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 3
     },
     "72050": {
       "availability_score": 0,
@@ -32701,7 +32745,7 @@
       "rating": 3.8,
       "retirement_date": "2021-04-10",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 74,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -32732,7 +32776,11 @@
         }
       ],
       "prev_buy_score": 27,
-      "purchase_price": 15.0
+      "purchase_price": 15.0,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 4
     },
     "75270": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -33102,7 +33150,7 @@
       "rating": 4.1,
       "retirement_date": "2021-11-21",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 57,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -33133,7 +33181,11 @@
         }
       ],
       "prev_buy_score": 28,
-      "purchase_price": 160.0
+      "purchase_price": 160.0,
+      "sell_roi_score": 34,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 8
     },
     "75276": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -33563,7 +33615,7 @@
       "rating": 4,
       "retirement_date": "2021-11-20",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 74,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -33594,7 +33646,11 @@
         }
       ],
       "prev_buy_score": 27,
-      "purchase_price": 20.0
+      "purchase_price": 20.0,
+      "sell_roi_score": 55,
+      "sell_trend_score": 0,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 4
     },
     "75283": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -34964,7 +35020,7 @@
       "rating": 4,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
-      "sell_score": null,
+      "sell_score": 82,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -35009,7 +35065,11 @@
         }
       ],
       "prev_buy_score": 38,
-      "purchase_price": 25.0
+      "purchase_price": 25.0,
+      "sell_roi_score": 53,
+      "sell_trend_score": 10,
+      "sell_age_score": 15,
+      "sell_liquidity_score": 4
     },
     "75301": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -43665,7 +43725,7 @@
       "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 39,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
@@ -43748,7 +43808,11 @@
         }
       ],
       "prev_buy_score": 38,
-      "purchase_price": 80.0
+      "purchase_price": 80.0,
+      "sell_roi_score": 33,
+      "sell_trend_score": 0,
+      "sell_age_score": 0,
+      "sell_liquidity_score": 6
     },
     "75399": {
       "availability_score": 0,
@@ -44165,7 +44229,7 @@
       "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
-      "sell_score": null,
+      "sell_score": 52,
       "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [
@@ -44281,7 +44345,11 @@
         }
       ],
       "prev_buy_score": 40,
-      "purchase_price": 24.99
+      "purchase_price": 24.99,
+      "sell_roi_score": 29,
+      "sell_trend_score": 20,
+      "sell_age_score": 1,
+      "sell_liquidity_score": 2
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -53696,7 +53764,7 @@
       "roi_score": null,
       "scarcity_score": 15,
       "score_quality": "partial",
-      "sell_score": null,
+      "sell_score": 71,
       "status": "portfolio",
       "theme": "DC Comics Super Heroes",
       "transactions": [],
@@ -53760,7 +53828,11 @@
         }
       ],
       "prev_buy_score": 45,
-      "purchase_price": 400.0
+      "purchase_price": 400.0,
+      "sell_roi_score": 47,
+      "sell_trend_score": 0,
+      "sell_age_score": 14,
+      "sell_liquidity_score": 10
     },
     "76255": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
