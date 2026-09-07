@@ -42075,24 +42075,24 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 36,
-      "current_best_price": 60.69,
+      "buy_score": 32,
+      "current_best_price": 63.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-06T23:04:17.286477Z",
-      "last_updated": "2026-09-06T23:04:17.286482Z",
+      "last_brickwatch_alert": "2026-09-07T08:04:28.221952Z",
+      "last_updated": "2026-09-07T08:04:28.221963Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 30,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -42157,6 +42157,11 @@
         {
           "date": "2026-09-06",
           "price": 60.69,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 63.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43537,7 +43542,7 @@
           "value": 162.49
         }
       ],
-      "prev_buy_score": 40
+      "prev_buy_score": 34
     },
     "75395": {
       "availability_score": 0,
@@ -43887,7 +43892,7 @@
           "value": 136.16
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 32,
       "purchase_price": 80.0,
       "sell_roi_score": 33,
       "sell_trend_score": 0,
@@ -47389,8 +47394,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
-      "current_best_price": 41.19,
+      "buy_score": 44,
+      "current_best_price": 46.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -47399,11 +47404,11 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 29,
+      "price_score": 22,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 28,
@@ -47414,9 +47419,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-09-07T00:04:16.138770Z",
+      "last_updated": "2026-09-07T08:04:28.222204Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-09-07T00:04:16.138765Z",
+      "last_brickwatch_alert": "2026-09-07T08:04:28.222198Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47470,7 +47475,7 @@
         },
         {
           "date": "2026-09-07",
-          "price": 41.19,
+          "price": 46.99,
           "shop": "Brickwatch"
         }
       ],
@@ -57283,7 +57288,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 47
+      "prev_buy_score": 48
     },
     "76346": {
       "availability_score": 0,
