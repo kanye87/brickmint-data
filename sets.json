@@ -37635,7 +37635,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 53
+      "prev_buy_score": 57
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -41716,7 +41716,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 40
+      "prev_buy_score": 39
     },
     "75376": {
       "availability_score": 0,
@@ -43031,7 +43031,7 @@
           "value": 147.7
         }
       ],
-      "prev_buy_score": 60
+      "prev_buy_score": 67
     },
     "75391": {
       "availability_score": 0,
@@ -43732,22 +43732,22 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 38,
-      "current_best_price": 94.99,
+      "buy_score": 44,
+      "current_best_price": 84.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 87.99,
+      "lowest_price_ever": 84.49,
       "minifigs": 1,
       "msrp": 139.99,
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 39,
@@ -43757,8 +43757,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-20T04:04:13.571608Z",
-      "last_updated": "2026-08-20T04:04:13.571611Z",
+      "last_brickwatch_alert": "2026-09-07T00:04:15.948641Z",
+      "last_updated": "2026-09-07T00:04:15.948651Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -43813,6 +43813,11 @@
           "date": "2026-08-20",
           "price": 94.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 84.49,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -43843,7 +43848,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 68,
-      "current_best_price": 42.99,
+      "current_best_price": 42.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -43867,8 +43872,8 @@
       "urgency_score": 20,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-08-20T04:04:13.571654Z",
-      "last_updated": "2026-08-20T04:04:13.571656Z",
+      "last_brickwatch_alert": "2026-09-07T00:04:16.138440Z",
+      "last_updated": "2026-09-07T00:04:16.138450Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -43970,6 +43975,11 @@
         {
           "date": "2026-08-20",
           "price": 42.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 42.69,
           "shop": "Brickwatch"
         }
       ],
@@ -44697,7 +44707,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 53
+      "prev_buy_score": 48
     },
     "75408": {
       "availability_score": 0,
@@ -44784,7 +44794,7 @@
           "value": 63.86
         }
       ],
-      "prev_buy_score": 55,
+      "prev_buy_score": 52,
       "purchase_price": 47,
       "sell_roi_score": 23,
       "sell_trend_score": 4,
@@ -45567,8 +45577,8 @@
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 55,
-      "current_best_price": 58.99,
+      "buy_score": 50,
+      "current_best_price": 69.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -45578,11 +45588,11 @@
       "name": "Chopper (C1-10P)",
       "owned_by": 3878,
       "pieces": 1039,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -45621,14 +45631,19 @@
           "date": "2026-07-20",
           "price": 58.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 69.69,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-07-20T22:34:19.956667Z",
-      "last_updated": "2026-07-20T22:34:19.956670Z",
+      "last_brickwatch_alert": "2026-09-07T00:04:16.138538Z",
+      "last_updated": "2026-09-07T00:04:16.138541Z",
       "market_value": 74.1,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -47299,8 +47314,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 40,
-      "current_best_price": 48.95,
+      "buy_score": 52,
+      "current_best_price": 41.19,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -47309,11 +47324,11 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 19,
+      "price_score": 29,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 28,
@@ -47324,9 +47339,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-09-03T03:34:25.714982Z",
+      "last_updated": "2026-09-07T00:04:16.138770Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-09-03T03:34:25.714975Z",
+      "last_brickwatch_alert": "2026-09-07T00:04:16.138765Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47376,6 +47391,11 @@
         {
           "date": "2026-09-03",
           "price": 48.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 41.19,
           "shop": "Brickwatch"
         }
       ],
@@ -57046,8 +57066,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 43,
-      "current_best_price": 88.11,
+      "buy_score": 47,
+      "current_best_price": 83.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -57057,7 +57077,7 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 28,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -57071,8 +57091,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-02T21:34:15.938136Z",
-      "last_updated": "2026-09-02T21:34:15.938144Z",
+      "last_brickwatch_alert": "2026-09-07T00:04:16.138990Z",
+      "last_updated": "2026-09-07T00:04:16.138995Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -57143,6 +57163,11 @@
         {
           "date": "2026-09-02",
           "price": 88.11,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 83.09,
           "shop": "Brickwatch"
         }
       ],
@@ -75688,7 +75713,7 @@
       "score_quality": "full",
       "buy_score": 40,
       "sell_score": null,
-      "prev_buy_score": 41,
+      "prev_buy_score": 40,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
