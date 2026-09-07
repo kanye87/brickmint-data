@@ -41120,7 +41120,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 10,
-      "prev_buy_score": 55
+      "prev_buy_score": 53
     },
     "75368": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -41346,8 +41346,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 67,
-      "current_best_price": 16.99,
+      "buy_score": 59,
+      "current_best_price": 19.28,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -41357,11 +41357,11 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 35,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -41484,14 +41484,19 @@
           "date": "2026-08-27",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 19.28,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-09-05T04:04:21.373018Z",
-      "last_updated": "2026-09-05T04:04:21.373020Z",
+      "last_brickwatch_alert": "2026-09-07T04:04:16.800150Z",
+      "last_updated": "2026-09-07T04:04:16.800152Z",
       "market_value": 21.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -45791,7 +45796,7 @@
           "value": 115.02
         }
       ],
-      "prev_buy_score": 66
+      "prev_buy_score": 70
     },
     "75418": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -46583,7 +46588,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
-      "prev_buy_score": 59
+      "prev_buy_score": 57
     },
     "75431": {
       "availability_score": 0,
@@ -64842,8 +64847,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 71,
-      "current_best_price": 16.19,
+      "buy_score": 70,
+      "current_best_price": 16.48,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -64853,7 +64858,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -64888,6 +64893,11 @@
           "date": "2026-08-11",
           "price": 16.19,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 16.48,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -64903,8 +64913,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-08-11T04:04:26.678010Z",
-      "last_updated": "2026-08-11T04:04:26.678012Z",
+      "last_brickwatch_alert": "2026-09-07T04:04:16.799870Z",
+      "last_updated": "2026-09-07T04:04:16.799878Z",
       "market_value": 35.49,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -65035,7 +65045,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 65,
-      "current_best_price": 16.99,
+      "current_best_price": 16.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77246-1.jpg",
       "label": "persoonlijk",
@@ -65089,10 +65099,15 @@
           "date": "2026-08-06",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 16.98,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-06T04:04:30.156956Z",
-      "last_updated": "2026-08-06T04:04:30.156957Z",
+      "last_brickwatch_alert": "2026-09-07T04:04:16.800003Z",
+      "last_updated": "2026-09-07T04:04:16.800006Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -65235,8 +65250,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 52,
-      "current_best_price": 17.89,
+      "buy_score": 53,
+      "current_best_price": 16.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -65246,7 +65261,7 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 19,
+      "price_score": 20,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
@@ -65304,10 +65319,15 @@
           "date": "2026-07-24",
           "price": 17.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 16.98,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-07-24T04:04:18.176803Z",
-      "last_updated": "2026-07-24T04:04:18.176806Z",
+      "last_brickwatch_alert": "2026-09-07T04:04:16.800083Z",
+      "last_updated": "2026-09-07T04:04:16.800086Z",
       "market_value": 25.91,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T08:18:09.131339+00:00",
