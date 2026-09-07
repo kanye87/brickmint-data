@@ -18640,8 +18640,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 64,
-      "current_best_price": 155.69,
+      "buy_score": 63,
+      "current_best_price": 156.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -18650,7 +18650,7 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 33,
+      "price_score": 32,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -18664,8 +18664,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-07T01:04:18.474429Z",
-      "last_updated": "2026-09-07T01:04:18.474436Z",
+      "last_brickwatch_alert": "2026-09-07T07:04:17.932874Z",
+      "last_updated": "2026-09-07T07:04:17.932879Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -18760,7 +18760,7 @@
         },
         {
           "date": "2026-09-07",
-          "price": 155.69,
+          "price": 156.99,
           "shop": "Brickwatch"
         }
       ],
@@ -27561,8 +27561,8 @@
     "71438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 35,
-      "current_best_price": 105.29,
+      "buy_score": 32,
+      "current_best_price": 108.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71438-1.jpg",
       "label": "persoonlijk",
@@ -27596,12 +27596,12 @@
       "name": "Super Mario World: Mario & Yoshi",
       "owned_by": 2325,
       "pieces": 1215,
-      "price_score": 16,
+      "price_score": 14,
       "purchase_price": 78.28,
       "rating": 4.6,
       "retirement_date": "2026-04-16",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 3,
@@ -27616,8 +27616,8 @@
       "urgency_score": 0,
       "wanted_by": 1181,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-03T07:04:19.306732Z",
-      "last_updated": "2026-09-03T07:04:19.306739Z",
+      "last_brickwatch_alert": "2026-09-07T07:04:17.933033Z",
+      "last_updated": "2026-09-07T07:04:17.933037Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -27712,6 +27712,11 @@
         {
           "date": "2026-09-03",
           "price": 105.29,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 108.95,
           "shop": "Brickwatch"
         }
       ],
@@ -41655,8 +41660,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 39,
-      "current_best_price": 53.19,
+      "buy_score": 40,
+      "current_best_price": 52.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -41665,7 +41670,7 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 32,
+      "price_score": 33,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -41725,10 +41730,15 @@
           "date": "2026-09-06",
           "price": 53.19,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 52.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-06T23:34:17.678942Z",
-      "last_updated": "2026-09-06T23:34:17.678944Z",
+      "last_brickwatch_alert": "2026-09-07T07:04:17.932749Z",
+      "last_updated": "2026-09-07T07:04:17.932757Z",
       "market_value": 66.48,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
