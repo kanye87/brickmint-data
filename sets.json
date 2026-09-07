@@ -18782,7 +18782,7 @@
           "value": 187.3
         }
       ],
-      "prev_buy_score": 64
+      "prev_buy_score": 63
     },
     "42184": {
       "availability_score": null,
@@ -27725,7 +27725,7 @@
       "date_first_available": "2024-07-26",
       "lego_availability": "Retail",
       "ean": "5702017592770",
-      "prev_buy_score": 35
+      "prev_buy_score": 32
     },
     "71799": {
       "availability_score": null,
@@ -41756,7 +41756,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 39
+      "prev_buy_score": 40
     },
     "75376": {
       "availability_score": 0,
@@ -43408,24 +43408,24 @@
     "75394": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 40,
-      "current_best_price": 129.0,
+      "buy_score": 34,
+      "current_best_price": 139.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75394-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-24T10:04:23.166490Z",
-      "last_updated": "2026-08-24T10:04:23.166499Z",
+      "last_brickwatch_alert": "2026-09-07T07:34:15.863178Z",
+      "last_updated": "2026-09-07T07:34:15.863182Z",
       "lowest_price_ever": null,
       "minifigs": 7,
       "msrp": 169.99,
       "name": "Imperial Star Destroyer",
       "owned_by": 7051,
       "pieces": 1555,
-      "price_score": 21,
+      "price_score": 16,
       "rating": 4.4,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -43504,6 +43504,11 @@
         {
           "date": "2026-08-24",
           "price": 129.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 139.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43777,8 +43782,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 44,
-      "current_best_price": 84.49,
+      "buy_score": 32,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -43788,11 +43793,11 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 35,
+      "price_score": 25,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 39,
@@ -43802,8 +43807,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-07T00:04:15.948641Z",
-      "last_updated": "2026-09-07T00:04:15.948651Z",
+      "last_brickwatch_alert": "2026-09-07T07:34:15.863476Z",
+      "last_updated": "2026-09-07T07:34:15.863480Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -43861,7 +43866,7 @@
         },
         {
           "date": "2026-09-07",
-          "price": 84.49,
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
@@ -46908,12 +46913,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 57,
-      "current_best_price": 109.98,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-31T18:04:19.627058Z",
-      "last_updated": "2026-08-31T18:04:19.627069Z",
+      "last_brickwatch_alert": "2026-09-07T07:34:15.863333Z",
+      "last_updated": "2026-09-07T07:34:15.863337Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
@@ -47046,6 +47051,11 @@
         {
           "date": "2026-08-31",
           "price": 109.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
@@ -47493,7 +47503,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 54,
-      "current_best_price": 49.49,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
@@ -47516,8 +47526,8 @@
       "urgency_score": 3,
       "wanted_by": 2462,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-06T23:34:17.678862Z",
-      "last_updated": "2026-09-06T23:34:17.678864Z",
+      "last_brickwatch_alert": "2026-09-07T07:34:15.863621Z",
+      "last_updated": "2026-09-07T07:34:15.863625Z",
       "subtheme": "Starship Collection",
       "price_history": [
         {
@@ -47558,6 +47568,11 @@
         {
           "date": "2026-09-06",
           "price": 49.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -57136,8 +57151,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
-      "current_best_price": 83.09,
+      "buy_score": 48,
+      "current_best_price": 80.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -57147,7 +57162,7 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 32,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -57161,8 +57176,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-07T00:04:16.138990Z",
-      "last_updated": "2026-09-07T00:04:16.138995Z",
+      "last_brickwatch_alert": "2026-09-07T07:34:15.863019Z",
+      "last_updated": "2026-09-07T07:34:15.863029Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -57237,7 +57252,7 @@
         },
         {
           "date": "2026-09-07",
-          "price": 83.09,
+          "price": 80.99,
           "shop": "Brickwatch"
         }
       ],
