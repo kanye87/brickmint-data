@@ -41510,7 +41510,7 @@
           "value": 21.5
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 59,
       "purchase_price": 17.99
     },
     "75373": {
@@ -64928,7 +64928,7 @@
           "value": 35.49
         }
       ],
-      "prev_buy_score": 71,
+      "prev_buy_score": 70,
       "purchase_price": 12,
       "sell_roi_score": 54,
       "sell_trend_score": 0,
@@ -65341,7 +65341,7 @@
           "value": 25.91
         }
       ],
-      "prev_buy_score": 52
+      "prev_buy_score": 53
     },
     "77250": {
       "availability_score": 0,
