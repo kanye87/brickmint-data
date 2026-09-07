@@ -18630,8 +18630,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 54,
-      "current_best_price": 178.99,
+      "buy_score": 64,
+      "current_best_price": 155.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -18640,11 +18640,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 24,
+      "price_score": 33,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -18654,8 +18654,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-08-27T04:04:13.437158Z",
-      "last_updated": "2026-08-27T04:04:13.437160Z",
+      "last_brickwatch_alert": "2026-09-07T01:04:18.474429Z",
+      "last_updated": "2026-09-07T01:04:18.474436Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -18746,6 +18746,11 @@
         {
           "date": "2026-08-27",
           "price": 178.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 155.69,
           "shop": "Brickwatch"
         }
       ],
@@ -47018,7 +47023,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 50,
+      "buy_score": 47,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -47027,10 +47032,10 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 26,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -47044,9 +47049,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 27.9,
-      "last_brickwatch_alert": "2026-09-04T09:04:18.165134Z",
-      "last_updated": "2026-09-04T09:04:18.165138Z",
+      "current_best_price": 28.99,
+      "last_brickwatch_alert": "2026-09-07T01:04:18.474716Z",
+      "last_updated": "2026-09-07T01:04:18.474719Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -47110,6 +47115,11 @@
         {
           "date": "2026-09-04",
           "price": 27.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 28.99,
           "shop": "Brickwatch"
         }
       ],
@@ -64164,7 +64174,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": null,
-      "current_best_price": 349.0,
+      "current_best_price": 350.2,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -64189,8 +64199,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-08-24T10:34:17.457974Z",
-      "last_updated": "2026-08-24T10:34:17.457977Z",
+      "last_brickwatch_alert": "2026-09-07T01:04:18.474561Z",
+      "last_updated": "2026-09-07T01:04:18.474565Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -64360,6 +64370,11 @@
         {
           "date": "2026-08-24",
           "price": 349.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 350.2,
           "shop": "Brickwatch"
         }
       ],
