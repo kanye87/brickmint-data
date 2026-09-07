@@ -4526,7 +4526,7 @@
           "value": 46.3
         }
       ],
-      "prev_buy_score": 30
+      "prev_buy_score": 25
     },
     "10497": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
@@ -41004,8 +41004,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 55,
-      "current_best_price": 489.0,
+      "buy_score": 53,
+      "current_best_price": 499.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -41015,7 +41015,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 22,
+      "price_score": 20,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -41090,14 +41090,19 @@
           "date": "2026-08-24",
           "price": 489.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 499.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-08-24T10:34:17.457665Z",
-      "last_updated": "2026-08-24T10:34:17.457667Z",
+      "last_brickwatch_alert": "2026-09-07T02:04:16.059238Z",
+      "last_updated": "2026-09-07T02:04:16.059247Z",
       "market_value": 562.72,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -45677,18 +45682,18 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 66,
-      "current_best_price": 129.99,
+      "buy_score": 70,
+      "current_best_price": 119.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 121.59,
+      "lowest_price_ever": 119.59,
       "minifigs": 1,
       "msrp": 199.99,
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 31,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
@@ -45702,8 +45707,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-02T04:04:14.461317Z",
-      "last_updated": "2026-09-02T04:04:14.461321Z",
+      "last_brickwatch_alert": "2026-09-07T02:04:15.768996Z",
+      "last_updated": "2026-09-07T02:04:15.769000Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -45757,6 +45762,11 @@
         {
           "date": "2026-09-02",
           "price": 129.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 119.59,
           "shop": "Brickwatch"
         }
       ],
@@ -46422,20 +46432,20 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 59,
-      "current_best_price": 92.9,
+      "buy_score": 57,
+      "current_best_price": 94.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-24T10:04:23.166942Z",
-      "last_updated": "2026-08-24T10:04:23.166945Z",
+      "last_brickwatch_alert": "2026-09-07T02:04:15.768767Z",
+      "last_updated": "2026-09-07T02:04:15.768776Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 20,
+      "price_score": 18,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -46547,6 +46557,11 @@
         {
           "date": "2026-08-24",
           "price": 92.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-07",
+          "price": 94.99,
           "shop": "Brickwatch"
         }
       ],
