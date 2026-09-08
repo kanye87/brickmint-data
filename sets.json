@@ -20084,7 +20084,7 @@
           "value": 29.14
         }
       ],
-      "prev_buy_score": 42
+      "prev_buy_score": 49
     },
     "43012": {
       "availability_score": 0,
@@ -20185,7 +20185,7 @@
           "value": 30.6
         }
       ],
-      "prev_buy_score": 46
+      "prev_buy_score": 50
     },
     "43013": {
       "availability_score": 0,
@@ -20287,7 +20287,7 @@
           "value": 29.49
         }
       ],
-      "prev_buy_score": 42
+      "prev_buy_score": 49
     },
     "43014": {
       "availability_score": 0,
@@ -64847,7 +64847,7 @@
           "value": 23.19
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 64,
       "purchase_price": 12,
       "sell_roi_score": 38,
       "sell_trend_score": 0,
@@ -64943,7 +64943,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 69
+      "prev_buy_score": 67
     },
     "77244": {
       "availability_score": 0,
@@ -65767,7 +65767,7 @@
           "value": 25.02
         }
       ],
-      "prev_buy_score": 79
+      "prev_buy_score": 85
     },
     "77985": {
       "availability_score": 0,
