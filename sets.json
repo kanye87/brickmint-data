@@ -30410,7 +30410,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 56,
+      "buy_score": 51,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -30419,11 +30419,11 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 34,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -30437,9 +30437,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 123.95,
-      "last_brickwatch_alert": "2026-09-06T18:34:13.835246Z",
-      "last_updated": "2026-09-06T18:34:13.835255Z",
+      "current_best_price": 129.95,
+      "last_brickwatch_alert": "2026-09-08T15:04:20.567864Z",
+      "last_updated": "2026-09-08T15:04:20.567868Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -30525,6 +30525,11 @@
         {
           "date": "2026-09-06",
           "price": 123.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 129.95,
           "shop": "Brickwatch"
         }
       ],
@@ -43932,7 +43937,7 @@
           "value": 136.16
         }
       ],
-      "prev_buy_score": 32,
+      "prev_buy_score": 40,
       "purchase_price": 80.0,
       "sell_roi_score": 33,
       "sell_trend_score": 0,
@@ -47434,8 +47439,8 @@
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 44,
-      "current_best_price": 46.99,
+      "buy_score": 49,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -47444,7 +47449,7 @@
       "name": "AT-AT",
       "owned_by": 2411,
       "pieces": 525,
-      "price_score": 22,
+      "price_score": 27,
       "rating": 3.9,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -47459,9 +47464,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-09-07T08:04:28.222204Z",
+      "last_updated": "2026-09-08T15:04:20.567648Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-09-07T08:04:28.222198Z",
+      "last_brickwatch_alert": "2026-09-08T15:04:20.567637Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47516,6 +47521,11 @@
         {
           "date": "2026-09-07",
           "price": 46.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 42.99,
           "shop": "Brickwatch"
         }
       ],
