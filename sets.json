@@ -19993,19 +19993,19 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
+      "buy_score": 49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 17.99,
+      "lowest_price_ever": 16.5,
       "msrp": 29.99,
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
       "pieces": 500,
-      "price_score": 29,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -20031,9 +20031,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 19.99,
-      "last_brickwatch_alert": "2026-08-03T15:34:21.383507Z",
-      "last_updated": "2026-08-03T15:34:21.383519Z",
+      "current_best_price": 16.5,
+      "last_brickwatch_alert": "2026-09-08T04:04:17.441884Z",
+      "last_updated": "2026-09-08T04:04:17.441892Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -20064,6 +20064,11 @@
           "date": "2026-08-03",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
+          "shop": "Brickwatch"
         }
       ],
       "market_value": 29.14,
@@ -20084,8 +20089,8 @@
     "43012": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 46,
-      "current_best_price": 19.0,
+      "buy_score": 50,
+      "current_best_price": 16.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -20094,10 +20099,10 @@
       "name": "Cristiano Ronaldo – Football Highlights",
       "owned_by": 467,
       "pieces": 490,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -20111,8 +20116,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-07-19T12:34:20.525801Z",
-      "last_updated": "2026-07-19T12:34:20.525810Z",
+      "last_brickwatch_alert": "2026-09-08T04:04:17.668474Z",
+      "last_updated": "2026-09-08T04:04:17.668483Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -20148,6 +20153,11 @@
           "date": "2026-07-19",
           "price": 19.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -20180,8 +20190,8 @@
     "43013": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 19.99,
+      "buy_score": 49,
+      "current_best_price": 16.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -20190,10 +20200,10 @@
       "name": "Kylian Mbappé – Football Highlights",
       "owned_by": 151,
       "pieces": 490,
-      "price_score": 29,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -20247,10 +20257,15 @@
           "date": "2026-08-05",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-05T18:34:30.690619Z",
-      "last_updated": "2026-08-05T18:34:30.690625Z",
+      "last_brickwatch_alert": "2026-09-08T04:04:17.668589Z",
+      "last_updated": "2026-09-08T04:04:17.668593Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -64702,8 +64717,8 @@
     "77242": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 58,
-      "current_best_price": 17.99,
+      "buy_score": 64,
+      "current_best_price": 16.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
       "label": "persoonlijk",
@@ -64713,11 +64728,11 @@
       "name": "Ferrari SF-24",
       "owned_by": 8164,
       "pieces": 275,
-      "price_score": 26,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 38,
@@ -64728,8 +64743,8 @@
       "wanted_by": 1102,
       "year": 2025,
       "subtheme": "Formula 1",
-      "last_brickwatch_alert": "2026-08-25T09:34:16.906870Z",
-      "last_updated": "2026-08-25T09:34:16.906880Z",
+      "last_brickwatch_alert": "2026-09-08T04:04:17.668865Z",
+      "last_updated": "2026-09-08T04:04:17.668869Z",
       "minifig_list": [
         {
           "id": "fig-016097",
@@ -64808,6 +64823,11 @@
           "date": "2026-08-25",
           "price": 17.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -64837,8 +64857,8 @@
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 69,
-      "current_best_price": 16.19,
+      "buy_score": 67,
+      "current_best_price": 16.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
       "label": "persoonlijk",
@@ -64848,12 +64868,12 @@
       "name": "Oracle Red Bull Racing RB20",
       "owned_by": 7985,
       "pieces": 251,
-      "price_score": 35,
+      "price_score": 34,
       "purchase_price": 8.67,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 56,
@@ -64897,10 +64917,15 @@
           "date": "2026-08-01",
           "price": 16.19,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-08-22T04:04:15.212863Z",
-      "last_updated": "2026-08-22T04:04:15.212867Z",
+      "last_brickwatch_alert": "2026-09-08T04:04:17.668789Z",
+      "last_updated": "2026-09-08T04:04:17.668793Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -65602,8 +65627,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 79,
-      "current_best_price": 18.57,
+      "buy_score": 85,
+      "current_best_price": 16.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -65613,11 +65638,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -65636,8 +65661,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-08-06T04:04:30.157002Z",
-      "last_updated": "2026-08-06T04:04:30.157003Z",
+      "last_brickwatch_alert": "2026-09-08T04:04:17.668705Z",
+      "last_updated": "2026-09-08T04:04:17.668709Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -65717,6 +65742,11 @@
         {
           "date": "2026-08-06",
           "price": 18.57,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 16.5,
           "shop": "Brickwatch"
         }
       ],
