@@ -46981,20 +46981,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 57,
-      "current_best_price": 109.99,
+      "buy_score": 59,
+      "current_best_price": 106.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-07T07:34:15.863333Z",
-      "last_updated": "2026-09-07T07:34:15.863337Z",
+      "last_brickwatch_alert": "2026-09-08T22:34:20.582140Z",
+      "last_updated": "2026-09-08T22:34:20.582149Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 22,
+      "price_score": 24,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -47125,6 +47125,11 @@
         {
           "date": "2026-09-07",
           "price": 109.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 106.99,
           "shop": "Brickwatch"
         }
       ],
