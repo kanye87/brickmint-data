@@ -43822,8 +43822,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 99.99,
+      "buy_score": 40,
+      "current_best_price": 89.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -43833,11 +43833,11 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 25,
+      "price_score": 32,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 39,
@@ -43847,8 +43847,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-07T07:34:15.863476Z",
-      "last_updated": "2026-09-07T07:34:15.863480Z",
+      "last_brickwatch_alert": "2026-09-08T14:34:23.714572Z",
+      "last_updated": "2026-09-08T14:34:23.714579Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -43907,6 +43907,11 @@
         {
           "date": "2026-09-07",
           "price": 99.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-08",
+          "price": 89.99,
           "shop": "Brickwatch"
         }
       ],
