@@ -20492,7 +20492,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 46,
-      "current_best_price": 47.06,
+      "current_best_price": 47.04,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -20588,13 +20588,18 @@
           "date": "2026-09-03",
           "price": 47.06,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-10",
+          "price": 47.04,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-09-03T22:34:16.067512Z",
-      "last_updated": "2026-09-03T22:34:16.067517Z",
+      "last_brickwatch_alert": "2026-09-10T22:04:21.908457Z",
+      "last_updated": "2026-09-10T22:04:21.908460Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 58.11,
       "market_value_source": "ebay",
@@ -42050,8 +42055,8 @@
     "75378": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 28,
-      "current_best_price": 24.74,
+      "buy_score": 35,
+      "current_best_price": 22.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75378-1.jpg",
       "label": "investering",
@@ -42086,7 +42091,7 @@
       "name": "BARC Speeder Escape ",
       "owned_by": 9532,
       "pieces": 221,
-      "price_score": 13,
+      "price_score": 20,
       "rating": 3.5,
       "retirement_date": "2025-10-19",
       "retirement_status": "retired",
@@ -42100,8 +42105,8 @@
       "urgency_score": 0,
       "wanted_by": 1826,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-05T04:04:21.373048Z",
-      "last_updated": "2026-09-05T04:04:21.373049Z",
+      "last_brickwatch_alert": "2026-09-10T22:04:21.908275Z",
+      "last_updated": "2026-09-10T22:04:21.908285Z",
       "subtheme": "The Mandalorian",
       "minifig_list": [
         {
@@ -42187,6 +42192,11 @@
         {
           "date": "2026-09-05",
           "price": 24.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-10",
+          "price": 22.0,
           "shop": "Brickwatch"
         }
       ],
