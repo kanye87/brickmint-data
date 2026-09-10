@@ -40190,10 +40190,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 68.37,
+      "current_best_price": 68.33,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-09T05:34:14.968886Z",
-      "last_updated": "2026-09-09T05:34:14.968890Z",
+      "last_brickwatch_alert": "2026-09-10T03:04:17.766378Z",
+      "last_updated": "2026-09-10T03:04:17.766388Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -40358,6 +40358,11 @@
         {
           "date": "2026-09-09",
           "price": 68.37,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-10",
+          "price": 68.33,
           "shop": "Brickwatch"
         }
       ],
