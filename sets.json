@@ -30900,7 +30900,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72153-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 584.99,
+      "lowest_price_ever": 583.99,
       "msrp": 649.99,
       "name": "Venusaur, Charizard and Blastoise",
       "owned_by": 915,
@@ -30925,9 +30925,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 584.99,
-      "last_brickwatch_alert": "2026-08-31T03:04:16.421812Z",
-      "last_updated": "2026-08-31T03:04:16.421814Z",
+      "current_best_price": 583.99,
+      "last_brickwatch_alert": "2026-09-11T14:34:15.596823Z",
+      "last_updated": "2026-09-11T14:34:15.596832Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -30947,6 +30947,11 @@
         {
           "date": "2026-08-31",
           "price": 584.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-11",
+          "price": 583.99,
           "shop": "Brickwatch"
         }
       ],
@@ -37280,7 +37285,7 @@
       "date_first_available": "2022-08-04",
       "lego_availability": "Retail",
       "ean": "5702017155494",
-      "prev_buy_score": 37,
+      "prev_buy_score": 27,
       "last_brickwatch_alert": "2026-09-11T13:04:18.601569Z",
       "last_updated": "2026-09-11T13:04:18.601576Z"
     },
