@@ -20837,19 +20837,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 54,
-      "current_best_price": 59.99,
+      "buy_score": 57,
+      "current_best_price": 56.53,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-05T04:04:21.372938Z",
-      "last_updated": "2026-09-05T04:04:21.372940Z",
+      "last_brickwatch_alert": "2026-09-11T04:04:23.122462Z",
+      "last_updated": "2026-09-11T04:04:23.122471Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -20944,6 +20944,11 @@
         {
           "date": "2026-09-05",
           "price": 59.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-11",
+          "price": 56.53,
           "shop": "Brickwatch"
         }
       ],
@@ -40224,10 +40229,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 68.33,
+      "current_best_price": 68.23,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-10T03:04:17.766378Z",
-      "last_updated": "2026-09-10T03:04:17.766388Z",
+      "last_brickwatch_alert": "2026-09-11T04:04:23.122790Z",
+      "last_updated": "2026-09-11T04:04:23.122794Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -40397,6 +40402,11 @@
         {
           "date": "2026-09-10",
           "price": 68.33,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-11",
+          "price": 68.23,
           "shop": "Brickwatch"
         }
       ],
@@ -65433,7 +65443,7 @@
     },
     "77247": {
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "current_best_price": 14.99,
+      "current_best_price": 80.67,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77247-1.jpg",
       "label": "investering",
@@ -65500,13 +65510,20 @@
           "date": "2026-05-14",
           "price": 14.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-11",
+          "price": 80.67,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2025-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816142",
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "last_brickwatch_alert": "2026-09-11T04:04:23.122634Z",
+      "last_updated": "2026-09-11T04:04:23.122638Z"
     },
     "77248": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
