@@ -1828,7 +1828,7 @@
     },
     "10316": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
-      "current_best_price": 403.99,
+      "current_best_price": 439.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10316-1.jpg",
       "label": "persoonlijk",
@@ -1854,8 +1854,8 @@
       "theme": "Icons",
       "wanted_by": 7096,
       "year": 2023,
-      "last_brickwatch_alert": "2026-09-02T04:04:14.461146Z",
-      "last_updated": "2026-09-02T04:04:14.461154Z",
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232511Z",
+      "last_updated": "2026-09-12T04:04:19.232515Z",
       "minifig_list": [
         {
           "id": "fig-013614",
@@ -1972,13 +1972,13 @@
           "value": null
         }
       ],
-      "price_score": 35,
+      "price_score": 22,
       "roi_score": 5,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 70,
+      "buy_score": 57,
       "expected_retirement": "2026-12",
       "date_first_available": "2023-02-09",
       "lego_availability": "LEGO exclusive",
@@ -2042,6 +2042,11 @@
         {
           "date": "2026-08-21",
           "price": 403.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-12",
+          "price": 439.0,
           "shop": "Brickwatch"
         }
       ],
@@ -42268,20 +42273,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 63.99,
+      "buy_score": 33,
+      "current_best_price": 62.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-07T08:04:28.221952Z",
-      "last_updated": "2026-09-07T08:04:28.221963Z",
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232582Z",
+      "last_updated": "2026-09-12T04:04:19.232585Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -42355,6 +42360,11 @@
         {
           "date": "2026-09-07",
           "price": 63.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-12",
+          "price": 62.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48066,8 +48076,8 @@
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 46,
-      "current_best_price": 54.99,
+      "buy_score": 48,
+      "current_best_price": 52.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -48077,11 +48087,11 @@
       "name": "BB-8",
       "owned_by": 998,
       "pieces": 569,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -48132,6 +48142,11 @@
           "date": "2026-09-09",
           "price": 54.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-12",
+          "price": 52.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -48147,8 +48162,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-09-09T04:04:18.384742Z",
-      "last_updated": "2026-09-09T04:04:18.384745Z",
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232428Z",
+      "last_updated": "2026-09-12T04:04:19.232432Z",
       "market_value": 75.09,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-08-15T06:23:44.589427+00:00",
@@ -65601,8 +65616,8 @@
       "lego_availability": "Retail",
       "ean": "5702017816142",
       "prev_buy_score": null,
-      "last_brickwatch_alert": "2026-09-11T04:04:23.122634Z",
-      "last_updated": "2026-09-11T04:04:23.122638Z"
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232734Z",
+      "last_updated": "2026-09-12T04:04:19.232737Z"
     },
     "77248": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -66067,9 +66082,9 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 56,
-      "current_best_price": 61.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 45,
+      "current_best_price": 72.9,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -66077,10 +66092,10 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 33,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -66090,8 +66105,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-27T04:04:13.437113Z",
-      "last_updated": "2026-08-27T17:10:59.839951Z",
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232646Z",
+      "last_updated": "2026-09-12T04:04:19.232649Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -66184,6 +66199,11 @@
           "date": "2026-08-27",
           "price": 61.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-09-12",
+          "price": 72.9,
+          "shop": "Brickwatch"
         }
       ],
       "date_first_available": "2026-04-09",
@@ -76437,8 +76457,8 @@
           "value": 107.71
         }
       ],
-      "last_brickwatch_alert": "2026-09-04T04:04:21.804588Z",
-      "last_updated": "2026-09-04T04:04:21.804591Z",
+      "last_brickwatch_alert": "2026-09-12T04:04:19.232322Z",
+      "last_updated": "2026-09-12T04:04:19.232327Z",
       "price_history": [
         {
           "date": "2026-09-04",
