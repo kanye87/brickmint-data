@@ -2412,7 +2412,7 @@
           "value": 301.74
         }
       ],
-      "prev_buy_score": 38,
+      "prev_buy_score": 40,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -2713,7 +2713,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
-      "prev_buy_score": 38
+      "prev_buy_score": 41
     },
     "10331": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -3708,7 +3708,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
-      "prev_buy_score": 39
+      "prev_buy_score": 40
     },
     "10355": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -4450,7 +4450,7 @@
           "value": 100.06
         }
       ],
-      "prev_buy_score": 36
+      "prev_buy_score": 37
     },
     "10370": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -4577,7 +4577,7 @@
           "value": 81.88
         }
       ],
-      "prev_buy_score": 25
+      "prev_buy_score": 30
     },
     "10497": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
@@ -5233,7 +5233,7 @@
       "sell_trend_score": 13,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43
+      "prev_buy_score": 41
     },
     "11986": {
       "brickset_last_enriched": "2026-09-13T21:59:13Z",
@@ -10369,7 +10369,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 51
+      "prev_buy_score": 48
     },
     "31213": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -15879,7 +15879,7 @@
           "value": 22.95
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 51,
       "purchase_price": 12.99,
       "sell_roi_score": 34,
       "sell_trend_score": 0,
@@ -18011,7 +18011,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 9,
-      "prev_buy_score": 24
+      "prev_buy_score": 22
     },
     "42151": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -18544,7 +18544,7 @@
           "value": 180.0
         }
       ],
-      "prev_buy_score": 53
+      "prev_buy_score": 56
     },
     "42172": {
       "availability_score": 10,
@@ -18647,7 +18647,7 @@
           "value": 339.06
         }
       ],
-      "prev_buy_score": 36
+      "prev_buy_score": 38
     },
     "42173": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -19534,7 +19534,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 36
+      "prev_buy_score": 40
     },
     "42207": {
       "availability_score": 0,
@@ -19630,7 +19630,7 @@
           "value": 160.0
         }
       ],
-      "prev_buy_score": 29
+      "prev_buy_score": 27
     },
     "42208": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -20093,7 +20093,7 @@
           "value": 208.58
         }
       ],
-      "prev_buy_score": 34
+      "prev_buy_score": 38
     },
     "43010": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -21573,7 +21573,7 @@
           "value": 109.13
         }
       ],
-      "prev_buy_score": 22
+      "prev_buy_score": 21
     },
     "43249": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -27758,7 +27758,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 30
+      "prev_buy_score": 28
     },
     "71438": {
       "availability_score": 0,
@@ -43553,7 +43553,7 @@
           "value": 13.75
         }
       ],
-      "prev_buy_score": 18,
+      "prev_buy_score": 13,
       "purchase_price": 10.0
     },
     "75392": {
@@ -44925,7 +44925,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 43
+      "prev_buy_score": 44
     },
     "75406": {
       "availability_score": 0,
