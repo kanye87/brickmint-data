@@ -38251,7 +38251,7 @@
       "sell_liquidity_score": 2,
       "last_brickwatch_alert": "2026-09-10T13:04:16.898961Z",
       "last_updated": "2026-09-10T13:04:16.898972Z",
-      "prev_buy_score": 17
+      "prev_buy_score": 18
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -46090,7 +46090,7 @@
           "value": 172.93
         }
       ],
-      "prev_buy_score": 69
+      "prev_buy_score": 74
     },
     "75418": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
