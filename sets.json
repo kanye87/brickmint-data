@@ -55762,8 +55762,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 55,
-      "current_best_price": 276.03,
+      "buy_score": 56,
+      "current_best_price": 272.73,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -55773,7 +55773,7 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 10,
+      "price_score": 11,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -56016,7 +56016,7 @@
         },
         {
           "date": "2026-09-14",
-          "price": 276.03,
+          "price": 272.73,
           "shop": "Brickwatch"
         }
       ],
@@ -56146,8 +56146,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-batman-arkham-asylum-76300-412025",
-      "last_updated": "2026-09-14T10:04:18.368104Z",
-      "last_brickwatch_alert": "2026-09-14T10:04:18.368095Z",
+      "last_updated": "2026-09-14T21:34:15.431585Z",
+      "last_brickwatch_alert": "2026-09-14T21:34:15.431575Z",
       "market_value": 151.32,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -66671,7 +66671,7 @@
           "value": 102.06
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 46,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256",
       "purchase_price": 61.0
     },
