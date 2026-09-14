@@ -2548,9 +2548,9 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 41,
-      "current_best_price": 38.69,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 27,
+      "current_best_price": 51.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
       "lowest_price_ever": 38.69,
@@ -2559,11 +2559,11 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -2582,8 +2582,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-08-19T16:04:33.441643Z",
-      "last_updated": "2026-08-19T16:21:49.517225Z",
+      "last_brickwatch_alert": "2026-09-14T04:04:15.406984Z",
+      "last_updated": "2026-09-14T04:04:15.406986Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -2693,6 +2693,11 @@
           "date": "2026-08-19",
           "price": 38.69,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 51.99,
+          "shop": "Brickwatch"
         }
       ],
       "market_value": 44.86,
@@ -20426,8 +20431,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 58,
-      "current_best_price": 59.99,
+      "buy_score": 60,
+      "current_best_price": 58.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -20436,7 +20441,7 @@
       "name": "Scuderia Ferrari HP Charles Leclerc Helmet",
       "owned_by": 71,
       "pieces": 886,
-      "price_score": 29,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 4,
@@ -20479,8 +20484,8 @@
           "value": 75.62
         }
       ],
-      "last_brickwatch_alert": "2026-09-10T04:04:19.376093Z",
-      "last_updated": "2026-09-10T04:04:19.376096Z",
+      "last_brickwatch_alert": "2026-09-14T04:04:15.406934Z",
+      "last_updated": "2026-09-14T04:04:15.406936Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -20581,6 +20586,11 @@
         {
           "date": "2026-09-10",
           "price": 59.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 58.49,
           "shop": "Brickwatch"
         }
       ],
@@ -20946,19 +20956,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 57,
-      "current_best_price": 56.53,
+      "buy_score": 53,
+      "current_best_price": 60.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-11T04:04:23.122462Z",
-      "last_updated": "2026-09-11T04:04:23.122471Z",
+      "last_brickwatch_alert": "2026-09-14T04:04:15.406869Z",
+      "last_updated": "2026-09-14T04:04:15.406872Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 32,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -21058,6 +21068,11 @@
         {
           "date": "2026-09-11",
           "price": 56.53,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 60.98,
           "shop": "Brickwatch"
         }
       ],
@@ -45008,8 +45023,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 48,
-      "current_best_price": 43.39,
+      "buy_score": 49,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -45018,7 +45033,7 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 33,
+      "price_score": 34,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -45110,10 +45125,15 @@
           "date": "2026-09-06",
           "price": 43.39,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 42.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-06T23:34:17.678736Z",
-      "last_updated": "2026-09-06T23:34:17.678744Z",
+      "last_brickwatch_alert": "2026-09-14T04:04:15.406732Z",
+      "last_updated": "2026-09-14T04:04:15.406741Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
