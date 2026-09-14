@@ -27948,7 +27948,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": null,
-      "current_best_price": 417.24,
+      "current_best_price": 419.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71799-1.jpg",
       "label": "investering",
@@ -28032,6 +28032,11 @@
         {
           "date": "2026-09-04",
           "price": 417.24,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 419.0,
           "shop": "Brickwatch"
         }
       ],
@@ -28188,8 +28193,8 @@
       "date_first_available": "2023-05-12",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017435787",
-      "last_brickwatch_alert": "2026-09-04T15:04:26.955908Z",
-      "last_updated": "2026-09-04T15:04:26.955917Z",
+      "last_brickwatch_alert": "2026-09-14T06:04:13.581418Z",
+      "last_updated": "2026-09-14T06:04:13.581426Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/beschikbaarheidsdeal-lego-71799-ninjago-city-markets-weer-beschikbaar-voor-de-adviesprijs-413950",
       "prev_buy_score": null,
       "status_source": "app",
