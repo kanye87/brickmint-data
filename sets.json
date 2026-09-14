@@ -2718,7 +2718,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
-      "prev_buy_score": 41
+      "prev_buy_score": 27
     },
     "10331": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -20603,7 +20603,7 @@
           "image_url": null
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 60,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-43014-editions-scuderia-ferrari-hp-charles-leclerc-helm-laagste-prijs-ooit-at-amazon-416271",
       "purchase_price": 70.0
     },
@@ -21085,7 +21085,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-017577/173871.jpg"
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 53,
       "purchase_price": 70.0
     },
     "43027": {
@@ -30032,8 +30032,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 60,
-      "current_best_price": 107.99,
+      "buy_score": 48,
+      "current_best_price": 125.85,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -30042,11 +30042,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 34,
+      "price_score": 24,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -30056,8 +30056,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-13T10:04:17.969829Z",
-      "last_updated": "2026-09-13T10:04:17.969838Z",
+      "last_brickwatch_alert": "2026-09-14T04:34:17.143320Z",
+      "last_updated": "2026-09-14T04:34:17.143328Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -30193,6 +30193,11 @@
         {
           "date": "2026-09-13",
           "price": 107.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-14",
+          "price": 125.85,
           "shop": "Brickwatch"
         }
       ],
@@ -45156,7 +45161,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 48
+      "prev_buy_score": 49
     },
     "75408": {
       "availability_score": 0,
