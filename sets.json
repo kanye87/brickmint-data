@@ -31549,7 +31549,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 674.99,
+      "current_best_price": 654.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -31580,15 +31580,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 14,
+      "price_score": 16,
       "roi_score": 0,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 44,
-      "last_brickwatch_alert": "2026-08-31T03:04:16.751689Z",
-      "last_updated": "2026-08-31T03:04:16.751699Z",
+      "buy_score": 46,
+      "last_brickwatch_alert": "2026-09-15T12:34:18.241544Z",
+      "last_updated": "2026-09-15T12:34:18.241547Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -31677,6 +31677,11 @@
         {
           "date": "2026-08-31",
           "price": 674.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-15",
+          "price": 654.74,
           "shop": "Brickwatch"
         }
       ],
@@ -40021,7 +40026,7 @@
     },
     "75351": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 62.02,
+      "current_best_price": 63.0,
       "date_first_available": "2023-01-28",
       "ean": "5702017433509",
       "expected_retirement": "2025-03",
@@ -40081,8 +40086,8 @@
       "year": 2023,
       "subtheme": "Helmet Collection",
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-15T08:34:13.913233Z",
-      "last_updated": "2026-09-15T08:34:13.913243Z",
+      "last_brickwatch_alert": "2026-09-15T12:34:18.241322Z",
+      "last_updated": "2026-09-15T12:34:18.241333Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -40131,7 +40136,7 @@
         },
         {
           "date": "2026-09-15",
-          "price": 62.02,
+          "price": 63.0,
           "shop": "Brickwatch"
         }
       ],
@@ -56195,7 +56200,7 @@
           "value": 151.32
         }
       ],
-      "prev_buy_score": 56
+      "prev_buy_score": 45
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
