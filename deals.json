@@ -1,12 +1,4 @@
 {
-  "11389": {
-    "set_number": "11389",
-    "current_price": 93.22,
-    "discount_percentage": -15,
-    "url": "https://www.brickwatch.net/in/toppicks/11389/Project-Hail-Mary.html/6169",
-    "source_subject": "Brickwatch Amazon Top Picks",
-    "last_seen": "2026-08-16T04:04:15.979944Z"
-  },
   "75461": {
     "set_number": "75461",
     "current_price": 79.99,
@@ -30,5 +22,13 @@
     "url": "https://www.brickwatch.net/in/toppicks/42671/Plant-Cafe-Flower-Shop.html/6169",
     "source_subject": "Brickwatch Amazon Top Picks",
     "last_seen": "2026-08-21T04:04:15.043992Z"
+  },
+  "71872": {
+    "set_number": "71872",
+    "current_price": 129.99,
+    "discount_percentage": -35,
+    "url": "https://www.brickwatch.net/in/toppicks/71872/Ultra-Dragon-Battle.html/6169",
+    "source_subject": "Brickwatch Amazon Top Picks",
+    "last_seen": "2026-09-15T04:04:17.229198Z"
   }
 }
