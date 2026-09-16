@@ -60548,7 +60548,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-09-16T03:34:16.518204Z",
       "last_updated": "2026-09-16T03:34:16.518211Z",
-      "prev_buy_score": 50,
+      "prev_buy_score": 43,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.7,
@@ -65678,8 +65678,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-08T04:04:17.668789Z",
-      "last_updated": "2026-09-08T04:04:17.668793Z",
+      "last_brickwatch_alert": "2026-09-16T04:04:54.365167Z",
+      "last_updated": "2026-09-16T04:04:54.365174Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -76714,10 +76714,10 @@
           "value": 171.84
         }
       ],
-      "current_best_price": 128.02,
+      "current_best_price": 127.77,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-01T04:04:16.499023Z",
-      "last_updated": "2026-09-01T04:04:16.499026Z",
+      "last_brickwatch_alert": "2026-09-16T04:04:54.365280Z",
+      "last_updated": "2026-09-16T04:04:54.365285Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -76732,6 +76732,11 @@
         {
           "date": "2026-09-01",
           "price": 128.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 127.77,
           "shop": "Brickwatch"
         }
       ]
