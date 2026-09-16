@@ -21324,7 +21324,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 38
+      "prev_buy_score": 26
     },
     "43217": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -45394,24 +45394,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 32,
-      "current_best_price": 267.18,
+      "buy_score": 34,
+      "current_best_price": 260.53,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-10T19:34:20.518458Z",
-      "last_updated": "2026-09-10T19:34:20.518467Z",
+      "last_brickwatch_alert": "2026-09-16T13:34:21.498441Z",
+      "last_updated": "2026-09-16T13:34:21.498449Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 10,
+      "price_score": 11,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -45635,6 +45635,11 @@
         {
           "date": "2026-09-10",
           "price": 267.18,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 260.53,
           "shop": "Brickwatch"
         }
       ],
