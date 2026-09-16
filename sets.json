@@ -21240,22 +21240,22 @@
     "43032": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 38,
-      "current_best_price": 21.99,
+      "buy_score": 26,
+      "current_best_price": 24.83,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43032-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-05-24T00:04:15.671373Z",
-      "last_updated": "2026-05-24T00:04:15.671377Z",
+      "last_brickwatch_alert": "2026-09-16T12:04:16.803397Z",
+      "last_updated": "2026-09-16T12:04:16.803403Z",
       "lowest_price_ever": null,
       "msrp": 24.99,
       "name": "FIFA World Cup 2026 Official Emblem",
       "owned_by": 33,
       "pieces": 298,
-      "price_score": 10,
+      "price_score": 1,
       "rating": 0.0,
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -21315,6 +21315,11 @@
         {
           "date": "2026-05-24",
           "price": 21.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 24.83,
           "shop": "Brickwatch"
         }
       ],
@@ -21515,7 +21520,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 21,
-      "current_best_price": 109.99,
+      "current_best_price": 110.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -21540,8 +21545,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-09-07T06:04:19.036133Z",
-      "last_updated": "2026-09-07T06:04:19.036144Z",
+      "last_brickwatch_alert": "2026-09-16T12:04:16.803176Z",
+      "last_updated": "2026-09-16T12:04:16.803190Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21596,6 +21601,11 @@
         {
           "date": "2026-09-07",
           "price": 109.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 110.0,
           "shop": "Brickwatch"
         }
       ],
