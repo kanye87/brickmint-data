@@ -44942,8 +44942,8 @@
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 45,
-      "current_best_price": 48.99,
+      "buy_score": 44,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75405-1.jpg",
       "label": "investering",
@@ -44952,7 +44952,7 @@
       "name": "Home One Starcruiser",
       "owned_by": 4992,
       "pieces": 559,
-      "price_score": 26,
+      "price_score": 25,
       "purchase_price": 39.99,
       "rating": 3.8,
       "retirement_date": "2026-07-31",
@@ -44970,8 +44970,8 @@
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "last_brickwatch_alert": "2026-09-15T03:34:16.168042Z",
-      "last_updated": "2026-09-15T03:34:16.168051Z",
+      "last_brickwatch_alert": "2026-09-16T18:04:21.046815Z",
+      "last_updated": "2026-09-16T18:04:21.046824Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45041,6 +45041,11 @@
         {
           "date": "2026-09-15",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
