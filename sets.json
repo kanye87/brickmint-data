@@ -5478,7 +5478,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 154.99,
+      "current_best_price": 147.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -5551,11 +5551,16 @@
           "date": "2026-09-09",
           "price": 154.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-17",
+          "price": 147.9,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-09-09T04:04:18.384608Z",
-      "last_updated": "2026-09-09T04:04:18.384617Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.112789Z",
+      "last_updated": "2026-09-17T04:04:14.112794Z",
       "prev_buy_score": null
     },
     "21062": {
@@ -19417,19 +19422,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 40,
-      "current_best_price": 152.77,
+      "buy_score": 39,
+      "current_best_price": 152.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-09-04T04:04:21.804454Z",
-      "last_updated": "2026-09-04T04:04:21.804465Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.112867Z",
+      "last_updated": "2026-09-17T04:04:14.112869Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 25,
+      "price_score": 24,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -19514,6 +19519,11 @@
         {
           "date": "2026-09-04",
           "price": 152.77,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-17",
+          "price": 152.99,
           "shop": "Brickwatch"
         }
       ],
@@ -30080,8 +30090,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 48,
-      "current_best_price": 125.85,
+      "buy_score": 49,
+      "current_best_price": 125.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -30090,7 +30100,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 24,
+      "price_score": 25,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -30104,8 +30114,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-14T04:34:17.143320Z",
-      "last_updated": "2026-09-14T04:34:17.143328Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.112935Z",
+      "last_updated": "2026-09-17T04:04:14.112936Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -30246,6 +30256,11 @@
         {
           "date": "2026-09-14",
           "price": 125.85,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-17",
+          "price": 125.0,
           "shop": "Brickwatch"
         }
       ],
@@ -39141,8 +39156,8 @@
       ],
       "prev_buy_score": 15,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-04T04:04:21.804751Z",
-      "last_updated": "2026-09-04T04:04:21.804753Z"
+      "last_brickwatch_alert": "2026-09-17T04:04:14.113005Z",
+      "last_updated": "2026-09-17T04:04:14.113006Z"
     },
     "75340": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -47211,8 +47226,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
-      "current_best_price": 27.74,
+      "buy_score": 54,
+      "current_best_price": 26.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -47222,11 +47237,11 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -47236,8 +47251,8 @@
       "urgency_score": 8,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-15T04:04:17.229340Z",
-      "last_updated": "2026-09-15T04:04:17.229344Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.112907Z",
+      "last_updated": "2026-09-17T04:04:14.112908Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -47333,6 +47348,11 @@
         {
           "date": "2026-09-15",
           "price": 27.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-17",
+          "price": 26.99,
           "shop": "Brickwatch"
         }
       ],
@@ -60571,8 +60591,8 @@
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-09-16T03:34:16.518204Z",
-      "last_updated": "2026-09-16T03:34:16.518211Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.113078Z",
+      "last_updated": "2026-09-17T04:04:14.113079Z",
       "prev_buy_score": 43,
       "status": "watchlist",
       "label": "investering",
@@ -65802,8 +65822,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-09-07T04:04:16.799870Z",
-      "last_updated": "2026-09-07T04:04:16.799878Z",
+      "last_brickwatch_alert": "2026-09-17T04:04:14.112959Z",
+      "last_updated": "2026-09-17T04:04:14.112960Z",
       "market_value": 28.65,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
