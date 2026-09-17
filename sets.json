@@ -11131,7 +11131,7 @@
     },
     "40476": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 9.99,
+      "current_best_price": 21.95,
       "date_first_available": "2021-06-02",
       "ean": "5702016961379",
       "expected_retirement": "2024-02",
@@ -11195,10 +11195,18 @@
           "date": "2026-05-14",
           "price": 9.99,
           "shop": null
+        },
+        {
+          "date": "2026-09-17",
+          "price": 21.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-17T05:34:16.600793Z",
+      "last_updated": "2026-09-17T05:34:16.600801Z"
     },
     "40477": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -19554,7 +19562,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 40
+      "prev_buy_score": 39
     },
     "42207": {
       "availability_score": 0,
@@ -30287,7 +30295,7 @@
           "value": 146.05
         }
       ],
-      "prev_buy_score": 48
+      "prev_buy_score": 49
     },
     "72038": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -47377,7 +47385,7 @@
           "value": 31.07
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 54,
       "purchase_price": 22.0
     },
     "75432": {
