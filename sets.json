@@ -11995,7 +11995,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-09-18T04:04:23.256098Z",
       "last_updated": "2026-09-18T04:04:23.256100Z",
-      "prev_buy_score": 24
+      "prev_buy_score": 25
     },
     "40547": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -42144,7 +42144,7 @@
           "value": 14.34
         }
       ],
-      "prev_buy_score": 20,
+      "prev_buy_score": 21,
       "purchase_price": 9.99
     },
     "75375": {
