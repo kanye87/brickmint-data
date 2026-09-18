@@ -45872,7 +45872,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 50,
-      "current_best_price": 107.06,
+      "current_best_price": 107.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -45983,6 +45983,11 @@
           "date": "2026-08-31",
           "price": 107.06,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-18",
+          "price": 107.9,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -45990,8 +45995,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-08-31T20:34:15.257495Z",
-      "last_brickwatch_alert": "2026-08-31T20:34:15.257486Z",
+      "last_updated": "2026-09-18T13:04:17.456330Z",
+      "last_brickwatch_alert": "2026-09-18T13:04:17.456326Z",
       "market_value": 68.23,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T11:22:44.332811+00:00",
@@ -55565,7 +55570,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": null,
-      "current_best_price": 49.95,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76290-1.jpg",
       "label": "investering",
@@ -55634,6 +55639,11 @@
           "date": "2026-06-06",
           "price": 49.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-18",
+          "price": 49.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -55673,8 +55683,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-015396/148181.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-06T14:34:17.159412Z",
-      "last_updated": "2026-06-06T14:34:17.159423Z",
+      "last_brickwatch_alert": "2026-09-18T13:04:17.456113Z",
+      "last_updated": "2026-09-18T13:04:17.456121Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:14+00:00"
