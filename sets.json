@@ -18582,8 +18582,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 38,
-      "current_best_price": 311.99,
+      "buy_score": 42,
+      "current_best_price": 297.14,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -18592,12 +18592,12 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 23,
+      "price_score": 26,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -18653,10 +18653,15 @@
           "date": "2026-09-10",
           "price": 311.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 297.14,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-10T20:34:24.201561Z",
-      "last_updated": "2026-09-10T20:34:24.201573Z",
+      "last_brickwatch_alert": "2026-09-19T04:04:17.049630Z",
+      "last_updated": "2026-09-19T04:04:17.049638Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -19577,7 +19582,7 @@
     "42207": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 27,
+      "buy_score": 29,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42207-1.jpg",
       "label": "investering",
@@ -19586,11 +19591,11 @@
       "name": "Ferrari SF-24 F1 Car",
       "owned_by": 2275,
       "pieces": 1361,
-      "price_score": 24,
+      "price_score": 25,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -19606,9 +19611,9 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816302",
-      "current_best_price": 159.99,
-      "last_brickwatch_alert": "2026-09-07T14:04:14.784478Z",
-      "last_updated": "2026-09-07T14:04:14.784487Z",
+      "current_best_price": 155.45,
+      "last_brickwatch_alert": "2026-09-19T04:04:17.049864Z",
+      "last_updated": "2026-09-19T04:04:17.049869Z",
       "price_history": [
         {
           "date": "2026-05-22",
@@ -19648,6 +19653,11 @@
         {
           "date": "2026-09-07",
           "price": 159.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 155.45,
           "shop": "Brickwatch"
         }
       ],
@@ -20170,7 +20180,7 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
+      "buy_score": 40,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
@@ -20179,10 +20189,10 @@
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
       "pieces": 500,
-      "price_score": 35,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -20208,9 +20218,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 16.5,
-      "last_brickwatch_alert": "2026-09-08T04:04:17.441884Z",
-      "last_updated": "2026-09-08T04:04:17.441892Z",
+      "current_best_price": 19.32,
+      "last_brickwatch_alert": "2026-09-19T04:04:17.050096Z",
+      "last_updated": "2026-09-19T04:04:17.050099Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -20245,6 +20255,11 @@
         {
           "date": "2026-09-08",
           "price": 16.5,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 19.32,
           "shop": "Brickwatch"
         }
       ],
@@ -20912,9 +20927,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 79.9,
-      "last_brickwatch_alert": "2026-08-25T14:04:18.702990Z",
-      "last_updated": "2026-08-25T14:04:18.703006Z",
+      "current_best_price": 80.66,
+      "last_brickwatch_alert": "2026-09-19T04:04:17.050011Z",
+      "last_updated": "2026-09-19T04:04:17.050013Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -20949,6 +20964,11 @@
         {
           "date": "2026-08-25",
           "price": 79.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 80.66,
           "shop": "Brickwatch"
         }
       ],
@@ -21153,8 +21173,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 47,
-      "current_best_price": 17.99,
+      "buy_score": 48,
+      "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -21166,7 +21186,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21180,8 +21200,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-08-24T04:04:21.338724Z",
-      "last_updated": "2026-08-24T04:04:21.338725Z",
+      "last_brickwatch_alert": "2026-09-19T04:04:17.049945Z",
+      "last_updated": "2026-09-19T04:04:17.049948Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21236,6 +21256,11 @@
         {
           "date": "2026-08-24",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 16.99,
           "shop": "Brickwatch"
         }
       ],
@@ -59998,7 +60023,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 113.93,
+      "current_best_price": 113.44,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -60063,6 +60088,11 @@
           "date": "2026-06-24",
           "price": 113.93,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 113.44,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60074,8 +60104,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-06-24T04:04:17.668166Z",
-      "last_updated": "2026-06-24T04:04:17.668169Z",
+      "last_brickwatch_alert": "2026-09-19T04:04:17.049758Z",
+      "last_updated": "2026-09-19T04:04:17.049762Z",
       "market_value": 156.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
