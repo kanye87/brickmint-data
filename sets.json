@@ -31832,7 +31832,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 44
+      "prev_buy_score": 46
     },
     "75209": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -73672,7 +73672,7 @@
       "availability_score": 0,
       "score_quality": "partial",
       "buy_score": 60,
-      "prev_buy_score": 56
+      "prev_buy_score": 60
     },
     "40859": {
       "name": "Golden Age Superman and Batman",
@@ -75400,7 +75400,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 53,
-      "prev_buy_score": 52,
+      "prev_buy_score": 53,
       "purchase_price": 55.0
     },
     "43023": {
@@ -75485,7 +75485,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 51,
-      "prev_buy_score": 52,
+      "prev_buy_score": 51,
       "purchase_price": 55.0
     },
     "43028": {
