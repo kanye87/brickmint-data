@@ -2592,8 +2592,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-09-14T04:04:15.406984Z",
-      "last_updated": "2026-09-14T04:04:15.406986Z",
+      "last_brickwatch_alert": "2026-09-20T22:34:27.107982Z",
+      "last_updated": "2026-09-20T22:34:27.107991Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -60043,7 +60043,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 113.44,
+      "current_best_price": 107.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -60076,13 +60076,13 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 29,
-      "roi_score": 4,
+      "price_score": 32,
+      "roi_score": 5,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 53,
+      "buy_score": 57,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -60113,6 +60113,11 @@
           "date": "2026-09-19",
           "price": 113.44,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 107.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60124,8 +60129,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-09-19T04:04:17.049758Z",
-      "last_updated": "2026-09-19T04:04:17.049762Z",
+      "last_brickwatch_alert": "2026-09-20T22:34:27.108193Z",
+      "last_updated": "2026-09-20T22:34:27.108198Z",
       "market_value": 156.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
