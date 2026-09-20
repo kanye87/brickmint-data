@@ -10399,7 +10399,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 48
+      "prev_buy_score": 46
     },
     "31213": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -31277,7 +31277,7 @@
           "value": 590.09
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 55,
       "purchase_price": 649.0
     },
     "75094": {
@@ -47834,7 +47834,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 61,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol"
     },
@@ -48464,7 +48464,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 43,
+      "buy_score": 44,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -48473,7 +48473,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 32,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 3,
@@ -48489,9 +48489,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 81.8,
-      "last_brickwatch_alert": "2026-08-20T04:04:13.571491Z",
-      "last_updated": "2026-08-20T04:04:13.571494Z",
+      "current_best_price": 79.99,
+      "last_brickwatch_alert": "2026-09-20T23:34:19.428597Z",
+      "last_updated": "2026-09-20T23:34:19.428602Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -48587,6 +48587,11 @@
         {
           "date": "2026-08-20",
           "price": 81.8,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 79.99,
           "shop": "Brickwatch"
         }
       ],
@@ -58053,8 +58058,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 80.99,
+      "buy_score": 43,
+      "current_best_price": 89.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -58064,11 +58069,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 33,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -58078,8 +58083,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-09T01:04:18.406804Z",
-      "last_updated": "2026-09-09T01:04:18.406811Z",
+      "last_brickwatch_alert": "2026-09-20T23:34:19.428376Z",
+      "last_updated": "2026-09-20T23:34:19.428385Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -58165,6 +58170,11 @@
         {
           "date": "2026-09-09",
           "price": 80.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 89.0,
           "shop": "Brickwatch"
         }
       ],
@@ -60760,7 +60770,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-09-20T23:04:14.345297Z",
       "last_updated": "2026-09-20T23:04:14.345301Z",
-      "prev_buy_score": 43,
+      "prev_buy_score": 49,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.7,
