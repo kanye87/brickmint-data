@@ -47940,7 +47940,7 @@
           "value": 35.55
         }
       ],
-      "prev_buy_score": 50
+      "prev_buy_score": 62
     },
     "75439": {
       "availability_score": 0,
@@ -77204,7 +77204,7 @@
       "label": "investering",
       "current_best_price": 97.33,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 27,
+      "prev_buy_score": 20,
       "price_score": 10,
       "roi_score": 2,
       "urgency_score": 0,
