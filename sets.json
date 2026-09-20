@@ -45186,7 +45186,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 46
+      "prev_buy_score": 44
     },
     "75406": {
       "availability_score": 0,
@@ -47816,7 +47816,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 50,
+      "buy_score": 62,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -47825,10 +47825,10 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 24,
+      "price_score": 34,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -47842,9 +47842,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 28.99,
-      "last_brickwatch_alert": "2026-09-07T01:04:18.474716Z",
-      "last_updated": "2026-09-07T01:04:18.474719Z",
+      "current_best_price": 24.36,
+      "last_brickwatch_alert": "2026-09-20T04:04:13.766961Z",
+      "last_updated": "2026-09-20T04:04:13.766970Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -47913,6 +47913,11 @@
         {
           "date": "2026-09-07",
           "price": 28.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 24.36,
           "shop": "Brickwatch"
         }
       ],
@@ -66753,7 +66758,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
       "buy_score": 46,
-      "current_best_price": 72.9,
+      "current_best_price": 72.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
@@ -66775,8 +66780,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-12T04:04:19.232646Z",
-      "last_updated": "2026-09-12T04:04:19.232649Z",
+      "last_brickwatch_alert": "2026-09-20T04:04:13.767127Z",
+      "last_updated": "2026-09-20T04:04:13.767131Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -66873,6 +66878,11 @@
         {
           "date": "2026-09-12",
           "price": 72.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 72.99,
           "shop": "Brickwatch"
         }
       ],
@@ -74396,10 +74406,10 @@
       "availability_score": 10,
       "score_quality": "full",
       "buy_score": 20,
-      "current_best_price": 640.0,
+      "current_best_price": 635.0,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-15T04:04:17.229213Z",
-      "last_updated": "2026-09-15T04:04:17.229215Z",
+      "last_brickwatch_alert": "2026-09-20T04:04:13.767224Z",
+      "last_updated": "2026-09-20T04:04:13.767228Z",
       "price_history": [
         {
           "date": "2026-09-02",
@@ -74409,6 +74419,11 @@
         {
           "date": "2026-09-15",
           "price": 640.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 635.0,
           "shop": "Brickwatch"
         }
       ]
@@ -77187,16 +77202,16 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 90.56,
+      "current_best_price": 97.33,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 27,
-      "price_score": 16,
-      "roi_score": 3,
+      "price_score": 10,
+      "roi_score": 2,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 27,
+      "buy_score": 20,
       "sell_score": null,
       "theme": "Icons",
       "year": 2026,
@@ -77224,12 +77239,17 @@
           "value": 107.71
         }
       ],
-      "last_brickwatch_alert": "2026-09-12T04:04:19.232322Z",
-      "last_updated": "2026-09-12T04:04:19.232327Z",
+      "last_brickwatch_alert": "2026-09-20T04:04:13.767296Z",
+      "last_updated": "2026-09-20T04:04:13.767300Z",
       "price_history": [
         {
           "date": "2026-09-04",
           "price": 90.56,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 97.33,
           "shop": "Brickwatch"
         }
       ]
