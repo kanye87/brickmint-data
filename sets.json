@@ -18607,8 +18607,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 42,
-      "current_best_price": 297.14,
+      "buy_score": 38,
+      "current_best_price": 310.43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -18617,12 +18617,12 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 26,
+      "price_score": 23,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -18683,10 +18683,15 @@
           "date": "2026-09-19",
           "price": 297.14,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 310.43,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-19T04:04:17.049630Z",
-      "last_updated": "2026-09-19T04:04:17.049638Z",
+      "last_brickwatch_alert": "2026-09-21T22:34:20.605924Z",
+      "last_updated": "2026-09-21T22:34:20.605931Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
