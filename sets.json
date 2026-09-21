@@ -21602,8 +21602,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 24,
-      "current_best_price": 108.42,
+      "buy_score": 21,
+      "current_best_price": 110.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -21612,12 +21612,12 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 15,
+      "price_score": 13,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21628,8 +21628,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-09-21T09:34:23.024807Z",
-      "last_updated": "2026-09-21T09:34:23.024815Z",
+      "last_brickwatch_alert": "2026-09-21T13:34:21.939965Z",
+      "last_updated": "2026-09-21T13:34:21.939992Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21693,7 +21693,7 @@
         },
         {
           "date": "2026-09-21",
-          "price": 108.42,
+          "price": 110.0,
           "shop": "Brickwatch"
         }
       ],
