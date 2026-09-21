@@ -31220,7 +31220,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72153-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 524.0,
+      "lowest_price_ever": 499.0,
       "msrp": 649.99,
       "name": "Venusaur, Charizard and Blastoise",
       "owned_by": 915,
@@ -31245,9 +31245,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 524.0,
-      "last_brickwatch_alert": "2026-09-21T08:34:15.781050Z",
-      "last_updated": "2026-09-21T08:34:15.781059Z",
+      "current_best_price": 499.0,
+      "last_brickwatch_alert": "2026-09-21T12:34:14.197746Z",
+      "last_updated": "2026-09-21T12:34:14.197755Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -31281,7 +31281,7 @@
         },
         {
           "date": "2026-09-21",
-          "price": 524.0,
+          "price": 499.0,
           "shop": "Brickwatch"
         }
       ],
@@ -77858,6 +77858,28 @@
       "brickset_last_enriched": "2026-09-14T17:20:32Z",
       "subtheme": "Happy Plants",
       "sell_score": null
+    },
+    "11387": {
+      "name": "Holiday House",
+      "theme": "Icons",
+      "date_first_available": "2026-10-01",
+      "msrp": 109.99,
+      "image_url": "https://images.brickset.com/sets/images/11387-1.jpg",
+      "prev_buy_score": null
+    },
+    "40900": {
+      "name": "Scary Haunted Tree",
+      "theme": "Creator",
+      "date_first_available": "2026-09-21",
+      "image_url": "https://images.brickset.com/sets/images/40900-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010478": {
+      "name": "Sherpa Backed Throw",
+      "theme": "Gear",
+      "date_first_available": "2026-09-18",
+      "msrp": 17.99,
+      "prev_buy_score": null
     }
   }
 }
