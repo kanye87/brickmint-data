@@ -16660,9 +16660,9 @@
       "year": 2026,
       "date_first_available": "2026-05-01",
       "subtheme": "Promotional",
-      "current_best_price": 64.99,
-      "last_brickwatch_alert": "2026-08-17T12:04:19.003407Z",
-      "last_updated": "2026-08-17T12:04:19.003415Z",
+      "current_best_price": 69.95,
+      "last_brickwatch_alert": "2026-09-21T00:34:12.565923Z",
+      "last_updated": "2026-09-21T00:34:12.565930Z",
       "minifig_list": [],
       "price_history": [
         {
@@ -16678,6 +16678,11 @@
         {
           "date": "2026-08-17",
           "price": 64.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 69.95,
           "shop": "Brickwatch"
         }
       ],
@@ -30927,7 +30932,7 @@
           "value": 165.75
         }
       ],
-      "prev_buy_score": 52
+      "prev_buy_score": 53
     },
     "72151": {
       "availability_score": 0,
@@ -47849,7 +47854,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 64,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol"
     },
