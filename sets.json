@@ -5483,7 +5483,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 147.9,
+      "current_best_price": 149.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -5561,11 +5561,16 @@
           "date": "2026-09-17",
           "price": 147.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 149.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-09-17T04:04:14.112789Z",
-      "last_updated": "2026-09-17T04:04:14.112794Z",
+      "last_brickwatch_alert": "2026-09-21T00:04:24.249854Z",
+      "last_updated": "2026-09-21T00:04:24.249857Z",
       "prev_buy_score": null
     },
     "21062": {
@@ -30775,7 +30780,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 52,
+      "buy_score": 53,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -30784,7 +30789,7 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 30,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -30802,9 +30807,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 129.95,
-      "last_brickwatch_alert": "2026-09-08T15:04:20.567864Z",
-      "last_updated": "2026-09-08T15:04:20.567868Z",
+      "current_best_price": 129.0,
+      "last_brickwatch_alert": "2026-09-21T00:04:24.249927Z",
+      "last_updated": "2026-09-21T00:04:24.249929Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -30895,6 +30900,11 @@
         {
           "date": "2026-09-08",
           "price": 129.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 129.0,
           "shop": "Brickwatch"
         }
       ],
@@ -47656,24 +47666,24 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 61,
-      "current_best_price": 104.0,
+      "buy_score": 64,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-20T23:04:14.476302Z",
-      "last_updated": "2026-09-20T23:04:14.476308Z",
+      "last_brickwatch_alert": "2026-09-21T00:04:24.249616Z",
+      "last_updated": "2026-09-21T00:04:24.249627Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 25,
+      "price_score": 27,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -47810,6 +47820,11 @@
         {
           "date": "2026-09-20",
           "price": 104.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48625,7 +48640,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-star-wars-grogu-mandalorian-apprentice-75446-eur5999-laagste-prijs-ooit-415525",
-      "prev_buy_score": 43
+      "prev_buy_score": 44
     },
     "75452": {
       "availability_score": 0,
@@ -58209,7 +58224,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 49
+      "prev_buy_score": 43
     },
     "76346": {
       "availability_score": 0,
