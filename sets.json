@@ -45079,8 +45079,8 @@
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 44,
-      "current_best_price": 49.99,
+      "buy_score": 46,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75405-1.jpg",
       "label": "investering",
@@ -45089,7 +45089,7 @@
       "name": "Home One Starcruiser",
       "owned_by": 4992,
       "pieces": 559,
-      "price_score": 25,
+      "price_score": 27,
       "purchase_price": 39.99,
       "rating": 3.8,
       "retirement_date": "2026-07-31",
@@ -45107,8 +45107,8 @@
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "last_brickwatch_alert": "2026-09-20T02:34:18.493472Z",
-      "last_updated": "2026-09-20T02:34:18.493480Z",
+      "last_brickwatch_alert": "2026-09-21T04:34:19.059456Z",
+      "last_updated": "2026-09-21T04:34:19.059465Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45193,6 +45193,11 @@
         {
           "date": "2026-09-20",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 47.99,
           "shop": "Brickwatch"
         }
       ],
@@ -66262,7 +66267,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 2,
-      "prev_buy_score": 67
+      "prev_buy_score": 69
     },
     "77247": {
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
@@ -66490,7 +66495,7 @@
           "value": 28.68
         }
       ],
-      "prev_buy_score": 54
+      "prev_buy_score": 55
     },
     "77250": {
       "availability_score": 0,
@@ -66584,7 +66589,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 63
+      "prev_buy_score": 68
     },
     "77251": {
       "availability_score": 0,
@@ -66683,7 +66688,7 @@
           "value": 33.29
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 67,
       "purchase_price": 12,
       "sell_roi_score": 52,
       "sell_trend_score": 0,
