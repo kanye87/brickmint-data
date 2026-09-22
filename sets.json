@@ -5612,8 +5612,8 @@
       "wanted_by": 1816,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-07-21T05:34:22.144531Z",
-      "last_updated": "2026-07-21T05:34:22.144538Z",
+      "last_brickwatch_alert": "2026-09-22T06:04:19.660575Z",
+      "last_updated": "2026-09-22T06:04:19.660581Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-01-14",
       "lego_availability": "Retail",
@@ -19617,7 +19617,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 39
+      "prev_buy_score": 41
     },
     "42207": {
       "availability_score": 0,
@@ -19723,7 +19723,7 @@
           "value": 160.0
         }
       ],
-      "prev_buy_score": 29
+      "prev_buy_score": 30
     },
     "42208": {
       "brickset_last_enriched": "2026-05-13T11:57:43Z",
@@ -31241,7 +31241,7 @@
           "value": 162.5
         }
       ],
-      "prev_buy_score": 58
+      "prev_buy_score": 55
     },
     "72153": {
       "availability_score": 0,
@@ -48240,7 +48240,7 @@
           "value": 46.25
         }
       ],
-      "prev_buy_score": 46
+      "prev_buy_score": 50
     },
     "75440": {
       "availability_score": 0,
@@ -66113,7 +66113,7 @@
           "value": 28.65
         }
       ],
-      "prev_buy_score": 68,
+      "prev_buy_score": 69,
       "purchase_price": 12,
       "sell_roi_score": 46,
       "sell_trend_score": 0,
@@ -74548,7 +74548,7 @@
       "rating": 4.5,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "The Lord of the Rings",
-      "prev_buy_score": 20,
+      "prev_buy_score": 21,
       "status": "watchlist",
       "label": "investering",
       "market_value": 79.0,
