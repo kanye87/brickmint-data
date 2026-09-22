@@ -74643,10 +74643,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 81.99,
+      "current_best_price": 79.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-07T08:34:17.104735Z",
-      "last_updated": "2026-09-07T08:34:17.104738Z",
+      "last_brickwatch_alert": "2026-09-22T19:04:18.911926Z",
+      "last_updated": "2026-09-22T19:04:18.911933Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -74687,6 +74687,11 @@
           "date": "2026-09-07",
           "price": 81.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 79.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -74704,13 +74709,13 @@
           "value": 123.62
         }
       ],
-      "price_score": 28,
+      "price_score": 29,
       "roi_score": 5,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 41,
+      "buy_score": 42,
       "prev_buy_score": 41
     },
     "11381": {
