@@ -19480,19 +19480,19 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 39,
-      "current_best_price": 152.99,
+      "buy_score": 41,
+      "current_best_price": 149.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-09-17T04:04:14.112867Z",
-      "last_updated": "2026-09-17T04:04:14.112869Z",
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581642Z",
+      "last_updated": "2026-09-22T04:04:18.581644Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 24,
+      "price_score": 26,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
@@ -19583,6 +19583,11 @@
           "date": "2026-09-17",
           "price": 152.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 149.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -19617,7 +19622,7 @@
     "42207": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 29,
+      "buy_score": 30,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42207-1.jpg",
       "label": "investering",
@@ -19626,7 +19631,7 @@
       "name": "Ferrari SF-24 F1 Car",
       "owned_by": 2275,
       "pieces": 1361,
-      "price_score": 25,
+      "price_score": 26,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -19646,9 +19651,9 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816302",
-      "current_best_price": 155.45,
-      "last_brickwatch_alert": "2026-09-19T04:04:17.049864Z",
-      "last_updated": "2026-09-19T04:04:17.049869Z",
+      "current_best_price": 154.79,
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581469Z",
+      "last_updated": "2026-09-22T04:04:18.581477Z",
       "price_history": [
         {
           "date": "2026-05-22",
@@ -19693,6 +19698,11 @@
         {
           "date": "2026-09-19",
           "price": 155.45,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 154.79,
           "shop": "Brickwatch"
         }
       ],
@@ -31099,9 +31109,9 @@
     "72152": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 58,
-      "current_best_price": 109.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 55,
+      "current_best_price": 123.79,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72152-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -31109,11 +31119,11 @@
       "name": "Pikachu and Poké Ball",
       "owned_by": 449,
       "pieces": 2050,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -31123,8 +31133,8 @@
       "urgency_score": 3,
       "wanted_by": 660,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-24T10:34:17.457724Z",
-      "last_updated": "2026-08-24T12:32:38.122259Z",
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581584Z",
+      "last_updated": "2026-09-22T04:04:18.581587Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -31201,6 +31211,11 @@
           "date": "2026-08-24",
           "price": 109.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 123.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -48035,8 +48050,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 46,
-      "current_best_price": 35.99,
+      "buy_score": 50,
+      "current_best_price": 33.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -48045,7 +48060,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 24,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -48063,8 +48078,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-09-07T01:34:15.066833Z",
-      "last_updated": "2026-09-07T01:34:15.066838Z",
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581683Z",
+      "last_updated": "2026-09-22T04:04:18.581685Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -48189,6 +48204,11 @@
         {
           "date": "2026-09-07",
           "price": 35.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 33.99,
           "shop": "Brickwatch"
         }
       ],
@@ -66003,8 +66023,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 68,
-      "current_best_price": 16.48,
+      "buy_score": 69,
+      "current_best_price": 15.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -66014,7 +66034,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -66054,6 +66074,11 @@
           "date": "2026-09-07",
           "price": 16.48,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 15.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -66069,8 +66094,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-09-17T04:04:14.112959Z",
-      "last_updated": "2026-09-17T04:04:14.112960Z",
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581782Z",
+      "last_updated": "2026-09-22T04:04:18.581785Z",
       "market_value": 28.65,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -74535,17 +74560,17 @@
           "value": 79.0
         }
       ],
-      "price_score": 2,
+      "price_score": 3,
       "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 20,
-      "current_best_price": 635.0,
+      "buy_score": 21,
+      "current_best_price": 627.73,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-20T04:04:13.767224Z",
-      "last_updated": "2026-09-20T04:04:13.767228Z",
+      "last_brickwatch_alert": "2026-09-22T04:04:18.581722Z",
+      "last_updated": "2026-09-22T04:04:18.581723Z",
       "price_history": [
         {
           "date": "2026-09-02",
@@ -74560,6 +74585,11 @@
         {
           "date": "2026-09-20",
           "price": 635.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 627.73,
           "shop": "Brickwatch"
         }
       ]
