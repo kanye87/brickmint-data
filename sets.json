@@ -45150,7 +45150,7 @@
           "value": 40.86
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 40,
       "purchase_price": 24.99,
       "sell_roi_score": 31,
       "sell_trend_score": 11,
@@ -58329,19 +58329,19 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 54,
-      "current_best_price": 64.99,
+      "buy_score": 53,
+      "current_best_price": 65.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-08-06T04:04:30.156854Z",
-      "last_updated": "2026-08-06T04:04:30.156856Z",
+      "last_brickwatch_alert": "2026-09-22T23:34:16.342106Z",
+      "last_updated": "2026-09-22T23:34:16.342117Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 31,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -58402,6 +58402,11 @@
         {
           "date": "2026-08-06",
           "price": 64.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 65.99,
           "shop": "Brickwatch"
         }
       ],
