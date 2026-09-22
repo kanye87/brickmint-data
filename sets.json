@@ -21083,19 +21083,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 53,
-      "current_best_price": 60.98,
+      "buy_score": 54,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-14T04:04:15.406869Z",
-      "last_updated": "2026-09-14T04:04:15.406872Z",
+      "last_brickwatch_alert": "2026-09-22T09:34:17.655058Z",
+      "last_updated": "2026-09-22T09:34:17.655066Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 28,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -21200,6 +21200,11 @@
         {
           "date": "2026-09-14",
           "price": 60.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
@@ -21437,7 +21442,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 25
+      "prev_buy_score": 26
     },
     "43217": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -21632,8 +21637,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 21,
-      "current_best_price": 110.0,
+      "buy_score": 26,
+      "current_best_price": 105.56,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -21642,12 +21647,12 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 13,
+      "price_score": 17,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21658,8 +21663,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-09-21T13:34:21.939965Z",
-      "last_updated": "2026-09-21T13:34:21.939992Z",
+      "last_brickwatch_alert": "2026-09-22T09:34:17.655252Z",
+      "last_updated": "2026-09-22T09:34:17.655256Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21724,6 +21729,11 @@
         {
           "date": "2026-09-21",
           "price": 110.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 105.56,
           "shop": "Brickwatch"
         }
       ],
