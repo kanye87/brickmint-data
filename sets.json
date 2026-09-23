@@ -21368,19 +21368,19 @@
     "43032": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 26,
-      "current_best_price": 24.83,
+      "buy_score": 25,
+      "current_best_price": 24.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43032-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-22T08:34:16.837063Z",
-      "last_updated": "2026-09-22T08:34:16.837072Z",
+      "last_brickwatch_alert": "2026-09-23T11:04:19.412799Z",
+      "last_updated": "2026-09-23T11:04:19.412808Z",
       "lowest_price_ever": null,
       "msrp": 24.99,
       "name": "FIFA World Cup 2026 Official Emblem",
       "owned_by": 33,
       "pieces": 298,
-      "price_score": 1,
+      "price_score": 0,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -21458,6 +21458,11 @@
         {
           "date": "2026-09-22",
           "price": 24.83,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 24.99,
           "shop": "Brickwatch"
         }
       ],
