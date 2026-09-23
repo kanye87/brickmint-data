@@ -18617,8 +18617,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 38,
-      "current_best_price": 310.43,
+      "buy_score": 39,
+      "current_best_price": 304.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -18627,7 +18627,7 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 23,
+      "price_score": 24,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
@@ -18698,10 +18698,15 @@
           "date": "2026-09-21",
           "price": 310.43,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 304.79,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-21T22:34:20.605924Z",
-      "last_updated": "2026-09-21T22:34:20.605931Z",
+      "last_brickwatch_alert": "2026-09-23T04:04:15.840595Z",
+      "last_updated": "2026-09-23T04:04:15.840597Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -20731,7 +20736,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 47,
-      "current_best_price": 47.04,
+      "current_best_price": 46.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -20832,13 +20837,18 @@
           "date": "2026-09-10",
           "price": 47.04,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 46.8,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-09-10T22:04:21.908457Z",
-      "last_updated": "2026-09-10T22:04:21.908460Z",
+      "last_brickwatch_alert": "2026-09-23T04:04:15.840803Z",
+      "last_updated": "2026-09-23T04:04:15.840806Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 60.49,
       "market_value_source": "ebay",
@@ -77189,13 +77199,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": null,
-      "roi_score": null,
+      "price_score": 19,
+      "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
-      "score_quality": null,
-      "buy_score": null,
+      "score_quality": "partial",
+      "buy_score": 42,
       "sell_score": null,
       "prev_buy_score": null,
       "theme": "Pokémon",
@@ -77223,6 +77233,17 @@
         {
           "date": "2026-09-19",
           "value": 261.66
+        }
+      ],
+      "current_best_price": 203.89,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-23T04:04:15.840720Z",
+      "last_updated": "2026-09-23T04:04:15.840724Z",
+      "price_history": [
+        {
+          "date": "2026-09-23",
+          "price": 203.89,
+          "shop": "Brickwatch"
         }
       ]
     },
@@ -77429,7 +77450,7 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 97.33,
+      "current_best_price": 97.05,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 20,
       "price_score": 10,
@@ -77466,8 +77487,8 @@
           "value": 107.71
         }
       ],
-      "last_brickwatch_alert": "2026-09-20T04:04:13.767296Z",
-      "last_updated": "2026-09-20T04:04:13.767300Z",
+      "last_brickwatch_alert": "2026-09-23T04:04:15.840874Z",
+      "last_updated": "2026-09-23T04:04:15.840877Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -77477,6 +77498,11 @@
         {
           "date": "2026-09-20",
           "price": 97.33,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 97.05,
           "shop": "Brickwatch"
         }
       ]
