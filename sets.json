@@ -31038,21 +31038,21 @@
     "72151": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 54,
-      "current_best_price": 39.99,
+      "buy_score": 57,
+      "current_best_price": 35.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 38.49,
+      "lowest_price_ever": 35.99,
       "msrp": 59.99,
       "name": "Eevee",
       "owned_by": 884,
       "pieces": 587,
-      "price_score": 33,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -31062,8 +31062,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-08-29T04:04:23.267628Z",
-      "last_updated": "2026-08-29T04:04:23.267630Z",
+      "last_brickwatch_alert": "2026-09-23T16:34:19.927561Z",
+      "last_updated": "2026-09-23T16:34:19.927573Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -31149,6 +31149,11 @@
         {
           "date": "2026-08-29",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 35.99,
           "shop": "Brickwatch"
         }
       ],
@@ -75737,10 +75742,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 55.99,
+      "current_best_price": 53.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-23T11:34:16.492910Z",
-      "last_updated": "2026-09-23T11:34:16.492919Z",
+      "last_brickwatch_alert": "2026-09-23T16:34:20.222628Z",
+      "last_updated": "2026-09-23T16:34:20.222636Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -75784,7 +75789,7 @@
         },
         {
           "date": "2026-09-23",
-          "price": 55.99,
+          "price": 53.99,
           "shop": "Brickwatch"
         }
       ],
@@ -75815,13 +75820,13 @@
           "value": 69.59
         }
       ],
-      "price_score": 33,
-      "roi_score": 3,
+      "price_score": 35,
+      "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 54,
+      "buy_score": 57,
       "prev_buy_score": 54,
       "purchase_price": 55.0
     },
