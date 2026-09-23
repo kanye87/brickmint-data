@@ -20733,7 +20733,7 @@
           "image_url": null
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 62,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-43014-editions-scuderia-ferrari-hp-charles-leclerc-helm-laagste-prijs-ooit-at-amazon-416271",
       "purchase_price": 70.0
     },
@@ -21108,19 +21108,19 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 54,
-      "current_best_price": 59.99,
+      "buy_score": 58,
+      "current_best_price": 55.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-22T09:34:17.655058Z",
-      "last_updated": "2026-09-22T09:34:17.655066Z",
+      "last_brickwatch_alert": "2026-09-23T13:04:19.476334Z",
+      "last_updated": "2026-09-23T13:04:19.476343Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
       "owned_by": 96,
       "pieces": 884,
-      "price_score": 29,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 0,
@@ -21230,6 +21230,11 @@
         {
           "date": "2026-09-22",
           "price": 59.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 55.99,
           "shop": "Brickwatch"
         }
       ],
@@ -75711,7 +75716,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 55,
-      "prev_buy_score": 53,
+      "prev_buy_score": 55,
       "purchase_price": 55.0
     },
     "43023": {
@@ -75806,7 +75811,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 54,
-      "prev_buy_score": 51,
+      "prev_buy_score": 54,
       "purchase_price": 55.0
     },
     "43028": {
