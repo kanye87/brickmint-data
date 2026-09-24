@@ -18522,8 +18522,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 60,
-      "current_best_price": 147.05,
+      "buy_score": 56,
+      "current_best_price": 157.02,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -18532,7 +18532,7 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 29,
+      "price_score": 25,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -18547,8 +18547,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-09-24T04:04:15.695436Z",
-      "last_updated": "2026-09-24T04:04:15.695439Z",
+      "last_brickwatch_alert": "2026-09-24T06:04:19.185890Z",
+      "last_updated": "2026-09-24T06:04:19.185894Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18602,7 +18602,7 @@
         },
         {
           "date": "2026-09-24",
-          "price": 147.05,
+          "price": 157.02,
           "shop": "Brickwatch"
         }
       ],
@@ -18628,7 +18628,7 @@
           "value": 180.0
         }
       ],
-      "prev_buy_score": 56
+      "prev_buy_score": 60
     },
     "42172": {
       "availability_score": 10,
@@ -55705,7 +55705,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 26,
-      "current_best_price": 392.54,
+      "current_best_price": 391.54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -55815,6 +55815,11 @@
           "date": "2026-09-18",
           "price": 392.54,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 391.54,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -55851,8 +55856,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-09-18T21:04:22.223592Z",
-      "last_updated": "2026-09-18T21:04:22.223600Z",
+      "last_brickwatch_alert": "2026-09-24T06:04:19.185729Z",
+      "last_updated": "2026-09-24T06:04:19.185738Z",
       "prev_buy_score": 26
     },
     "76290": {
@@ -77260,7 +77265,7 @@
       "score_quality": "partial",
       "buy_score": 45,
       "sell_score": null,
-      "prev_buy_score": 47,
+      "prev_buy_score": 45,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
