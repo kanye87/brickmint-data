@@ -76981,10 +76981,10 @@
       "brickset_last_enriched": "2026-09-15T15:59:24Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 5,
-      "current_best_price": 145.51,
+      "current_best_price": 126.32,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-04T00:04:24.672851Z",
-      "last_updated": "2026-09-04T00:04:24.672862Z",
+      "last_brickwatch_alert": "2026-09-24T09:04:17.023410Z",
+      "last_updated": "2026-09-24T09:04:17.023420Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -76994,6 +76994,11 @@
         {
           "date": "2026-09-04",
           "price": 145.51,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 126.32,
           "shop": "Brickwatch"
         }
       ],
@@ -77012,13 +77017,13 @@
           "value": 136.85
         }
       ],
-      "price_score": 3,
-      "roi_score": 0,
+      "price_score": 14,
+      "roi_score": 2,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 5
+      "buy_score": 29
     },
     "76356": {
       "name": "Venom Bust",
