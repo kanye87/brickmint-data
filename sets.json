@@ -18522,8 +18522,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 56,
-      "current_best_price": 157.02,
+      "buy_score": 60,
+      "current_best_price": 147.05,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -18532,7 +18532,7 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 25,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -18547,8 +18547,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-09-17T16:04:21.910685Z",
-      "last_updated": "2026-09-17T16:04:21.910691Z",
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695436Z",
+      "last_updated": "2026-09-24T04:04:15.695439Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -18598,6 +18598,11 @@
         {
           "date": "2026-08-04",
           "price": 157.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 147.05,
           "shop": "Brickwatch"
         }
       ],
@@ -39379,8 +39384,8 @@
       ],
       "prev_buy_score": 15,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-17T04:04:14.113005Z",
-      "last_updated": "2026-09-17T04:04:14.113006Z"
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695307Z",
+      "last_updated": "2026-09-24T04:04:15.695314Z"
     },
     "75340": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -45377,7 +45382,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 46
+      "prev_buy_score": 44
     },
     "75406": {
       "availability_score": 0,
@@ -46117,7 +46122,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 50,
-      "current_best_price": 107.9,
+      "current_best_price": 107.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -46233,6 +46238,11 @@
           "date": "2026-09-18",
           "price": 107.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 107.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -46240,8 +46250,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-09-18T13:04:17.456330Z",
-      "last_brickwatch_alert": "2026-09-18T13:04:17.456326Z",
+      "last_updated": "2026-09-24T04:04:15.695535Z",
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695534Z",
       "market_value": 68.23,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T11:22:44.332811+00:00",
@@ -46603,7 +46613,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 74,
-      "current_best_price": 122.99,
+      "current_best_price": 122.38,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -46627,8 +46637,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-07T08:34:17.104982Z",
-      "last_updated": "2026-09-07T08:34:17.104985Z",
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695572Z",
+      "last_updated": "2026-09-24T04:04:15.695573Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -46687,6 +46697,11 @@
         {
           "date": "2026-09-07",
           "price": 122.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 122.38,
           "shop": "Brickwatch"
         }
       ],
@@ -60273,7 +60288,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 107.99,
+      "current_best_price": 107.45,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -60348,6 +60363,11 @@
           "date": "2026-09-20",
           "price": 107.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 107.45,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60359,8 +60379,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-09-20T22:34:27.108193Z",
-      "last_updated": "2026-09-20T22:34:27.108198Z",
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695629Z",
+      "last_updated": "2026-09-24T04:04:15.695631Z",
       "market_value": 156.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -77232,13 +77252,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 22,
+      "price_score": 21,
       "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 47,
+      "buy_score": 45,
       "sell_score": null,
       "prev_buy_score": 47,
       "theme": "Super Mario",
@@ -77269,10 +77289,10 @@
           "value": 166.39
         }
       ],
-      "current_best_price": 127.77,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-16T04:04:54.365280Z",
-      "last_updated": "2026-09-16T04:04:54.365285Z",
+      "last_brickwatch_alert": "2026-09-24T04:04:15.695493Z",
+      "last_updated": "2026-09-24T04:04:15.695495Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -77292,6 +77312,11 @@
         {
           "date": "2026-09-16",
           "price": 127.77,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ]
