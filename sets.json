@@ -16421,13 +16421,13 @@
           "value": null
         }
       ],
-      "price_score": null,
+      "price_score": 21,
       "roi_score": null,
-      "urgency_score": null,
-      "scarcity_score": null,
-      "availability_score": null,
-      "score_quality": null,
-      "buy_score": null,
+      "urgency_score": 3,
+      "scarcity_score": 8,
+      "availability_score": 10,
+      "score_quality": "full",
+      "buy_score": 42,
       "expected_retirement": "2027-12",
       "date_first_available": "2025-09-02",
       "lego_availability": "LEGO exclusive",
@@ -16443,7 +16443,14 @@
           "price": 45.53,
           "shop": "Amazon.nl"
         }
-      ]
+      ],
+      "status": "portfolio",
+      "status_source": "app",
+      "status_changed_by_user_at": "2026-09-26T09:35:51+00:00",
+      "label": "persoonlijk",
+      "label_source": "app",
+      "labels_changed_by_user_at": "2026-09-26T09:36:08+00:00",
+      "purchase_price": 45.0
     },
     "40810": {
       "brickset_last_enriched": "2026-09-26T10:35:13Z",
