@@ -5153,7 +5153,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 41,
-      "current_best_price": 48.99,
+      "current_best_price": 48.75,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -5179,8 +5179,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-09-05T04:04:21.372847Z",
-      "last_updated": "2026-09-05T04:04:21.372853Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202744Z",
+      "last_updated": "2026-09-26T04:04:15.202747Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -5234,6 +5234,11 @@
         {
           "date": "2026-09-05",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 48.75,
           "shop": "Brickwatch"
         }
       ],
@@ -20782,7 +20787,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 47,
-      "current_best_price": 46.8,
+      "current_best_price": 46.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -20888,13 +20893,18 @@
           "date": "2026-09-23",
           "price": 46.8,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 46.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-09-23T04:04:15.840803Z",
-      "last_updated": "2026-09-23T04:04:15.840806Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202813Z",
+      "last_updated": "2026-09-26T04:04:15.202815Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 60.49,
       "market_value_source": "ebay",
@@ -42267,20 +42277,20 @@
     "75373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 21,
-      "current_best_price": 17.5,
+      "buy_score": 20,
+      "current_best_price": 17.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75373-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-18T04:04:23.255962Z",
-      "last_updated": "2026-09-18T04:04:23.255975Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.203142Z",
+      "last_updated": "2026-09-26T04:04:15.203146Z",
       "lowest_price_ever": 9.99,
       "minifigs": 4,
       "msrp": 21.990000000000002,
       "name": "Ambush on Mandalore Battle Pack ",
       "owned_by": 11877,
       "pieces": 109,
-      "price_score": 13,
+      "price_score": 12,
       "rating": 3.9,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
@@ -42379,6 +42389,11 @@
         {
           "date": "2026-09-18",
           "price": 17.5,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 17.99,
           "shop": "Brickwatch"
         }
       ],
@@ -46573,13 +46588,13 @@
       "sell_trend_score": 1,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35
+      "prev_buy_score": 36
     },
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 51,
-      "current_best_price": 69.99,
+      "current_best_price": 69.64,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -46637,14 +46652,19 @@
           "date": "2026-09-07",
           "price": 69.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 69.64,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-09-07T08:34:17.104905Z",
-      "last_updated": "2026-09-07T08:34:17.104909Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202661Z",
+      "last_updated": "2026-09-26T04:04:15.202666Z",
       "market_value": 83.53,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T11:22:44.332811+00:00",
@@ -47906,20 +47926,20 @@
     "75435": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 64,
-      "current_best_price": 99.99,
+      "buy_score": 65,
+      "current_best_price": 99.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75435-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-21T00:04:24.249616Z",
-      "last_updated": "2026-09-21T00:04:24.249627Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202543Z",
+      "last_updated": "2026-09-26T04:04:15.202550Z",
       "lowest_price_ever": 85.99,
       "minifigs": 12,
       "msrp": 149.99,
       "name": "Battle of Felucia Separatist MTT",
       "owned_by": 3092,
       "pieces": 976,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -48065,6 +48085,11 @@
         {
           "date": "2026-09-21",
           "price": 99.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 99.49,
           "shop": "Brickwatch"
         }
       ],
@@ -48895,8 +48920,8 @@
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
-      "current_best_price": 52.99,
+      "buy_score": 45,
+      "current_best_price": 56.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -48906,7 +48931,7 @@
       "name": "BB-8",
       "owned_by": 998,
       "pieces": 569,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -48966,6 +48991,11 @@
           "date": "2026-09-12",
           "price": 52.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 56.98,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -48981,8 +49011,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-09-12T04:04:19.232428Z",
-      "last_updated": "2026-09-12T04:04:19.232432Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202876Z",
+      "last_updated": "2026-09-26T04:04:15.202879Z",
       "market_value": 84.97,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -77671,7 +77701,7 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 97.02,
+      "current_best_price": 96.99,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 22,
       "price_score": 10,
@@ -77712,8 +77742,8 @@
           "value": 130.42
         }
       ],
-      "last_brickwatch_alert": "2026-09-25T04:04:18.408365Z",
-      "last_updated": "2026-09-25T04:04:18.408368Z",
+      "last_brickwatch_alert": "2026-09-26T04:04:15.202993Z",
+      "last_updated": "2026-09-26T04:04:15.202997Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -77733,6 +77763,11 @@
         {
           "date": "2026-09-25",
           "price": 97.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-26",
+          "price": 96.99,
           "shop": "Brickwatch"
         }
       ]
