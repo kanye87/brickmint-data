@@ -42419,7 +42419,7 @@
           "value": 14.34
         }
       ],
-      "prev_buy_score": 21,
+      "prev_buy_score": 20,
       "purchase_price": 9.99
     },
     "75375": {
@@ -48114,7 +48114,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 64,
+      "prev_buy_score": 65,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol"
     },
@@ -49030,7 +49030,7 @@
           "value": 84.97
         }
       ],
-      "prev_buy_score": 48
+      "prev_buy_score": 45
     },
     "75682": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
