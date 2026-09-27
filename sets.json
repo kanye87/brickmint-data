@@ -5716,7 +5716,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 172.99,
+      "current_best_price": 172.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -5740,8 +5740,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-09-20T23:04:14.476560Z",
-      "last_updated": "2026-09-20T23:04:14.476564Z",
+      "last_brickwatch_alert": "2026-09-27T04:04:15.659837Z",
+      "last_updated": "2026-09-27T04:04:15.659841Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -5810,6 +5810,11 @@
         {
           "date": "2026-09-20",
           "price": 172.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 172.98,
           "shop": "Brickwatch"
         }
       ],
@@ -42880,12 +42885,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 34,
-      "current_best_price": 63.67,
+      "current_best_price": 63.66,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-25T04:04:18.407995Z",
-      "last_updated": "2026-09-25T04:04:18.408006Z",
+      "last_brickwatch_alert": "2026-09-27T04:04:15.659702Z",
+      "last_updated": "2026-09-27T04:04:15.659710Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
@@ -42976,6 +42981,11 @@
         {
           "date": "2026-09-25",
           "price": 63.67,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 63.66,
           "shop": "Brickwatch"
         }
       ],
