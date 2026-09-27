@@ -30359,8 +30359,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 49,
-      "current_best_price": 124.38,
+      "buy_score": 60,
+      "current_best_price": 105.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -30369,11 +30369,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 25,
+      "price_score": 35,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -30383,8 +30383,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-23T10:04:16.869403Z",
-      "last_updated": "2026-09-23T10:04:16.869413Z",
+      "last_brickwatch_alert": "2026-09-27T23:34:16.759211Z",
+      "last_updated": "2026-09-27T23:34:16.759220Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -30540,6 +30540,11 @@
         {
           "date": "2026-09-23",
           "price": 124.38,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 105.99,
           "shop": "Brickwatch"
         }
       ],
@@ -30839,8 +30844,8 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 45,
-      "current_best_price": 39.0,
+      "buy_score": 47,
+      "current_best_price": 37.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -30849,11 +30854,11 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 36,
@@ -30864,8 +30869,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-09-06T02:04:19.883961Z",
-      "last_updated": "2026-09-06T02:04:19.883968Z",
+      "last_brickwatch_alert": "2026-09-27T23:34:16.759352Z",
+      "last_updated": "2026-09-27T23:34:16.759355Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -30940,6 +30945,11 @@
         {
           "date": "2026-09-06",
           "price": 39.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 37.99,
           "shop": "Brickwatch"
         }
       ],
@@ -77432,13 +77442,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 21,
+      "price_score": 25,
       "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 45,
+      "buy_score": 53,
       "sell_score": null,
       "prev_buy_score": 45,
       "theme": "Super Mario",
@@ -77469,10 +77479,10 @@
           "value": 166.39
         }
       ],
-      "current_best_price": 129.99,
+      "current_best_price": 119.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-24T04:04:15.695493Z",
-      "last_updated": "2026-09-24T04:04:15.695495Z",
+      "last_brickwatch_alert": "2026-09-27T23:34:16.759507Z",
+      "last_updated": "2026-09-27T23:34:16.759511Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -77497,6 +77507,11 @@
         {
           "date": "2026-09-24",
           "price": 129.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-27",
+          "price": 119.99,
           "shop": "Brickwatch"
         }
       ]
