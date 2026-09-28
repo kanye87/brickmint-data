@@ -67144,8 +67144,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 85,
-      "current_best_price": 16.49,
+      "buy_score": 77,
+      "current_best_price": 18.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -67155,11 +67155,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 35,
+      "price_score": 28,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -67178,8 +67178,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-09-21T04:04:15.295487Z",
-      "last_updated": "2026-09-21T04:04:15.295493Z",
+      "last_brickwatch_alert": "2026-09-28T13:04:16.548030Z",
+      "last_updated": "2026-09-28T13:04:16.548037Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -67269,6 +67269,11 @@
         {
           "date": "2026-09-21",
           "price": 16.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 18.9,
           "shop": "Brickwatch"
         }
       ],
@@ -78073,7 +78078,7 @@
       "theme": "Star Wars",
       "date_first_available": "2026-10-01",
       "image_url": "https://images.brickset.com/sets/images/40897-1.jpg",
-      "prev_buy_score": null,
+      "prev_buy_score": 51,
       "year": 2026,
       "msrp": null,
       "pieces": 174,
