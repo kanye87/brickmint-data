@@ -74585,7 +74585,9 @@
       "brickset_last_enriched": "2026-09-14T17:20:32Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "43026": {
       "name": "Nike Air Force 1",
@@ -78069,7 +78071,9 @@
       "brickset_last_enriched": "2026-09-27T20:39:55Z",
       "subtheme": "Promotional",
       "sell_score": null,
-      "ean": "5702018071793"
+      "ean": "5702018071793",
+      "status": "watchlist",
+      "label": "investering"
     },
     "72052": {
       "name": "Mario's Pipe Jump",
@@ -78235,7 +78239,9 @@
       "rating": 0.0,
       "brickset_last_enriched": "2026-09-14T21:14:27Z",
       "subtheme": "Ultimate Collector Series",
-      "sell_score": null
+      "sell_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "11379": {
       "name": "Bookshop: Book Nook",
@@ -78386,7 +78392,9 @@
       "owned_by": 13,
       "rating": 0.0,
       "brickset_last_enriched": "2026-09-21T17:34:13Z",
-      "sell_score": null
+      "sell_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "10371": {
       "name": "Cosy Plants",
@@ -78464,6 +78472,13 @@
       "brickset_last_enriched": "2026-09-21T17:34:13Z",
       "subtheme": "Bedding",
       "sell_score": null
+    },
+    "40899": {
+      "name": "Set 40899",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": null,
+      "current_best_shop": "Brickwatch"
     }
   }
 }
