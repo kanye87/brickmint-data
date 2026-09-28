@@ -38070,7 +38070,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 1,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 13
+      "prev_buy_score": 22
     },
     "75326": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -42515,7 +42515,7 @@
           "value": 14.34
         }
       ],
-      "prev_buy_score": 20,
+      "prev_buy_score": 23,
       "purchase_price": 9.99
     },
     "75375": {
@@ -77695,7 +77695,7 @@
       "score_quality": "full",
       "buy_score": 42,
       "sell_score": null,
-      "prev_buy_score": 45,
+      "prev_buy_score": 42,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 99.99,
