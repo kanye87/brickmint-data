@@ -67298,7 +67298,7 @@
           "value": 26.07
         }
       ],
-      "prev_buy_score": 85
+      "prev_buy_score": 77
     },
     "77985": {
       "availability_score": 0,
@@ -78569,6 +78569,20 @@
       "score_quality": null,
       "buy_score": null,
       "sell_score": null
+    },
+    "50090": {
+      "name": "LEGOLAND Park Adventure",
+      "theme": "Promotional",
+      "date_first_available": "2027-02-01",
+      "prev_buy_score": null
+    },
+    "60510": {
+      "name": "LEGO City Advent Calendar 2026",
+      "theme": "City",
+      "date_first_available": "2026-09-01",
+      "msrp": 26.99,
+      "image_url": "https://images.brickset.com/sets/images/60510-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
