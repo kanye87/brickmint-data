@@ -20653,8 +20653,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 64,
-      "current_best_price": 53.99,
+      "buy_score": 65,
+      "current_best_price": 52.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -20666,7 +20666,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "retired",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -20706,8 +20706,8 @@
           "value": 75.62
         }
       ],
-      "last_brickwatch_alert": "2026-09-28T09:04:19.198811Z",
-      "last_updated": "2026-09-28T09:04:19.198818Z",
+      "last_brickwatch_alert": "2026-09-29T02:04:21.783478Z",
+      "last_updated": "2026-09-29T02:04:21.783486Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -20823,6 +20823,11 @@
         {
           "date": "2026-09-28",
           "price": 53.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-29",
+          "price": 52.5,
           "shop": "Brickwatch"
         }
       ],
