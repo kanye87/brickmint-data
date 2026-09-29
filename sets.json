@@ -20454,7 +20454,7 @@
           "value": 25.3
         }
       ],
-      "prev_buy_score": 44
+      "prev_buy_score": 48
     },
     "43012": {
       "availability_score": 0,
@@ -76096,7 +76096,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 58,
-      "prev_buy_score": 57,
+      "prev_buy_score": 58,
       "purchase_price": 55.0
     },
     "43023": {
@@ -76106,10 +76106,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 52.5,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-29T01:34:16.182504Z",
-      "last_updated": "2026-09-29T01:34:16.182511Z",
+      "last_brickwatch_alert": "2026-09-29T11:04:18.241966Z",
+      "last_updated": "2026-09-29T11:04:18.241974Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -76158,7 +76158,7 @@
         },
         {
           "date": "2026-09-29",
-          "price": 52.5,
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -77309,10 +77309,10 @@
       "brickset_last_enriched": "2026-09-15T15:59:24Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 29,
-      "current_best_price": 126.32,
+      "current_best_price": 145.51,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-24T09:04:17.023410Z",
-      "last_updated": "2026-09-24T09:04:17.023420Z",
+      "last_brickwatch_alert": "2026-09-29T11:04:18.242165Z",
+      "last_updated": "2026-09-29T11:04:18.242168Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -77327,6 +77327,11 @@
         {
           "date": "2026-09-24",
           "price": 126.32,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-29",
+          "price": 145.51,
           "shop": "Brickwatch"
         }
       ],
@@ -77345,13 +77350,13 @@
           "value": 136.85
         }
       ],
-      "price_score": 14,
-      "roi_score": 2,
+      "price_score": 3,
+      "roi_score": 0,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 29
+      "buy_score": 5
     },
     "76356": {
       "name": "Venom Bust",
