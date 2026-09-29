@@ -21226,12 +21226,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 60,
-      "current_best_price": 53.99,
+      "current_best_price": 52.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-28T08:04:17.589692Z",
-      "last_updated": "2026-09-28T08:04:17.589700Z",
+      "last_brickwatch_alert": "2026-09-29T01:04:15.120873Z",
+      "last_updated": "2026-09-29T01:04:15.120882Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
@@ -21357,6 +21357,11 @@
         {
           "date": "2026-09-28",
           "price": 53.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-29",
+          "price": 52.5,
           "shop": "Brickwatch"
         }
       ],
