@@ -62731,7 +62731,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-14T08:30:10Z",
       "buy_score": null,
-      "current_best_price": 94.95,
+      "current_best_price": 109.95,
       "image_url": "https://images.brickset.com/sets/images/76903-1.jpg",
       "label": "investering",
       "lowest_price_ever": 23.39,
@@ -62793,6 +62793,11 @@
           "date": "2026-06-19",
           "price": 94.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-09-29",
+          "price": 109.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -62812,8 +62817,8 @@
         }
       ],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-06-19T11:34:17.601584Z",
-      "last_updated": "2026-06-19T11:34:17.601594Z",
+      "last_brickwatch_alert": "2026-09-29T14:04:19.062552Z",
+      "last_updated": "2026-09-29T14:04:19.062563Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:37:57+00:00"
@@ -77309,7 +77314,7 @@
       "rating": 4.3,
       "brickset_last_enriched": "2026-09-15T15:59:24Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 5,
+      "prev_buy_score": 29,
       "current_best_price": 126.32,
       "current_best_shop": "Pepper.com",
       "last_brickwatch_alert": "2026-09-29T11:04:18.242165Z",
