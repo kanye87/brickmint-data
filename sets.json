@@ -77316,9 +77316,9 @@
       "subtheme": "The Mandalorian",
       "prev_buy_score": 29,
       "current_best_price": 126.32,
-      "current_best_shop": "Pepper.com",
-      "last_brickwatch_alert": "2026-09-29T11:04:18.242165Z",
-      "last_updated": "2026-09-29T11:54:27.257202Z",
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-09-29T15:04:17.844243Z",
+      "last_updated": "2026-09-29T15:04:17.844251Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -77338,7 +77338,7 @@
         {
           "date": "2026-09-29",
           "price": 126.32,
-          "shop": "Pepper.com"
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
