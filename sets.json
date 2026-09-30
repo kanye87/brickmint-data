@@ -914,7 +914,8 @@
       ],
       "prev_buy_score": null,
       "last_brickwatch_alert": "2026-09-29T04:04:17.078289Z",
-      "last_updated": "2026-09-29T04:04:17.078293Z"
+      "last_updated": "2026-09-29T04:04:17.078293Z",
+      "status": "watchlist"
     },
     "10282": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -74381,7 +74382,9 @@
         }
       ],
       "minifigs": 1,
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "status": "watchlist",
+      "label": "investering"
     },
     "40873": {
       "name": "Colourful Lantern",
