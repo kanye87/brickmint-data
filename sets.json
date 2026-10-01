@@ -12157,7 +12157,7 @@
     },
     "40539": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 24.38,
+      "current_best_price": 23.44,
       "date_first_available": "2022-01-04",
       "ean": "5702017166902",
       "expected_retirement": "2023-11",
@@ -12248,12 +12248,17 @@
           "date": "2026-09-30",
           "price": 24.38,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-01",
+          "price": 23.44,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-29T04:04:17.078448Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-01T04:04:24.936538Z",
+      "last_updated": "2026-10-01T04:04:24.936539Z",
       "prev_buy_score": 25,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
@@ -39102,8 +39107,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 24,
-      "current_best_price": 26.99,
+      "buy_score": 27,
+      "current_best_price": 26.03,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -39113,7 +39118,7 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 20,
+      "price_score": 23,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
@@ -39174,6 +39179,11 @@
           "date": "2026-09-30",
           "price": 26.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-01",
+          "price": 26.03,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -39232,8 +39242,8 @@
       "sell_trend_score": 0,
       "sell_age_score": 3,
       "sell_liquidity_score": 2,
-      "last_brickwatch_alert": "2026-09-30T23:04:14.716342Z",
-      "last_updated": "2026-09-30T23:04:14.716348Z",
+      "last_brickwatch_alert": "2026-10-01T04:04:24.936416Z",
+      "last_updated": "2026-10-01T04:04:24.936418Z",
       "prev_buy_score": 24,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
@@ -67100,8 +67110,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-09-22T04:04:18.581782Z",
-      "last_updated": "2026-09-22T04:04:18.581785Z",
+      "last_brickwatch_alert": "2026-10-01T04:04:24.936287Z",
+      "last_updated": "2026-10-01T04:04:24.936295Z",
       "market_value": 28.65,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -78390,13 +78400,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 18,
+      "price_score": 19,
       "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 40,
+      "buy_score": 42,
       "sell_score": null,
       "prev_buy_score": 40,
       "theme": "Pokémon",
@@ -78426,10 +78436,10 @@
           "value": 261.66
         }
       ],
-      "current_best_price": 204.95,
+      "current_best_price": 203.89,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-30T05:34:15.618186Z",
-      "last_updated": "2026-09-30T05:34:15.618195Z",
+      "last_brickwatch_alert": "2026-10-01T04:04:24.936472Z",
+      "last_updated": "2026-10-01T04:04:24.936475Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -78439,6 +78449,11 @@
         {
           "date": "2026-09-30",
           "price": 204.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-01",
+          "price": 203.89,
           "shop": "Brickwatch"
         }
       ],
@@ -78664,7 +78679,7 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 96.83,
+      "current_best_price": 96.79,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 22,
       "price_score": 10,
@@ -78705,8 +78720,8 @@
           "value": 130.42
         }
       ],
-      "last_brickwatch_alert": "2026-09-29T04:04:17.078377Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-01T04:04:24.936508Z",
+      "last_updated": "2026-10-01T04:04:24.936509Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -78746,6 +78761,11 @@
         {
           "date": "2026-09-30",
           "price": 96.83,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-01",
+          "price": 96.79,
           "shop": "Brickwatch"
         }
       ],
