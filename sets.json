@@ -61122,7 +61122,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 107.45,
+      "current_best_price": 107.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -61202,6 +61202,11 @@
           "date": "2026-09-24",
           "price": 107.45,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-01",
+          "price": 107.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -61213,8 +61218,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-09-24T04:04:15.695629Z",
-      "last_updated": "2026-09-24T04:04:15.695631Z",
+      "last_brickwatch_alert": "2026-10-01T09:34:15.620568Z",
+      "last_updated": "2026-10-01T09:34:15.620575Z",
       "market_value": 156.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
