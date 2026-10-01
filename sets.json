@@ -48784,7 +48784,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 64,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-09-30T21:00:37Z"
@@ -78491,7 +78491,7 @@
       "score_quality": "full",
       "buy_score": 40,
       "sell_score": null,
-      "prev_buy_score": 41,
+      "prev_buy_score": 40,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
