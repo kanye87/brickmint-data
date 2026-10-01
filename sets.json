@@ -11124,7 +11124,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-05-27T03:34:16.905701Z",
       "last_updated": "2026-05-27T03:34:16.905711Z",
-      "prev_buy_score": 4
+      "prev_buy_score": 0
     },
     "40378": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -31075,7 +31075,7 @@
           "value": 146.05
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "72038": {
@@ -31649,7 +31649,7 @@
           "value": 165.75
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "72151": {
@@ -57580,7 +57580,7 @@
           "value": 151.32
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "76301": {
@@ -61401,7 +61401,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 57,
+      "prev_buy_score": 61,
       "sale_price": 137.5,
       "price_checked_at": "2026-09-30T21:00:37Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
@@ -78553,7 +78553,7 @@
       "score_quality": "partial",
       "buy_score": 75,
       "sell_score": null,
-      "prev_buy_score": 53,
+      "prev_buy_score": 75,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
@@ -78638,7 +78638,7 @@
       "score_quality": "partial",
       "buy_score": 65,
       "sell_score": null,
-      "prev_buy_score": 42,
+      "prev_buy_score": 65,
       "theme": "Pokémon",
       "year": 2026,
       "msrp": 259.99,
@@ -78694,13 +78694,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 18,
+      "price_score": 19,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 40,
+      "buy_score": 41,
       "sell_score": null,
       "prev_buy_score": 40,
       "theme": "Star Wars",
@@ -78732,10 +78732,10 @@
           "value": 72.92
         }
       ],
-      "current_best_price": 54.99,
+      "current_best_price": 54.68,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-01T09:04:24.425598Z",
-      "last_updated": "2026-10-01T09:04:24.425609Z",
+      "last_brickwatch_alert": "2026-10-01T13:04:25.215422Z",
+      "last_updated": "2026-10-01T13:04:25.215432Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -78764,7 +78764,7 @@
         },
         {
           "date": "2026-10-01",
-          "price": 54.99,
+          "price": 54.68,
           "shop": "Brickwatch"
         }
       ],
