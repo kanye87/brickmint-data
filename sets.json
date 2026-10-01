@@ -12433,7 +12433,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-01T04:04:24.936538Z",
       "last_updated": "2026-10-01T04:04:24.936539Z",
-      "prev_buy_score": 25,
+      "prev_buy_score": 21,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "40547": {
@@ -12521,7 +12521,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 3,
+      "prev_buy_score": 0,
       "price_checked_at": "2026-09-30T21:00:37Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
@@ -13948,7 +13948,7 @@
       ],
       "last_brickwatch_alert": "2026-07-25T04:04:14.907654Z",
       "last_updated": "2026-07-25T04:04:14.907656Z",
-      "prev_buy_score": 15,
+      "prev_buy_score": 18,
       "purchase_price": 19.99
     },
     "40658": {
@@ -14144,7 +14144,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 20,
+      "prev_buy_score": 17,
       "price_checked_at": "2026-09-30T21:00:37Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -14224,7 +14224,7 @@
       ],
       "last_brickwatch_alert": "2026-05-28T07:04:25.716995Z",
       "last_updated": "2026-05-28T07:04:25.717006Z",
-      "prev_buy_score": 19,
+      "prev_buy_score": 18,
       "purchase_price": 9.99,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
@@ -14598,7 +14598,7 @@
       ],
       "last_brickwatch_alert": "2026-08-12T08:34:18.306469Z",
       "last_updated": "2026-08-12T08:34:18.306477Z",
-      "prev_buy_score": 25,
+      "prev_buy_score": 30,
       "purchase_price": 19.99,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
@@ -32780,7 +32780,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "75209": {
@@ -78846,13 +78846,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 19,
+      "price_score": 18,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 41,
+      "buy_score": 40,
       "sell_score": null,
       "prev_buy_score": 41,
       "theme": "Star Wars",
@@ -78884,10 +78884,10 @@
           "value": 72.92
         }
       ],
-      "current_best_price": 54.68,
+      "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-01T13:04:25.215422Z",
-      "last_updated": "2026-10-01T13:04:25.215432Z",
+      "last_brickwatch_alert": "2026-10-01T20:34:18.957466Z",
+      "last_updated": "2026-10-01T20:34:18.957474Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -78916,7 +78916,7 @@
         },
         {
           "date": "2026-10-01",
-          "price": 54.68,
+          "price": 54.99,
           "shop": "Brickwatch"
         }
       ],
