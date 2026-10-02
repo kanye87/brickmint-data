@@ -13583,7 +13583,7 @@
     },
     "40623": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
-      "current_best_price": 49.99,
+      "current_best_price": 52.95,
       "date_first_available": "2023-04-07",
       "ean": "5702017424057",
       "expected_retirement": "2023-12",
@@ -13660,11 +13660,19 @@
           "date": "2026-09-30",
           "price": 49.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 52.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "prev_buy_score": null,
-      "price_checked_at": "2026-09-30T21:00:37Z"
+      "price_checked_at": "2026-09-30T21:00:37Z",
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-10-02T04:34:53.838972Z",
+      "last_updated": "2026-10-02T04:34:53.838979Z"
     },
     "40627": {
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
@@ -49557,7 +49565,7 @@
           "value": 46.25
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 48,
       "price_checked_at": "2026-09-30T21:00:37Z"
     },
     "75440": {
@@ -49680,7 +49688,7 @@
           "value": 60.23
         }
       ],
-      "prev_buy_score": 49,
+      "prev_buy_score": 50,
       "purchase_price": 42,
       "sell_roi_score": 26,
       "sell_trend_score": 0,
@@ -68607,7 +68615,7 @@
           "value": 102.06
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 49,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256",
       "purchase_price": 61.0,
       "price_checked_at": "2026-09-30T21:00:37Z"
@@ -79231,7 +79239,7 @@
       "label": "investering",
       "current_best_price": 93.37,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 22,
+      "prev_buy_score": 25,
       "price_score": 13,
       "roi_score": 4,
       "urgency_score": 0,
