@@ -57246,8 +57246,8 @@
     "76294": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 38,
-      "current_best_price": 329.99,
+      "buy_score": 67,
+      "current_best_price": 279.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76294-1.jpg",
       "label": "investering",
@@ -57257,7 +57257,7 @@
       "name": "X-Men: The X-Mansion",
       "owned_by": 3357,
       "pieces": 3093,
-      "price_score": 0,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -57271,8 +57271,8 @@
       "urgency_score": 20,
       "wanted_by": 2689,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-10T14:04:19.526787Z",
-      "last_updated": "2026-09-10T14:04:19.526796Z",
+      "last_brickwatch_alert": "2026-10-02T06:34:19.352558Z",
+      "last_updated": "2026-10-02T06:34:19.352565Z",
       "subtheme": "X-Men",
       "price_history": [
         {
@@ -57328,6 +57328,11 @@
         {
           "date": "2026-09-10",
           "price": 329.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 279.99,
           "shop": "Brickwatch"
         }
       ],
