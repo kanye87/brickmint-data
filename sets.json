@@ -4605,7 +4605,7 @@
           "value": 100.06
         }
       ],
-      "prev_buy_score": 37,
+      "prev_buy_score": 33,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "10370": {
@@ -7593,7 +7593,7 @@
           "value": 386.21
         }
       ],
-      "prev_buy_score": 77,
+      "prev_buy_score": 41,
       "current_best_price": 329.99,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-ideas-21353-de-botanisch-tuin-met-15-korting-en-3-gwp-cadeaus-lees-beschrijving-420016",
       "last_updated": "2026-10-02T10:02:21Z",
@@ -22239,7 +22239,7 @@
           "value": 24.52
         }
       ],
-      "prev_buy_score": 41,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "43032": {
@@ -31383,7 +31383,7 @@
           "value": 146.05
         }
       ],
-      "prev_buy_score": 62,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "72038": {
@@ -31962,7 +31962,7 @@
           "value": 165.75
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "72151": {
@@ -32956,7 +32956,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75209": {
@@ -39250,7 +39250,7 @@
       "sell_trend_score": 19,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 54,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75329": {
@@ -45822,7 +45822,7 @@
           "value": 133.73
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 30,
       "purchase_price": 80.0,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
@@ -46807,7 +46807,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 49,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75408": {
@@ -46915,24 +46915,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 44,
-      "current_best_price": 231.54,
+      "buy_score": 34,
+      "current_best_price": 260.53,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-01T17:04:45.931308Z",
-      "last_updated": "2026-10-01T17:04:45.931317Z",
+      "last_brickwatch_alert": "2026-10-02T11:04:19.557296Z",
+      "last_updated": "2026-10-02T11:04:19.557303Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 20,
+      "price_score": 11,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -47171,6 +47171,11 @@
         {
           "date": "2026-10-01",
           "price": 231.54,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-02",
+          "price": 260.53,
           "shop": "Brickwatch"
         }
       ],
@@ -47962,7 +47967,7 @@
           "value": 172.93
         }
       ],
-      "prev_buy_score": 74,
+      "prev_buy_score": 63,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75418": {
@@ -50129,7 +50134,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-star-wars-grogu-mandalorian-apprentice-75446-eur5999-laagste-prijs-ooit-415525",
-      "prev_buy_score": 44,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75452": {
@@ -57963,7 +57968,7 @@
           "value": 151.32
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "76301": {
@@ -61789,7 +61794,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 61,
+      "prev_buy_score": 57,
       "sale_price": 137.5,
       "price_checked_at": "2026-10-02T10:02:21Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
@@ -76272,7 +76277,7 @@
       "rating": 4.5,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "The Lord of the Rings",
-      "prev_buy_score": 20,
+      "prev_buy_score": 18,
       "status": "watchlist",
       "label": "investering",
       "market_value": 77.5,
@@ -78655,7 +78660,7 @@
       "rating": 4.1,
       "brickset_last_enriched": "2026-09-29T17:23:54Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 29,
+      "prev_buy_score": 5,
       "current_best_price": 145.51,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-02T10:34:17.669788Z",
@@ -78975,7 +78980,7 @@
       "score_quality": "partial",
       "buy_score": 53,
       "sell_score": null,
-      "prev_buy_score": 75,
+      "prev_buy_score": 53,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
@@ -79065,7 +79070,7 @@
       "score_quality": "partial",
       "buy_score": 47,
       "sell_score": null,
-      "prev_buy_score": 65,
+      "prev_buy_score": 47,
       "theme": "Pokémon",
       "year": 2026,
       "msrp": 259.99,
