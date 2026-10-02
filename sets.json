@@ -5652,8 +5652,8 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 119.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 149.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
       "lowest_price_ever": 119.99,
@@ -5748,13 +5748,13 @@
         },
         {
           "date": "2026-10-02",
-          "price": 119.99,
-          "shop": "Pepper.com"
+          "price": 149.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-09-28T04:04:18.839625Z",
-      "last_updated": "2026-10-02T11:40:50.943759Z",
+      "last_brickwatch_alert": "2026-10-02T14:04:23.288850Z",
+      "last_updated": "2026-10-02T14:04:23.288856Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-10-02T10:02:21Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
