@@ -32580,9 +32580,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 499.0,
-      "last_brickwatch_alert": "2026-09-21T12:34:14.197746Z",
-      "last_updated": "2026-09-21T12:34:14.197755Z",
+      "current_best_price": 499.99,
+      "last_brickwatch_alert": "2026-10-03T18:34:16.589812Z",
+      "last_updated": "2026-10-03T18:34:16.589821Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -32617,6 +32617,11 @@
         {
           "date": "2026-09-21",
           "price": 499.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-03",
+          "price": 499.99,
           "shop": "Brickwatch"
         }
       ],
@@ -60302,7 +60307,7 @@
       ],
       "last_brickwatch_alert": "2026-10-03T16:34:13.945399Z",
       "last_updated": "2026-10-03T16:34:13.945408Z",
-      "prev_buy_score": 38,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "76344": {
