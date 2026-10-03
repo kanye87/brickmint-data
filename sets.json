@@ -49860,8 +49860,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-10-02T04:04:18.402302Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-03T04:04:13.255284Z",
+      "last_updated": "2026-10-03T04:04:13.255287Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -50386,8 +50386,8 @@
       "lego_availability": "Retail",
       "ean": "5702018063040",
       "current_best_price": 79.59,
-      "last_brickwatch_alert": "2026-09-20T23:34:19.428597Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-03T04:04:13.255202Z",
+      "last_updated": "2026-10-03T04:04:13.255206Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -79491,13 +79491,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 31,
-      "roi_score": 5,
+      "price_score": 22,
+      "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 65,
+      "buy_score": 47,
       "sell_score": null,
       "prev_buy_score": 65,
       "theme": "Pokémon",
@@ -79527,10 +79527,10 @@
           "value": 261.66
         }
       ],
-      "current_best_price": 169.99,
-      "current_best_shop": "Pepper.com",
-      "last_brickwatch_alert": "2026-10-01T04:04:24.936472Z",
-      "last_updated": "2026-10-02T11:40:50.945473Z",
+      "current_best_price": 196.08,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-10-03T04:04:13.255072Z",
+      "last_updated": "2026-10-03T04:04:13.255080Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -79551,6 +79551,11 @@
           "date": "2026-10-02",
           "price": 169.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-10-03",
+          "price": 196.08,
+          "shop": "Brickwatch"
         }
       ],
       "price_checked_at": "2026-10-02T10:02:21Z",
