@@ -5884,8 +5884,8 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 142.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 179.9,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -5908,8 +5908,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-10-01T08:04:26.578538Z",
-      "last_updated": "2026-10-02T11:40:50.943542Z",
+      "last_brickwatch_alert": "2026-10-04T23:04:14.101335Z",
+      "last_updated": "2026-10-04T23:04:14.101344Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -5994,6 +5994,11 @@
           "date": "2026-10-02",
           "price": 142.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-10-04",
+          "price": 179.9,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
