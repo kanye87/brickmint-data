@@ -80253,13 +80253,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 19,
+      "price_score": 18,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 41,
+      "buy_score": 40,
       "sell_score": null,
       "prev_buy_score": 41,
       "theme": "Star Wars",
@@ -80291,10 +80291,10 @@
           "value": 72.92
         }
       ],
-      "current_best_price": 54.68,
+      "current_best_price": 54.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-02T18:04:15.585024Z",
-      "last_updated": "2026-10-02T18:04:15.585028Z",
+      "last_brickwatch_alert": "2026-10-04T13:04:20.480932Z",
+      "last_updated": "2026-10-04T13:04:20.480938Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -80329,6 +80329,11 @@
         {
           "date": "2026-10-02",
           "price": 54.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-04",
+          "price": 54.99,
           "shop": "Brickwatch"
         }
       ],
