@@ -22221,7 +22221,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-017577/173871.jpg"
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 66,
       "purchase_price": 70.0,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
@@ -22467,7 +22467,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 25,
+      "prev_buy_score": 28,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "43217": {
@@ -41906,7 +41906,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 19,
+      "prev_buy_score": 18,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
     "75350": {
@@ -66598,7 +66598,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 15,
-      "current_best_price": 43.96,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76940-1.jpg",
       "label": "investering",
@@ -66667,6 +66667,11 @@
           "date": "2026-10-02",
           "price": 43.96,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-04",
+          "price": 44.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -66690,8 +66695,8 @@
       "lego_availability": "Retail",
       "ean": "5702017079738",
       "prev_buy_score": 15,
-      "last_brickwatch_alert": "2026-10-02T04:04:18.402375Z",
-      "last_updated": "2026-10-02T04:04:18.402376Z",
+      "last_brickwatch_alert": "2026-10-04T21:34:14.791337Z",
+      "last_updated": "2026-10-04T21:34:14.791348Z",
       "purchase_price": 20.0,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
