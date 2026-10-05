@@ -21264,7 +21264,7 @@
           "value": 25.3
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "43012": {
@@ -22088,13 +22088,13 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 66,
-      "current_best_price": 49.99,
+      "buy_score": 65,
+      "current_best_price": 52.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-29T09:04:19.860012Z",
-      "last_updated": "2026-09-29T09:04:19.860014Z",
+      "last_brickwatch_alert": "2026-10-05T13:04:18.258904Z",
+      "last_updated": "2026-10-05T13:04:18.258914Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
@@ -22103,7 +22103,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "retired",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -22229,6 +22229,11 @@
         {
           "date": "2026-09-29",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-05",
+          "price": 52.5,
           "shop": "Brickwatch"
         }
       ],
@@ -31739,7 +31744,7 @@
           "value": 146.05
         }
       ],
-      "prev_buy_score": 62,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "72038": {
@@ -32323,7 +32328,7 @@
           "value": 165.75
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "72151": {
@@ -33343,7 +33348,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75209": {
@@ -39891,7 +39896,7 @@
       "sell_trend_score": 19,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 52,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75329": {
@@ -44829,7 +44834,7 @@
           "value": 79.0
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 33,
       "purchase_price": 66.0,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
@@ -50149,7 +50154,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 61,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-10-05T10:50:09Z"
@@ -59124,7 +59129,7 @@
           "value": 151.32
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "76301": {
@@ -61347,7 +61352,7 @@
           "value": 129.99
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "76382": {
@@ -63033,7 +63038,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 61,
+      "prev_buy_score": 50,
       "sale_price": 137.5,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
@@ -77871,7 +77876,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 39,
-      "prev_buy_score": 35,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "11381": {
@@ -78881,10 +78886,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 49.99,
+      "current_best_price": 52.5,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-29T11:04:18.241966Z",
-      "last_updated": "2026-10-05T10:50:09Z",
+      "last_brickwatch_alert": "2026-10-05T13:04:18.259130Z",
+      "last_updated": "2026-10-05T13:04:18.259133Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -78943,7 +78948,7 @@
         },
         {
           "date": "2026-10-05",
-          "price": 49.99,
+          "price": 52.5,
           "shop": "Brickwatch"
         }
       ],
@@ -78981,7 +78986,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 57,
-      "prev_buy_score": 59,
+      "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
@@ -80522,7 +80527,7 @@
       "score_quality": "partial",
       "buy_score": 47,
       "sell_score": null,
-      "prev_buy_score": 65,
+      "prev_buy_score": 47,
       "theme": "Pokémon",
       "year": 2026,
       "msrp": 259.99,
