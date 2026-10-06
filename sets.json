@@ -19525,7 +19525,7 @@
           "value": 180.0
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 63,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "42172": {
@@ -58513,7 +58513,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 38,
-      "current_best_price": 329.99,
+      "current_best_price": 364.11,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76294-1.jpg",
       "label": "investering",
@@ -58537,8 +58537,8 @@
       "urgency_score": 20,
       "wanted_by": 2689,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-03T00:04:19.204647Z",
-      "last_updated": "2026-10-03T00:04:19.204680Z",
+      "last_brickwatch_alert": "2026-10-06T05:04:22.921480Z",
+      "last_updated": "2026-10-06T05:04:22.921489Z",
       "subtheme": "X-Men",
       "price_history": [
         {
@@ -58604,6 +58604,11 @@
         {
           "date": "2026-10-03",
           "price": 329.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 364.11,
           "shop": "Brickwatch"
         }
       ],
@@ -61392,7 +61397,7 @@
           "value": 129.99
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 63,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "76382": {
@@ -80473,13 +80478,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 35,
-      "roi_score": 6,
+      "price_score": 25,
+      "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 75,
+      "buy_score": 53,
       "sell_score": null,
       "prev_buy_score": 75,
       "theme": "Super Mario",
@@ -80510,10 +80515,10 @@
           "value": 166.39
         }
       ],
-      "current_best_price": 99.99,
-      "current_best_shop": "Pepper.com",
-      "last_brickwatch_alert": "2026-10-05T04:04:20.184811Z",
-      "last_updated": "2026-10-05T13:12:41.882486Z",
+      "current_best_price": 119.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-10-06T05:04:22.921679Z",
+      "last_updated": "2026-10-06T05:04:22.921682Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -80559,6 +80564,11 @@
           "date": "2026-10-05",
           "price": 99.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 119.99,
+          "shop": "Brickwatch"
         }
       ],
       "price_checked_at": "2026-10-05T10:50:09Z",
