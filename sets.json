@@ -48666,7 +48666,7 @@
       "sell_trend_score": 1,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75416": {
@@ -80213,10 +80213,10 @@
       "brickset_last_enriched": "2026-09-29T17:23:54Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 5,
-      "current_best_price": 145.51,
+      "current_best_price": 120.0,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-02T10:34:17.669788Z",
-      "last_updated": "2026-10-02T10:34:17.669798Z",
+      "last_brickwatch_alert": "2026-10-06T11:34:22.405434Z",
+      "last_updated": "2026-10-06T11:34:22.405446Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -80242,6 +80242,11 @@
           "date": "2026-10-02",
           "price": 145.51,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 120.0,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -80259,13 +80264,13 @@
           "value": 136.85
         }
       ],
-      "price_score": 3,
-      "roi_score": 0,
+      "price_score": 18,
+      "roi_score": 3,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 5,
+      "buy_score": 38,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75459-star-wars-imperial-lambda-class-shuttle-lqagste-prijs-ooit-419890",
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
