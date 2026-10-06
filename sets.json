@@ -4652,8 +4652,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 33,
-      "current_best_price": 55.99,
+      "buy_score": 30,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -4662,7 +4662,7 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 18,
+      "price_score": 15,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4676,8 +4676,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-05T17:34:16.278651Z",
-      "last_updated": "2026-10-05T17:34:16.278654Z",
+      "last_brickwatch_alert": "2026-10-06T08:34:17.262041Z",
+      "last_updated": "2026-10-06T08:34:17.262052Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -4718,6 +4718,11 @@
         {
           "date": "2026-10-05",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ],
@@ -21717,8 +21722,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
-      "current_best_price": 49.0,
+      "buy_score": 47,
+      "current_best_price": 46.8,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -21727,10 +21732,10 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21834,13 +21839,18 @@
           "date": "2026-10-01",
           "price": 49.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 46.8,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-10-01T10:04:17.298936Z",
-      "last_updated": "2026-10-01T10:04:17.298939Z",
+      "last_brickwatch_alert": "2026-10-06T08:34:17.262461Z",
+      "last_updated": "2026-10-06T08:34:17.262466Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 60.49,
       "market_value_source": "ebay",
@@ -39931,7 +39941,7 @@
       "sell_trend_score": 19,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 51,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75329": {
@@ -48727,8 +48737,8 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 63,
-      "current_best_price": 142.99,
+      "buy_score": 74,
+      "current_best_price": 122.38,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
@@ -48738,11 +48748,11 @@
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 25,
+      "price_score": 34,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -48752,8 +48762,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-24T04:04:15.695572Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-06T08:34:17.262298Z",
+      "last_updated": "2026-10-06T08:34:17.262303Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -48822,6 +48832,11 @@
         {
           "date": "2026-10-02",
           "price": 142.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 122.38,
           "shop": "Brickwatch"
         }
       ],
@@ -50199,7 +50214,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 65,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-10-05T10:50:09Z"
