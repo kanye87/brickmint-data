@@ -80212,7 +80212,7 @@
       "rating": 4.1,
       "brickset_last_enriched": "2026-09-29T17:23:54Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 5,
+      "prev_buy_score": 38,
       "current_best_price": 120.0,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-06T11:34:22.405434Z",
@@ -80755,10 +80755,10 @@
           "value": 72.92
         }
       ],
-      "current_best_price": 54.68,
+      "current_best_price": 54.83,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-04T18:34:15.861281Z",
-      "last_updated": "2026-10-04T18:34:15.861290Z",
+      "last_brickwatch_alert": "2026-10-06T12:04:21.152400Z",
+      "last_updated": "2026-10-06T12:04:21.152410Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -80798,6 +80798,11 @@
         {
           "date": "2026-10-04",
           "price": 54.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 54.83,
           "shop": "Brickwatch"
         }
       ],
