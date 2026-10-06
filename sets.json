@@ -4743,7 +4743,7 @@
           "value": 81.88
         }
       ],
-      "prev_buy_score": 33,
+      "prev_buy_score": 30,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "10497": {
@@ -21869,7 +21869,7 @@
           "value": 60.49
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "43016": {
@@ -33153,7 +33153,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 698.78,
+      "current_best_price": 719.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -33184,15 +33184,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 11,
-      "roi_score": 2,
+      "price_score": 9,
+      "roi_score": 1,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 43,
-      "last_brickwatch_alert": "2026-10-05T22:04:17.074098Z",
-      "last_updated": "2026-10-05T22:04:17.074106Z",
+      "buy_score": 40,
+      "last_brickwatch_alert": "2026-10-06T09:04:16.793889Z",
+      "last_updated": "2026-10-06T09:04:16.793898Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -33306,6 +33306,11 @@
         {
           "date": "2026-10-05",
           "price": 698.78,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 719.99,
           "shop": "Brickwatch"
         }
       ],
@@ -46573,8 +46578,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 30,
-      "current_best_price": 102.82,
+      "buy_score": 40,
+      "current_best_price": 89.54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -46584,11 +46589,11 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 23,
+      "price_score": 32,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 38,
@@ -46598,8 +46603,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-09-25T04:04:18.408259Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-06T09:04:16.794104Z",
+      "last_updated": "2026-10-06T09:04:16.794109Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -46673,6 +46678,11 @@
         {
           "date": "2026-10-02",
           "price": 102.82,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 89.54,
           "shop": "Brickwatch"
         }
       ],
@@ -47297,8 +47307,8 @@
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 45,
-      "current_best_price": 48.99,
+      "buy_score": 44,
+      "current_best_price": 49.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75405-1.jpg",
       "label": "investering",
@@ -47307,7 +47317,7 @@
       "name": "Home One Starcruiser",
       "owned_by": 4992,
       "pieces": 559,
-      "price_score": 26,
+      "price_score": 25,
       "purchase_price": 39.99,
       "rating": 3.8,
       "retirement_date": "2026-07-31",
@@ -47325,8 +47335,8 @@
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "last_brickwatch_alert": "2026-10-02T02:04:24.869493Z",
-      "last_updated": "2026-10-02T02:04:24.869497Z",
+      "last_brickwatch_alert": "2026-10-06T09:04:16.794387Z",
+      "last_updated": "2026-10-06T09:04:16.794391Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -47431,6 +47441,11 @@
         {
           "date": "2026-10-02",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 49.98,
           "shop": "Brickwatch"
         }
       ],
@@ -47549,7 +47564,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 47,
-      "current_best_price": 44.99,
+      "current_best_price": 43.85,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -47660,10 +47675,15 @@
           "date": "2026-10-02",
           "price": 44.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 43.85,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-25T04:04:18.408162Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-06T09:04:16.794285Z",
+      "last_updated": "2026-10-06T09:04:16.794289Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -48865,7 +48885,7 @@
           "value": 172.93
         }
       ],
-      "prev_buy_score": 63,
+      "prev_buy_score": 74,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75418": {
