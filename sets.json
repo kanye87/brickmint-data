@@ -5667,8 +5667,8 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 119.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 140.49,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
       "lowest_price_ever": 119.99,
@@ -5770,11 +5770,16 @@
           "date": "2026-10-05",
           "price": 119.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 140.49,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-02T14:04:23.288850Z",
-      "last_updated": "2026-10-05T13:12:41.881361Z",
+      "last_brickwatch_alert": "2026-10-06T04:34:18.327072Z",
+      "last_updated": "2026-10-06T04:34:18.327073Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
@@ -5894,8 +5899,8 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 142.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 165.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -5918,8 +5923,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-10-04T23:04:14.101335Z",
-      "last_updated": "2026-10-05T13:12:41.881164Z",
+      "last_brickwatch_alert": "2026-10-06T04:34:18.327003Z",
+      "last_updated": "2026-10-06T04:34:18.327010Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -6014,6 +6019,11 @@
           "date": "2026-10-05",
           "price": 142.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 165.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -19404,8 +19414,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 56,
-      "current_best_price": 157.02,
+      "buy_score": 63,
+      "current_best_price": 141.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -19414,11 +19424,11 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 25,
+      "price_score": 31,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19429,8 +19439,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-09-24T06:04:19.185890Z",
-      "last_updated": "2026-09-24T06:04:19.185894Z",
+      "last_brickwatch_alert": "2026-10-06T04:34:18.327106Z",
+      "last_updated": "2026-10-06T04:34:18.327107Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19485,6 +19495,11 @@
         {
           "date": "2026-09-24",
           "price": 157.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 141.99,
           "shop": "Brickwatch"
         }
       ],
@@ -27836,7 +27851,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 25,
-      "current_best_price": 8.95,
+      "current_best_price": 12.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71039-1.jpg",
       "label": "investering",
@@ -27904,6 +27919,11 @@
         {
           "date": "2026-07-10",
           "price": 8.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 12.77,
           "shop": "Brickwatch"
         }
       ],
@@ -27996,8 +28016,8 @@
       "expected_retirement": "2023-12",
       "date_first_available": "2023-09-01",
       "lego_availability": "Retail",
-      "last_brickwatch_alert": "2026-07-10T10:04:22.425589Z",
-      "last_updated": "2026-07-10T10:04:22.425599Z",
+      "last_brickwatch_alert": "2026-10-06T04:34:18.088798Z",
+      "last_updated": "2026-10-06T04:34:18.088806Z",
       "prev_buy_score": 25
     },
     "71040": {
@@ -61199,17 +61219,17 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 59,
-      "current_best_price": 254.98,
+      "buy_score": 63,
+      "current_best_price": 232.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 238.95,
+      "lowest_price_ever": 232.99,
       "msrp": 369.99,
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 31,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -61226,8 +61246,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-09-08T02:04:24.143414Z",
-      "last_updated": "2026-10-05T10:50:09Z",
+      "last_brickwatch_alert": "2026-10-06T04:34:18.088925Z",
+      "last_updated": "2026-10-06T04:34:18.088928Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -61342,6 +61362,11 @@
         {
           "date": "2026-10-05",
           "price": 254.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 232.99,
           "shop": "Brickwatch"
         }
       ],
