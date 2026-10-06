@@ -3126,7 +3126,7 @@
           "value": 379.65
         }
       ],
-      "prev_buy_score": 21,
+      "prev_buy_score": 26,
       "purchase_price": 390,
       "sell_roi_score": 0,
       "sell_trend_score": 0,
@@ -20696,7 +20696,7 @@
           "value": 160.0
         }
       ],
-      "prev_buy_score": 30,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
@@ -21206,7 +21206,7 @@
     "43011": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
+      "buy_score": 40,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43011-1.jpg",
       "label": "investering",
@@ -21215,10 +21215,10 @@
       "name": "Lionel Messi – Football Highlights",
       "owned_by": 272,
       "pieces": 500,
-      "price_score": 32,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21244,9 +21244,9 @@
       "minifigs": 1,
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "current_best_price": 16.99,
-      "last_brickwatch_alert": "2026-10-05T12:34:19.558722Z",
-      "last_updated": "2026-10-05T12:34:19.558730Z",
+      "current_best_price": 18.99,
+      "last_brickwatch_alert": "2026-10-06T14:34:21.624396Z",
+      "last_updated": "2026-10-06T14:34:21.624404Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -21301,6 +21301,11 @@
         {
           "date": "2026-10-05",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 18.99,
           "shop": "Brickwatch"
         }
       ],
@@ -33425,7 +33430,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "75209": {
@@ -61203,7 +61208,7 @@
           "value": 98.4
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
