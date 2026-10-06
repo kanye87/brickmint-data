@@ -48468,24 +48468,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 56,
-      "current_best_price": 55.99,
+      "buy_score": 35,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-05T17:34:16.278470Z",
-      "last_updated": "2026-10-05T17:34:16.278477Z",
+      "last_brickwatch_alert": "2026-10-06T10:04:18.919190Z",
+      "last_updated": "2026-10-06T10:04:18.919205Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 18,
+      "price_score": 0,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 27,
@@ -48633,6 +48633,11 @@
         {
           "date": "2026-10-05",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-06",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
