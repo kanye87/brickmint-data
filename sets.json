@@ -47863,7 +47863,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 47,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75408": {
@@ -61477,7 +61477,7 @@
           "value": 20.14
         }
       ],
-      "prev_buy_score": 51,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "76354": {
