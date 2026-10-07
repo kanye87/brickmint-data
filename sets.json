@@ -33511,7 +33511,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75209": {
@@ -61086,8 +61086,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
-      "current_best_price": 83.99,
+      "buy_score": 39,
+      "current_best_price": 93.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -61097,11 +61097,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 31,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -61111,8 +61111,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-09-29T08:04:18.309818Z",
-      "last_updated": "2026-10-07T10:33:56Z",
+      "last_brickwatch_alert": "2026-10-07T22:34:15.698289Z",
+      "last_updated": "2026-10-07T22:34:15.698296Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -61212,7 +61212,7 @@
         },
         {
           "date": "2026-10-07",
-          "price": 83.99,
+          "price": 93.99,
           "shop": "Brickwatch"
         }
       ],
