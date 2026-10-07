@@ -19675,7 +19675,7 @@
           "value": 339.06
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
     "42173": {
@@ -22323,7 +22323,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-017577/173871.jpg"
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 66,
       "purchase_price": 70.0,
       "price_checked_at": "2026-10-05T10:50:09Z"
     },
@@ -39863,7 +39863,7 @@
     },
     "75328": {
       "brickset_last_enriched": "2026-05-04T05:05:53Z",
-      "current_best_price": 44.78,
+      "current_best_price": 47.02,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2022-02-04",
       "ean": "5702017155548",
@@ -39895,13 +39895,13 @@
       "wanted_by": 2256,
       "year": 2022,
       "subtheme": "Helmet Collection",
-      "price_score": 32,
+      "price_score": 29,
       "roi_score": 2,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 54,
+      "buy_score": 51,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -39967,11 +39967,16 @@
           "date": "2026-10-06",
           "price": 44.78,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-07",
+          "price": 47.02,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-06T08:04:21.259468Z",
-      "last_updated": "2026-10-06T08:04:21.259471Z",
+      "last_brickwatch_alert": "2026-10-07T05:04:17.484756Z",
+      "last_updated": "2026-10-07T05:04:17.484764Z",
       "market_value": 50.07,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T11:22:44.332811+00:00",
@@ -61223,7 +61228,7 @@
           "value": 98.4
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 55,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
@@ -63196,7 +63201,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 61,
+      "prev_buy_score": 57,
       "sale_price": 137.5,
       "price_checked_at": "2026-10-05T10:50:09Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
@@ -81061,7 +81066,7 @@
       "label": "investering",
       "current_best_price": 88.79,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 26,
+      "prev_buy_score": 30,
       "price_score": 17,
       "roi_score": 5,
       "urgency_score": 0,
