@@ -2158,7 +2158,7 @@
           "value": 164.26
         }
       ],
-      "prev_buy_score": 55,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "10317": {
@@ -3136,7 +3136,7 @@
           "value": 379.65
         }
       ],
-      "prev_buy_score": 26,
+      "prev_buy_score": 30,
       "purchase_price": 390,
       "sell_roi_score": 0,
       "sell_trend_score": 0,
@@ -5092,12 +5092,12 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 219.99,
+      "current_best_price": 216.48,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11370-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-07T08:04:17.640554Z",
-      "last_updated": "2026-10-07T08:04:17.640558Z",
+      "last_brickwatch_alert": "2026-10-07T11:34:52.693524Z",
+      "last_updated": "2026-10-07T11:34:52.693532Z",
       "lowest_price_ever": null,
       "minifigs": 13,
       "msrp": 279.99,
@@ -5217,6 +5217,11 @@
         {
           "date": "2026-10-04",
           "price": 219.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-07",
+          "price": 216.48,
           "shop": "Brickwatch"
         }
       ],
@@ -10848,7 +10853,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 46,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "31213": {
@@ -14072,7 +14077,7 @@
       ],
       "last_brickwatch_alert": "2026-07-25T04:04:14.907654Z",
       "last_updated": "2026-10-07T10:33:56Z",
-      "prev_buy_score": 18,
+      "prev_buy_score": 17,
       "purchase_price": 19.99,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
@@ -19969,7 +19974,7 @@
           "value": 194.96
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "42184": {
@@ -20630,7 +20635,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 51,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "42207": {
@@ -20747,7 +20752,7 @@
           "value": 160.0
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 30,
       "price_checked_at": "2026-10-07T10:33:56Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
@@ -21227,7 +21232,7 @@
           "value": 208.58
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "43010": {
@@ -21610,7 +21615,7 @@
           "value": 28.16
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "43014": {
@@ -22074,7 +22079,7 @@
           "value": 48.48
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "43019": {
@@ -40568,7 +40573,7 @@
       "sell_liquidity_score": 2,
       "last_brickwatch_alert": "2026-10-01T04:04:24.936416Z",
       "last_updated": "2026-10-07T10:33:56Z",
-      "prev_buy_score": 27,
+      "prev_buy_score": 22,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75334": {
@@ -45012,7 +45017,7 @@
           "value": 79.0
         }
       ],
-      "prev_buy_score": 33,
+      "prev_buy_score": 38,
       "purchase_price": 66.0,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
@@ -46845,7 +46850,7 @@
           "value": 133.73
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 38,
       "purchase_price": 80.0,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
@@ -47440,7 +47445,7 @@
           "value": 40.86
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 44,
       "purchase_price": 24.99,
       "sell_roi_score": 31,
       "sell_trend_score": 11,
@@ -48549,7 +48554,7 @@
           "value": 68.23
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75414": {
@@ -49048,7 +49053,7 @@
           "value": 172.93
         }
       ],
-      "prev_buy_score": 74,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75418": {
@@ -49531,7 +49536,7 @@
           "value": 677.54
         }
       ],
-      "prev_buy_score": 25,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75428": {
@@ -50544,7 +50549,7 @@
           "value": 35.55
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 53,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75439": {
@@ -51005,7 +51010,7 @@
           "value": 74.0
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 58,
       "purchase_price": 35,
       "sell_roi_score": 41,
       "sell_trend_score": 0,
@@ -61237,7 +61242,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 39,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "76346": {
@@ -61467,7 +61472,7 @@
           "value": 20.14
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "76354": {
@@ -69418,7 +69423,7 @@
           "value": 28.65
         }
       ],
-      "prev_buy_score": 69,
+      "prev_buy_score": 67,
       "purchase_price": 12,
       "sell_roi_score": 46,
       "sell_trend_score": 0,
@@ -78218,7 +78223,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 42,
-      "prev_buy_score": 39,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "11381": {
@@ -79343,7 +79348,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 57,
-      "prev_buy_score": 59,
+      "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-10-07T10:33:56Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
