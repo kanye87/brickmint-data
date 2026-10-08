@@ -21503,7 +21503,7 @@
           "value": 28.83
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "43013": {
@@ -69448,7 +69448,7 @@
           "value": 28.65
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 68,
       "purchase_price": 12,
       "sell_roi_score": 46,
       "sell_trend_score": 0,
