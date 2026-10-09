@@ -21911,7 +21911,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 47,
-      "current_best_price": 45.97,
+      "current_best_price": 45.96,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -22035,15 +22035,15 @@
         },
         {
           "date": "2026-10-09",
-          "price": 45.97,
+          "price": 45.96,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-10-09T11:34:13.778850Z",
-      "last_updated": "2026-10-09T11:34:13.778858Z",
+      "last_brickwatch_alert": "2026-10-09T18:34:15.725816Z",
+      "last_updated": "2026-10-09T18:34:15.725824Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 60.49,
       "market_value_source": "ebay",
@@ -23081,7 +23081,7 @@
           "value": 109.13
         }
       ],
-      "prev_buy_score": 18,
+      "prev_buy_score": 20,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "43249": {
