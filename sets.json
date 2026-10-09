@@ -19731,7 +19731,7 @@
           "value": 339.06
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "42173": {
@@ -40617,7 +40617,7 @@
       "sell_liquidity_score": 2,
       "last_brickwatch_alert": "2026-10-09T04:04:15.676490Z",
       "last_updated": "2026-10-09T04:04:15.676494Z",
-      "prev_buy_score": 22,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75334": {
@@ -70086,7 +70086,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 63,
+      "prev_buy_score": 65,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "77251": {
@@ -70356,7 +70356,7 @@
           "value": 26.07
         }
       ],
-      "prev_buy_score": 77,
+      "prev_buy_score": 82,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "77985": {
@@ -78344,7 +78344,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 37,
-      "prev_buy_score": 35,
+      "prev_buy_score": 37,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "11381": {
@@ -80606,7 +80606,7 @@
       "rating": 4.1,
       "brickset_last_enriched": "2026-09-29T17:23:54Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 5,
+      "prev_buy_score": 24,
       "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-09T04:04:15.676295Z",
