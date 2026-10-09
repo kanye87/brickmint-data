@@ -2163,7 +2163,7 @@
           "value": 164.26
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "10317": {
@@ -3146,7 +3146,7 @@
           "value": 379.65
         }
       ],
-      "prev_buy_score": 30,
+      "prev_buy_score": 21,
       "purchase_price": 390,
       "sell_roi_score": 0,
       "sell_trend_score": 0,
@@ -10898,7 +10898,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 49,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "31213": {
@@ -14127,7 +14127,7 @@
       ],
       "last_brickwatch_alert": "2026-07-25T04:04:14.907654Z",
       "last_updated": "2026-10-09T10:53:53Z",
-      "prev_buy_score": 17,
+      "prev_buy_score": 18,
       "purchase_price": 19.99,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
@@ -20705,7 +20705,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 51,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "42207": {
@@ -20827,7 +20827,7 @@
           "value": 160.0
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 30,
       "price_checked_at": "2026-10-09T10:53:53Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
@@ -21312,7 +21312,7 @@
           "value": 208.58
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "43010": {
@@ -21705,7 +21705,7 @@
           "value": 28.16
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "43014": {
@@ -21911,7 +21911,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 47,
-      "current_best_price": 46.9,
+      "current_best_price": 45.97,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -22035,15 +22035,15 @@
         },
         {
           "date": "2026-10-09",
-          "price": 46.9,
+          "price": 45.97,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-10-09T08:04:19.044539Z",
-      "last_updated": "2026-10-09T08:04:19.044542Z",
+      "last_brickwatch_alert": "2026-10-09T11:34:13.778850Z",
+      "last_updated": "2026-10-09T11:34:13.778858Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 60.49,
       "market_value_source": "ebay",
@@ -33630,7 +33630,7 @@
           "value": 735.0
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75209": {
@@ -43983,7 +43983,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 10,
-      "prev_buy_score": 53,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75368": {
@@ -45161,7 +45161,7 @@
           "value": 79.0
         }
       ],
-      "prev_buy_score": 38,
+      "prev_buy_score": 33,
       "purchase_price": 66.0,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
@@ -46999,7 +46999,7 @@
           "value": 133.73
         }
       ],
-      "prev_buy_score": 38,
+      "prev_buy_score": 30,
       "purchase_price": 80.0,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
@@ -49217,7 +49217,7 @@
           "value": 172.93
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 64,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75418": {
@@ -50581,7 +50581,7 @@
           "value": 107.64
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 61,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-10-09T10:53:53Z"
@@ -50728,7 +50728,7 @@
           "value": 35.55
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75439": {
@@ -51194,7 +51194,7 @@
           "value": 74.0
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 53,
       "purchase_price": 35,
       "sell_roi_score": 41,
       "sell_trend_score": 0,
@@ -51579,7 +51579,7 @@
           "value": 84.97
         }
       ],
-      "prev_buy_score": 49,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75682": {
@@ -61568,7 +61568,7 @@
           "value": 98.4
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 53,
       "price_checked_at": "2026-10-09T10:53:53Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
@@ -63556,7 +63556,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 57,
+      "prev_buy_score": 49,
       "sale_price": 137.5,
       "price_checked_at": "2026-10-09T10:53:53Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
@@ -64170,7 +64170,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-10-08T09:34:17.261353Z",
       "last_updated": "2026-10-09T10:53:53Z",
-      "prev_buy_score": 41,
+      "prev_buy_score": 46,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.07,
@@ -69445,7 +69445,7 @@
           "value": 32.19
         }
       ],
-      "prev_buy_score": 71,
+      "prev_buy_score": 64,
       "purchase_price": 12,
       "sell_roi_score": 50,
       "sell_trend_score": 0,
@@ -69788,7 +69788,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 59,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "77246": {
@@ -70678,7 +70678,7 @@
           "value": 102.06
         }
       ],
-      "prev_buy_score": 49,
+      "prev_buy_score": 46,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256",
       "purchase_price": 61.0,
       "price_checked_at": "2026-10-09T10:53:53Z"
@@ -81529,7 +81529,7 @@
       "label": "investering",
       "current_best_price": 92.94,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 30,
+      "prev_buy_score": 26,
       "price_score": 14,
       "roi_score": 4,
       "urgency_score": 0,
