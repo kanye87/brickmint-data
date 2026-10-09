@@ -3146,7 +3146,7 @@
           "value": 379.65
         }
       ],
-      "prev_buy_score": 21,
+      "prev_buy_score": 26,
       "purchase_price": 390,
       "sell_roi_score": 0,
       "sell_trend_score": 0,
@@ -61447,22 +61447,22 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 59,
-      "current_best_price": 54.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 53,
+      "current_best_price": 65.95,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-07T04:04:16.219609Z",
-      "last_updated": "2026-10-09T12:22:20.425264Z",
+      "last_brickwatch_alert": "2026-10-09T12:34:14.202131Z",
+      "last_updated": "2026-10-09T12:34:14.202138Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 35,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -61544,8 +61544,8 @@
         },
         {
           "date": "2026-10-09",
-          "price": 54.99,
-          "shop": "Amazon.nl"
+          "price": 65.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -61568,7 +61568,7 @@
           "value": 98.4
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-09T10:53:53Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
