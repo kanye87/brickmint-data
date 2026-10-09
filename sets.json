@@ -10898,7 +10898,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 46,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "31213": {
@@ -46610,7 +46610,7 @@
           "value": 161.88
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75395": {
@@ -78411,10 +78411,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 86.99,
+      "current_best_price": 86.9,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-09T04:04:15.676404Z",
-      "last_updated": "2026-10-09T04:04:15.676408Z",
+      "last_brickwatch_alert": "2026-10-09T15:34:26.945301Z",
+      "last_updated": "2026-10-09T15:34:26.945309Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -78483,7 +78483,7 @@
         },
         {
           "date": "2026-10-09",
-          "price": 86.99,
+          "price": 86.9,
           "shop": "Brickwatch"
         }
       ],
