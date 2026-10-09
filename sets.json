@@ -19486,8 +19486,8 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 63,
-      "current_best_price": 141.99,
+      "buy_score": 56,
+      "current_best_price": 157.02,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -19496,11 +19496,11 @@
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 31,
+      "price_score": 25,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -19511,8 +19511,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-10-06T04:34:18.327106Z",
-      "last_updated": "2026-10-06T04:34:18.327107Z",
+      "last_brickwatch_alert": "2026-10-09T01:34:18.806084Z",
+      "last_updated": "2026-10-09T01:34:18.806088Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19572,6 +19572,11 @@
         {
           "date": "2026-10-06",
           "price": 141.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-09",
+          "price": 157.02,
           "shop": "Brickwatch"
         }
       ],
@@ -44669,7 +44674,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 27,
+      "prev_buy_score": 36,
       "price_checked_at": "2026-10-07T10:33:56Z"
     },
     "75377": {
@@ -48440,8 +48445,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 54,
-      "current_best_price": 95.99,
+      "buy_score": 50,
+      "current_best_price": 107.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -48451,7 +48456,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 19,
+      "price_score": 15,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -48567,6 +48572,11 @@
           "date": "2026-10-07",
           "price": 95.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-09",
+          "price": 107.0,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -48574,8 +48584,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-10-07T10:33:56Z",
-      "last_brickwatch_alert": "2026-09-28T22:04:21.984958Z",
+      "last_updated": "2026-10-09T01:34:18.805891Z",
+      "last_brickwatch_alert": "2026-10-09T01:34:18.805884Z",
       "market_value": 68.23,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T11:22:44.332811+00:00",
