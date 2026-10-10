@@ -12483,7 +12483,7 @@
     },
     "40539": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 24.74,
+      "current_best_price": 29.95,
       "date_first_available": "2022-01-04",
       "ean": "5702017166902",
       "expected_retirement": "2023-11",
@@ -12547,12 +12547,12 @@
       "year": 2022,
       "subtheme": "Star Wars",
       "price_score": 0,
-      "roi_score": 6,
+      "roi_score": 4,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 21,
+      "buy_score": 19,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -12588,12 +12588,17 @@
           "date": "2026-10-07",
           "price": 24.74,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 29.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-01T04:04:24.936538Z",
-      "last_updated": "2026-10-07T10:33:56Z",
+      "last_brickwatch_alert": "2026-10-10T02:04:18.854135Z",
+      "last_updated": "2026-10-10T02:04:18.854142Z",
       "prev_buy_score": 21,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
@@ -44779,7 +44784,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 36,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75377": {
