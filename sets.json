@@ -44672,8 +44672,8 @@
     "75376": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 36,
-      "current_best_price": 63.98,
+      "buy_score": 27,
+      "current_best_price": 69.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75376-1.jpg",
       "label": "persoonlijk",
@@ -44711,12 +44711,12 @@
       "name": "Tantive IV",
       "owned_by": 9293,
       "pieces": 654,
-      "price_score": 18,
+      "price_score": 11,
       "purchase_price": 54.99,
       "rating": 4.0,
       "retirement_date": "2025-12-23",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 6,
@@ -44731,8 +44731,8 @@
       "wanted_by": 2273,
       "year": 2024,
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-09T01:04:23.321499Z",
-      "last_updated": "2026-10-09T01:04:23.321507Z",
+      "last_brickwatch_alert": "2026-10-10T00:34:19.445559Z",
+      "last_updated": "2026-10-10T00:34:19.445567Z",
       "expected_retirement": "2025-12",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
@@ -44771,6 +44771,11 @@
         {
           "date": "2026-10-09",
           "price": 63.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 69.95,
           "shop": "Brickwatch"
         }
       ],
