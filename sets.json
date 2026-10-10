@@ -5990,8 +5990,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-10-07T11:04:16.430153Z",
-      "last_updated": "2026-10-09T10:53:53Z",
+      "last_brickwatch_alert": "2026-10-10T04:04:15.264758Z",
+      "last_updated": "2026-10-10T04:04:15.264762Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -43070,7 +43070,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 221.19,
+      "current_best_price": 200.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75357-1.jpg",
       "label": "investering",
@@ -43156,8 +43156,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-09-09T13:34:20.018690Z",
-      "last_updated": "2026-09-09T13:34:20.018693Z",
+      "last_brickwatch_alert": "2026-10-10T04:04:15.264910Z",
+      "last_updated": "2026-10-10T04:04:15.264913Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43237,6 +43237,11 @@
         {
           "date": "2026-09-09",
           "price": 221.19,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-10",
+          "price": 200.0,
           "shop": "Brickwatch"
         }
       ],
@@ -51585,8 +51590,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-09-30T04:04:20.048665Z",
-      "last_updated": "2026-10-09T10:53:53Z",
+      "last_brickwatch_alert": "2026-10-10T04:04:15.264841Z",
+      "last_updated": "2026-10-10T04:04:15.264845Z",
       "market_value": 84.97,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -64200,7 +64205,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-10-10T03:34:20.038305Z",
       "last_updated": "2026-10-10T03:34:20.038314Z",
-      "prev_buy_score": 46,
+      "prev_buy_score": 41,
       "status": "watchlist",
       "label": "investering",
       "market_value": 169.07,
@@ -79551,8 +79556,8 @@
       "sell_score": null,
       "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-05T13:04:18.259130Z",
-      "last_updated": "2026-10-09T10:53:53Z",
+      "last_brickwatch_alert": "2026-10-10T04:04:15.264645Z",
+      "last_updated": "2026-10-10T04:04:15.264652Z",
       "price_history": [
         {
           "date": "2026-08-17",
