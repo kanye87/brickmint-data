@@ -44056,7 +44056,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 10,
-      "prev_buy_score": 52,
+      "prev_buy_score": 55,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75368": {
@@ -50006,7 +50006,7 @@
           "value": 83.72
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 69,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "75430": {
