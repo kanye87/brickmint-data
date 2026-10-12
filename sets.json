@@ -20054,7 +20054,7 @@
           "value": 194.96
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-09T10:53:53Z"
     },
     "42184": {
@@ -49895,8 +49895,8 @@
     "75429": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 47,
-      "current_best_price": 71.99,
+      "buy_score": 61,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75429-1.jpg",
       "label": "persoonlijk",
@@ -49905,11 +49905,11 @@
       "name": "AT-AT Driver Helmet",
       "owned_by": 4633,
       "pieces": 730,
-      "price_score": 9,
+      "price_score": 22,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -49941,14 +49941,19 @@
           "date": "2026-09-28",
           "price": 71.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-12",
+          "price": 59.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2025-01-28",
       "lego_availability": "Retail",
       "ean": "5702017824604",
-      "last_brickwatch_alert": "2026-09-28T04:04:18.839751Z",
-      "last_updated": "2026-09-28T04:04:18.839753Z",
+      "last_brickwatch_alert": "2026-10-12T01:04:14.999656Z",
+      "last_updated": "2026-10-12T01:04:14.999666Z",
       "market_value": 83.72,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
