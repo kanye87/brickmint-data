@@ -22989,8 +22989,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 20,
-      "current_best_price": 112.19,
+      "buy_score": 18,
+      "current_best_price": 114.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -22999,7 +22999,7 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 12,
+      "price_score": 10,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
@@ -23015,8 +23015,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-10-12T11:34:17.844903Z",
-      "last_updated": "2026-10-12T11:34:17.844913Z",
+      "last_brickwatch_alert": "2026-10-12T15:34:17.683492Z",
+      "last_updated": "2026-10-12T15:34:17.683498Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23115,7 +23115,7 @@
         },
         {
           "date": "2026-10-12",
-          "price": 112.19,
+          "price": 114.95,
           "shop": "Brickwatch"
         }
       ],
@@ -82706,6 +82706,45 @@
       "brickset_last_enriched": "2026-10-06T12:31:38Z",
       "subtheme": "Spinner Battle",
       "sell_score": null
+    },
+    "40909": {
+      "name": "Restaurants of the World: Italy",
+      "theme": "Promotional",
+      "date_first_available": "2027-10-13",
+      "image_url": "https://images.brickset.com/sets/images/40909-1.jpg",
+      "prev_buy_score": null
+    },
+    "67006": {
+      "name": "The Marvel Skyline",
+      "theme": "Marvel Super Heroes",
+      "date_first_available": "2027-01-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/67006-1.jpg",
+      "prev_buy_score": null
+    },
+    "67008": {
+      "name": "Batman Returns Batmobile & Duck",
+      "theme": "DC Comics Super Heroes",
+      "date_first_available": "2027-01-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/67008-1.jpg",
+      "prev_buy_score": null
+    },
+    "67009": {
+      "name": "Arkham Batman Batmobile",
+      "theme": "DC Comics Super Heroes",
+      "date_first_available": "2027-01-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/67009-1.jpg",
+      "prev_buy_score": null
+    },
+    "67012": {
+      "name": "The Joker Wall Art Comic Cover",
+      "theme": "Art",
+      "date_first_available": "2027-01-01",
+      "msrp": 169.99,
+      "image_url": "https://images.brickset.com/sets/images/67012-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
