@@ -40805,7 +40805,7 @@
       "sell_liquidity_score": 1,
       "last_brickwatch_alert": "2026-10-12T22:04:17.620796Z",
       "last_updated": "2026-10-12T22:04:17.620807Z",
-      "prev_buy_score": 22,
+      "prev_buy_score": 18,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "75334": {
@@ -41276,7 +41276,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 3,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 2,
+      "prev_buy_score": 1,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "75338": {
