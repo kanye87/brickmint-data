@@ -47748,7 +47748,7 @@
           "value": 40.86
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 40,
       "purchase_price": 24.99,
       "sell_roi_score": 31,
       "sell_trend_score": 11,
@@ -49874,7 +49874,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 128.61,
+      "current_best_price": 103.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -49896,8 +49896,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-07-25T04:04:14.907395Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-13T02:04:22.858609Z",
+      "last_updated": "2026-10-13T02:04:22.858618Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -49906,13 +49906,13 @@
           "value": null
         }
       ],
-      "price_score": 1,
-      "roi_score": 0,
+      "price_score": 18,
+      "roi_score": 3,
       "urgency_score": 20,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 36,
+      "buy_score": 56,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -49967,6 +49967,11 @@
         {
           "date": "2026-10-12",
           "price": 128.61,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-13",
+          "price": 103.99,
           "shop": "Brickwatch"
         }
       ],
