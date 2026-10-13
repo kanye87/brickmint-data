@@ -48586,7 +48586,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75409-star-wars-jango-fetts-firespray-class-ruimteschip-laagste-prijs-ooit-at-bol-415918",
-      "prev_buy_score": 34,
+      "prev_buy_score": 32,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "75410": {
@@ -51526,9 +51526,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 79.59,
-      "last_brickwatch_alert": "2026-10-03T04:04:13.255202Z",
-      "last_updated": "2026-10-03T04:04:13.255206Z",
+      "current_best_price": 79.0,
+      "last_brickwatch_alert": "2026-10-13T10:34:20.078171Z",
+      "last_updated": "2026-10-13T10:34:20.078181Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -51634,6 +51634,11 @@
         {
           "date": "2026-10-02",
           "price": 79.59,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-13",
+          "price": 79.0,
           "shop": "Brickwatch"
         }
       ],
