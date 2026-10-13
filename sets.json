@@ -13567,8 +13567,8 @@
       "prev_buy_score": 35,
       "current_best_price": 80.58,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-28T04:04:18.839668Z",
-      "last_updated": "2026-09-28T04:04:18.839670Z",
+      "last_brickwatch_alert": "2026-10-13T04:04:16.738993Z",
+      "last_updated": "2026-10-13T04:04:16.739002Z",
       "price_history": [
         {
           "date": "2026-09-28",
@@ -21630,7 +21630,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 42,
-      "current_best_price": 19.99,
+      "current_best_price": 19.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -21716,10 +21716,15 @@
           "date": "2026-10-09",
           "price": 19.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-13",
+          "price": 19.98,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-08T04:04:17.668589Z",
-      "last_updated": "2026-10-09T10:53:53Z",
+      "last_brickwatch_alert": "2026-10-13T04:04:16.739386Z",
+      "last_updated": "2026-10-13T04:04:16.739389Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -45138,20 +45143,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 65.27,
+      "buy_score": 33,
+      "current_best_price": 63.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-09-27T04:04:15.659702Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-13T04:04:16.739168Z",
+      "last_updated": "2026-10-13T04:04:16.739170Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 26,
+      "price_score": 27,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -45260,6 +45265,11 @@
         {
           "date": "2026-10-12",
           "price": 65.27,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-13",
+          "price": 63.9,
           "shop": "Brickwatch"
         }
       ],
@@ -49975,7 +49985,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 36,
+      "prev_buy_score": 56,
       "status": "watchlist",
       "market_value": 118.05,
       "market_value_source": "ebay",
@@ -70331,8 +70341,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-12T04:04:14.111110Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-13T04:04:16.739323Z",
+      "last_updated": "2026-10-13T04:04:16.739327Z",
       "market_value": 28.68,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-09-14T17:20:34.488245+00:00",
@@ -78626,10 +78636,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 86.9,
+      "current_best_price": 84.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-09T15:34:26.945301Z",
-      "last_updated": "2026-10-09T15:34:26.945309Z",
+      "last_brickwatch_alert": "2026-10-13T04:04:16.739254Z",
+      "last_updated": "2026-10-13T04:04:16.739257Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -78700,6 +78710,11 @@
           "date": "2026-10-09",
           "price": 86.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-13",
+          "price": 84.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -78717,13 +78732,13 @@
           "value": 123.62
         }
       ],
-      "price_score": 24,
+      "price_score": 25,
       "roi_score": 5,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 37,
+      "buy_score": 38,
       "prev_buy_score": 37,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
