@@ -3187,7 +3187,7 @@
           "value": 317.77
         }
       ],
-      "prev_buy_score": 21,
+      "prev_buy_score": 20,
       "purchase_price": 390,
       "sell_roi_score": 0,
       "sell_trend_score": 0,
@@ -20851,7 +20851,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 40,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "42207": {
@@ -21626,7 +21626,7 @@
           "value": 25.3
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "43012": {
@@ -22242,8 +22242,8 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 37,
-      "current_best_price": 53.99,
+      "buy_score": 41,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -22252,7 +22252,7 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 29,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -22268,8 +22268,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-10-12T04:04:14.110966Z",
-      "last_updated": "2026-10-12T04:04:14.110969Z",
+      "last_brickwatch_alert": "2026-10-14T10:04:19.489236Z",
+      "last_updated": "2026-10-14T10:04:19.489246Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -22330,6 +22330,11 @@
         {
           "date": "2026-10-12",
           "price": 53.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-14",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -32608,7 +32613,7 @@
           "value": 48.34
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 43,
       "purchase_price": 28.0,
       "sell_roi_score": 33,
       "sell_trend_score": 0,
@@ -32801,7 +32806,7 @@
           "value": 165.75
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "72151": {
@@ -48376,7 +48381,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 45,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "75408": {
@@ -49352,7 +49357,7 @@
       "sell_trend_score": 1,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "75416": {
@@ -51136,7 +51141,7 @@
           "value": 35.55
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 53,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "75439": {
@@ -70014,7 +70019,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 2,
-      "prev_buy_score": 70,
+      "prev_buy_score": 67,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77244": {
@@ -70366,7 +70371,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 2,
-      "prev_buy_score": 67,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77247": {
@@ -70819,7 +70824,7 @@
           "value": 33.29
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 70,
       "purchase_price": 12,
       "sell_roi_score": 52,
       "sell_trend_score": 0,
