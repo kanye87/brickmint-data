@@ -50426,7 +50426,7 @@
           "value": 89.95
         }
       ],
-      "prev_buy_score": 69,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "75430": {
@@ -50752,7 +50752,7 @@
           "value": 29.64
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 53,
       "purchase_price": 22.0,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
@@ -51132,7 +51132,7 @@
           "value": 144.99
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 64,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-10-14T09:01:05Z"
@@ -51771,7 +51771,7 @@
           "value": 58.14
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 50,
       "purchase_price": 35,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
@@ -60212,7 +60212,7 @@
           "value": 329.5
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "76301": {
@@ -61889,7 +61889,7 @@
       ],
       "last_brickwatch_alert": "2026-10-03T16:34:13.945399Z",
       "last_updated": "2026-10-03T16:34:13.945408Z",
-      "prev_buy_score": 35,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "76344": {
@@ -62070,7 +62070,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 39,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "76346": {
@@ -62206,7 +62206,7 @@
           "value": 86.43
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-14T09:01:05Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
@@ -70119,7 +70119,7 @@
           "value": 31.02
         }
       ],
-      "prev_buy_score": 64,
+      "prev_buy_score": 63,
       "purchase_price": 12,
       "sell_roi_score": 49,
       "sell_trend_score": 0,
@@ -70234,7 +70234,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 67,
+      "prev_buy_score": 66,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77244": {
@@ -70479,7 +70479,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 57,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77246": {
@@ -70598,7 +70598,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 70,
+      "prev_buy_score": 69,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77247": {
@@ -70845,7 +70845,7 @@
           "value": 31.27
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "77250": {
@@ -71063,7 +71063,7 @@
           "value": 25.48
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 68,
       "purchase_price": 12,
       "sell_roi_score": 41,
       "sell_trend_score": 0,
