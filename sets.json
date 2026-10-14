@@ -3930,7 +3930,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
-      "prev_buy_score": 40,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "10355": {
@@ -4686,7 +4686,7 @@
           "value": 94.15
         }
       ],
-      "prev_buy_score": 33,
+      "prev_buy_score": 32,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "10370": {
@@ -5537,7 +5537,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 41,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "11986": {
@@ -10963,7 +10963,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 46,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "31213": {
@@ -14777,7 +14777,7 @@
           "value": 99.94
         }
       ],
-      "prev_buy_score": 3,
+      "prev_buy_score": 4,
       "price_checked_at": "2026-10-12T11:18:47Z",
       "current_best_price": 74.99,
       "last_updated": "2026-09-30T21:00:37Z",
@@ -19184,7 +19184,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 9,
-      "prev_buy_score": 22
+      "prev_buy_score": 24
     },
     "42151": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -19878,7 +19878,7 @@
           "value": 316.09
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "42173": {
@@ -20155,7 +20155,7 @@
           "value": 190.62
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "42184": {
@@ -20825,7 +20825,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 41,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "42207": {
@@ -20951,7 +20951,7 @@
           "value": 163.24
         }
       ],
-      "prev_buy_score": 30,
+      "prev_buy_score": 31,
       "price_checked_at": "2026-10-12T11:18:47Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
@@ -21440,7 +21440,7 @@
           "value": 160.55
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 36,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "43010": {
@@ -23238,7 +23238,7 @@
           "value": 119.8
         }
       ],
-      "prev_buy_score": 18,
+      "prev_buy_score": 19,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "43249": {
@@ -29626,7 +29626,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 24,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "71438": {
@@ -40038,7 +40038,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 22,
+      "prev_buy_score": 23,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "75326": {
@@ -44784,7 +44784,7 @@
           "value": 19.49
         }
       ],
-      "prev_buy_score": 23,
+      "prev_buy_score": 26,
       "purchase_price": 9.99,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
@@ -47887,7 +47887,7 @@
           "value": 49.9
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 42,
       "purchase_price": 24.99,
       "sell_roi_score": 39,
       "sell_trend_score": 0,
