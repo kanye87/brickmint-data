@@ -12567,7 +12567,7 @@
     },
     "40539": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 24.61,
+      "current_best_price": 25.61,
       "date_first_available": "2022-01-04",
       "ean": "5702017166902",
       "expected_retirement": "2023-11",
@@ -12687,12 +12687,17 @@
           "date": "2026-10-14",
           "price": 24.61,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 25.61,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-10T02:04:18.854135Z",
-      "last_updated": "2026-10-14T09:01:05Z",
+      "last_brickwatch_alert": "2026-10-15T04:04:19.865140Z",
+      "last_updated": "2026-10-15T04:04:19.865143Z",
       "prev_buy_score": 21,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
@@ -40872,8 +40877,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 18,
-      "current_best_price": 27.98,
+      "buy_score": 25,
+      "current_best_price": 26.03,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -40883,12 +40888,12 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 18,
+      "price_score": 23,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 12,
@@ -40969,6 +40974,11 @@
           "date": "2026-10-12",
           "price": 27.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 26.03,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -41031,8 +41041,8 @@
       "sell_trend_score": 8,
       "sell_age_score": 3,
       "sell_liquidity_score": 1,
-      "last_brickwatch_alert": "2026-10-14T04:04:22.314881Z",
-      "last_updated": "2026-10-14T04:04:22.314885Z",
+      "last_brickwatch_alert": "2026-10-15T04:04:19.864801Z",
+      "last_updated": "2026-10-15T04:04:19.864811Z",
       "prev_buy_score": 18,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
@@ -71040,8 +71050,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-09-21T04:04:15.295673Z",
-      "last_updated": "2026-10-14T09:01:05Z",
+      "last_brickwatch_alert": "2026-10-15T04:04:19.864960Z",
+      "last_updated": "2026-10-15T04:04:19.864964Z",
       "market_value": 25.48,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -81891,13 +81901,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 27,
-      "roi_score": 5,
+      "price_score": 25,
+      "roi_score": 4,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 58,
+      "buy_score": 53,
       "sell_score": null,
       "prev_buy_score": 58,
       "theme": "Super Mario",
@@ -81928,10 +81938,10 @@
           "value": 166.39
         }
       ],
-      "current_best_price": 116.9,
+      "current_best_price": 119.85,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-14T12:04:19.357107Z",
-      "last_updated": "2026-10-14T12:04:19.357115Z",
+      "last_brickwatch_alert": "2026-10-15T04:04:19.865045Z",
+      "last_updated": "2026-10-15T04:04:19.865051Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -81996,6 +82006,11 @@
         {
           "date": "2026-10-14",
           "price": 116.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 119.85,
           "shop": "Brickwatch"
         }
       ],
