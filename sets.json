@@ -41043,7 +41043,7 @@
       "sell_liquidity_score": 1,
       "last_brickwatch_alert": "2026-10-15T04:04:19.864801Z",
       "last_updated": "2026-10-15T04:04:19.864811Z",
-      "prev_buy_score": 18,
+      "prev_buy_score": 25,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "75334": {
@@ -81909,7 +81909,7 @@
       "score_quality": "partial",
       "buy_score": 53,
       "sell_score": null,
-      "prev_buy_score": 58,
+      "prev_buy_score": 53,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
