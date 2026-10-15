@@ -22106,8 +22106,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
-      "current_best_price": 45.96,
+      "buy_score": 49,
+      "current_best_price": 41.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -22119,7 +22119,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22233,13 +22233,18 @@
           "date": "2026-10-09",
           "price": 45.96,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 41.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-10-09T18:34:15.725816Z",
-      "last_updated": "2026-10-09T18:34:15.725824Z",
+      "last_brickwatch_alert": "2026-10-15T19:04:17.822236Z",
+      "last_updated": "2026-10-15T19:04:17.822245Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 67.92,
       "market_value_source": "ebay",
@@ -22268,8 +22273,8 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 49.99,
+      "buy_score": 45,
+      "current_best_price": 46.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -22278,10 +22283,10 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 33,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22294,8 +22299,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-10-14T10:04:19.489236Z",
-      "last_updated": "2026-10-14T10:04:19.489246Z",
+      "last_brickwatch_alert": "2026-10-15T19:04:17.822533Z",
+      "last_updated": "2026-10-15T19:04:17.822537Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -22361,6 +22366,11 @@
         {
           "date": "2026-10-14",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 46.95,
           "shop": "Brickwatch"
         }
       ],
@@ -62096,19 +62106,19 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 52,
-      "current_best_price": 65.95,
+      "buy_score": 55,
+      "current_best_price": 61.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-09T12:34:14.202131Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-15T19:04:17.822382Z",
+      "last_updated": "2026-10-15T19:04:17.822386Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 30,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -62199,6 +62209,11 @@
         {
           "date": "2026-10-12",
           "price": 65.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-15",
+          "price": 61.95,
           "shop": "Brickwatch"
         }
       ],
@@ -79276,7 +79291,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 42,
-      "prev_buy_score": 38,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-10-14T09:01:05Z"
     },
     "11381": {
