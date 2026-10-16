@@ -49959,8 +49959,8 @@
     "75419": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 33,
-      "current_best_price": 739.0,
+      "buy_score": 25,
+      "current_best_price": 829.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75419-1.jpg",
       "label": "investering",
@@ -49970,7 +49970,7 @@
       "name": "Death Star",
       "owned_by": 2092,
       "pieces": 9023,
-      "price_score": 23,
+      "price_score": 15,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -50221,8 +50221,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-10-09T14:34:19.854999Z",
-      "last_updated": "2026-10-09T14:34:19.855008Z",
+      "last_brickwatch_alert": "2026-10-16T19:34:18.053511Z",
+      "last_updated": "2026-10-16T19:34:18.053520Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -50277,6 +50277,11 @@
         {
           "date": "2026-10-09",
           "price": 739.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-16",
+          "price": 829.0,
           "shop": "Brickwatch"
         }
       ],
@@ -62606,7 +62611,7 @@
           "value": 126.7
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 61,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
     "76382": {
