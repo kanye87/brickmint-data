@@ -62596,7 +62596,7 @@
           "value": 126.7
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 61,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
     "76382": {
@@ -78806,24 +78806,30 @@
           "value": 92.05
         }
       ],
-      "price_score": 24,
+      "price_score": 29,
       "roi_score": 5,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 53,
+      "buy_score": 62,
       "price_checked_at": "2026-10-16T08:29:20Z",
-      "current_best_price": 64.95,
+      "current_best_price": 60.12,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_updated": "2026-10-16T10:34:16.853738Z",
       "price_history": [
         {
           "date": "2026-09-30",
           "price": 64.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-16",
+          "price": 60.12,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-10-16T10:34:16.853730Z"
     },
     "43026": {
       "name": "Nike Air Force 1",
