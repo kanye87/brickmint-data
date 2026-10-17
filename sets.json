@@ -22424,7 +22424,7 @@
     "43019": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 38,
+      "buy_score": 40,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43019-1.jpg",
       "label": "investering",
@@ -22433,7 +22433,7 @@
       "name": "Football",
       "owned_by": 254,
       "pieces": 1498,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -22448,9 +22448,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 82.68,
-      "last_brickwatch_alert": "2026-10-12T04:04:14.110814Z",
-      "last_updated": "2026-10-12T04:04:14.110819Z",
+      "current_best_price": 79.99,
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761718Z",
+      "last_updated": "2026-10-17T04:04:13.761719Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -22500,6 +22500,11 @@
         {
           "date": "2026-10-12",
           "price": 82.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 79.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45084,8 +45089,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-07T07:04:17.932749Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761790Z",
+      "last_updated": "2026-10-17T04:04:13.761791Z",
       "market_value": 79.92,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -48398,8 +48403,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 44,
-      "current_best_price": 46.98,
+      "buy_score": 49,
+      "current_best_price": 42.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -48408,7 +48413,7 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 29,
+      "price_score": 34,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -48525,10 +48530,15 @@
           "date": "2026-10-14",
           "price": 46.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 42.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-07T23:04:13.926357Z",
-      "last_updated": "2026-10-14T09:01:05Z",
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761690Z",
+      "last_updated": "2026-10-17T04:04:13.761691Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -64846,7 +64856,7 @@
     },
     "76444": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
-      "current_best_price": 135.99,
+      "current_best_price": 127.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76444-1.jpg",
       "lowest_price_ever": 121.39,
@@ -64864,13 +64874,13 @@
       "wanted_by": 1844,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "price_score": 28,
-      "roi_score": 3,
+      "price_score": 32,
+      "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 42,
+      "buy_score": 47,
       "expected_retirement": "2027-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
@@ -64950,11 +64960,16 @@
           "date": "2026-10-14",
           "price": 135.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 127.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-14T04:04:22.314497Z",
-      "last_updated": "2026-10-14T04:04:22.314502Z",
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761511Z",
+      "last_updated": "2026-10-17T04:04:13.761522Z",
       "prev_buy_score": 42,
       "status": "watchlist",
       "label": "investering",
@@ -70360,8 +70375,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 68,
-      "current_best_price": 16.49,
+      "buy_score": 69,
+      "current_best_price": 15.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -70371,7 +70386,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -70426,6 +70441,11 @@
           "date": "2026-10-08",
           "price": 16.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 15.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -70441,8 +70461,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-10-08T04:04:15.584439Z",
-      "last_updated": "2026-10-08T04:04:15.584446Z",
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761744Z",
+      "last_updated": "2026-10-17T04:04:13.761745Z",
       "market_value": 27.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -71199,8 +71219,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 82,
-      "current_best_price": 17.99,
+      "buy_score": 86,
+      "current_best_price": 13.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -71210,11 +71230,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -71233,8 +71253,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-10-09T04:04:15.676597Z",
-      "last_updated": "2026-10-16T08:29:20Z",
+      "last_brickwatch_alert": "2026-10-17T04:04:13.761646Z",
+      "last_updated": "2026-10-17T04:04:13.761649Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -71339,6 +71359,11 @@
         {
           "date": "2026-10-16",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-17",
+          "price": 13.99,
           "shop": "Brickwatch"
         }
       ],
