@@ -59372,7 +59372,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 27,
-      "current_best_price": 388.41,
+      "current_best_price": 390.1,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -59521,6 +59521,11 @@
           "date": "2026-10-08",
           "price": 388.41,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-18",
+          "price": 390.1,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -59557,8 +59562,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-10-08T21:34:22.656433Z",
-      "last_updated": "2026-10-08T21:34:22.656441Z",
+      "last_brickwatch_alert": "2026-10-18T10:34:13.724480Z",
+      "last_updated": "2026-10-18T10:34:13.724490Z",
       "prev_buy_score": 27,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
@@ -82229,7 +82234,7 @@
       "score_quality": "partial",
       "buy_score": 51,
       "sell_score": null,
-      "prev_buy_score": 47,
+      "prev_buy_score": 51,
       "theme": "Pokémon",
       "year": 2026,
       "msrp": 259.99,
