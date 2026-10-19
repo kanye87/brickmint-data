@@ -22177,8 +22177,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_price": 41.95,
+      "buy_score": 46,
+      "current_best_price": 49.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -22187,10 +22187,10 @@
       "name": "Lionel Messi – Football Legend",
       "owned_by": 57,
       "pieces": 958,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22309,13 +22309,18 @@
           "date": "2026-10-15",
           "price": 41.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 49.0,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-10-15T19:04:17.822236Z",
-      "last_updated": "2026-10-15T19:04:17.822245Z",
+      "last_brickwatch_alert": "2026-10-19T17:04:19.191996Z",
+      "last_updated": "2026-10-19T17:04:19.192005Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 67.92,
       "market_value_source": "ebay",
@@ -71619,7 +71624,7 @@
           "value": 25.74
         }
       ],
-      "prev_buy_score": 86,
+      "prev_buy_score": 84,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "77985": {
