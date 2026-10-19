@@ -12711,8 +12711,8 @@
       ],
       "minifig_list": [],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-16T04:04:19.104299Z",
-      "last_updated": "2026-10-16T04:04:19.104302Z",
+      "last_brickwatch_alert": "2026-10-19T04:04:18.131787Z",
+      "last_updated": "2026-10-19T04:04:18.131789Z",
       "prev_buy_score": 21,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
@@ -22770,7 +22770,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 42,
-      "current_best_price": 19.99,
+      "current_best_price": 19.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -22796,8 +22796,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-09-19T04:04:17.049945Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-19T04:04:18.131717Z",
+      "last_updated": "2026-10-19T04:04:18.131721Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -22867,6 +22867,11 @@
         {
           "date": "2026-10-02",
           "price": 19.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 19.95,
           "shop": "Brickwatch"
         }
       ],
@@ -47408,8 +47413,8 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 99.99,
+      "buy_score": 34,
+      "current_best_price": 97.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -47419,7 +47424,7 @@
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 25,
+      "price_score": 27,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -47433,8 +47438,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-12T00:04:22.287149Z",
-      "last_updated": "2026-10-12T00:04:22.287154Z",
+      "last_brickwatch_alert": "2026-10-19T04:04:18.131633Z",
+      "last_updated": "2026-10-19T04:04:18.131637Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -47528,6 +47533,11 @@
         {
           "date": "2026-10-12",
           "price": 99.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 97.74,
           "shop": "Brickwatch"
         }
       ],
@@ -71478,8 +71488,8 @@
     "77985": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-13T08:49:08Z",
-      "buy_score": 46,
-      "current_best_price": 73.68,
+      "buy_score": 49,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77985-1.jpg",
       "label": "investering",
@@ -71488,7 +71498,7 @@
       "name": "Dinosaur Fossils: Triceratops",
       "owned_by": 194,
       "pieces": 1154,
-      "price_score": 23,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -71501,8 +71511,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-10-02T04:04:18.402143Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-19T04:04:18.131484Z",
+      "last_updated": "2026-10-19T04:04:18.131493Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
@@ -71624,6 +71634,11 @@
         {
           "date": "2026-10-12",
           "price": 73.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
