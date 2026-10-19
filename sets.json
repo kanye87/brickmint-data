@@ -23262,8 +23262,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 19,
-      "current_best_price": 114.95,
+      "buy_score": 12,
+      "current_best_price": 124.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -23272,12 +23272,12 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 10,
+      "price_score": 4,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -23288,8 +23288,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-10-12T15:34:17.683492Z",
-      "last_updated": "2026-10-12T15:34:17.683498Z",
+      "last_brickwatch_alert": "2026-10-19T13:04:17.889028Z",
+      "last_updated": "2026-10-19T13:04:17.889034Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23389,6 +23389,11 @@
         {
           "date": "2026-10-12",
           "price": 114.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 124.95,
           "shop": "Brickwatch"
         }
       ],
@@ -45331,7 +45336,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 27,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "75377": {
@@ -45745,8 +45750,8 @@
     "75380": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 20,
-      "current_best_price": 74.95,
+      "buy_score": 15,
+      "current_best_price": 79.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75380-1.jpg",
       "label": "persoonlijk",
@@ -45780,7 +45785,7 @@
       "name": "Mos Espa Podrace Diorama",
       "owned_by": 7318,
       "pieces": 718,
-      "price_score": 5,
+      "price_score": 0,
       "purchase_price": 59.99,
       "rating": 3.7,
       "retirement_date": "2025-11-25",
@@ -45801,8 +45806,8 @@
       "year": 2024,
       "subtheme": "Diorama Collection",
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-08-25T17:04:23.262957Z",
-      "last_updated": "2026-08-25T17:04:23.262970Z",
+      "last_brickwatch_alert": "2026-10-19T13:04:17.889162Z",
+      "last_updated": "2026-10-19T13:04:17.889164Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45837,6 +45842,11 @@
         {
           "date": "2026-08-25",
           "price": 74.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 79.95,
           "shop": "Brickwatch"
         }
       ],
@@ -83826,6 +83836,63 @@
         }
       ],
       "sell_score": null
+    },
+    "11388": {
+      "name": "Venetian Neighbourhood",
+      "theme": "Icons",
+      "date_first_available": "2026-11-01",
+      "msrp": 499.99,
+      "image_url": "https://images.brickset.com/sets/images/11388-1.jpg",
+      "prev_buy_score": null
+    },
+    "40898": {
+      "name": "Venetian Water Taxi",
+      "theme": "Icons",
+      "date_first_available": "2026-11-01",
+      "image_url": "https://images.brickset.com/sets/images/40898-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010808": {
+      "name": "Elf Teddy Keepsake Ornament",
+      "theme": "Gear",
+      "date_first_available": "2026-10-13",
+      "msrp": 12.99,
+      "prev_buy_score": null
+    },
+    "5010809": {
+      "name": "Gingerbread Girl Keepsake Ornament",
+      "theme": "Gear",
+      "date_first_available": "2026-10-13",
+      "msrp": 12.99,
+      "prev_buy_score": null
+    },
+    "5010810": {
+      "name": "Yeti Keepsake Ornament",
+      "theme": "Gear",
+      "date_first_available": "2026-10-13",
+      "msrp": 12.99,
+      "prev_buy_score": null
+    },
+    "5011187": {
+      "name": "Herschel Retreat Small Backpack – Botanical Floral Lavender",
+      "theme": "Gear",
+      "date_first_available": "2026-10-16",
+      "msrp": 89.99,
+      "prev_buy_score": null
+    },
+    "5011190": {
+      "name": "Herschel Heritage Youth Backpack – Monogram Purple",
+      "theme": "Gear",
+      "date_first_available": "2026-10-16",
+      "msrp": 64.99,
+      "prev_buy_score": null
+    },
+    "5011202": {
+      "name": "Herschel Anchor 14” Sleeve – Monogram Black",
+      "theme": "Gear",
+      "date_first_available": "2026-10-16",
+      "msrp": 49.99,
+      "prev_buy_score": null
     }
   }
 }
