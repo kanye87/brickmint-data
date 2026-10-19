@@ -2248,12 +2248,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 219.99,
+      "current_best_price": 199.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-10-17T19:04:14.763805Z",
-      "last_updated": "2026-10-17T19:04:14.763814Z",
+      "last_brickwatch_alert": "2026-10-19T08:04:15.764750Z",
+      "last_updated": "2026-10-19T08:04:15.764752Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -2432,6 +2432,11 @@
         {
           "date": "2026-10-17",
           "price": 219.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 199.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34017,7 +34022,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
     "75209": {
@@ -48741,24 +48746,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 33,
-      "current_best_price": 267.18,
+      "buy_score": 44,
+      "current_best_price": 229.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-17T14:34:16.449348Z",
-      "last_updated": "2026-10-17T14:34:16.449357Z",
+      "last_brickwatch_alert": "2026-10-19T08:04:15.764575Z",
+      "last_updated": "2026-10-19T08:04:15.764586Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 10,
+      "price_score": 20,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -49032,6 +49037,11 @@
         {
           "date": "2026-10-17",
           "price": 267.18,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 229.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50781,7 +50791,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
-      "prev_buy_score": 55,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-16T08:29:20Z"
     },
     "75431": {
