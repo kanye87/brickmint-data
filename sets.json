@@ -4570,7 +4570,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": 32,
-      "current_best_price": 80.0,
+      "current_best_price": 80.32,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -4595,8 +4595,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-08-20T04:04:13.571722Z",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_brickwatch_alert": "2026-10-19T14:04:14.424216Z",
+      "last_updated": "2026-10-19T14:04:14.424226Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -4698,6 +4698,11 @@
         {
           "date": "2026-10-02",
           "price": 80.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-19",
+          "price": 80.32,
           "shop": "Brickwatch"
         }
       ],
