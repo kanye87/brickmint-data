@@ -23449,7 +23449,7 @@
           "value": 119.8
         }
       ],
-      "prev_buy_score": 12,
+      "prev_buy_score": 14,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "43249": {
@@ -44564,7 +44564,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 57,
+      "prev_buy_score": 55,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "75368": {
@@ -51458,7 +51458,7 @@
     "75438": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 53,
+      "buy_score": 54,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75438-1.jpg",
       "label": "investering",
@@ -51467,7 +51467,7 @@
       "name": "Yoda Bust",
       "owned_by": 335,
       "pieces": 399,
-      "price_score": 26,
+      "price_score": 27,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -51484,9 +51484,9 @@
       "date_first_available": "2026-03-23",
       "lego_availability": "Retail",
       "ean": "5702018062975",
-      "current_best_price": 28.04,
-      "last_brickwatch_alert": "2026-09-20T04:04:13.766961Z",
-      "last_updated": "2026-10-14T09:01:05Z",
+      "current_best_price": 27.42,
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230686Z",
+      "last_updated": "2026-10-20T04:04:17.230687Z",
       "subtheme": "Bust Collection",
       "minifig_list": [
         {
@@ -51581,6 +51581,11 @@
           "date": "2026-10-14",
           "price": 28.04,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 27.42,
+          "shop": "Brickwatch"
         }
       ],
       "retirement_date": "2027-07-31",
@@ -51612,8 +51617,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 50,
-      "current_best_price": 33.99,
+      "buy_score": 58,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -51622,10 +51627,10 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 28,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51640,8 +51645,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-10-18T04:04:14.410111Z",
-      "last_updated": "2026-10-18T04:04:14.410116Z",
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230596Z",
+      "last_updated": "2026-10-20T04:04:17.230597Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -51796,6 +51801,11 @@
         {
           "date": "2026-10-18",
           "price": 33.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 29.99,
           "shop": "Brickwatch"
         }
       ],
@@ -62566,19 +62576,19 @@
     "76350": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 44,
-      "current_best_price": 62.99,
+      "buy_score": 47,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-16T04:04:19.104148Z",
-      "last_updated": "2026-10-16T04:04:19.104153Z",
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230631Z",
+      "last_updated": "2026-10-20T04:04:17.230633Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 112,
       "pieces": 534,
-      "price_score": 26,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -62650,6 +62660,11 @@
           "date": "2026-10-16",
           "price": 62.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 59.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -62682,8 +62697,8 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 59,
-      "current_best_price": 247.99,
+      "buy_score": 61,
+      "current_best_price": 239.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -62692,7 +62707,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 31,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -62709,8 +62724,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-10-19T12:04:16.154802Z",
-      "last_updated": "2026-10-19T12:04:16.154813Z",
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230504Z",
+      "last_updated": "2026-10-20T04:04:17.230506Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -62845,6 +62860,11 @@
         {
           "date": "2026-10-19",
           "price": 247.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 239.99,
           "shop": "Brickwatch"
         }
       ],
@@ -64562,8 +64582,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-10-14T04:04:22.314580Z",
-      "last_updated": "2026-10-19T09:17:36Z",
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230555Z",
+      "last_updated": "2026-10-20T04:04:17.230557Z",
       "market_value": 150.04,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -82365,13 +82385,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 25,
-      "roi_score": 4,
+      "price_score": 31,
+      "roi_score": 5,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 53,
+      "buy_score": 65,
       "sell_score": null,
       "prev_buy_score": 53,
       "theme": "Super Mario",
@@ -82406,10 +82426,10 @@
           "value": 154.95
         }
       ],
-      "current_best_price": 119.85,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-15T04:04:19.865045Z",
-      "last_updated": "2026-10-15T04:04:19.865051Z",
+      "last_brickwatch_alert": "2026-10-20T04:04:17.230370Z",
+      "last_updated": "2026-10-20T04:04:17.230379Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -82479,6 +82499,11 @@
         {
           "date": "2026-10-15",
           "price": 119.85,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
