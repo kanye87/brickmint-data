@@ -51611,7 +51611,7 @@
           "value": 36.89
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "75439": {
@@ -51841,7 +51841,7 @@
           "value": 47.24
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "75440": {
@@ -62691,7 +62691,7 @@
           "value": 21.2
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "76354": {
@@ -62894,7 +62894,7 @@
           "value": 126.7
         }
       ],
-      "prev_buy_score": 59,
+      "prev_buy_score": 61,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "76382": {
@@ -82393,7 +82393,7 @@
       "score_quality": "partial",
       "buy_score": 65,
       "sell_score": null,
-      "prev_buy_score": 53,
+      "prev_buy_score": 65,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
