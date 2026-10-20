@@ -66497,7 +66497,7 @@
     },
     "76901": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 34.95,
+      "current_best_price": 39.99,
       "date_first_available": "2021-06-02",
       "ean": "5702016912470",
       "expected_retirement": "2024-01",
@@ -66657,6 +66657,11 @@
           "date": "2026-10-16",
           "price": 34.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 39.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -66670,8 +66675,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-16T02:34:15.944349Z",
-      "last_updated": "2026-10-16T02:34:15.944357Z",
+      "last_brickwatch_alert": "2026-10-20T10:04:13.307397Z",
+      "last_updated": "2026-10-20T10:04:13.307412Z",
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "76902": {
