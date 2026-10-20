@@ -23294,8 +23294,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 14,
-      "current_best_price": 121.1,
+      "buy_score": 12,
+      "current_best_price": 124.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -23304,7 +23304,7 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 6,
+      "price_score": 4,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
@@ -23320,8 +23320,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-10-20T02:04:16.353481Z",
-      "last_updated": "2026-10-20T02:04:16.353485Z",
+      "last_brickwatch_alert": "2026-10-20T17:34:24.320427Z",
+      "last_updated": "2026-10-20T17:34:24.320432Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23430,7 +23430,7 @@
         },
         {
           "date": "2026-10-20",
-          "price": 121.1,
+          "price": 124.95,
           "shop": "Brickwatch"
         }
       ],
@@ -70674,8 +70674,8 @@
     "77244": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 69,
-      "current_best_price": 15.99,
+      "buy_score": 68,
+      "current_best_price": 16.42,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -70685,7 +70685,7 @@
       "name": "Mercedes-AMG PETRONAS F1 Team W15 E Performance",
       "owned_by": 6043,
       "pieces": 267,
-      "price_score": 35,
+      "price_score": 34,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -70745,6 +70745,11 @@
           "date": "2026-10-17",
           "price": 15.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 16.42,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -70760,8 +70765,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-10-17T04:04:13.761744Z",
-      "last_updated": "2026-10-17T04:04:13.761745Z",
+      "last_brickwatch_alert": "2026-10-20T17:34:24.320177Z",
+      "last_updated": "2026-10-20T17:34:24.320184Z",
       "market_value": 27.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -71517,7 +71522,7 @@
           "value": 25.48
         }
       ],
-      "prev_buy_score": 68,
+      "prev_buy_score": 67,
       "purchase_price": 12,
       "sell_roi_score": 41,
       "sell_trend_score": 0,
