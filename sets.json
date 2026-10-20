@@ -45648,7 +45648,7 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017584362",
-      "prev_buy_score": 28,
+      "prev_buy_score": 53,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "75379": {
@@ -46600,8 +46600,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 56,
-      "current_best_price": 128.47,
+      "buy_score": 55,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -46611,7 +46611,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 25,
+      "price_score": 24,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -46625,8 +46625,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-07T06:34:21.006049Z",
-      "last_updated": "2026-10-07T06:34:21.006059Z",
+      "last_brickwatch_alert": "2026-10-20T20:04:22.354022Z",
+      "last_updated": "2026-10-20T20:04:22.354026Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -46750,6 +46750,11 @@
         {
           "date": "2026-10-07",
           "price": 128.47,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -49334,8 +49339,8 @@
     "75413": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 57,
-      "current_best_price": 99.99,
+      "buy_score": 55,
+      "current_best_price": 104.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -49345,7 +49350,7 @@
       "name": "Republic Juggernaut",
       "owned_by": 2236,
       "pieces": 813,
-      "price_score": 18,
+      "price_score": 16,
       "rating": 2.8,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -49471,6 +49476,11 @@
           "date": "2026-10-19",
           "price": 99.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 104.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -49478,8 +49488,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-10-19T09:17:36Z",
-      "last_brickwatch_alert": "2026-10-09T01:34:18.805884Z",
+      "last_updated": "2026-10-20T20:04:22.353679Z",
+      "last_brickwatch_alert": "2026-10-20T20:04:22.353670Z",
       "market_value": 139.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -70564,8 +70574,8 @@
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 64,
-      "current_best_price": 17.49,
+      "buy_score": 60,
+      "current_best_price": 18.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
       "label": "persoonlijk",
@@ -70575,7 +70585,7 @@
       "name": "Oracle Red Bull Racing RB20",
       "owned_by": 7985,
       "pieces": 251,
-      "price_score": 31,
+      "price_score": 27,
       "purchase_price": 8.67,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
@@ -70644,10 +70654,15 @@
           "date": "2026-10-19",
           "price": 17.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-20",
+          "price": 18.49,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-19T17:34:17.605616Z",
-      "last_updated": "2026-10-19T17:34:17.605624Z",
+      "last_brickwatch_alert": "2026-10-20T20:04:22.353873Z",
+      "last_updated": "2026-10-20T20:04:22.353877Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
