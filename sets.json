@@ -4569,8 +4569,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 32,
-      "current_best_price": 80.32,
+      "buy_score": 35,
+      "current_best_price": 75.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -4580,7 +4580,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 29,
+      "price_score": 32,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4595,8 +4595,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-10-20T02:04:16.353254Z",
-      "last_updated": "2026-10-20T02:04:16.353262Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083389Z",
+      "last_updated": "2026-10-21T04:04:15.083392Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -4703,6 +4703,11 @@
         {
           "date": "2026-10-19",
           "price": 80.32,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-21",
+          "price": 75.99,
           "shop": "Brickwatch"
         }
       ],
@@ -5464,8 +5469,8 @@
     "11373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 43,
-      "current_best_price": 48.75,
+      "buy_score": 47,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -5475,7 +5480,7 @@
       "name": "The Lord of the Rings: Sauron's Helmet",
       "owned_by": 1410,
       "pieces": 538,
-      "price_score": 31,
+      "price_score": 35,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
@@ -5491,8 +5496,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-09-26T04:04:15.202744Z",
-      "last_updated": "2026-09-26T04:04:15.202747Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083453Z",
+      "last_updated": "2026-10-21T04:04:15.083455Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -5551,6 +5556,11 @@
         {
           "date": "2026-09-26",
           "price": 48.75,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-21",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -20788,8 +20798,8 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-16T04:04:19.104011Z",
-      "last_updated": "2026-10-16T04:04:19.104019Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083237Z",
+      "last_updated": "2026-10-21T04:04:15.083242Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
@@ -23460,7 +23470,7 @@
           "value": 119.8
         }
       ],
-      "prev_buy_score": 12,
+      "prev_buy_score": 14,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
     "43249": {
@@ -32156,8 +32166,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 47,
-      "current_best_price": 116.44,
+      "buy_score": 51,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -32166,11 +32176,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 22,
+      "price_score": 25,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -32180,8 +32190,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-17T15:34:17.606036Z",
-      "last_updated": "2026-10-17T15:34:17.606043Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083090Z",
+      "last_updated": "2026-10-21T04:04:15.083099Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -32362,6 +32372,11 @@
         {
           "date": "2026-10-17",
           "price": 116.44,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-21",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48769,8 +48784,8 @@
     "75408": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 49.99,
+      "buy_score": 53,
+      "current_best_price": 47.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75408-1.jpg",
       "label": "persoonlijk",
@@ -48779,7 +48794,7 @@
       "name": "Jango Fett Helmet",
       "owned_by": 4350,
       "pieces": 616,
-      "price_score": 31,
+      "price_score": 33,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -48793,8 +48808,8 @@
       "urgency_score": 8,
       "wanted_by": 1827,
       "year": 2025,
-      "last_brickwatch_alert": "2026-09-06T23:34:17.679155Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083536Z",
+      "last_updated": "2026-10-21T04:04:15.083539Z",
       "subtheme": "Helmet Collection",
       "minifig_list": [],
       "price_history": [
@@ -48836,6 +48851,11 @@
         {
           "date": "2026-09-30",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-21",
+          "price": 47.99,
           "shop": "Brickwatch"
         }
       ],
@@ -79667,10 +79687,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 80.95,
+      "current_best_price": 79.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-15T18:34:23.906170Z",
-      "last_updated": "2026-10-15T18:34:23.906175Z",
+      "last_brickwatch_alert": "2026-10-21T04:04:15.083318Z",
+      "last_updated": "2026-10-21T04:04:15.083322Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -79751,6 +79771,11 @@
           "date": "2026-10-15",
           "price": 80.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-21",
+          "price": 79.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -79773,12 +79798,12 @@
         }
       ],
       "price_score": 29,
-      "roi_score": 4,
+      "roi_score": 5,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 41,
+      "buy_score": 42,
       "prev_buy_score": 41,
       "price_checked_at": "2026-10-19T09:17:36Z"
     },
