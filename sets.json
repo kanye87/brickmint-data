@@ -44378,8 +44378,8 @@
     "75366": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 27,
-      "current_best_price": 36.95,
+      "buy_score": 25,
+      "current_best_price": 37.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75366-1.jpg",
       "label": "investering",
@@ -44418,7 +44418,7 @@
       "name": "LEGO Star Wars Advent Calendar",
       "owned_by": 10190,
       "pieces": 320,
-      "price_score": 2,
+      "price_score": 0,
       "rating": 3.6,
       "retirement_date": "2024-02-05",
       "retirement_status": "retired",
@@ -44493,6 +44493,11 @@
           "date": "2026-09-30",
           "price": 36.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 37.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-02",
@@ -44501,7 +44506,8 @@
       "ean": "5702017417110",
       "prev_buy_score": 27,
       "price_checked_at": "2026-10-21T08:51:50Z",
-      "last_updated": "2026-09-30T21:00:37Z"
+      "last_updated": "2026-10-22T03:04:20.895510Z",
+      "last_brickwatch_alert": "2026-10-22T03:04:20.895503Z"
     },
     "75367": {
       "availability_score": 10,
