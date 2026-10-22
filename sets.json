@@ -17120,7 +17120,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 38,
+      "prev_buy_score": 36,
       "purchase_price": 40,
       "sell_roi_score": 29,
       "sell_trend_score": 0,
@@ -22021,8 +22021,8 @@
     "43014": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 63,
-      "current_best_price": 55.99,
+      "buy_score": 65,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -22031,7 +22031,7 @@
       "name": "Scuderia Ferrari HP Charles Leclerc Helmet",
       "owned_by": 71,
       "pieces": 886,
-      "price_score": 33,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "retired",
       "roi_score": 5,
@@ -22078,8 +22078,8 @@
           "value": 79.27
         }
       ],
-      "last_brickwatch_alert": "2026-10-14T04:04:22.314377Z",
-      "last_updated": "2026-10-19T09:17:36Z",
+      "last_brickwatch_alert": "2026-10-22T04:04:19.117162Z",
+      "last_updated": "2026-10-22T04:04:19.117172Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -22215,6 +22215,11 @@
         {
           "date": "2026-10-19",
           "price": 55.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -29705,7 +29710,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 11,
+      "prev_buy_score": 10,
       "price_checked_at": "2026-10-21T08:51:50Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-22T03:34:17.097634Z",
@@ -45254,8 +45259,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 40,
-      "current_best_price": 53.99,
+      "buy_score": 43,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -45264,7 +45269,7 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 32,
+      "price_score": 35,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -45334,10 +45339,15 @@
           "date": "2026-09-30",
           "price": 53.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 49.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-17T04:04:13.761790Z",
-      "last_updated": "2026-10-17T04:04:13.761791Z",
+      "last_brickwatch_alert": "2026-10-22T04:04:19.117329Z",
+      "last_updated": "2026-10-22T04:04:19.117334Z",
       "market_value": 79.92,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -59325,8 +59335,8 @@
     "76267": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 29,
-      "current_best_price": 36.95,
+      "buy_score": 26,
+      "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76267-1.jpg",
       "label": "investering",
@@ -59365,11 +59375,11 @@
       "name": "Avengers Advent Calendar",
       "owned_by": 3872,
       "pieces": 243,
-      "price_score": 2,
+      "price_score": 0,
       "rating": 3.2,
       "retirement_date": "2024-04-09",
       "retirement_status": "retired",
-      "roi_score": 2,
+      "roi_score": 1,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -59389,6 +59399,11 @@
         {
           "date": "2026-09-30",
           "price": 36.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 39.99,
           "shop": "Brickwatch"
         }
       ],
@@ -59456,7 +59471,8 @@
       "ean": "5702017419848",
       "prev_buy_score": 29,
       "price_checked_at": "2026-10-21T08:51:50Z",
-      "last_updated": "2026-09-30T21:00:37Z"
+      "last_updated": "2026-10-22T04:04:19.117627Z",
+      "last_brickwatch_alert": "2026-10-22T04:04:19.117624Z"
     },
     "76269": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -62876,8 +62892,8 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 61,
-      "current_best_price": 239.99,
+      "buy_score": 62,
+      "current_best_price": 237.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
@@ -62886,7 +62902,7 @@
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 33,
+      "price_score": 34,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -62903,8 +62919,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-10-20T04:04:17.230504Z",
-      "last_updated": "2026-10-20T04:04:17.230506Z",
+      "last_brickwatch_alert": "2026-10-22T04:04:19.117411Z",
+      "last_updated": "2026-10-22T04:04:19.117414Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -63044,6 +63060,11 @@
         {
           "date": "2026-10-20",
           "price": 239.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 237.99,
           "shop": "Brickwatch"
         }
       ],
@@ -83122,7 +83143,7 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 93.28,
+      "current_best_price": 93.04,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 25,
       "price_score": 13,
@@ -83163,8 +83184,8 @@
           "value": 130.42
         }
       ],
-      "last_brickwatch_alert": "2026-10-07T04:04:16.219699Z",
-      "last_updated": "2026-10-21T08:51:50Z",
+      "last_brickwatch_alert": "2026-10-22T04:04:19.117480Z",
+      "last_updated": "2026-10-22T04:04:19.117483Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -83234,6 +83255,11 @@
         {
           "date": "2026-10-21",
           "price": 93.28,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-22",
+          "price": 93.04,
           "shop": "Brickwatch"
         }
       ],
