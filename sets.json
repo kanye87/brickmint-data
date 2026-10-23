@@ -48628,7 +48628,7 @@
     "75406": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 63,
+      "buy_score": 72,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75406-1.jpg",
       "label": "investering",
@@ -48637,12 +48637,12 @@
       "name": "Kylo Ren's Command Shuttle",
       "owned_by": 2154,
       "pieces": 386,
-      "price_score": 25,
+      "price_score": 33,
       "purchase_price": 52.49,
       "rating": 3.7,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -48658,9 +48658,9 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017824574",
-      "current_best_price": 54.99,
-      "last_brickwatch_alert": "2026-10-12T00:04:22.094279Z",
-      "last_updated": "2026-10-12T00:04:22.094286Z",
+      "current_best_price": 49.99,
+      "last_brickwatch_alert": "2026-10-23T00:34:18.340374Z",
+      "last_updated": "2026-10-23T00:34:18.340380Z",
       "price_history": [
         {
           "date": "2026-06-01",
@@ -48690,6 +48690,11 @@
         {
           "date": "2026-10-12",
           "price": 54.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -60106,7 +60111,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 38,
-      "current_best_price": 364.11,
+      "current_best_price": 384.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76294-1.jpg",
       "label": "investering",
@@ -60130,8 +60135,8 @@
       "urgency_score": 20,
       "wanted_by": 2689,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-06T05:04:22.921480Z",
-      "last_updated": "2026-10-06T05:04:22.921489Z",
+      "last_brickwatch_alert": "2026-10-23T00:34:18.339855Z",
+      "last_updated": "2026-10-23T00:34:18.339865Z",
       "subtheme": "X-Men",
       "price_history": [
         {
@@ -60202,6 +60207,11 @@
         {
           "date": "2026-10-06",
           "price": 364.11,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 384.9,
           "shop": "Brickwatch"
         }
       ],
