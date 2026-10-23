@@ -33982,7 +33982,7 @@
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
       "current_best_price": 609.99,
-      "current_best_shop": "Bol.com",
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -34019,8 +34019,8 @@
       "availability_score": 10,
       "score_quality": "full",
       "buy_score": 54,
-      "last_brickwatch_alert": "2026-10-21T18:34:14.958834Z",
-      "last_updated": "2026-10-23T10:47:58.491797Z",
+      "last_brickwatch_alert": "2026-10-23T22:34:14.601442Z",
+      "last_updated": "2026-10-23T22:34:14.601454Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -34174,7 +34174,7 @@
         {
           "date": "2026-10-23",
           "price": 609.99,
-          "shop": "Bol.com"
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -49075,24 +49075,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 34,
-      "current_best_price": 261.06,
+      "buy_score": 44,
+      "current_best_price": 229.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-22T23:04:16.506150Z",
-      "last_updated": "2026-10-22T23:04:16.506158Z",
+      "last_brickwatch_alert": "2026-10-23T22:34:14.601705Z",
+      "last_updated": "2026-10-23T22:34:14.601709Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 11,
+      "price_score": 20,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -49381,6 +49381,11 @@
         {
           "date": "2026-10-22",
           "price": 261.06,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 229.99,
           "shop": "Brickwatch"
         }
       ],
@@ -49788,24 +49793,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 35,
-      "current_best_price": 69.99,
+      "buy_score": 62,
+      "current_best_price": 51.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-21T19:04:18.526066Z",
-      "last_updated": "2026-10-21T19:04:18.526074Z",
+      "last_brickwatch_alert": "2026-10-23T22:34:14.601877Z",
+      "last_updated": "2026-10-23T22:34:14.601880Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 0,
+      "price_score": 23,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 26,
@@ -49993,6 +49998,11 @@
         {
           "date": "2026-10-21",
           "price": 69.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 51.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50880,7 +50890,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 57,
       "status": "watchlist",
       "market_value": 140.8,
       "market_value_source": "ebay",
@@ -79159,7 +79169,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 51,
-      "prev_buy_score": 60,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-10-23T08:49:30Z",
       "retirement_date": "2027-12-31",
       "expected_retirement": "2027-12",
