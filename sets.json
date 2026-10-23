@@ -19771,7 +19771,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 56,
-      "current_best_price": 157.02,
+      "current_best_price": 157.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
@@ -19795,8 +19795,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-10-09T01:34:18.806084Z",
-      "last_updated": "2026-10-09T01:34:18.806088Z",
+      "last_brickwatch_alert": "2026-10-23T04:04:15.734754Z",
+      "last_updated": "2026-10-23T04:04:15.734758Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -19861,6 +19861,11 @@
         {
           "date": "2026-10-09",
           "price": 157.02,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 157.0,
           "shop": "Brickwatch"
         }
       ],
@@ -20130,7 +20135,18 @@
       "score_quality": null,
       "buy_score": null,
       "minifig_list": [],
-      "prev_buy_score": null
+      "prev_buy_score": null,
+      "current_best_price": 103.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-10-23T04:04:15.734397Z",
+      "last_updated": "2026-10-23T04:04:15.734403Z",
+      "price_history": [
+        {
+          "date": "2026-10-23",
+          "price": 103.99,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "42177": {
       "availability_score": 0,
@@ -20824,8 +20840,8 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-21T04:04:15.083237Z",
-      "last_updated": "2026-10-21T04:04:15.083242Z",
+      "last_brickwatch_alert": "2026-10-23T04:04:15.734498Z",
+      "last_updated": "2026-10-23T04:04:15.734502Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
@@ -48719,7 +48735,7 @@
           "value": 67.47
         }
       ],
-      "prev_buy_score": 63,
+      "prev_buy_score": 72,
       "price_checked_at": "2026-10-21T08:51:50Z"
     },
     "75407": {
@@ -70614,8 +70630,8 @@
     "77242": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 60,
-      "current_best_price": 17.99,
+      "buy_score": 63,
+      "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77242-1.jpg",
       "label": "persoonlijk",
@@ -70625,7 +70641,7 @@
       "name": "Ferrari SF-24",
       "owned_by": 8164,
       "pieces": 275,
-      "price_score": 26,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -70640,8 +70656,8 @@
       "wanted_by": 1102,
       "year": 2025,
       "subtheme": "Formula 1",
-      "last_brickwatch_alert": "2026-10-18T12:04:14.159897Z",
-      "last_updated": "2026-10-18T12:04:14.159906Z",
+      "last_brickwatch_alert": "2026-10-23T04:04:15.734609Z",
+      "last_updated": "2026-10-23T04:04:15.734613Z",
       "minifig_list": [
         {
           "id": "fig-016097",
@@ -70739,6 +70755,11 @@
         {
           "date": "2026-10-18",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 16.99,
           "shop": "Brickwatch"
         }
       ],
@@ -71658,8 +71679,8 @@
     "77251": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 67,
-      "current_best_price": 16.42,
+      "buy_score": 68,
+      "current_best_price": 15.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77251-1.jpg",
       "label": "persoonlijk",
@@ -71669,7 +71690,7 @@
       "name": "McLaren F1 Team MCL38",
       "owned_by": 6017,
       "pieces": 269,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 3.9,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -71747,14 +71768,19 @@
           "date": "2026-10-22",
           "price": 16.42,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-23",
+          "price": 15.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-10-22T14:04:30.180445Z",
-      "last_updated": "2026-10-22T14:04:30.180455Z",
+      "last_brickwatch_alert": "2026-10-23T04:04:15.734686Z",
+      "last_updated": "2026-10-23T04:04:15.734689Z",
       "market_value": 25.48,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
