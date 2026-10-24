@@ -51199,7 +51199,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
-      "prev_buy_score": 55,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "75431": {
@@ -66842,7 +66842,7 @@
     },
     "76901": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 38.89,
+      "current_best_price": 39.99,
       "date_first_available": "2021-06-02",
       "ean": "5702016912470",
       "expected_retirement": "2024-01",
@@ -67012,6 +67012,11 @@
           "date": "2026-10-21",
           "price": 38.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-24",
+          "price": 39.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -67025,8 +67030,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-20T10:04:13.307397Z",
-      "last_updated": "2026-10-21T08:51:50Z",
+      "last_brickwatch_alert": "2026-10-24T04:04:12.843200Z",
+      "last_updated": "2026-10-24T04:04:12.843209Z",
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "76902": {
