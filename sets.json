@@ -21960,7 +21960,7 @@
           "value": 32.23
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "43013": {
@@ -42498,7 +42498,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": null,
-      "current_best_price": 109.26,
+      "current_best_price": 94.91,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "persoonlijk",
@@ -42664,11 +42664,16 @@
           "date": "2026-10-24",
           "price": 109.26,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 94.91,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-24T07:34:17.559072Z",
-      "last_updated": "2026-10-24T07:34:17.559080Z",
+      "last_brickwatch_alert": "2026-10-25T09:04:14.469054Z",
+      "last_updated": "2026-10-25T09:04:14.469064Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:25+00:00",
@@ -52489,7 +52494,7 @@
           "value": 58.14
         }
       ],
-      "prev_buy_score": 51,
+      "prev_buy_score": 53,
       "purchase_price": 35,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
@@ -52921,7 +52926,7 @@
           "value": 79.92
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "75682": {
