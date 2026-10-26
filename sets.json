@@ -22118,7 +22118,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 65,
-      "current_best_price": 52.49,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -22174,8 +22174,8 @@
           "value": 79.27
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T00:04:18.425179Z",
-      "last_updated": "2026-10-26T00:04:18.425184Z",
+      "last_brickwatch_alert": "2026-10-26T05:04:15.839066Z",
+      "last_updated": "2026-10-26T05:04:15.839071Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -22330,7 +22330,7 @@
         },
         {
           "date": "2026-10-26",
-          "price": 52.49,
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -22834,13 +22834,13 @@
     "43022": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 65,
-      "current_best_price": 52.49,
+      "buy_score": 66,
+      "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-26T01:34:20.348094Z",
-      "last_updated": "2026-10-26T01:34:20.348101Z",
+      "last_brickwatch_alert": "2026-10-26T05:04:15.839143Z",
+      "last_updated": "2026-10-26T05:04:15.839147Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
@@ -22849,7 +22849,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "retired",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -22999,7 +22999,7 @@
         },
         {
           "date": "2026-10-26",
-          "price": 52.49,
+          "price": 49.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52696,7 +52696,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 30,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "75446": {
@@ -71354,8 +71354,8 @@
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 56,
-      "current_best_price": 16.99,
+      "buy_score": 57,
+      "current_best_price": 16.82,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -71365,7 +71365,7 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4903,
       "pieces": 269,
-      "price_score": 23,
+      "price_score": 24,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -71389,8 +71389,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-09-10T04:04:19.375954Z",
-      "last_updated": "2026-10-09T10:53:53Z",
+      "last_brickwatch_alert": "2026-10-26T05:04:15.838721Z",
+      "last_updated": "2026-10-26T05:04:15.838730Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -71451,6 +71451,11 @@
           "date": "2026-10-09",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 16.82,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -71484,8 +71489,8 @@
     "77246": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 66,
-      "current_best_price": 16.88,
+      "buy_score": 67,
+      "current_best_price": 16.84,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77246-1.jpg",
       "label": "persoonlijk",
@@ -71495,7 +71500,7 @@
       "name": "Visa Cash App VCARB 01",
       "owned_by": 4650,
       "pieces": 248,
-      "price_score": 32,
+      "price_score": 33,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -71569,10 +71574,15 @@
           "date": "2026-10-16",
           "price": 16.88,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 16.84,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-21T04:04:15.295766Z",
-      "last_updated": "2026-10-16T08:29:20Z",
+      "last_brickwatch_alert": "2026-10-26T05:04:15.838878Z",
+      "last_updated": "2026-10-26T05:04:15.838882Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
