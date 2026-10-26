@@ -71158,8 +71158,8 @@
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 62,
-      "current_best_price": 18.0,
+      "buy_score": 64,
+      "current_best_price": 17.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
       "label": "persoonlijk",
@@ -71169,7 +71169,7 @@
       "name": "Oracle Red Bull Racing RB20",
       "owned_by": 7985,
       "pieces": 251,
-      "price_score": 29,
+      "price_score": 31,
       "purchase_price": 8.67,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
@@ -71246,12 +71246,12 @@
         },
         {
           "date": "2026-10-26",
-          "price": 18.0,
+          "price": 17.49,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T17:04:28.261987Z",
-      "last_updated": "2026-10-26T17:04:28.261997Z",
+      "last_brickwatch_alert": "2026-10-26T20:34:18.780841Z",
+      "last_updated": "2026-10-26T20:34:18.780850Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
