@@ -21861,8 +21861,8 @@
     "43012": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 50,
-      "current_best_price": 16.99,
+      "buy_score": 47,
+      "current_best_price": 18.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -21871,10 +21871,10 @@
       "name": "Cristiano Ronaldo – Football Highlights",
       "owned_by": 467,
       "pieces": 490,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 7,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21888,8 +21888,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-10-25T05:04:12.958736Z",
-      "last_updated": "2026-10-25T05:04:12.958744Z",
+      "last_brickwatch_alert": "2026-10-26T11:34:20.395190Z",
+      "last_updated": "2026-10-26T11:34:20.395193Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21944,6 +21944,11 @@
         {
           "date": "2026-10-25",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 18.74,
           "shop": "Brickwatch"
         }
       ],
@@ -22533,7 +22538,7 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 47,
+      "buy_score": 42,
       "current_best_price": 49.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
@@ -22543,10 +22548,10 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 1,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -45995,7 +46000,7 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 33,
+      "buy_score": 35,
       "current_best_price": 62.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
@@ -46008,11 +46013,11 @@
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -51190,7 +51195,7 @@
           "value": 89.95
         }
       ],
-      "prev_buy_score": 37,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-10-26T09:20:44Z"
     },
     "75430": {
@@ -51381,7 +51386,7 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 52,
+      "buy_score": 53,
       "current_best_price": 26.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
@@ -51392,7 +51397,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -52480,8 +52485,8 @@
     "75441": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 53,
-      "current_best_price": 49.99,
+      "buy_score": 51,
+      "current_best_price": 51.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
@@ -52490,7 +52495,7 @@
       "name": "Venator-class Attack Cruiser",
       "owned_by": 2099,
       "pieces": 643,
-      "price_score": 32,
+      "price_score": 30,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -52504,8 +52509,8 @@
       "urgency_score": 3,
       "wanted_by": 2462,
       "year": 2026,
-      "last_brickwatch_alert": "2026-10-25T05:04:12.958958Z",
-      "last_updated": "2026-10-25T05:04:12.958962Z",
+      "last_brickwatch_alert": "2026-10-26T11:34:20.395053Z",
+      "last_updated": "2026-10-26T11:34:20.395062Z",
       "subtheme": "Starship Collection",
       "price_history": [
         {
@@ -52586,6 +52591,11 @@
         {
           "date": "2026-10-25",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 51.49,
           "shop": "Brickwatch"
         }
       ],
@@ -52732,7 +52742,7 @@
     "75446": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 45,
+      "buy_score": 46,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75446-1.jpg",
       "label": "investering",
@@ -52741,7 +52751,7 @@
       "name": "Grogu (Mandalorian Apprentice)",
       "owned_by": 239,
       "pieces": 1200,
-      "price_score": 33,
+      "price_score": 34,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -71139,7 +71149,7 @@
     "77243": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 60,
+      "buy_score": 66,
       "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77243-1.jpg",
@@ -71150,12 +71160,12 @@
       "name": "Oracle Red Bull Racing RB20",
       "owned_by": 7985,
       "pieces": 251,
-      "price_score": 27,
+      "price_score": 32,
       "purchase_price": 8.67,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 56,
