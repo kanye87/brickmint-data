@@ -23019,8 +23019,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 42,
-      "current_best_price": 19.95,
+      "buy_score": 46,
+      "current_best_price": 18.74,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -23029,7 +23029,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 29,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -23046,8 +23046,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-10-19T04:04:18.131717Z",
-      "last_updated": "2026-10-23T08:49:30Z",
+      "last_brickwatch_alert": "2026-10-26T02:04:19.961486Z",
+      "last_updated": "2026-10-26T02:04:19.961495Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23132,6 +23132,11 @@
         {
           "date": "2026-10-23",
           "price": 19.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 18.74,
           "shop": "Brickwatch"
         }
       ],
@@ -34097,7 +34102,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 609.99,
+      "current_best_price": 649.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -34128,15 +34133,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 21,
+      "price_score": 17,
       "roi_score": 3,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 54,
-      "last_brickwatch_alert": "2026-10-23T22:34:14.601442Z",
-      "last_updated": "2026-10-23T22:34:14.601454Z",
+      "buy_score": 50,
+      "last_brickwatch_alert": "2026-10-26T02:04:19.961837Z",
+      "last_updated": "2026-10-26T02:04:19.961841Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -34290,6 +34295,11 @@
         {
           "date": "2026-10-23",
           "price": 609.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 649.99,
           "shop": "Brickwatch"
         }
       ],
@@ -44891,7 +44901,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 55,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "75368": {
@@ -65626,10 +65636,10 @@
     },
     "76444": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
-      "current_best_price": 125.99,
+      "current_best_price": 112.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76444-1.jpg",
-      "lowest_price_ever": 121.39,
+      "lowest_price_ever": 112.49,
       "minifigs": 12,
       "msrp": 199.99,
       "name": "Diagon Alley Wizarding Shops",
@@ -65644,13 +65654,13 @@
       "wanted_by": 1844,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "price_score": 33,
-      "roi_score": 4,
+      "price_score": 35,
+      "roi_score": 5,
       "urgency_score": 3,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 48,
+      "buy_score": 51,
       "expected_retirement": "2027-12",
       "date_first_available": "2024-12-03",
       "lego_availability": "Retail",
@@ -65738,13 +65748,13 @@
         },
         {
           "date": "2026-10-26",
-          "price": 125.99,
+          "price": 112.49,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-26T01:04:18.861313Z",
-      "last_updated": "2026-10-26T01:04:18.861317Z",
+      "last_brickwatch_alert": "2026-10-26T02:04:19.779936Z",
+      "last_updated": "2026-10-26T02:04:19.779944Z",
       "prev_buy_score": 48,
       "status": "watchlist",
       "label": "investering",
@@ -79763,17 +79773,17 @@
           "value": 92.05
         }
       ],
-      "price_score": 24,
-      "roi_score": 5,
+      "price_score": 35,
+      "roi_score": 6,
       "urgency_score": null,
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": "partial",
-      "buy_score": 53,
+      "buy_score": 75,
       "price_checked_at": "2026-10-23T08:49:30Z",
-      "current_best_price": 64.95,
+      "current_best_price": 52.49,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-10-21T20:34:16.937878Z",
+      "last_updated": "2026-10-26T02:04:19.961726Z",
       "price_history": [
         {
           "date": "2026-09-30",
@@ -79794,9 +79804,14 @@
           "date": "2026-10-21",
           "price": 64.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 52.49,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-21T20:34:16.937872Z"
+      "last_brickwatch_alert": "2026-10-26T02:04:19.961721Z"
     },
     "43026": {
       "name": "Nike Air Force 1",
