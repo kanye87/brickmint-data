@@ -23173,7 +23173,7 @@
           "value": 29.32
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "43032": {
@@ -34386,7 +34386,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-10-23T08:49:30Z"
     },
     "75209": {
@@ -47125,8 +47125,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 11,
-      "current_best_price": 12.9,
+      "buy_score": 33,
+      "current_best_price": 9.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -47136,11 +47136,11 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 1,
+      "price_score": 20,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -47244,10 +47244,15 @@
           "date": "2026-09-30",
           "price": 12.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 9.95,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-09-14T14:04:17.435863Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-26T03:34:20.713036Z",
+      "last_updated": "2026-10-26T03:34:20.713044Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
@@ -65755,7 +65760,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-10-26T02:04:19.779936Z",
       "last_updated": "2026-10-26T02:04:19.779944Z",
-      "prev_buy_score": 48,
+      "prev_buy_score": 51,
       "status": "watchlist",
       "label": "investering",
       "market_value": 167.63,
@@ -79761,7 +79766,7 @@
       "brickset_last_enriched": "2026-10-12T22:40:41Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": 53,
+      "prev_buy_score": 75,
       "status": "watchlist",
       "label": "investering",
       "market_value": 92.05,
