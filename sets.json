@@ -22654,20 +22654,20 @@
     "43019": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 40,
+      "buy_score": 48,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43019-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 71.99,
+      "lowest_price_ever": 67.49,
       "msrp": 119.99,
       "name": "Football",
       "owned_by": 254,
       "pieces": 1498,
-      "price_score": 29,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22678,9 +22678,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 80.32,
-      "last_brickwatch_alert": "2026-10-24T00:04:17.053092Z",
-      "last_updated": "2026-10-24T00:04:17.053094Z",
+      "current_best_price": 67.49,
+      "last_brickwatch_alert": "2026-10-26T00:34:19.762666Z",
+      "last_updated": "2026-10-26T00:34:19.762677Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -22740,6 +22740,11 @@
         {
           "date": "2026-10-24",
           "price": 80.32,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 67.49,
           "shop": "Brickwatch"
         }
       ],
@@ -32350,8 +32355,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 51,
-      "current_best_price": 109.99,
+      "buy_score": 57,
+      "current_best_price": 97.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -32360,11 +32365,11 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 25,
+      "price_score": 30,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -32374,8 +32379,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-21T04:04:15.083090Z",
-      "last_updated": "2026-10-21T04:04:15.083099Z",
+      "last_brickwatch_alert": "2026-10-26T00:34:19.905427Z",
+      "last_updated": "2026-10-26T00:34:19.905429Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -32561,6 +32566,11 @@
         {
           "date": "2026-10-21",
           "price": 109.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 97.49,
           "shop": "Brickwatch"
         }
       ],
@@ -49899,24 +49909,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 62,
-      "current_best_price": 51.99,
+      "buy_score": 35,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-23T22:34:14.601877Z",
-      "last_updated": "2026-10-23T22:34:14.601880Z",
+      "last_brickwatch_alert": "2026-10-26T00:34:19.905320Z",
+      "last_updated": "2026-10-26T00:34:19.905330Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 23,
+      "price_score": 0,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 26,
@@ -50109,6 +50119,11 @@
         {
           "date": "2026-10-23",
           "price": 51.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
@@ -81337,10 +81352,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 53.99,
+      "current_best_price": 52.49,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-10T04:04:15.264645Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-10-26T00:34:19.905530Z",
+      "last_updated": "2026-10-26T00:34:19.905531Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -81416,6 +81431,11 @@
           "date": "2026-10-12",
           "price": 53.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-26",
+          "price": 52.49,
+          "shop": "Brickwatch"
         }
       ],
       "year": 2026,
@@ -81450,12 +81470,12 @@
         }
       ],
       "price_score": 35,
-      "roi_score": 2,
+      "roi_score": 3,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 55,
+      "buy_score": 56,
       "prev_buy_score": 55,
       "purchase_price": 55.0,
       "price_checked_at": "2026-10-23T08:49:30Z",
