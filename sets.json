@@ -43414,7 +43414,7 @@
     },
     "75352": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 104.95,
+      "current_best_price": 94.95,
       "date_first_available": "2023-04-09",
       "ean": "5702017421360",
       "expected_retirement": "2024-11",
@@ -43478,13 +43478,13 @@
       "wanted_by": 3270,
       "year": 2023,
       "subtheme": "Diorama Collection",
-      "price_score": 0,
-      "roi_score": 1,
+      "price_score": 4,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 16,
+      "buy_score": 22,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -43498,7 +43498,7 @@
         },
         {
           "date": "2026-10-27",
-          "price": 104.95,
+          "price": 94.95,
           "shop": "Brickwatch"
         }
       ],
@@ -43528,8 +43528,8 @@
       "prev_buy_score": 16,
       "price_checked_at": "2026-10-26T09:20:44Z",
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-10-27T03:34:18.808009Z",
-      "last_brickwatch_alert": "2026-10-27T03:34:18.808002Z"
+      "last_updated": "2026-10-27T05:34:17.374764Z",
+      "last_brickwatch_alert": "2026-10-27T05:34:17.374754Z"
     },
     "75353": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
