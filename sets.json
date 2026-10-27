@@ -34447,7 +34447,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-26T09:20:44Z"
     },
     "75209": {
@@ -60395,7 +60395,7 @@
       "ean": "5702017590226",
       "last_brickwatch_alert": "2026-10-27T07:34:16.256304Z",
       "last_updated": "2026-10-27T07:34:16.256308Z",
-      "prev_buy_score": 27,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-10-26T09:20:44Z"
     },
     "76290": {
@@ -83589,13 +83589,13 @@
       "name": "Up-Scaled Darth Vader Minifigure",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 26,
+      "price_score": 19,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 48,
+      "buy_score": 41,
       "sell_score": null,
       "prev_buy_score": 48,
       "theme": "Star Wars",
@@ -83631,10 +83631,10 @@
           "value": 97.94
         }
       ],
-      "current_best_price": 69.99,
+      "current_best_price": 78.23,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-12T04:04:14.111253Z",
-      "last_updated": "2026-10-12T04:04:14.111257Z",
+      "last_brickwatch_alert": "2026-10-27T11:04:21.123468Z",
+      "last_updated": "2026-10-27T11:04:21.123478Z",
       "price_history": [
         {
           "date": "2026-08-31",
@@ -83649,6 +83649,11 @@
         {
           "date": "2026-10-12",
           "price": 69.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 78.23,
           "shop": "Brickwatch"
         }
       ],
