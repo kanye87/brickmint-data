@@ -84263,16 +84263,22 @@
       "score_quality": "partial",
       "buy_score": 0,
       "price_checked_at": "2026-10-26T09:20:44Z",
-      "current_best_price": 749.0,
+      "current_best_price": 749.99,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_updated": "2026-10-27T15:04:18.747166Z",
       "price_history": [
         {
           "date": "2026-09-30",
           "price": 749.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 749.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-10-27T15:04:18.747157Z"
     },
     "11379": {
       "name": "Bookshop: Book Nook",
