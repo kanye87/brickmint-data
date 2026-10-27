@@ -5891,7 +5891,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 157.8,
+      "current_best_price": 157.17,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -6014,11 +6014,16 @@
           "date": "2026-10-21",
           "price": 157.8,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 157.17,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-14T04:04:22.314213Z",
-      "last_updated": "2026-10-21T08:51:50Z",
+      "last_brickwatch_alert": "2026-10-27T05:04:15.398230Z",
+      "last_updated": "2026-10-27T05:04:15.398239Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-10-26T09:20:44Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
@@ -14017,7 +14022,7 @@
     },
     "40623": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
-      "current_best_price": 52.95,
+      "current_best_price": 52.07,
       "date_first_available": "2023-04-07",
       "ean": "5702017424057",
       "expected_retirement": "2023-12",
@@ -14099,14 +14104,19 @@
           "date": "2026-10-02",
           "price": 52.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 52.07,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "prev_buy_score": null,
       "price_checked_at": "2026-10-26T09:20:44Z",
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-02T04:34:53.838972Z",
-      "last_updated": "2026-10-02T04:34:53.838979Z"
+      "last_brickwatch_alert": "2026-10-27T05:04:15.398490Z",
+      "last_updated": "2026-10-27T05:04:15.398493Z"
     },
     "40627": {
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
@@ -43990,7 +44000,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 221.19,
+      "current_best_price": 199.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75357-1.jpg",
       "label": "investering",
@@ -44076,8 +44086,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-10-12T10:04:15.736402Z",
-      "last_updated": "2026-10-12T10:04:15.736411Z",
+      "last_brickwatch_alert": "2026-10-27T05:04:15.398560Z",
+      "last_updated": "2026-10-27T05:04:15.398563Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44167,6 +44177,11 @@
         {
           "date": "2026-10-12",
           "price": 221.19,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 199.95,
           "shop": "Brickwatch"
         }
       ],
@@ -83376,10 +83391,10 @@
           "value": 132.49
         }
       ],
-      "current_best_price": 189.99,
+      "current_best_price": 189.49,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-23T06:34:16.786411Z",
-      "last_updated": "2026-10-26T09:20:44Z",
+      "last_brickwatch_alert": "2026-10-27T05:04:15.398404Z",
+      "last_updated": "2026-10-27T05:04:15.398408Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -83434,6 +83449,11 @@
         {
           "date": "2026-10-26",
           "price": 189.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 189.49,
           "shop": "Brickwatch"
         }
       ],
