@@ -14780,7 +14780,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
       "buy_score": 35,
-      "current_best_price": 58.95,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/40676-1.jpg",
       "label": "persoonlijk",
@@ -14848,6 +14848,11 @@
           "date": "2026-09-30",
           "price": 58.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 69.99,
+          "shop": "Brickwatch"
         }
       ],
       "prev_buy_score": 35,
@@ -14857,7 +14862,8 @@
       "sell_age_score": 14,
       "sell_liquidity_score": 2,
       "price_checked_at": "2026-10-26T09:20:44Z",
-      "last_updated": "2026-09-30T21:00:37Z"
+      "last_updated": "2026-10-27T04:04:18.533415Z",
+      "last_brickwatch_alert": "2026-10-27T04:04:18.533405Z"
     },
     "40693": {
       "availability_score": 10,
@@ -33098,7 +33104,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 53,
+      "buy_score": 42,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -33107,11 +33113,11 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 30,
+      "price_score": 20,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -33125,9 +33131,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 104.99,
-      "last_brickwatch_alert": "2026-10-26T01:04:18.861133Z",
-      "last_updated": "2026-10-26T01:04:18.861137Z",
+      "current_best_price": 129.99,
+      "last_brickwatch_alert": "2026-10-27T04:04:18.533848Z",
+      "last_updated": "2026-10-27T04:04:18.533852Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -33263,6 +33269,11 @@
         {
           "date": "2026-10-26",
           "price": 104.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -43499,7 +43510,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-013740/122018.jpg"
         }
       ],
-      "prev_buy_score": 22,
+      "prev_buy_score": 16,
       "price_checked_at": "2026-10-26T09:20:44Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-27T03:34:18.808009Z",
@@ -43507,7 +43518,7 @@
     },
     "75353": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 79.95,
+      "current_best_price": 89.99,
       "date_first_available": "2023-04-09",
       "ean": "5702017421377",
       "expected_retirement": "2024-09",
@@ -43593,6 +43604,11 @@
           "date": "2026-09-30",
           "price": 79.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 89.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -43619,8 +43635,8 @@
         }
       ],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-06-26T15:04:16.681200Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_brickwatch_alert": "2026-10-27T04:04:18.533722Z",
+      "last_updated": "2026-10-27T04:04:18.533728Z",
       "prev_buy_score": 15,
       "price_checked_at": "2026-10-26T09:20:44Z"
     },
