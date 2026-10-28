@@ -42161,7 +42161,7 @@
     },
     "75339": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 136.13,
+      "current_best_price": 129.02,
       "date_first_available": "2022-05-08",
       "ean": "5702017189642",
       "expected_retirement": "2024-01",
@@ -42252,6 +42252,11 @@
           "date": "2026-09-04",
           "price": 136.13,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-28",
+          "price": 129.02,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -42300,8 +42305,8 @@
       ],
       "prev_buy_score": 15,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-24T04:04:15.695307Z",
-      "last_updated": "2026-09-24T04:04:15.695314Z",
+      "last_brickwatch_alert": "2026-10-28T05:04:15.875296Z",
+      "last_updated": "2026-10-28T05:04:15.875299Z",
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "75340": {
@@ -52205,8 +52210,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 58,
-      "current_best_price": 29.99,
+      "buy_score": 46,
+      "current_best_price": 35.97,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -52215,10 +52220,10 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -52233,8 +52238,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-10-20T04:04:17.230596Z",
-      "last_updated": "2026-10-20T04:04:17.230597Z",
+      "last_brickwatch_alert": "2026-10-28T05:04:15.875166Z",
+      "last_updated": "2026-10-28T05:04:15.875174Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -52394,6 +52399,11 @@
         {
           "date": "2026-10-20",
           "price": 29.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-28",
+          "price": 35.97,
           "shop": "Brickwatch"
         }
       ],
