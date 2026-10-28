@@ -5652,7 +5652,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 47,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "11986": {
@@ -22845,7 +22845,7 @@
           "value": 94.99
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 35,
       "purchase_price": 79.0,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
@@ -45434,7 +45434,7 @@
           "value": 27.2
         }
       ],
-      "prev_buy_score": 63,
+      "prev_buy_score": 65,
       "purchase_price": 17.99,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
@@ -45718,7 +45718,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 43,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75376": {
@@ -46273,7 +46273,7 @@
           "value": 79.0
         }
       ],
-      "prev_buy_score": 35,
+      "prev_buy_score": 33,
       "purchase_price": 66.0,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
@@ -46476,7 +46476,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 70.54,
+      "current_best_price": 70.56,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -46621,6 +46621,11 @@
           "date": "2026-10-27",
           "price": 70.54,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-28",
+          "price": 70.56,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -46657,8 +46662,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-10-27T12:04:16.781288Z",
-      "last_updated": "2026-10-27T12:04:16.781296Z",
+      "last_brickwatch_alert": "2026-10-28T14:04:22.977792Z",
+      "last_updated": "2026-10-28T14:04:22.977802Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:57+00:00",
@@ -48390,7 +48395,7 @@
           "value": 67.41
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 60,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75400": {
@@ -49266,7 +49271,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 49,
+      "prev_buy_score": 44,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75408": {
@@ -49377,7 +49382,7 @@
           "value": 64.91
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 51,
       "purchase_price": 47,
       "sell_roi_score": 24,
       "sell_trend_score": 0,
@@ -51698,7 +51703,7 @@
           "value": 29.64
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 52,
       "purchase_price": 22.0,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
@@ -52494,7 +52499,7 @@
           "value": 47.24
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75440": {
@@ -52636,7 +52641,7 @@
           "value": 67.47
         }
       ],
-      "prev_buy_score": 55,
+      "prev_buy_score": 50,
       "purchase_price": 42,
       "sell_roi_score": 30,
       "sell_trend_score": 0,
@@ -53094,7 +53099,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-star-wars-grogu-mandalorian-apprentice-75446-eur5999-laagste-prijs-ooit-415525",
-      "prev_buy_score": 46,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75452": {
@@ -53239,7 +53244,7 @@
           "value": 79.92
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 44,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75682": {
@@ -71460,7 +71465,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 64,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "77244": {
@@ -72121,7 +72126,7 @@
           "value": 31.27
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "77250": {
@@ -72568,7 +72573,7 @@
           "value": 25.74
         }
       ],
-      "prev_buy_score": 84,
+      "prev_buy_score": 82,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "77985": {
