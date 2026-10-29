@@ -2933,7 +2933,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
-      "prev_buy_score": 26,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "10331": {
@@ -21907,8 +21907,8 @@
     "43012": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 47,
-      "current_best_price": 18.74,
+      "buy_score": 44,
+      "current_best_price": 19.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43012-1.jpg",
       "label": "investering",
@@ -21917,7 +21917,7 @@
       "name": "Cristiano Ronaldo – Football Highlights",
       "owned_by": 467,
       "pieces": 490,
-      "price_score": 33,
+      "price_score": 30,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 6,
@@ -21934,8 +21934,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-10-26T11:34:20.395190Z",
-      "last_updated": "2026-10-26T11:34:20.395193Z",
+      "last_brickwatch_alert": "2026-10-29T11:34:17.293891Z",
+      "last_updated": "2026-10-29T11:34:17.293900Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21995,6 +21995,11 @@
         {
           "date": "2026-10-26",
           "price": 18.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-29",
+          "price": 19.9,
           "shop": "Brickwatch"
         }
       ],
