@@ -45058,7 +45058,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 49,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
     "75368": {
@@ -60358,7 +60358,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 26,
-      "current_best_price": 407.92,
+      "current_best_price": 405.01,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -60527,6 +60527,11 @@
           "date": "2026-10-29",
           "price": 407.92,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-30",
+          "price": 405.01,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60563,8 +60568,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-10-29T08:04:16.648300Z",
-      "last_updated": "2026-10-29T08:04:16.648315Z",
+      "last_brickwatch_alert": "2026-10-30T08:04:15.276462Z",
+      "last_updated": "2026-10-30T08:04:15.276470Z",
       "prev_buy_score": 26,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
