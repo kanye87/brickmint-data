@@ -45479,7 +45479,7 @@
           "value": 27.2
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 63,
       "purchase_price": 17.99,
       "price_checked_at": "2026-10-28T10:00:06Z"
     },
@@ -84045,16 +84045,16 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 93.04,
+      "current_best_price": 95.89,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 25,
-      "price_score": 13,
-      "roi_score": 4,
+      "price_score": 11,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 25,
+      "buy_score": 22,
       "sell_score": null,
       "theme": "Icons",
       "year": 2026,
@@ -84090,8 +84090,8 @@
           "value": 117.7
         }
       ],
-      "last_brickwatch_alert": "2026-10-22T04:04:19.117480Z",
-      "last_updated": "2026-10-22T04:04:19.117483Z",
+      "last_brickwatch_alert": "2026-10-30T05:04:17.470725Z",
+      "last_updated": "2026-10-30T05:04:17.470733Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -84166,6 +84166,11 @@
         {
           "date": "2026-10-22",
           "price": 93.04,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-30",
+          "price": 95.89,
           "shop": "Brickwatch"
         }
       ],
