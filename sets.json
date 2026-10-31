@@ -13161,7 +13161,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-19T04:04:18.131787Z",
       "last_updated": "2026-10-26T09:20:44Z",
-      "prev_buy_score": 21,
+      "prev_buy_score": 18,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
     "40547": {
@@ -13253,7 +13253,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 0,
+      "prev_buy_score": 2,
       "price_checked_at": "2026-10-30T10:26:51Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
@@ -14674,7 +14674,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 16,
+      "prev_buy_score": 18,
       "purchase_price": 15,
       "sell_roi_score": 55,
       "sell_trend_score": 0,
@@ -14786,7 +14786,7 @@
       ],
       "last_brickwatch_alert": "2026-07-25T04:04:14.907654Z",
       "last_updated": "2026-10-16T08:29:20Z",
-      "prev_buy_score": 18,
+      "prev_buy_score": 15,
       "purchase_price": 19.99,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
@@ -15081,7 +15081,7 @@
       ],
       "last_brickwatch_alert": "2026-05-28T07:04:25.716995Z",
       "last_updated": "2026-05-28T07:04:25.717006Z",
-      "prev_buy_score": 18,
+      "prev_buy_score": 16,
       "purchase_price": 9.99,
       "price_checked_at": "2026-10-02T10:02:21Z"
     },
@@ -15481,7 +15481,7 @@
       ],
       "last_brickwatch_alert": "2026-08-12T08:34:18.306469Z",
       "last_updated": "2026-08-12T08:34:18.306477Z",
-      "prev_buy_score": 30,
+      "prev_buy_score": 27,
       "purchase_price": 19.99,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
@@ -45302,9 +45302,9 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 57,
-      "current_best_price": 449.95,
-      "current_best_shop": "Bol.com",
+      "buy_score": 49,
+      "current_best_price": 503.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -45313,7 +45313,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 27,
+      "price_score": 19,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -45433,14 +45433,19 @@
           "date": "2026-10-30",
           "price": 449.95,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-10-31",
+          "price": 503.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-10-30T06:34:19.030087Z",
-      "last_updated": "2026-10-30T11:56:11.228705Z",
+      "last_brickwatch_alert": "2026-10-31T21:34:13.945188Z",
+      "last_updated": "2026-10-31T21:34:13.945195Z",
       "market_value": 141.71,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
