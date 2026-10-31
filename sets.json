@@ -2666,7 +2666,7 @@
           "value": 289.94
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 47,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -80866,10 +80866,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 86.89,
+      "current_best_price": 84.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-21T04:04:15.083318Z",
-      "last_updated": "2026-10-30T10:26:51Z",
+      "last_brickwatch_alert": "2026-10-31T02:04:15.177207Z",
+      "last_updated": "2026-10-31T02:04:15.177219Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -80960,6 +80960,11 @@
           "date": "2026-10-30",
           "price": 86.89,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-31",
+          "price": 84.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -80981,13 +80986,13 @@
           "value": 113.04
         }
       ],
-      "price_score": 24,
+      "price_score": 25,
       "roi_score": 4,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 36,
+      "buy_score": 37,
       "prev_buy_score": 36,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
