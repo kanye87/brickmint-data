@@ -2246,7 +2246,7 @@
           "value": 155.56
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
     "10317": {
@@ -5752,7 +5752,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
     "11986": {
@@ -45646,7 +45646,7 @@
           "value": 27.2
         }
       ],
-      "prev_buy_score": 63,
+      "prev_buy_score": 65,
       "purchase_price": 17.99,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
@@ -46323,7 +46323,7 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017584362",
-      "prev_buy_score": 28,
+      "prev_buy_score": 36,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
     "75379": {
@@ -60534,8 +60534,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 26,
-      "current_best_price": 405.01,
+      "buy_score": 25,
+      "current_best_price": 413.87,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -60578,7 +60578,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -60709,6 +60709,11 @@
           "date": "2026-10-30",
           "price": 405.01,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-10-31",
+          "price": 413.87,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60745,8 +60750,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-10-30T08:04:15.276462Z",
-      "last_updated": "2026-10-30T08:04:15.276470Z",
+      "last_brickwatch_alert": "2026-10-31T07:34:14.683130Z",
+      "last_updated": "2026-10-31T07:34:14.683138Z",
       "prev_buy_score": 26,
       "price_checked_at": "2026-10-30T10:26:51Z"
     },
