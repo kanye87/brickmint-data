@@ -45859,8 +45859,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 65,
-      "current_best_price": 17.99,
+      "buy_score": 63,
+      "current_best_price": 18.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -45870,7 +45870,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 32,
+      "price_score": 30,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -46022,14 +46022,19 @@
           "date": "2026-10-31",
           "price": 17.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-01",
+          "price": 18.79,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-10-31T05:04:12.798985Z",
-      "last_updated": "2026-10-31T05:04:12.798986Z",
+      "last_brickwatch_alert": "2026-11-01T18:34:15.857635Z",
+      "last_updated": "2026-11-01T18:34:15.857637Z",
       "market_value": 27.2,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -85253,9 +85258,9 @@
       "score_quality": "full",
       "buy_score": 8,
       "price_checked_at": "2026-10-30T10:26:51Z",
-      "current_best_price": 749.99,
+      "current_best_price": 749.0,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-10-27T15:04:18.747166Z",
+      "last_updated": "2026-11-01T18:34:15.857456Z",
       "price_history": [
         {
           "date": "2026-09-30",
@@ -85266,9 +85271,14 @@
           "date": "2026-10-27",
           "price": 749.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-01",
+          "price": 749.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-27T15:04:18.747157Z",
+      "last_brickwatch_alert": "2026-11-01T18:34:15.857446Z",
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
       "retirement_date_source": "brickset_exitDate"
