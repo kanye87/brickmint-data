@@ -2681,7 +2681,7 @@
           "value": 289.94
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 40,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -49738,8 +49738,8 @@
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-17T04:04:13.761690Z",
-      "last_updated": "2026-10-28T10:00:06Z",
+      "last_brickwatch_alert": "2026-11-01T05:04:19.468677Z",
+      "last_updated": "2026-11-01T05:04:19.468684Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
