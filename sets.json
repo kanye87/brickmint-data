@@ -6291,7 +6291,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 188.78,
+      "current_best_price": 188.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -6315,8 +6315,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-10-25T01:34:15.832987Z",
-      "last_updated": "2026-10-25T01:34:15.832996Z",
+      "last_brickwatch_alert": "2026-11-02T19:34:24.764598Z",
+      "last_updated": "2026-11-02T19:34:24.764607Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -6430,6 +6430,11 @@
         {
           "date": "2026-10-25",
           "price": 188.78,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 188.77,
           "shop": "Brickwatch"
         }
       ],
