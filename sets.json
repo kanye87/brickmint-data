@@ -5633,8 +5633,8 @@
     "11373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 43,
-      "current_best_price": 48.75,
+      "buy_score": 45,
+      "current_best_price": 46.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -5644,7 +5644,7 @@
       "name": "The Lord of the Rings: Sauron's Helmet",
       "owned_by": 1410,
       "pieces": 538,
-      "price_score": 31,
+      "price_score": 33,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
@@ -5660,8 +5660,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-11-02T05:04:15.967552Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.463758Z",
+      "last_updated": "2026-11-03T05:04:16.463768Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -5740,6 +5740,11 @@
         {
           "date": "2026-11-02",
           "price": 48.75,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 46.69,
           "shop": "Brickwatch"
         }
       ],
@@ -41866,7 +41871,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 14,
+      "prev_buy_score": 7,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "75326": {
@@ -46627,8 +46632,8 @@
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-11-01T18:34:15.857635Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.463922Z",
+      "last_updated": "2026-11-03T05:04:16.463926Z",
       "market_value": 27.2,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -49287,7 +49292,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 34,
-      "current_best_price": 97.74,
+      "current_best_price": 97.5,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -49311,8 +49316,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-19T04:04:18.131633Z",
-      "last_updated": "2026-10-19T04:04:18.131637Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.464089Z",
+      "last_updated": "2026-11-03T05:04:16.464092Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -49411,6 +49416,11 @@
         {
           "date": "2026-10-19",
           "price": 97.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 97.5,
           "shop": "Brickwatch"
         }
       ],
@@ -72949,8 +72959,8 @@
     "77245": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 56,
-      "current_best_price": 16.99,
+      "buy_score": 57,
+      "current_best_price": 16.82,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77245-1.jpg",
       "label": "persoonlijk",
@@ -72960,7 +72970,7 @@
       "name": "Aston Martin Aramco F1 AMR24",
       "owned_by": 4903,
       "pieces": 269,
-      "price_score": 23,
+      "price_score": 24,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
@@ -72984,8 +72994,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T05:04:15.838721Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.464163Z",
+      "last_updated": "2026-11-03T05:04:16.464165Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -73055,6 +73065,11 @@
         {
           "date": "2026-11-02",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 16.82,
           "shop": "Brickwatch"
         }
       ],
@@ -73350,8 +73365,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 54,
-      "current_best_price": 16.99,
+      "buy_score": 56,
+      "current_best_price": 16.76,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -73361,12 +73376,12 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 20,
+      "price_score": 21,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -73464,10 +73479,15 @@
           "date": "2026-11-02",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 16.76,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-22T13:34:18.402016Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.464040Z",
+      "last_updated": "2026-11-03T05:04:16.464042Z",
       "market_value": 31.27,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -73764,7 +73784,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 82,
-      "current_best_price": 17.99,
+      "current_best_price": 17.65,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -73797,8 +73817,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-02T07:04:43.921535Z",
-      "last_updated": "2026-11-02T07:04:43.921544Z",
+      "last_brickwatch_alert": "2026-11-03T05:04:16.463989Z",
+      "last_updated": "2026-11-03T05:04:16.463991Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -73923,6 +73943,11 @@
         {
           "date": "2026-11-02",
           "price": 17.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 17.65,
           "shop": "Brickwatch"
         }
       ],
