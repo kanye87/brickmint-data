@@ -5782,7 +5782,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "11986": {
@@ -61593,8 +61593,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 26,
-      "current_best_price": 399.51,
+      "buy_score": 27,
+      "current_best_price": 390.1,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -61637,7 +61637,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -61783,6 +61783,11 @@
           "date": "2026-11-02",
           "price": 399.51,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 390.1,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -61819,8 +61824,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-11-02T19:04:22.573512Z",
-      "last_updated": "2026-11-02T19:04:22.573517Z",
+      "last_brickwatch_alert": "2026-11-03T06:34:19.585489Z",
+      "last_updated": "2026-11-03T06:34:19.585497Z",
       "prev_buy_score": 26,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
@@ -73098,7 +73103,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 56,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "77246": {
@@ -73509,7 +73514,7 @@
           "value": 31.27
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "77250": {
