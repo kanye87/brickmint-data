@@ -22697,7 +22697,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 41,
-      "current_best_price": 19.98,
+      "current_best_price": 19.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -22798,10 +22798,15 @@
           "date": "2026-10-30",
           "price": 19.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 19.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T01:04:18.860559Z",
-      "last_updated": "2026-10-30T10:26:51Z",
+      "last_brickwatch_alert": "2026-11-03T13:04:15.828768Z",
+      "last_updated": "2026-11-03T13:04:15.828776Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -64518,7 +64523,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 35,
+      "prev_buy_score": 31,
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "76346": {
