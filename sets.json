@@ -2331,12 +2331,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 225.93,
+      "current_best_price": 225.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
-      "last_brickwatch_alert": "2026-11-04T12:34:15.801031Z",
-      "last_updated": "2026-11-04T12:34:15.801040Z",
+      "last_brickwatch_alert": "2026-11-04T19:34:22.440533Z",
+      "last_updated": "2026-11-04T19:34:22.440542Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -2554,7 +2554,7 @@
         },
         {
           "date": "2026-11-04",
-          "price": 225.93,
+          "price": 225.79,
           "shop": "Brickwatch"
         }
       ],
@@ -62343,7 +62343,7 @@
       "ean": "5702017590226",
       "last_brickwatch_alert": "2026-11-04T19:04:20.108308Z",
       "last_updated": "2026-11-04T19:04:20.108318Z",
-      "prev_buy_score": 25,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "76290": {
@@ -85757,13 +85757,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 18,
+      "price_score": 19,
       "roi_score": 3,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 39,
+      "buy_score": 40,
       "sell_score": null,
       "prev_buy_score": 39,
       "theme": "Star Wars",
@@ -85799,10 +85799,10 @@
           "value": 66.8
         }
       ],
-      "current_best_price": 54.99,
+      "current_best_price": 54.68,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-03T13:34:19.744673Z",
-      "last_updated": "2026-11-03T13:34:19.744681Z",
+      "last_brickwatch_alert": "2026-11-04T19:34:22.440780Z",
+      "last_updated": "2026-11-04T19:34:22.440786Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -85857,6 +85857,11 @@
         {
           "date": "2026-11-03",
           "price": 54.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 54.68,
           "shop": "Brickwatch"
         }
       ],
