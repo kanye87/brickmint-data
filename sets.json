@@ -46411,7 +46411,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 49,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-11-04T11:32:55Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-venator-class-republic-attack-cruiser-75367-424396"
     },
@@ -57291,7 +57291,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-008301/125806.jpg"
         }
       ],
-      "prev_buy_score": 18
+      "prev_buy_score": 19
     },
     "76165": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -57588,7 +57588,7 @@
       "date_first_available": "2020-08-02",
       "lego_availability": "Retail",
       "ean": "5702016826784",
-      "prev_buy_score": 45
+      "prev_buy_score": 43
     },
     "76173": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
@@ -57953,7 +57953,7 @@
       ],
       "last_brickwatch_alert": "2026-09-01T16:04:16.038652Z",
       "last_updated": "2026-09-01T16:04:16.038659Z",
-      "prev_buy_score": 11,
+      "prev_buy_score": 12,
       "price_checked_at": "2026-10-12T11:18:47Z"
     },
     "76179": {
@@ -58694,7 +58694,7 @@
         }
       ],
       "minifig_list": [],
-      "prev_buy_score": 38
+      "prev_buy_score": 37
     },
     "76188": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
@@ -59426,7 +59426,7 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-011610/105039.jpg"
         }
       ],
-      "prev_buy_score": 40
+      "prev_buy_score": 41
     },
     "76195": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -60526,7 +60526,7 @@
     },
     "76218": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 329.0,
+      "current_best_price": 349.96,
       "date_first_available": "2022-08-04",
       "ean": "5702017154619",
       "expected_retirement": "2024-10",
@@ -60609,6 +60609,11 @@
           "date": "2026-09-03",
           "price": 329.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 349.96,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -60678,8 +60683,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-03T13:34:17.097516Z",
-      "last_updated": "2026-09-03T13:34:17.097525Z",
+      "last_brickwatch_alert": "2026-11-04T17:04:27.506727Z",
+      "last_updated": "2026-11-04T17:04:27.506737Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "76223": {
