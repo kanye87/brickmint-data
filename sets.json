@@ -11232,8 +11232,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 50,
-      "current_best_price": 139.99,
+      "buy_score": 51,
+      "current_best_price": 137.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -11242,7 +11242,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 28,
+      "price_score": 29,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -11257,8 +11257,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-12T04:04:14.110688Z",
-      "last_updated": "2026-10-12T04:04:14.110696Z",
+      "last_brickwatch_alert": "2026-11-04T05:04:20.239901Z",
+      "last_updated": "2026-11-04T05:04:20.239902Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -11368,6 +11368,11 @@
         {
           "date": "2026-10-12",
           "price": 139.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 137.99,
           "shop": "Brickwatch"
         }
       ],
@@ -45329,7 +45334,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 221.19,
+      "current_best_price": 199.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75357-1.jpg",
       "label": "investering",
@@ -45419,8 +45424,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-10-29T06:04:26.325069Z",
-      "last_updated": "2026-10-29T06:04:26.325080Z",
+      "last_brickwatch_alert": "2026-11-04T05:04:20.239972Z",
+      "last_updated": "2026-11-04T05:04:20.239973Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45520,6 +45525,11 @@
         {
           "date": "2026-10-29",
           "price": 221.19,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 199.95,
           "shop": "Brickwatch"
         }
       ],
@@ -49664,8 +49674,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 61,
-      "current_best_price": 48.99,
+      "buy_score": 71,
+      "current_best_price": 41.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -49675,11 +49685,11 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 22,
+      "price_score": 30,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 6,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -49689,8 +49699,8 @@
       "urgency_score": 20,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-29T05:04:18.078309Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-04T05:04:20.239760Z",
+      "last_updated": "2026-11-04T05:04:20.239770Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -49832,6 +49842,11 @@
         {
           "date": "2026-11-02",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 41.9,
           "shop": "Brickwatch"
         }
       ],
@@ -68901,7 +68916,7 @@
     },
     "76901": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 39.99,
+      "current_best_price": 38.97,
       "date_first_available": "2021-06-02",
       "ean": "5702016912470",
       "expected_retirement": "2024-01",
@@ -69076,6 +69091,11 @@
           "date": "2026-10-24",
           "price": 39.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 38.97,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -69089,8 +69109,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-24T04:04:12.843200Z",
-      "last_updated": "2026-10-24T04:04:12.843209Z",
+      "last_brickwatch_alert": "2026-11-04T05:04:20.239942Z",
+      "last_updated": "2026-11-04T05:04:20.239944Z",
       "price_checked_at": "2026-11-02T11:40:05Z"
     },
     "76902": {
