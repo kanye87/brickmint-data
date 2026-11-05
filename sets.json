@@ -45589,7 +45589,7 @@
     },
     "75359": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "current_best_price": 18.45,
+      "current_best_price": 20.95,
       "image_url": "https://images.brickset.com/sets/images/75359-1.jpg",
       "label": "investering",
       "market_value": 24.48,
@@ -45673,13 +45673,13 @@
           "value": null
         }
       ],
-      "price_score": 10,
-      "roi_score": 4,
+      "price_score": 0,
+      "roi_score": 3,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 29,
+      "buy_score": 18,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45700,6 +45700,11 @@
           "date": "2026-11-02",
           "price": 18.45,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 20.95,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-11",
@@ -45708,8 +45713,8 @@
       "ean": "5702017421407",
       "prev_buy_score": 29,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-02T16:34:19.072907Z",
-      "last_updated": "2026-11-02T16:34:19.072917Z",
+      "last_brickwatch_alert": "2026-11-05T05:34:19.136814Z",
+      "last_updated": "2026-11-05T05:34:19.136823Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75360": {
@@ -70889,7 +70894,7 @@
       "ean": "5702017583723",
       "last_brickwatch_alert": "2026-11-05T05:04:20.038375Z",
       "last_updated": "2026-11-05T05:04:20.038378Z",
-      "prev_buy_score": 34,
+      "prev_buy_score": 31,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "76920": {
@@ -74675,7 +74680,7 @@
           "value": 25.74
         }
       ],
-      "prev_buy_score": 82,
+      "prev_buy_score": 86,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "77985": {
