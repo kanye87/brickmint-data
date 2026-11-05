@@ -47205,8 +47205,8 @@
     "75376": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 36,
-      "current_best_price": 63.98,
+      "buy_score": 27,
+      "current_best_price": 70.65,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75376-1.jpg",
       "label": "persoonlijk",
@@ -47248,12 +47248,12 @@
       "name": "Tantive IV",
       "owned_by": 9293,
       "pieces": 654,
-      "price_score": 18,
+      "price_score": 10,
       "purchase_price": 54.99,
       "rating": 4.0,
       "retirement_date": "2025-12-23",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_age_score": 7,
@@ -47268,8 +47268,8 @@
       "wanted_by": 2273,
       "year": 2024,
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-21T07:04:18.074158Z",
-      "last_updated": "2026-10-21T07:04:18.074162Z",
+      "last_brickwatch_alert": "2026-11-05T19:34:16.219560Z",
+      "last_updated": "2026-11-05T19:34:16.219562Z",
       "expected_retirement": "2025-12",
       "date_first_available": "2024-01-31",
       "lego_availability": "Retail",
@@ -47323,6 +47323,11 @@
         {
           "date": "2026-10-21",
           "price": 63.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 70.65,
           "shop": "Brickwatch"
         }
       ],
@@ -48825,8 +48830,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 33,
-      "current_best_price": 9.95,
+      "buy_score": 10,
+      "current_best_price": 12.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -48836,11 +48841,11 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 20,
+      "price_score": 0,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 5,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -48949,10 +48954,15 @@
           "date": "2026-10-26",
           "price": 9.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 12.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T03:34:20.713036Z",
-      "last_updated": "2026-10-26T03:34:20.713044Z",
+      "last_brickwatch_alert": "2026-11-05T19:34:16.219392Z",
+      "last_updated": "2026-11-05T19:34:16.219402Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
