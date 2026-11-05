@@ -41627,8 +41627,8 @@
     "75323": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 27,
-      "current_best_price": 138.9,
+      "buy_score": 25,
+      "current_best_price": 143.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75323-1.jpg",
       "label": "investering",
@@ -41671,7 +41671,7 @@
       "name": "The Justifier ",
       "owned_by": 8336,
       "pieces": 1022,
-      "price_score": 12,
+      "price_score": 10,
       "rating": 3.8,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
@@ -41695,6 +41695,11 @@
         {
           "date": "2026-09-11",
           "price": 138.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 143.99,
           "shop": "Brickwatch"
         }
       ],
@@ -41733,8 +41738,8 @@
       "lego_availability": "Retail",
       "ean": "5702017155494",
       "prev_buy_score": 27,
-      "last_brickwatch_alert": "2026-09-11T13:04:18.601569Z",
-      "last_updated": "2026-09-11T13:04:18.601576Z",
+      "last_brickwatch_alert": "2026-11-05T03:34:20.657380Z",
+      "last_updated": "2026-11-05T03:34:20.657387Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75324": {
