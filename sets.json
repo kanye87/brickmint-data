@@ -85927,7 +85927,7 @@
       "score_quality": "full",
       "buy_score": 39,
       "sell_score": null,
-      "prev_buy_score": 40,
+      "prev_buy_score": 39,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
@@ -87482,7 +87482,7 @@
       "name": "Doctor Doom Bust",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 38.9,
+      "current_best_price": 35.98,
       "current_best_shop": "Brickwatch",
       "theme": "Marvel Super Heroes",
       "year": 2026,
@@ -87512,23 +87512,29 @@
         }
       ],
       "prev_buy_score": 43,
-      "price_score": 19,
-      "roi_score": 6,
+      "price_score": 24,
+      "roi_score": 7,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 43,
+      "buy_score": 49,
       "sell_score": null,
       "price_checked_at": "2026-11-04T11:32:55Z",
-      "last_updated": "2026-10-23T08:49:30Z",
+      "last_updated": "2026-11-05T08:34:15.241497Z",
       "price_history": [
         {
           "date": "2026-10-23",
           "price": 38.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 35.98,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-11-05T08:34:15.241489Z"
     },
     "40889": {
       "name": "Build, Paint and Play!",
