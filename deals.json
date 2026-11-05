@@ -1,12 +1,4 @@
 {
-  "77078": {
-    "set_number": "77078",
-    "current_price": 143.99,
-    "discount_percentage": -37,
-    "url": "https://www.brickwatch.net/in/toppicks/77078/Mecha-Team-Leader.html/6169",
-    "source_subject": "Brickwatch Amazon Top Picks",
-    "last_seen": "2026-10-06T04:34:18.327102Z"
-  },
   "11375": {
     "set_number": "11375",
     "current_price": 53.99,
@@ -22,5 +14,13 @@
     "url": "https://www.brickwatch.net/in/extra/11503/Flower-Wall.html/6169",
     "source_subject": "Brickwatch Extra - Uitzonderlijke Prijsverlaging - Flower Wall (11503)",
     "last_seen": "2026-10-14T11:34:15.698855Z"
+  },
+  "71500": {
+    "set_number": "71500",
+    "current_price": 83.99,
+    "discount_percentage": -40,
+    "url": "https://www.brickwatch.net/in/toppicks/71500/Nightmare-Shark-Submarine.html/6169",
+    "source_subject": "Brickwatch Amazon Top Picks",
+    "last_seen": "2026-11-05T05:04:20.037935Z"
   }
 }
