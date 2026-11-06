@@ -1004,7 +1004,7 @@
           "value": 45.0
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10282": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
@@ -2252,7 +2252,7 @@
         }
       ],
       "prev_buy_score": 56,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10317": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -2331,12 +2331,12 @@
     },
     "10323": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 249.9,
+      "current_best_price": 219.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10323-1.jpg",
       "label": "persoonlijk_gebruik",
       "last_brickwatch_alert": "2026-11-05T10:34:20.289152Z",
-      "last_updated": "2026-11-05T10:34:20.289160Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "lowest_price_ever": 189.99,
       "minifigs": 1,
       "msrp": 269.99,
@@ -2561,10 +2561,15 @@
           "date": "2026-11-05",
           "price": 249.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 219.99,
+          "shop": "Brickwatch"
         }
       ],
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10326": {
       "availability_score": 10,
@@ -2717,7 +2722,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10327": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -3043,7 +3048,7 @@
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
       "prev_buy_score": 27,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10331": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -3351,7 +3356,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 9,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10333-icons-the-lord-of-the-rings-barad-dur-421190"
     },
     "10334": {
@@ -4129,7 +4134,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
       "prev_buy_score": 39,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10355": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -4909,7 +4914,7 @@
         }
       ],
       "prev_buy_score": 32,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10370": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -5061,7 +5066,7 @@
         }
       ],
       "prev_buy_score": 30,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10497": {
       "brickset_last_enriched": "2026-05-14T08:30:07Z",
@@ -5653,7 +5658,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:42:04+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "11373": {
       "availability_score": 0,
@@ -5808,7 +5813,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
       "prev_buy_score": 45,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "11986": {
       "brickset_last_enriched": "2026-11-05T20:53:36Z",
@@ -6198,7 +6203,7 @@
       "last_brickwatch_alert": "2026-10-31T00:04:16.352984Z",
       "last_updated": "2026-10-31T00:04:16.352990Z",
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
     },
     "21062": {
@@ -6315,7 +6320,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:40:45+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "21063": {
       "availability_score": null,
@@ -6486,7 +6491,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:40:25+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "21068": {
       "brickset_last_enriched": "2026-11-05T20:53:36Z",
@@ -8132,7 +8137,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "21354": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -11427,7 +11432,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
       "prev_buy_score": 51,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "31213": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -12322,7 +12327,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-09-17T05:34:16.600793Z",
       "last_updated": "2026-09-17T05:34:16.600801Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40477": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -13075,7 +13080,7 @@
     },
     "40539": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
-      "current_best_price": 24.74,
+      "current_best_price": 23.45,
       "date_first_available": "2022-01-04",
       "ean": "5702017166902",
       "expected_retirement": "2023-11",
@@ -13224,14 +13229,19 @@
           "date": "2026-10-26",
           "price": 24.74,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 23.45,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-19T04:04:18.131787Z",
-      "last_updated": "2026-10-26T09:20:44Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40547": {
       "brickset_last_enriched": "2026-05-03T07:39:38Z",
@@ -13323,7 +13333,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 2,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -14537,7 +14547,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-04T08:34:30.156127Z",
       "last_updated": "2026-11-04T08:34:30.156137Z"
@@ -14867,7 +14877,7 @@
       "last_updated": "2026-11-04T11:32:55Z",
       "prev_buy_score": 15,
       "purchase_price": 19.99,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40658": {
       "brickset_last_enriched": "2026-05-03T07:39:39Z",
@@ -14994,7 +15004,7 @@
         }
       ],
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-27T06:04:17.281727Z",
       "last_brickwatch_alert": "2026-10-27T06:04:17.281722Z"
@@ -15077,7 +15087,7 @@
         }
       ],
       "prev_buy_score": 17,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
     "40670": {
@@ -15245,7 +15255,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-27T06:34:15.757411Z",
       "last_updated": "2026-10-27T06:34:15.757418Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40676": {
       "availability_score": 10,
@@ -15336,7 +15346,7 @@
       "sell_trend_score": 11,
       "sell_age_score": 14,
       "sell_liquidity_score": 2,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-10-27T06:04:17.281584Z",
       "last_brickwatch_alert": "2026-10-27T06:04:17.281575Z"
     },
@@ -15473,7 +15483,7 @@
         }
       ],
       "prev_buy_score": 4,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 74.99,
       "last_updated": "2026-09-30T21:00:37Z",
       "price_history": [
@@ -15562,7 +15572,7 @@
       "last_updated": "2026-08-12T08:34:18.306477Z",
       "prev_buy_score": 27,
       "purchase_price": 19.99,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40757": {
       "brickset_last_enriched": "2026-11-05T20:53:36Z",
@@ -17715,7 +17725,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "40796": {
       "availability_score": 10,
@@ -17806,7 +17816,7 @@
       "sell_trend_score": 2,
       "sell_age_score": 6,
       "sell_liquidity_score": 3,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-10-22T05:34:16.042992Z",
       "last_brickwatch_alert": "2026-10-22T05:34:16.042987Z"
     },
@@ -20499,7 +20509,7 @@
       "lego_availability": "Retail",
       "ean": "5702017600864",
       "prev_buy_score": 20,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42167": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -20690,7 +20700,7 @@
         }
       ],
       "prev_buy_score": 56,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42172": {
       "availability_score": 10,
@@ -20833,7 +20843,7 @@
         }
       ],
       "prev_buy_score": 40,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42173": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -21121,7 +21131,7 @@
         }
       ],
       "prev_buy_score": 58,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42184": {
       "availability_score": null,
@@ -21337,7 +21347,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:32+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42197": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -21820,7 +21830,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
       "prev_buy_score": 37,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42207": {
       "availability_score": 0,
@@ -21951,7 +21961,7 @@
         }
       ],
       "prev_buy_score": 31,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
     "42208": {
@@ -22445,7 +22455,7 @@
         }
       ],
       "prev_buy_score": 36,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43010": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -22609,7 +22619,7 @@
         }
       ],
       "prev_buy_score": 46,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43012": {
       "availability_score": 0,
@@ -22744,7 +22754,7 @@
         }
       ],
       "prev_buy_score": 44,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43013": {
       "availability_score": 0,
@@ -22895,7 +22905,7 @@
         }
       ],
       "prev_buy_score": 41,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43014": {
       "availability_score": 0,
@@ -23133,7 +23143,7 @@
       "prev_buy_score": 66,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-43014-editions-scuderia-ferrari-hp-charles-leclerc-helm-laagste-prijs-ooit-at-amazon-416271",
       "purchase_price": 70.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43015": {
       "availability_score": 0,
@@ -23315,7 +23325,7 @@
         }
       ],
       "prev_buy_score": 49,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43016": {
       "availability_score": 0,
@@ -23461,7 +23471,7 @@
         }
       ],
       "prev_buy_score": 42,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43019": {
       "availability_score": 0,
@@ -23608,7 +23618,7 @@
       ],
       "prev_buy_score": 35,
       "purchase_price": 79.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43021": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -23835,7 +23845,7 @@
       ],
       "prev_buy_score": 66,
       "purchase_price": 70.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43027": {
       "availability_score": 0,
@@ -23995,7 +24005,7 @@
         }
       ],
       "prev_buy_score": 46,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43032": {
       "availability_score": 0,
@@ -24108,7 +24118,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 30,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43217": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -24511,7 +24521,7 @@
         }
       ],
       "prev_buy_score": 33,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43249": {
       "brickset_last_enriched": "2026-05-07T08:22:24Z",
@@ -30874,7 +30884,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 11,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-22T05:34:16.042775Z",
       "last_brickwatch_alert": "2026-10-22T05:34:16.042765Z"
@@ -31083,7 +31093,7 @@
       "sell_age_score": 2,
       "sell_liquidity_score": 4,
       "prev_buy_score": 13,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "71438": {
       "availability_score": 0,
@@ -31271,7 +31281,7 @@
       "lego_availability": "Retail",
       "ean": "5702017592770",
       "prev_buy_score": 41,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "71799": {
       "availability_score": null,
@@ -31536,7 +31546,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:45+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "71823": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -33705,7 +33715,7 @@
         }
       ],
       "prev_buy_score": 47,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "72038": {
       "brickset_last_enriched": "2026-05-13T11:57:45Z",
@@ -34136,7 +34146,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "72050": {
       "availability_score": 0,
@@ -34353,7 +34363,7 @@
         }
       ],
       "prev_buy_score": 42,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "72151": {
       "availability_score": 0,
@@ -34515,7 +34525,7 @@
         }
       ],
       "prev_buy_score": 52,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "72152": {
       "availability_score": 0,
@@ -34677,7 +34687,7 @@
         }
       ],
       "prev_buy_score": 57,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "72153": {
       "availability_score": 0,
@@ -34789,7 +34799,7 @@
       ],
       "prev_buy_score": 56,
       "purchase_price": 649.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75094": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
@@ -35536,7 +35546,7 @@
         }
       ],
       "prev_buy_score": 41,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75209": {
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
@@ -37458,7 +37468,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 15,
       "sell_liquidity_score": 8,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -37880,7 +37890,7 @@
       "last_brickwatch_alert": "2026-06-27T00:04:15.948274Z",
       "last_updated": "2026-06-27T00:04:15.948282Z",
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75281": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -38606,7 +38616,7 @@
       "last_brickwatch_alert": "2026-05-27T14:04:26.985704Z",
       "last_updated": "2026-05-27T14:04:26.985716Z",
       "prev_buy_score": 10,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75291": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -39307,7 +39317,7 @@
       "lego_availability": "Retail",
       "ean": "5702016913972",
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -39411,7 +39421,7 @@
         }
       ],
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -40745,7 +40755,7 @@
       "last_brickwatch_alert": "2026-10-13T09:04:22.766541Z",
       "last_updated": "2026-10-13T09:04:22.766549Z",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75314": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -41269,7 +41279,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-09-06T07:04:17.268133Z",
       "last_updated": "2026-09-06T07:04:17.268141Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75319": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -41798,7 +41808,7 @@
       "prev_buy_score": 25,
       "last_brickwatch_alert": "2026-11-06T09:34:17.104076Z",
       "last_updated": "2026-11-06T09:34:17.104081Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75324": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -42024,7 +42034,7 @@
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
       "prev_buy_score": 7,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75326": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -42234,7 +42244,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z"
     },
@@ -42390,7 +42400,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
       "prev_buy_score": 56,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75329": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -42605,7 +42615,7 @@
         }
       ],
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-21T22:04:19.223702Z",
       "last_brickwatch_alert": "2026-10-21T22:04:19.223694Z"
@@ -42774,7 +42784,7 @@
       "last_brickwatch_alert": "2026-10-16T20:04:18.793741Z",
       "last_updated": "2026-10-16T20:04:18.793748Z",
       "prev_buy_score": 10,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75333": {
       "availability_score": 0,
@@ -42951,7 +42961,7 @@
       "last_brickwatch_alert": "2026-10-16T17:04:16.102982Z",
       "last_updated": "2026-10-16T17:04:16.102993Z",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75334": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -43439,7 +43449,7 @@
       "sell_age_score": 4,
       "sell_liquidity_score": 6,
       "prev_buy_score": 1,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75338": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -44022,7 +44032,7 @@
       "lego_availability": "Retail",
       "ean": "5702017189659",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
     "75343": {
@@ -44215,7 +44225,7 @@
       "label_source": "app",
       "labels_changed_by_user_at": "2026-08-28T13:38:22+00:00",
       "purchase_price": 70.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -44394,7 +44404,7 @@
         }
       ],
       "prev_buy_score": 0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75347": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -44600,7 +44610,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75350": {
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
@@ -44701,7 +44711,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75351": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -44839,7 +44849,7 @@
       ],
       "minifig_list": [],
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75352": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -44959,7 +44969,7 @@
         }
       ],
       "prev_buy_score": 21,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-27T05:34:17.374764Z",
       "last_brickwatch_alert": "2026-10-27T05:34:17.374754Z"
@@ -45090,7 +45100,7 @@
       "last_brickwatch_alert": "2026-10-27T06:04:17.281884Z",
       "last_updated": "2026-10-27T06:04:17.281888Z",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75354": {
       "availability_score": null,
@@ -45201,7 +45211,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:37:23+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75356": {
       "availability_score": 0,
@@ -45435,7 +45445,7 @@
       ],
       "prev_buy_score": 5,
       "purchase_price": 66.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75357": {
       "availability_score": null,
@@ -45647,7 +45657,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:37:34+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75359": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -45782,7 +45792,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-06T09:34:17.103867Z",
       "last_updated": "2026-11-06T09:34:17.103876Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75360": {
       "availability_score": 0,
@@ -45891,7 +45901,7 @@
       "last_brickwatch_alert": "2026-07-31T15:34:28.137612Z",
       "last_updated": "2026-07-31T15:34:28.137614Z",
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75364": {
       "availability_score": null,
@@ -46018,7 +46028,7 @@
       "status_changed_by_user_at": "2026-08-28T13:41:18+00:00",
       "last_brickwatch_alert": "2026-11-06T09:34:17.104507Z",
       "last_updated": "2026-11-06T09:34:17.104511Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75365": {
       "availability_score": null,
@@ -46175,7 +46185,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:41:54+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
     "75366": {
@@ -46312,7 +46322,7 @@
       "lego_availability": "Retail",
       "ean": "5702017417110",
       "prev_buy_score": 27,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-10-22T07:04:15.130760Z",
       "last_brickwatch_alert": "2026-10-22T07:04:15.130754Z"
     },
@@ -46320,8 +46330,8 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 57,
-      "current_best_price": 449.95,
-      "current_best_shop": "Bol.com",
+      "current_best_price": 503.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -46470,6 +46480,11 @@
           "date": "2026-11-04",
           "price": 449.95,
           "shop": "Bol.com"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 503.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -46477,7 +46492,7 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
       "last_brickwatch_alert": "2026-10-31T21:34:13.945188Z",
-      "last_updated": "2026-11-04T13:34:22.744452Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "market_value": 141.71,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -46504,7 +46519,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
       "prev_buy_score": 57,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-venator-class-republic-attack-cruiser-75367-424396"
     },
     "75368": {
@@ -46959,7 +46974,7 @@
       ],
       "prev_buy_score": 65,
       "purchase_price": 17.99,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75373": {
       "availability_score": 0,
@@ -47117,7 +47132,7 @@
       ],
       "prev_buy_score": 26,
       "purchase_price": 9.99,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75375": {
       "availability_score": 0,
@@ -47242,7 +47257,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
       "prev_buy_score": 40,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75376": {
       "availability_score": 0,
@@ -47374,7 +47389,7 @@
         }
       ],
       "prev_buy_score": 27,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75377": {
       "availability_score": 0,
@@ -47662,7 +47677,7 @@
       "lego_availability": "Retail",
       "ean": "5702017584362",
       "prev_buy_score": 35,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75379": {
       "availability_score": 0,
@@ -47830,7 +47845,7 @@
       ],
       "prev_buy_score": 33,
       "purchase_price": 66.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75380": {
       "availability_score": 0,
@@ -47944,7 +47959,7 @@
       "lego_availability": "Retail",
       "ean": "5702017584386",
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75382": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -48259,7 +48274,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:57+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75385": {
       "availability_score": null,
@@ -48486,7 +48501,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:40:53+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75387": {
       "availability_score": 0,
@@ -48627,7 +48642,7 @@
       "last_brickwatch_alert": "2026-08-30T05:34:15.241338Z",
       "last_updated": "2026-08-30T05:34:15.241348Z",
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75388": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -48876,7 +48891,7 @@
         }
       ],
       "prev_buy_score": 60,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75391": {
       "availability_score": 0,
@@ -49041,7 +49056,7 @@
       ],
       "prev_buy_score": 10,
       "purchase_price": 10.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75392": {
       "availability_score": 0,
@@ -49138,7 +49153,7 @@
       "last_brickwatch_alert": "2026-06-24T11:04:18.466039Z",
       "last_updated": "2026-06-24T11:04:18.466042Z",
       "prev_buy_score": 42,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75393": {
       "availability_score": null,
@@ -49255,7 +49270,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:41:45+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75394": {
       "availability_score": 0,
@@ -49408,7 +49423,7 @@
         }
       ],
       "prev_buy_score": 34,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75395": {
       "availability_score": 0,
@@ -49534,7 +49549,7 @@
       "last_brickwatch_alert": "2026-10-22T07:04:15.130907Z",
       "last_updated": "2026-10-22T07:04:15.130909Z",
       "prev_buy_score": 25,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75397": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -49676,7 +49691,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 34,
-      "current_best_price": 97.5,
+      "current_best_price": 97.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
@@ -49701,7 +49716,7 @@
       "wanted_by": 2525,
       "year": 2024,
       "last_brickwatch_alert": "2026-11-03T05:04:16.464089Z",
-      "last_updated": "2026-11-03T05:04:16.464092Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -49806,6 +49821,11 @@
           "date": "2026-11-03",
           "price": 97.5,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 97.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-12",
@@ -49839,13 +49859,13 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 71,
-      "current_best_price": 41.9,
+      "current_best_price": 48.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -49870,7 +49890,7 @@
       "wanted_by": 2239,
       "year": 2025,
       "last_brickwatch_alert": "2026-11-04T05:04:20.239760Z",
-      "last_updated": "2026-11-04T05:04:20.239770Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -50018,6 +50038,11 @@
           "date": "2026-11-04",
           "price": 41.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 48.98,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -50046,7 +50071,7 @@
         }
       ],
       "prev_buy_score": 71,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75400": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -50480,7 +50505,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75405": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
@@ -50656,7 +50681,7 @@
       "sell_age_score": 2,
       "sell_liquidity_score": 4,
       "prev_buy_score": 44,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75406": {
       "availability_score": 0,
@@ -50758,7 +50783,7 @@
         }
       ],
       "prev_buy_score": 54,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75407": {
       "availability_score": 0,
@@ -50945,7 +50970,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
       "prev_buy_score": 44,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75408": {
       "availability_score": 0,
@@ -51061,7 +51086,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75409": {
       "availability_score": 10,
@@ -51418,7 +51443,7 @@
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75409-star-wars-jango-fetts-firespray-class-ruimteschip-laagste-prijs-ooit-at-bol-415918",
       "prev_buy_score": 34,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75410": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -51738,7 +51763,7 @@
         }
       ],
       "prev_buy_score": 55,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75414": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -52052,7 +52077,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
       "prev_buy_score": 35,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75416": {
       "availability_score": 0,
@@ -52151,7 +52176,7 @@
         }
       ],
       "prev_buy_score": 51,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75417": {
       "availability_score": 10,
@@ -52299,7 +52324,7 @@
         }
       ],
       "prev_buy_score": 64,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75418": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -52805,7 +52830,7 @@
         }
       ],
       "prev_buy_score": 25,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -52934,7 +52959,7 @@
           "value": 140.8
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75429": {
       "availability_score": 0,
@@ -53040,7 +53065,7 @@
         }
       ],
       "prev_buy_score": 37,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75430": {
       "availability_score": 0,
@@ -53225,7 +53250,7 @@
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
       "prev_buy_score": 55,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75431": {
       "availability_score": 0,
@@ -53407,7 +53432,7 @@
       ],
       "prev_buy_score": 51,
       "purchase_price": 22.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75432": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -53798,7 +53823,7 @@
       "prev_buy_score": 64,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75438": {
       "availability_score": 0,
@@ -53967,7 +53992,7 @@
         }
       ],
       "prev_buy_score": 53,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75439": {
       "availability_score": 0,
@@ -54212,7 +54237,7 @@
         }
       ],
       "prev_buy_score": 49,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75440": {
       "availability_score": 0,
@@ -54369,7 +54394,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75441": {
       "availability_score": 0,
@@ -54525,7 +54550,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75442": {
       "availability_score": 10,
@@ -54631,7 +54656,7 @@
         }
       ],
       "prev_buy_score": 27,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75446": {
       "availability_score": 0,
@@ -54832,7 +54857,7 @@
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcom-lego-star-wars-grogu-mandalorian-apprentice-75446-eur5999-laagste-prijs-ooit-415525",
       "prev_buy_score": 45,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75452": {
       "availability_score": 0,
@@ -54982,7 +55007,7 @@
         }
       ],
       "prev_buy_score": 44,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75682": {
       "brickset_last_enriched": "2026-05-06T11:44:51Z",
@@ -59203,7 +59228,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:37:12+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76192": {
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
@@ -60518,7 +60543,7 @@
         }
       ],
       "prev_buy_score": 25,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76215": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
@@ -60831,7 +60856,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-04T17:04:27.506727Z",
       "last_updated": "2026-11-04T17:04:27.506737Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76223": {
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
@@ -61416,7 +61441,7 @@
       "last_brickwatch_alert": "2026-06-10T17:34:22.507356Z",
       "last_updated": "2026-06-10T17:34:22.507364Z",
       "prev_buy_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76252": {
       "availability_score": 10,
@@ -62011,7 +62036,7 @@
       "lego_availability": "Retail",
       "ean": "5702017419848",
       "prev_buy_score": 27,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-10-22T06:04:21.060415Z",
       "last_brickwatch_alert": "2026-10-22T06:04:21.060404Z"
     },
@@ -62547,7 +62572,7 @@
       "last_brickwatch_alert": "2026-11-06T08:34:19.717653Z",
       "last_updated": "2026-11-06T08:34:19.717661Z",
       "prev_buy_score": 26,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76290": {
       "availability_score": null,
@@ -62679,7 +62704,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:14+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76294": {
       "availability_score": 10,
@@ -63355,7 +63380,7 @@
         }
       ],
       "prev_buy_score": 47,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76301": {
       "brickset_last_enriched": "2026-05-09T07:46:24Z",
@@ -65063,7 +65088,7 @@
       "last_brickwatch_alert": "2026-11-03T16:34:19.681067Z",
       "last_updated": "2026-11-03T16:34:19.681072Z",
       "prev_buy_score": 39,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76344": {
       "availability_score": 0,
@@ -65259,7 +65284,7 @@
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
       "prev_buy_score": 31,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76346": {
       "availability_score": 0,
@@ -65410,7 +65435,7 @@
         }
       ],
       "prev_buy_score": 52,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
     "76350": {
@@ -65532,7 +65557,7 @@
         }
       ],
       "prev_buy_score": 47,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76354": {
       "availability_score": 10,
@@ -65740,7 +65765,7 @@
         }
       ],
       "prev_buy_score": 62,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76382": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -67508,7 +67533,7 @@
       "sell_liquidity_score": 6,
       "prev_buy_score": 55,
       "sale_price": 137.5,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-harry-potter-76419-hogwarts-castle-and-grounds-bijna-laagste-prijs-ooit-48-korting-tov-adviesprijs-16999-420677"
     },
     "76425": {
@@ -68169,7 +68194,7 @@
           "value": 167.63
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76445": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -69623,7 +69648,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-04T05:04:20.239942Z",
       "last_updated": "2026-11-04T05:04:20.239944Z",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76902": {
       "brickset_last_enriched": "2026-05-14T08:30:10Z",
@@ -70503,7 +70528,7 @@
       "lego_availability": "Retail",
       "ean": "5702017231044",
       "prev_buy_score": 15,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
     "76912": {
@@ -71107,7 +71132,7 @@
       "last_brickwatch_alert": "2026-11-06T09:34:17.104228Z",
       "last_updated": "2026-11-06T09:34:17.104232Z",
       "prev_buy_score": 31,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76920": {
       "availability_score": null,
@@ -71211,7 +71236,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:48+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76923": {
       "availability_score": 0,
@@ -71303,7 +71328,7 @@
       "lego_availability": "Retail",
       "ean": "5702017583761",
       "prev_buy_score": 18,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76934": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
@@ -71452,7 +71477,7 @@
       "last_brickwatch_alert": "2026-10-04T21:34:14.791337Z",
       "last_updated": "2026-10-04T21:34:14.791348Z",
       "purchase_price": 20.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76946": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
@@ -72241,7 +72266,7 @@
       "ean": "5702017583174",
       "prev_buy_score": 15,
       "purchase_price": 20.0,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-10-30T10:26:51Z"
     },
     "76965": {
@@ -72339,7 +72364,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:41:04+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z"
     },
     "76967": {
@@ -73264,7 +73289,7 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:43:05+00:00",
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77237": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -73652,7 +73677,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77243": {
       "availability_score": 0,
@@ -73792,7 +73817,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
       "prev_buy_score": 66,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77244": {
       "availability_score": 0,
@@ -73922,7 +73947,7 @@
       "sell_trend_score": 1,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77245": {
       "availability_score": 0,
@@ -74067,7 +74092,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
       "prev_buy_score": 57,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77246": {
       "availability_score": 0,
@@ -74206,7 +74231,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
       "prev_buy_score": 67,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77247": {
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
@@ -74487,7 +74512,7 @@
         }
       ],
       "prev_buy_score": 56,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77250": {
       "availability_score": 0,
@@ -74616,7 +74641,7 @@
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
       "prev_buy_score": 65,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77251": {
       "availability_score": 0,
@@ -74755,7 +74780,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77259": {
       "availability_score": 0,
@@ -74964,7 +74989,7 @@
         }
       ],
       "prev_buy_score": 84,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "77985": {
       "availability_score": 0,
@@ -75157,7 +75182,7 @@
       "prev_buy_score": 57,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-jurassic-world-triceratops-77985-eur6199-met-code-38-laagste-prijs-ooit-416256",
       "purchase_price": 61.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "112501": {
       "brickset_last_enriched": "2026-11-05T20:53:37Z",
@@ -81903,7 +81928,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 22,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z",
@@ -82120,7 +82145,7 @@
       "score_quality": "full",
       "buy_score": 51,
       "prev_buy_score": 51,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "retirement_date": "2027-12-31",
       "expected_retirement": "2027-12",
       "retirement_date_source": "brickset_exitDate"
@@ -82198,7 +82223,7 @@
       "availability_score": 10,
       "score_quality": "full",
       "buy_score": 21,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z",
@@ -82375,7 +82400,7 @@
         }
       ],
       "minifigs": 1,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z",
@@ -82551,7 +82576,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 49,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 52.49,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-10-26T02:04:19.961726Z",
@@ -83006,7 +83031,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "11380": {
       "name": "Road Bike",
@@ -83160,7 +83185,7 @@
       "score_quality": "full",
       "buy_score": 42,
       "prev_buy_score": 42,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "11381": {
       "name": "Jaguar E-Type",
@@ -84258,7 +84283,7 @@
       "buy_score": 57,
       "prev_buy_score": 57,
       "purchase_price": 55.0,
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43023": {
       "name": "McLaren Mastercard F1 Team Lando Norris Helmet",
@@ -84393,7 +84418,7 @@
       "buy_score": 56,
       "prev_buy_score": 56,
       "purchase_price": 55.0,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
     },
     "43028": {
@@ -85644,7 +85669,7 @@
       "score_quality": "full",
       "buy_score": 24,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75459-star-wars-imperial-lambda-class-shuttle-lqagste-prijs-ooit-419890",
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "retirement_date": "2027-12-31",
       "expected_retirement": "2027-12",
       "retirement_date_source": "brickset_exitDate"
@@ -85993,10 +86018,10 @@
           "value": 154.95
         }
       ],
-      "current_best_price": 119.85,
+      "current_best_price": 119.99,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-26T00:04:18.425029Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -86092,9 +86117,14 @@
           "date": "2026-11-02",
           "price": 119.85,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 119.99,
+          "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/dreamland-25-korting-op-lego-gaming-bijv-423686",
       "retirement_date": "2028-07-31",
       "expected_retirement": "2028-07",
@@ -86215,7 +86245,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-pokemon-pokeball-72154-422673",
       "minifigs": 3,
       "retirement_date": "2027-12-31",
@@ -86339,7 +86369,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75461": {
       "name": "Up-Scaled Darth Vader Minifigure",
@@ -86413,7 +86443,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "11378": {
       "name": "Douglas DC-3 PAN AM Airliner",
@@ -86503,7 +86533,7 @@
       "name": "Project Hail Mary",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 96.27,
+      "current_best_price": 96.28,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 21,
       "price_score": 10,
@@ -86549,7 +86579,7 @@
         }
       ],
       "last_brickwatch_alert": "2026-11-02T05:04:15.967677Z",
-      "last_updated": "2026-11-04T11:32:55Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "price_history": [
         {
           "date": "2026-09-04",
@@ -86640,9 +86670,14 @@
           "date": "2026-11-04",
           "price": 96.27,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 96.28,
+          "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z"
+      "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "21376": {
       "name": "Orange Cat",
@@ -86691,7 +86726,7 @@
           "value": 125.27
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z",
       "price_history": [
         {
@@ -86749,7 +86784,7 @@
           "value": 54.23
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "last_updated": "2026-09-30T21:00:37Z",
       "price_history": [
         {
@@ -87039,7 +87074,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 8,
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 749.0,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-11-01T18:34:15.857456Z",
@@ -87271,7 +87306,7 @@
           "value": 168.04
         }
       ],
-      "price_checked_at": "2026-11-04T11:32:55Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
       "current_best_price": 152.99,
       "current_best_shop": "Brickwatch",
       "last_updated": "2026-09-30T21:00:37Z",
@@ -87789,7 +87824,7 @@
       "name": "Doctor Doom Bust",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 35.98,
+      "current_best_price": 38.9,
       "current_best_shop": "Brickwatch",
       "theme": "Marvel Super Heroes",
       "year": 2026,
@@ -87827,8 +87862,8 @@
       "score_quality": "full",
       "buy_score": 49,
       "sell_score": null,
-      "price_checked_at": "2026-11-04T11:32:55Z",
-      "last_updated": "2026-11-05T08:34:15.241497Z",
+      "price_checked_at": "2026-11-06T11:27:59Z",
+      "last_updated": "2026-11-06T11:27:59Z",
       "price_history": [
         {
           "date": "2026-10-23",
@@ -87838,6 +87873,11 @@
         {
           "date": "2026-11-05",
           "price": 35.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 38.9,
           "shop": "Brickwatch"
         }
       ],
