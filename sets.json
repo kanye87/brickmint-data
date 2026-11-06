@@ -30956,8 +30956,8 @@
     "71426": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 13,
-      "current_best_price": 62.95,
+      "buy_score": 27,
+      "current_best_price": 53.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71426-1.jpg",
       "label": "persoonlijk",
@@ -30966,12 +30966,12 @@
       "name": "Piranha Plant",
       "owned_by": 6932,
       "pieces": 540,
-      "price_score": 3,
+      "price_score": 16,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 29,
@@ -30983,8 +30983,8 @@
       "wanted_by": 1509,
       "year": 2023,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-super-mario-71426-piranha-plant-laagste-prijs-ooit-3847-korting-tov-adviesprijs-6499-402846",
-      "last_updated": "2026-11-05T10:04:20.571086Z",
-      "last_brickwatch_alert": "2026-11-05T10:04:20.571078Z",
+      "last_updated": "2026-11-06T09:34:17.104423Z",
+      "last_brickwatch_alert": "2026-11-06T09:34:17.104418Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -31044,6 +31044,11 @@
         {
           "date": "2026-11-05",
           "price": 62.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 53.9,
           "shop": "Brickwatch"
         }
       ],
@@ -41675,8 +41680,8 @@
     "75323": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 25,
-      "current_best_price": 143.99,
+      "buy_score": 27,
+      "current_best_price": 138.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75323-1.jpg",
       "label": "investering",
@@ -41719,7 +41724,7 @@
       "name": "The Justifier ",
       "owned_by": 8336,
       "pieces": 1022,
-      "price_score": 10,
+      "price_score": 12,
       "rating": 3.8,
       "retirement_date": "2024-01-03",
       "retirement_status": "retired",
@@ -41748,6 +41753,11 @@
         {
           "date": "2026-11-05",
           "price": 143.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 138.9,
           "shop": "Brickwatch"
         }
       ],
@@ -41786,8 +41796,8 @@
       "lego_availability": "Retail",
       "ean": "5702017155494",
       "prev_buy_score": 25,
-      "last_brickwatch_alert": "2026-11-05T03:34:20.657380Z",
-      "last_updated": "2026-11-05T03:34:20.657387Z",
+      "last_brickwatch_alert": "2026-11-06T09:34:17.104076Z",
+      "last_updated": "2026-11-06T09:34:17.104081Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75324": {
@@ -45641,7 +45651,7 @@
     },
     "75359": {
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "current_best_price": 20.95,
+      "current_best_price": 18.45,
       "image_url": "https://images.brickset.com/sets/images/75359-1.jpg",
       "label": "investering",
       "market_value": 24.48,
@@ -45725,13 +45735,13 @@
           "value": null
         }
       ],
-      "price_score": 0,
-      "roi_score": 3,
+      "price_score": 10,
+      "roi_score": 4,
       "urgency_score": 0,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 18,
+      "buy_score": 29,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45757,6 +45767,11 @@
           "date": "2026-11-05",
           "price": 20.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 18.45,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-11",
@@ -45765,8 +45780,8 @@
       "ean": "5702017421407",
       "prev_buy_score": 18,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-05T05:34:19.136814Z",
-      "last_updated": "2026-11-05T05:34:19.136823Z",
+      "last_brickwatch_alert": "2026-11-06T09:34:17.103867Z",
+      "last_updated": "2026-11-06T09:34:17.103876Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75360": {
@@ -45882,7 +45897,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 86.99,
+      "current_best_price": 83.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75364-1.jpg",
       "label": "investering",
@@ -45987,6 +46002,11 @@
           "date": "2026-11-05",
           "price": 86.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 83.9,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-10",
@@ -45996,8 +46016,8 @@
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:41:18+00:00",
-      "last_brickwatch_alert": "2026-11-05T05:04:20.038303Z",
-      "last_updated": "2026-11-05T05:04:20.038305Z",
+      "last_brickwatch_alert": "2026-11-06T09:34:17.104507Z",
+      "last_updated": "2026-11-06T09:34:17.104511Z",
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75365": {
@@ -70955,8 +70975,8 @@
     "76919": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 31,
-      "current_best_price": 22.95,
+      "buy_score": 34,
+      "current_best_price": 21.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76919-1.jpg",
       "label": "investering",
@@ -70999,7 +71019,7 @@
       "name": "2023 McLaren Formula 1 Car",
       "owned_by": 9342,
       "pieces": 245,
-      "price_score": 12,
+      "price_score": 15,
       "rating": 4.0,
       "retirement_date": "2025-07-09",
       "retirement_status": "retired",
@@ -71064,6 +71084,11 @@
           "date": "2026-11-05",
           "price": 22.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 21.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -71079,8 +71104,8 @@
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
       "ean": "5702017583723",
-      "last_brickwatch_alert": "2026-11-05T05:04:20.038375Z",
-      "last_updated": "2026-11-05T05:04:20.038378Z",
+      "last_brickwatch_alert": "2026-11-06T09:34:17.104228Z",
+      "last_updated": "2026-11-06T09:34:17.104232Z",
       "prev_buy_score": 31,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
