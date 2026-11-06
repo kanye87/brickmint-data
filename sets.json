@@ -51091,20 +51091,20 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 34,
-      "current_best_price": 260.13,
+      "buy_score": 35,
+      "current_best_price": 259.45,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-05T19:04:20.239805Z",
-      "last_updated": "2026-11-05T19:04:20.239814Z",
+      "last_brickwatch_alert": "2026-11-06T16:04:21.088190Z",
+      "last_updated": "2026-11-06T16:04:21.088196Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 11,
+      "price_score": 12,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -51417,6 +51417,11 @@
         {
           "date": "2026-11-05",
           "price": 260.13,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 259.45,
           "shop": "Brickwatch"
         }
       ],
@@ -69449,7 +69454,7 @@
     },
     "76901": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 38.97,
+      "current_best_price": 39.99,
       "date_first_available": "2021-06-02",
       "ean": "5702016912470",
       "expected_retirement": "2024-01",
@@ -69633,6 +69638,11 @@
           "date": "2026-11-04",
           "price": 38.97,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 39.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -69646,8 +69656,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-04T05:04:20.239942Z",
-      "last_updated": "2026-11-04T05:04:20.239944Z",
+      "last_brickwatch_alert": "2026-11-06T16:04:21.088384Z",
+      "last_updated": "2026-11-06T16:04:21.088388Z",
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "76902": {
