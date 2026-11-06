@@ -18225,7 +18225,7 @@
       "date_first_available": "2025-09-02",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017829968",
-      "prev_buy_score": 45,
+      "prev_buy_score": 50,
       "current_best_price": 42.59,
       "current_best_shop": "Amazon.nl",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-peperkoek-at-at-walker-40806-laagste-ooit-425628",
@@ -45244,10 +45244,10 @@
       "wanted_by": 3238,
       "year": 2023,
       "minifig_list": [],
-      "current_best_price": 69.99,
+      "current_best_price": 69.95,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-09-21T11:34:17.721131Z",
-      "last_updated": "2026-09-21T11:34:17.721138Z",
+      "last_brickwatch_alert": "2026-11-06T20:34:15.010814Z",
+      "last_updated": "2026-11-06T20:34:15.010823Z",
       "expected_retirement": "2026-05",
       "date_first_available": "2023-03-03",
       "lego_availability": "Retail",
@@ -45445,6 +45445,11 @@
         {
           "date": "2026-09-21",
           "price": 69.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 69.95,
           "shop": "Brickwatch"
         }
       ],
