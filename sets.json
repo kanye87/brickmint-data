@@ -47641,7 +47641,7 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017584362",
-      "prev_buy_score": 26,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "75379": {
@@ -73616,7 +73616,7 @@
           "value": 31.02
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 63,
       "purchase_price": 12,
       "sell_roi_score": 49,
       "sell_trend_score": 0,
@@ -73761,7 +73761,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 64,
+      "prev_buy_score": 66,
       "price_checked_at": "2026-11-04T11:32:55Z"
     },
     "77244": {
