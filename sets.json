@@ -35560,7 +35560,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 41,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75209": {
@@ -86304,7 +86304,7 @@
       "score_quality": "full",
       "buy_score": 40,
       "sell_score": null,
-      "prev_buy_score": 39,
+      "prev_buy_score": 40,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
