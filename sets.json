@@ -62369,8 +62369,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 25,
-      "current_best_price": 401.47,
+      "buy_score": 26,
+      "current_best_price": 394.51,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -62417,7 +62417,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -62581,7 +62581,7 @@
         },
         {
           "date": "2026-11-07",
-          "price": 401.47,
+          "price": 394.51,
           "shop": "Brickwatch"
         }
       ],
@@ -62619,8 +62619,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-11-07T09:04:13.952224Z",
-      "last_updated": "2026-11-07T09:04:13.952228Z",
+      "last_brickwatch_alert": "2026-11-07T18:04:17.447179Z",
+      "last_updated": "2026-11-07T18:04:17.447187Z",
       "prev_buy_score": 25,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
