@@ -21849,7 +21849,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 37,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "42207": {
@@ -23641,7 +23641,7 @@
           "value": 94.99
         }
       ],
-      "prev_buy_score": 35,
+      "prev_buy_score": 44,
       "purchase_price": 79.0,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
@@ -53004,7 +53004,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 57,
       "status": "watchlist",
       "market_value": 140.8,
       "market_value_source": "ebay",
@@ -86634,7 +86634,7 @@
       "label": "investering",
       "current_best_price": 91.23,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 21,
+      "prev_buy_score": 27,
       "price_score": 15,
       "roi_score": 4,
       "urgency_score": 0,
