@@ -4138,7 +4138,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
-      "prev_buy_score": 39,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10355": {
@@ -5080,7 +5080,7 @@
           "value": 83.59
         }
       ],
-      "prev_buy_score": 30,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "10497": {
@@ -34220,7 +34220,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 42,
+      "buy_score": 43,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -34229,7 +34229,7 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 20,
+      "price_score": 21,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -34247,9 +34247,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 129.99,
-      "last_brickwatch_alert": "2026-10-27T04:04:18.533848Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "current_best_price": 125.99,
+      "last_brickwatch_alert": "2026-11-09T09:34:17.835736Z",
+      "last_updated": "2026-11-09T09:34:17.835740Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -34405,6 +34405,11 @@
         {
           "date": "2026-11-02",
           "price": 129.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 125.99,
           "shop": "Brickwatch"
         }
       ],
@@ -51200,24 +51205,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 35,
-      "current_best_price": 257.31,
+      "buy_score": 51,
+      "current_best_price": 209.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-08T11:04:12.508348Z",
-      "last_updated": "2026-11-08T11:04:12.508356Z",
+      "last_brickwatch_alert": "2026-11-09T09:34:17.835323Z",
+      "last_updated": "2026-11-09T09:34:17.835332Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 12,
+      "price_score": 26,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -51536,6 +51541,11 @@
         {
           "date": "2026-11-08",
           "price": 257.31,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 209.99,
           "shop": "Brickwatch"
         }
       ],
@@ -54694,7 +54704,7 @@
     "75442": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 27,
+      "buy_score": 41,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75442-1.jpg",
       "label": "investering",
@@ -54703,10 +54713,10 @@
       "name": "The Mandalorian's N-1 Starfighter",
       "owned_by": 1538,
       "pieces": 1809,
-      "price_score": 7,
+      "price_score": 19,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -54759,9 +54769,9 @@
           "value": 229.99
         }
       ],
-      "current_best_price": 219.99,
-      "last_brickwatch_alert": "2026-10-26T04:34:15.834471Z",
-      "last_updated": "2026-10-26T04:34:15.834477Z",
+      "current_best_price": 174.99,
+      "last_brickwatch_alert": "2026-11-09T09:34:17.835632Z",
+      "last_updated": "2026-11-09T09:34:17.835636Z",
       "price_history": [
         {
           "date": "2026-08-01",
@@ -54791,6 +54801,11 @@
         {
           "date": "2026-10-26",
           "price": 219.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 174.99,
           "shop": "Brickwatch"
         }
       ],
