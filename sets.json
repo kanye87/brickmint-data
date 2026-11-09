@@ -24039,7 +24039,7 @@
           "value": 29.32
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43032": {
@@ -34745,7 +34745,7 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72153-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 489.99,
+      "lowest_price_ever": 484.99,
       "msrp": 649.99,
       "name": "Venusaur, Charizard and Blastoise",
       "owned_by": 915,
@@ -34770,9 +34770,9 @@
       "date_first_available": "2026-01-13",
       "lego_availability": "Retail",
       "ean": "5702018069288",
-      "current_best_price": 489.99,
-      "last_brickwatch_alert": "2026-10-14T03:04:17.806127Z",
-      "last_updated": "2026-10-14T03:04:17.806141Z",
+      "current_best_price": 484.99,
+      "last_brickwatch_alert": "2026-11-09T02:34:21.381446Z",
+      "last_updated": "2026-11-09T02:34:21.381457Z",
       "price_history": [
         {
           "date": "2026-06-19",
@@ -34822,6 +34822,11 @@
         {
           "date": "2026-10-14",
           "price": 489.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 484.99,
           "shop": "Brickwatch"
         }
       ],
@@ -65533,7 +65538,7 @@
           "value": 86.43
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 53,
       "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
