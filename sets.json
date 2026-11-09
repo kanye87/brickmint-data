@@ -46418,8 +46418,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 49,
-      "current_best_price": 503.99,
+      "buy_score": 56,
+      "current_best_price": 454.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -46429,7 +46429,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 19,
+      "price_score": 26,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -46574,14 +46574,19 @@
           "date": "2026-11-06",
           "price": 503.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 454.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-10-31T21:34:13.945188Z",
-      "last_updated": "2026-11-06T11:27:59Z",
+      "last_brickwatch_alert": "2026-11-09T08:34:15.114585Z",
+      "last_updated": "2026-11-09T08:34:15.114588Z",
       "market_value": 141.71,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -51063,7 +51068,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 44,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75408": {
@@ -51933,24 +51938,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 35,
-      "current_best_price": 69.99,
+      "buy_score": 66,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-10-26T00:34:19.905320Z",
-      "last_updated": "2026-10-26T00:34:19.905330Z",
+      "last_brickwatch_alert": "2026-11-09T08:34:15.114431Z",
+      "last_updated": "2026-11-09T08:34:15.114438Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 0,
+      "price_score": 26,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 26,
@@ -52148,6 +52153,11 @@
         {
           "date": "2026-10-26",
           "price": 69.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 48.99,
           "shop": "Brickwatch"
         }
       ],
