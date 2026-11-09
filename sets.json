@@ -5705,8 +5705,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-11-06T05:04:18.241338Z",
-      "last_updated": "2026-11-06T05:04:18.241348Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710701Z",
+      "last_updated": "2026-11-09T05:04:17.710703Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -23881,7 +23881,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 45,
-      "current_best_price": 18.98,
+      "current_best_price": 18.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -23907,8 +23907,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-11-09T02:04:17.366478Z",
-      "last_updated": "2026-11-09T02:04:17.366488Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710970Z",
+      "last_updated": "2026-11-09T05:04:17.710972Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24002,7 +24002,7 @@
         },
         {
           "date": "2026-11-09",
-          "price": 18.98,
+          "price": 18.99,
           "shop": "Brickwatch"
         }
       ],
@@ -33497,8 +33497,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 47,
-      "current_best_price": 116.0,
+      "buy_score": 48,
+      "current_best_price": 114.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -33507,7 +33507,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 22,
+      "price_score": 23,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -33521,8 +33521,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-27T15:34:18.925826Z",
-      "last_updated": "2026-11-02T11:40:05Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710591Z",
+      "last_updated": "2026-11-09T05:04:17.710599Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -33733,6 +33733,11 @@
         {
           "date": "2026-11-02",
           "price": 116.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 114.99,
           "shop": "Brickwatch"
         }
       ],
@@ -34049,7 +34054,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 44,
-      "current_best_price": 39.9,
+      "current_best_price": 39.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -34073,8 +34078,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-09-27T23:34:16.759352Z",
-      "last_updated": "2026-10-14T09:01:05Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710828Z",
+      "last_updated": "2026-11-09T05:04:17.710829Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -34159,6 +34164,11 @@
         {
           "date": "2026-10-14",
           "price": 39.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 39.95,
           "shop": "Brickwatch"
         }
       ],
@@ -42848,8 +42858,8 @@
     "75333": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 19,
-      "current_best_price": 27.39,
+      "buy_score": 26,
+      "current_best_price": 25.6,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75333-1.jpg",
       "label": "persoonlijk",
@@ -42859,12 +42869,12 @@
       "name": "Obi-Wan Kenobi's Jedi Starfighter",
       "owned_by": 24448,
       "pieces": 282,
-      "price_score": 19,
+      "price_score": 24,
       "purchase_price": 27.71,
       "rating": 4.0,
       "retirement_date": "2026-05-05",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 13,
@@ -42960,6 +42970,11 @@
           "date": "2026-11-07",
           "price": 27.39,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 25.6,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -43022,8 +43037,8 @@
       "sell_trend_score": 8,
       "sell_age_score": 4,
       "sell_liquidity_score": 1,
-      "last_brickwatch_alert": "2026-11-07T05:04:19.646357Z",
-      "last_updated": "2026-11-07T05:04:19.646365Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710751Z",
+      "last_updated": "2026-11-09T05:04:17.710752Z",
       "prev_buy_score": 19,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
@@ -53344,8 +53359,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 27.94,
+      "buy_score": 53,
+      "current_best_price": 27.33,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -53355,7 +53370,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 26,
+      "price_score": 28,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -53369,8 +53384,8 @@
       "urgency_score": 8,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-28T20:04:17.983526Z",
-      "last_updated": "2026-11-04T11:32:55Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710791Z",
+      "last_updated": "2026-11-09T05:04:17.710793Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -53491,6 +53506,11 @@
         {
           "date": "2026-11-04",
           "price": 27.94,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 27.33,
           "shop": "Brickwatch"
         }
       ],
@@ -86308,10 +86328,10 @@
           "value": 132.49
         }
       ],
-      "current_best_price": 187.49,
+      "current_best_price": 187.48,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-31T05:04:12.798949Z",
-      "last_updated": "2026-10-31T05:04:12.798951Z",
+      "last_brickwatch_alert": "2026-11-09T05:04:17.710881Z",
+      "last_updated": "2026-11-09T05:04:17.710883Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -86376,6 +86396,11 @@
         {
           "date": "2026-10-30",
           "price": 187.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 187.48,
           "shop": "Brickwatch"
         }
       ],
@@ -87997,7 +88022,7 @@
           "value": 68.8
         }
       ],
-      "prev_buy_score": 49,
+      "prev_buy_score": 51,
       "price_score": 26,
       "roi_score": 7,
       "urgency_score": 3,
