@@ -3937,8 +3937,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 39,
-      "current_best_price": 209.0,
+      "buy_score": 49,
+      "current_best_price": 188.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -3948,12 +3948,12 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 26,
+      "price_score": 35,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 30,
@@ -4104,10 +4104,15 @@
           "date": "2026-10-26",
           "price": 209.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 188.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T01:04:18.860781Z",
-      "last_updated": "2026-10-26T01:04:18.860786Z",
+      "last_brickwatch_alert": "2026-11-09T09:04:18.636272Z",
+      "last_updated": "2026-11-09T09:04:18.636275Z",
       "market_value": 259.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-13T23:40:17.705272+00:00",
@@ -4965,8 +4970,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 30,
-      "current_best_price": 57.99,
+      "buy_score": 42,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -4975,11 +4980,11 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 15,
+      "price_score": 26,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -4989,8 +4994,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-10-19T00:34:14.036673Z",
-      "last_updated": "2026-10-19T00:34:14.036677Z",
+      "last_brickwatch_alert": "2026-11-09T09:04:18.636062Z",
+      "last_updated": "2026-11-09T09:04:18.636073Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -5046,6 +5051,11 @@
         {
           "date": "2026-10-19",
           "price": 57.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 48.99,
           "shop": "Brickwatch"
         }
       ],
@@ -46612,7 +46622,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 49,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-11-06T11:27:59Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-venator-class-republic-attack-cruiser-75367-424396"
     },
@@ -52190,7 +52200,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35,
+      "prev_buy_score": 66,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "75416": {
