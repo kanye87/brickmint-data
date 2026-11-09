@@ -65334,8 +65334,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 31,
-      "current_best_price": 99.81,
+      "buy_score": 47,
+      "current_best_price": 73.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -65345,11 +65345,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 20,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -65359,8 +65359,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-03T10:04:19.911302Z",
-      "last_updated": "2026-11-03T10:04:19.911313Z",
+      "last_brickwatch_alert": "2026-11-09T16:34:23.163022Z",
+      "last_updated": "2026-11-09T16:34:23.163029Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -65486,6 +65486,11 @@
         {
           "date": "2026-11-03",
           "price": 99.81,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 73.49,
           "shop": "Brickwatch"
         }
       ],
@@ -88342,6 +88347,201 @@
       "sell_score": null,
       "ean": "5702018345177",
       "owned_by": 6
+    },
+    "11227": {
+      "name": "Gabby's Dollhouse and Doozie's Doghouse",
+      "theme": "Gabby's Dollhouse",
+      "date_first_available": "2026-11-05",
+      "msrp": 19.99,
+      "image_url": "https://images.brickset.com/sets/images/11227-1.jpg",
+      "prev_buy_score": null
+    },
+    "11515": {
+      "name": "Peony Bouquet",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/11515-1.jpg",
+      "prev_buy_score": null
+    },
+    "11516": {
+      "name": "Cherry Blossom Branches",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/11516-1.jpg",
+      "prev_buy_score": null
+    },
+    "11519": {
+      "name": "Wild Orchid",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/11519-1.jpg",
+      "prev_buy_score": null
+    },
+    "11522": {
+      "name": "Perfectly Pastel Flower Bouquet",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 59.99,
+      "image_url": "https://images.brickset.com/sets/images/11522-1.jpg",
+      "prev_buy_score": null
+    },
+    "11532": {
+      "name": "Buttercup Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11532-1.jpg",
+      "prev_buy_score": null
+    },
+    "11533": {
+      "name": "Malva Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11533-1.jpg",
+      "prev_buy_score": null
+    },
+    "11534": {
+      "name": "Bluebell Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11534-1.jpg",
+      "prev_buy_score": null
+    },
+    "11535": {
+      "name": "Sweet Pea Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11535-1.jpg",
+      "prev_buy_score": null
+    },
+    "11536": {
+      "name": "Nasturtium Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11536-1.jpg",
+      "prev_buy_score": null
+    },
+    "11537": {
+      "name": "Chicory Flowers",
+      "theme": "Botanicals",
+      "date_first_available": "2027-01-01",
+      "msrp": 4.99,
+      "image_url": "https://images.brickset.com/sets/images/11537-1.jpg",
+      "prev_buy_score": null
+    },
+    "21375": {
+      "name": "Godzilla",
+      "theme": "Ideas",
+      "date_first_available": "2026-11-27",
+      "msrp": 399.99,
+      "image_url": "https://images.brickset.com/sets/images/21375-1.jpg",
+      "prev_buy_score": null
+    },
+    "40888": {
+      "name": "Godzilla Logo & Footprint",
+      "theme": "Ideas",
+      "date_first_available": "2026-11-27",
+      "image_url": "https://images.brickset.com/sets/images/40888-1.jpg",
+      "prev_buy_score": null
+    },
+    "40976": {
+      "name": "Prosperity Lion",
+      "theme": "Seasonal",
+      "date_first_available": "2027-01-01",
+      "msrp": 29.99,
+      "image_url": "https://images.brickset.com/sets/images/40976-1.jpg",
+      "prev_buy_score": null
+    },
+    "71888": {
+      "name": "Ivo's Ninja Dojo",
+      "theme": "Ninjago",
+      "date_first_available": "2027-01-01",
+      "msrp": 279.99,
+      "image_url": "https://images.brickset.com/sets/images/71888-1.jpg",
+      "prev_buy_score": null
+    },
+    "80122": {
+      "name": "Auspicious Pixiu Under Fortune Tree",
+      "theme": "Seasonal",
+      "date_first_available": "2027-01-01",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/80122-1.jpg",
+      "prev_buy_score": null
+    },
+    "80123": {
+      "name": "Spring Festival Voyage",
+      "theme": "Seasonal",
+      "date_first_available": "2027-01-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/80123-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010912": {
+      "name": "R2-D2 Holiday Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-07",
+      "msrp": 15.99,
+      "image_url": "https://images.brickset.com/sets/images/5010912-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010915": {
+      "name": "FORTNITE Peely Bag Tag",
+      "theme": "Gear",
+      "date_first_available": "2026-11-07",
+      "msrp": 10.99,
+      "image_url": "https://images.brickset.com/sets/images/5010915-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010916": {
+      "name": "FORTNITE Cuddle Bag Tag",
+      "theme": "Gear",
+      "date_first_available": "2026-11-07",
+      "msrp": 10.99,
+      "image_url": "https://images.brickset.com/sets/images/5010916-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010920": {
+      "name": "AirTag Holder",
+      "theme": "Gear",
+      "date_first_available": "2026-11-07",
+      "msrp": 9.99,
+      "image_url": "https://images.brickset.com/sets/images/5010920-1.jpg",
+      "prev_buy_score": null
+    },
+    "5011043": {
+      "name": "Heritage Classic Lunch Bag – Blueprint",
+      "theme": "Gear",
+      "date_first_available": "2026-11-05",
+      "msrp": 22.0,
+      "prev_buy_score": null
+    },
+    "L0002243": {
+      "name": "Sandcrawler",
+      "theme": "Star Wars",
+      "date_first_available": "2026-12-04",
+      "image_url": "https://images.brickset.com/sets/images/L0002243-1.jpg",
+      "prev_buy_score": null
+    },
+    "L0002295": {
+      "name": "Tractor",
+      "theme": "Technic",
+      "date_first_available": "2026-11-05",
+      "image_url": "https://images.brickset.com/sets/images/L0002295-1.jpg",
+      "prev_buy_score": null
+    },
+    "L0002296": {
+      "name": "Snowmobile",
+      "theme": "Technic",
+      "date_first_available": "2026-12-31",
+      "image_url": "https://images.brickset.com/sets/images/L0002296-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
