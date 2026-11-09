@@ -23880,8 +23880,8 @@
     "43027": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 46,
-      "current_best_price": 18.74,
+      "buy_score": 45,
+      "current_best_price": 18.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43027-1.jpg",
       "label": "investering",
@@ -23890,7 +23890,7 @@
       "name": " Vini Jr. – Football Highlights",
       "owned_by": 113,
       "pieces": 510,
-      "price_score": 33,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -23907,8 +23907,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-10-26T02:04:19.961486Z",
-      "last_updated": "2026-10-26T02:04:19.961495Z",
+      "last_brickwatch_alert": "2026-11-09T02:04:17.366478Z",
+      "last_updated": "2026-11-09T02:04:17.366488Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -23998,6 +23998,11 @@
         {
           "date": "2026-10-26",
           "price": 18.74,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 18.98,
           "shop": "Brickwatch"
         }
       ],
@@ -65378,19 +65383,19 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 52,
-      "current_best_price": 65.99,
+      "buy_score": 53,
+      "current_best_price": 64.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-26T04:04:15.981852Z",
-      "last_updated": "2026-10-26T04:04:15.981853Z",
+      "last_brickwatch_alert": "2026-11-09T02:04:17.366722Z",
+      "last_updated": "2026-11-09T02:04:17.366727Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 30,
+      "price_score": 31,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -65496,6 +65501,11 @@
         {
           "date": "2026-10-26",
           "price": 65.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 64.99,
           "shop": "Brickwatch"
         }
       ],
