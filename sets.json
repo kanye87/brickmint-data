@@ -11286,22 +11286,22 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 51,
-      "current_best_price": 137.99,
+      "buy_score": 60,
+      "current_best_price": 99.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 124.9,
+      "lowest_price_ever": 99.99,
       "msrp": 199.99,
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 29,
+      "price_score": 35,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 7,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 36,
@@ -11311,8 +11311,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-04T05:04:20.239901Z",
-      "last_updated": "2026-11-04T05:04:20.239902Z",
+      "last_brickwatch_alert": "2026-11-09T11:34:14.709632Z",
+      "last_updated": "2026-11-09T11:34:14.709642Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -11427,6 +11427,11 @@
         {
           "date": "2026-11-04",
           "price": 137.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 99.99,
           "shop": "Brickwatch"
         }
       ],
@@ -24570,7 +24575,7 @@
           "value": 119.8
         }
       ],
-      "prev_buy_score": 33,
+      "prev_buy_score": 12,
       "price_checked_at": "2026-11-06T11:27:59Z"
     },
     "43249": {
