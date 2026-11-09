@@ -87968,8 +87968,8 @@
       "name": "Doctor Doom Bust",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 35.98,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 34.99,
+      "current_best_shop": "Brickwatch",
       "theme": "Marvel Super Heroes",
       "year": 2026,
       "msrp": 49.99,
@@ -87998,16 +87998,16 @@
         }
       ],
       "prev_buy_score": 49,
-      "price_score": 24,
+      "price_score": 26,
       "roi_score": 7,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 49,
+      "buy_score": 51,
       "sell_score": null,
       "price_checked_at": "2026-11-06T11:27:59Z",
-      "last_updated": "2026-11-06T13:31:38.958347Z",
+      "last_updated": "2026-11-09T04:04:16.491508Z",
       "price_history": [
         {
           "date": "2026-10-23",
@@ -88023,9 +88023,14 @@
           "date": "2026-11-06",
           "price": 35.98,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 34.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-05T08:34:15.241489Z",
+      "last_brickwatch_alert": "2026-11-09T04:04:16.491499Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-doctor-doom-buste-76345-laagste-prijs-ooit-425367"
     },
     "40889": {
