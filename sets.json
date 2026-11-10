@@ -4760,8 +4760,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 28,
-      "current_best_price": 83.7,
+      "buy_score": 34,
+      "current_best_price": 77.42,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -4771,11 +4771,11 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 26,
+      "price_score": 31,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -4786,8 +4786,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-11-07T09:04:13.952018Z",
-      "last_updated": "2026-11-09T12:06:08Z",
+      "last_brickwatch_alert": "2026-11-10T11:04:15.917837Z",
+      "last_updated": "2026-11-10T11:04:15.917843Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -4919,6 +4919,11 @@
         {
           "date": "2026-11-09",
           "price": 83.7,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 77.42,
           "shop": "Brickwatch"
         }
       ],
