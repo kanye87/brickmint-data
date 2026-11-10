@@ -3952,8 +3952,8 @@
     "10354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 49,
-      "current_best_price": 188.99,
+      "buy_score": 39,
+      "current_best_price": 209.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10354-1.jpg",
       "label": "persoonlijk",
@@ -3963,12 +3963,12 @@
       "name": "The Lord of the Rings: The Shire",
       "owned_by": 5441,
       "pieces": 2017,
-      "price_score": 35,
+      "price_score": 26,
       "purchase_price": 194.99,
       "rating": 4.1,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 30,
@@ -4124,10 +4124,15 @@
           "date": "2026-11-09",
           "price": 188.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 209.0,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-09T09:04:18.636272Z",
-      "last_updated": "2026-11-09T09:04:18.636275Z",
+      "last_brickwatch_alert": "2026-11-10T12:04:17.103174Z",
+      "last_updated": "2026-11-10T12:04:17.103178Z",
       "market_value": 259.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-13T23:40:17.705272+00:00",
@@ -4948,7 +4953,7 @@
           "value": 94.15
         }
       ],
-      "prev_buy_score": 28,
+      "prev_buy_score": 34,
       "price_checked_at": "2026-11-09T12:06:08Z"
     },
     "10370": {
@@ -24434,8 +24439,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 12,
-      "current_best_price": 124.95,
+      "buy_score": 8,
+      "current_best_price": 129.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -24444,7 +24449,7 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 4,
+      "price_score": 0,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
@@ -24460,8 +24465,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-11-09T10:34:29.455130Z",
-      "last_updated": "2026-11-09T10:34:29.455136Z",
+      "last_brickwatch_alert": "2026-11-10T12:04:17.102868Z",
+      "last_updated": "2026-11-10T12:04:17.102874Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24601,6 +24606,11 @@
         {
           "date": "2026-11-09",
           "price": 124.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 129.95,
           "shop": "Brickwatch"
         }
       ],
@@ -46529,8 +46539,8 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 56,
-      "current_best_price": 454.99,
+      "buy_score": 49,
+      "current_best_price": 503.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
@@ -46540,7 +46550,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 26,
+      "price_score": 19,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -46690,14 +46700,19 @@
           "date": "2026-11-09",
           "price": 454.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 503.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-11-09T08:34:15.114585Z",
-      "last_updated": "2026-11-09T08:34:15.114588Z",
+      "last_brickwatch_alert": "2026-11-10T12:04:17.103029Z",
+      "last_updated": "2026-11-10T12:04:17.103033Z",
       "market_value": 141.71,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T16:16:19.103886+00:00",
@@ -49101,8 +49116,8 @@
     "75391": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 10,
-      "current_best_price": 12.99,
+      "buy_score": 33,
+      "current_best_price": 9.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75391-1.jpg",
       "label": "investering",
@@ -49112,11 +49127,11 @@
       "name": "Captain Rex Y-wing Microfighter",
       "owned_by": 17074,
       "pieces": 99,
-      "price_score": 0,
+      "price_score": 20,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 2,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -49230,10 +49245,15 @@
           "date": "2026-11-05",
           "price": 12.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 9.95,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-05T19:34:16.219392Z",
-      "last_updated": "2026-11-05T19:34:16.219402Z",
+      "last_brickwatch_alert": "2026-11-10T12:04:17.102584Z",
+      "last_updated": "2026-11-10T12:04:17.102594Z",
       "expected_retirement": "2026-07",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
