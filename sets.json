@@ -11531,7 +11531,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 43,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-11-11T11:25:51Z"
     },
     "31213": {
@@ -49194,7 +49194,7 @@
           "value": 154.95
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 61,
       "price_checked_at": "2026-11-11T11:25:51Z"
     },
     "75391": {
@@ -65712,7 +65712,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 31,
+      "prev_buy_score": 32,
       "price_checked_at": "2026-11-11T11:25:51Z"
     },
     "76346": {
@@ -86797,13 +86797,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 19,
-      "roi_score": 3,
+      "price_score": 24,
+      "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 40,
+      "buy_score": 46,
       "sell_score": null,
       "prev_buy_score": 40,
       "theme": "Star Wars",
@@ -86839,10 +86839,10 @@
           "value": 66.8
         }
       ],
-      "current_best_price": 54.68,
+      "current_best_price": 50.58,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-07T08:34:16.515919Z",
-      "last_updated": "2026-11-07T08:34:16.515923Z",
+      "last_brickwatch_alert": "2026-11-12T10:34:19.491264Z",
+      "last_updated": "2026-11-12T10:34:19.491270Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -86912,6 +86912,11 @@
         {
           "date": "2026-11-07",
           "price": 54.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 50.58,
           "shop": "Brickwatch"
         }
       ],
