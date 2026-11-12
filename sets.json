@@ -86519,13 +86519,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 25,
+      "price_score": 26,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 47,
+      "buy_score": 48,
       "sell_score": null,
       "prev_buy_score": 47,
       "theme": "Super Mario",
@@ -86560,10 +86560,10 @@
           "value": 154.95
         }
       ],
-      "current_best_price": 119.99,
+      "current_best_price": 118.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-26T00:04:18.425029Z",
-      "last_updated": "2026-11-06T11:27:59Z",
+      "last_brickwatch_alert": "2026-11-12T13:04:31.970946Z",
+      "last_updated": "2026-11-12T13:04:31.970952Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -86663,6 +86663,11 @@
         {
           "date": "2026-11-06",
           "price": 119.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 118.99,
           "shop": "Brickwatch"
         }
       ],
