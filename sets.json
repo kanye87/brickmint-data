@@ -46308,7 +46308,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 169.95,
+      "current_best_price": 169.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75365-1.jpg",
       "label": "investering",
@@ -46450,6 +46450,11 @@
           "date": "2026-09-30",
           "price": 169.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 169.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-10",
@@ -46460,7 +46465,8 @@
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:41:54+00:00",
       "price_checked_at": "2026-11-11T11:25:51Z",
-      "last_updated": "2026-09-30T21:00:37Z"
+      "last_updated": "2026-11-12T11:04:27.253752Z",
+      "last_brickwatch_alert": "2026-11-12T11:04:27.253745Z"
     },
     "75366": {
       "availability_score": 0,
@@ -86805,7 +86811,7 @@
       "score_quality": "full",
       "buy_score": 46,
       "sell_score": null,
-      "prev_buy_score": 40,
+      "prev_buy_score": 46,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
