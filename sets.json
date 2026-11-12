@@ -33629,7 +33629,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 48,
-      "current_best_price": 114.99,
+      "current_best_price": 115.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -33652,8 +33652,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-09T05:04:17.710591Z",
-      "last_updated": "2026-11-09T05:04:17.710599Z",
+      "last_brickwatch_alert": "2026-11-12T02:34:21.249138Z",
+      "last_updated": "2026-11-12T02:34:21.249146Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -33869,6 +33869,11 @@
         {
           "date": "2026-11-09",
           "price": 114.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 115.98,
           "shop": "Brickwatch"
         }
       ],
