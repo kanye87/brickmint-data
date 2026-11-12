@@ -6124,7 +6124,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 157.98,
+      "current_best_price": 151.05,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -6262,11 +6262,16 @@
           "date": "2026-11-09",
           "price": 157.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 151.05,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-10-31T00:04:16.352984Z",
-      "last_updated": "2026-11-09T12:06:08Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791230Z",
+      "last_updated": "2026-11-12T05:04:13.791240Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-11-11T11:25:51Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
@@ -11341,8 +11346,8 @@
     "31212": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:22Z",
-      "buy_score": 43,
-      "current_best_price": 139.99,
+      "buy_score": 45,
+      "current_best_price": 133.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/31212-1.jpg",
       "label": "persoonlijk",
@@ -11351,7 +11356,7 @@
       "name": "The Milky Way Galaxy",
       "owned_by": 3092,
       "pieces": 3091,
-      "price_score": 21,
+      "price_score": 23,
       "purchase_price": 119.99,
       "rating": 4.1,
       "retirement_date": "2027-07-31",
@@ -11366,8 +11371,8 @@
       "urgency_score": 8,
       "wanted_by": 2253,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-09T11:34:14.709632Z",
-      "last_updated": "2026-11-11T11:25:51Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791361Z",
+      "last_updated": "2026-11-12T05:04:13.791363Z",
       "subtheme": "Miscellaneous",
       "expected_retirement": "2027-07",
       "date_first_available": "2024-04-26",
@@ -11492,6 +11497,11 @@
         {
           "date": "2026-11-11",
           "price": 139.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 133.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48981,8 +48991,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 58,
-      "current_best_price": 124.99,
+      "buy_score": 61,
+      "current_best_price": 120.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -48992,11 +49002,11 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 27,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -49006,8 +49016,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-05T05:04:20.038147Z",
-      "last_updated": "2026-11-11T11:25:51Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791404Z",
+      "last_updated": "2026-11-12T05:04:13.791405Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -49151,6 +49161,11 @@
         {
           "date": "2026-11-11",
           "price": 124.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 120.99,
           "shop": "Brickwatch"
         }
       ],
@@ -65492,8 +65507,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 31,
-      "current_best_price": 99.81,
+      "buy_score": 32,
+      "current_best_price": 99.36,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -65503,7 +65518,7 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 20,
+      "price_score": 21,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -65517,8 +65532,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-10T21:34:23.554049Z",
-      "last_updated": "2026-11-10T21:34:23.554056Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791434Z",
+      "last_updated": "2026-11-12T05:04:13.791436Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -65654,6 +65669,11 @@
         {
           "date": "2026-11-10",
           "price": 99.81,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 99.36,
           "shop": "Brickwatch"
         }
       ],
@@ -74294,7 +74314,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 68,
-      "current_best_price": 16.49,
+      "current_best_price": 16.45,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77244-1.jpg",
       "label": "persoonlijk",
@@ -74384,6 +74404,11 @@
           "date": "2026-11-09",
           "price": 16.49,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 16.45,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -74399,8 +74424,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816111",
-      "last_brickwatch_alert": "2026-11-07T10:34:15.157563Z",
-      "last_updated": "2026-11-09T12:06:08Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791460Z",
+      "last_updated": "2026-11-12T05:04:13.791461Z",
       "market_value": 27.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
@@ -75128,7 +75153,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
       "buy_score": 65,
-      "current_best_price": 17.0,
+      "current_best_price": 16.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77251-1.jpg",
       "label": "persoonlijk",
@@ -75236,14 +75261,19 @@
           "date": "2026-11-09",
           "price": 17.0,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 16.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816180",
-      "last_brickwatch_alert": "2026-11-07T09:34:22.369119Z",
-      "last_updated": "2026-11-09T12:06:08Z",
+      "last_brickwatch_alert": "2026-11-12T05:04:13.791509Z",
+      "last_updated": "2026-11-12T05:04:13.791510Z",
       "market_value": 25.48,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-14T21:09:18.002534+00:00",
