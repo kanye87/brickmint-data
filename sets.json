@@ -992,7 +992,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 35,
+      "prev_buy_score": 37,
       "last_brickwatch_alert": "2026-10-12T04:04:14.111028Z",
       "last_updated": "2026-11-13T11:30:45Z",
       "status": "watchlist",
@@ -2739,7 +2739,7 @@
           "value": 352.38
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 42,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -4992,7 +4992,7 @@
           "value": 92.83
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 31,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "10370": {
@@ -5153,7 +5153,7 @@
           "value": 77.63
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "10497": {
@@ -11581,7 +11581,7 @@
       "sell_trend_score": 20,
       "sell_age_score": 0,
       "sell_liquidity_score": 6,
-      "prev_buy_score": 45,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "31213": {
@@ -17906,7 +17906,7 @@
           "value": 20.5
         }
       ],
-      "prev_buy_score": 51,
+      "prev_buy_score": 50,
       "purchase_price": 12.99,
       "sell_roi_score": 30,
       "sell_trend_score": 0,
@@ -20324,7 +20324,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 9,
-      "prev_buy_score": 24
+      "prev_buy_score": 23
     },
     "42151": {
       "brickset_last_enriched": "2026-05-06T11:44:50Z",
@@ -21351,7 +21351,7 @@
           "value": 206.87
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "42184": {
@@ -22064,7 +22064,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 39,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "42207": {
@@ -22707,7 +22707,7 @@
           "value": 172.13
         }
       ],
-      "prev_buy_score": 41,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "43010": {
@@ -23894,7 +23894,7 @@
           "value": 94.99
         }
       ],
-      "prev_buy_score": 37,
+      "prev_buy_score": 35,
       "purchase_price": 79.0,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -24817,7 +24817,7 @@
           "value": 132.91
         }
       ],
-      "prev_buy_score": 8,
+      "prev_buy_score": 9,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "43249": {
@@ -42423,7 +42423,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 7,
+      "prev_buy_score": 8,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75326": {
@@ -43369,7 +43369,7 @@
       "sell_liquidity_score": 2,
       "last_brickwatch_alert": "2026-11-09T05:04:17.710751Z",
       "last_updated": "2026-11-13T11:30:45Z",
-      "prev_buy_score": 28,
+      "prev_buy_score": 22,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75334": {
@@ -44652,7 +44652,7 @@
     },
     "75345": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 19.9,
+      "current_best_price": 19.95,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-01-04",
       "ean": "5702017421292",
@@ -44729,8 +44729,8 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 0,
-      "last_brickwatch_alert": "2026-11-10T07:34:20.955993Z",
-      "last_updated": "2026-11-13T11:30:45Z",
+      "last_brickwatch_alert": "2026-11-13T14:34:17.689220Z",
+      "last_updated": "2026-11-13T14:34:17.689227Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -44809,7 +44809,7 @@
         },
         {
           "date": "2026-11-13",
-          "price": 19.9,
+          "price": 19.95,
           "shop": "Brickwatch"
         }
       ],
@@ -47612,7 +47612,7 @@
           "value": 22.44
         }
       ],
-      "prev_buy_score": 26,
+      "prev_buy_score": 27,
       "purchase_price": 9.99,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -48163,7 +48163,7 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017584362",
-      "prev_buy_score": 35,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75379": {
@@ -49570,7 +49570,7 @@
           "value": 19.66
         }
       ],
-      "prev_buy_score": 33,
+      "prev_buy_score": 35,
       "purchase_price": 10.0,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -51204,7 +51204,7 @@
       "sell_trend_score": 6,
       "sell_age_score": 2,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 44,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75406": {
@@ -51503,7 +51503,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 40,
+      "prev_buy_score": 44,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75408": {
@@ -66117,7 +66117,7 @@
           "value": 86.43
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-11-13T11:30:45Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
@@ -68882,7 +68882,7 @@
       "minifig_list": [],
       "last_brickwatch_alert": "2026-10-27T02:04:20.230029Z",
       "last_updated": "2026-11-13T11:30:45Z",
-      "prev_buy_score": 44,
+      "prev_buy_score": 40,
       "status": "watchlist",
       "label": "investering",
       "market_value": 167.63,
@@ -75788,7 +75788,7 @@
           "value": 25.74
         }
       ],
-      "prev_buy_score": 86,
+      "prev_buy_score": 77,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "77985": {
@@ -87089,7 +87089,7 @@
       "score_quality": "full",
       "buy_score": 46,
       "sell_score": null,
-      "prev_buy_score": 40,
+      "prev_buy_score": 46,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
