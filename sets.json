@@ -38838,7 +38838,7 @@
     },
     "75290": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 409.99,
+      "current_best_price": 429.0,
       "date_first_available": "2020-09-24",
       "ean": "5702016663495",
       "expected_retirement": "2025-01",
@@ -38927,6 +38927,11 @@
         {
           "date": "2026-05-27",
           "price": 409.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-14",
+          "price": 429.0,
           "shop": "Brickwatch"
         }
       ],
@@ -39066,8 +39071,8 @@
         }
       ],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-05-27T14:04:26.985704Z",
-      "last_updated": "2026-05-27T14:04:26.985716Z",
+      "last_brickwatch_alert": "2026-11-14T05:34:15.389403Z",
+      "last_updated": "2026-11-14T05:34:15.389412Z",
       "prev_buy_score": 10,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -47534,7 +47539,7 @@
           "value": 35.38
         }
       ],
-      "prev_buy_score": 61,
+      "prev_buy_score": 67,
       "purchase_price": 17.99,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -47701,7 +47706,7 @@
           "value": 22.44
         }
       ],
-      "prev_buy_score": 27,
+      "prev_buy_score": 34,
       "purchase_price": 9.99,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -48261,7 +48266,7 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017584362",
-      "prev_buy_score": 26,
+      "prev_buy_score": 35,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75379": {
@@ -55318,7 +55323,7 @@
           "value": 58.14
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 51,
       "purchase_price": 35,
       "sell_roi_score": 32,
       "sell_trend_score": 0,
