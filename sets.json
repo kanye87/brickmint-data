@@ -84339,7 +84339,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 46,
-      "prev_buy_score": 42,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "11381": {
@@ -87473,9 +87473,9 @@
         }
       ],
       "current_best_price": 50.58,
-      "current_best_shop": "Pepper.com",
-      "last_brickwatch_alert": "2026-11-13T10:04:15.292302Z",
-      "last_updated": "2026-11-13T13:43:42.928397Z",
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-15T12:34:15.376818Z",
+      "last_updated": "2026-11-15T12:34:15.376827Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -87556,6 +87556,11 @@
           "date": "2026-11-13",
           "price": 50.58,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 50.58,
+          "shop": "Brickwatch"
         }
       ],
       "price_checked_at": "2026-11-13T11:30:45Z",
