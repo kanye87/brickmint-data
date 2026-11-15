@@ -6171,7 +6171,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 151.05,
+      "current_best_price": 150.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -6314,11 +6314,16 @@
           "date": "2026-11-12",
           "price": 151.05,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 150.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-11-12T05:04:13.791230Z",
-      "last_updated": "2026-11-12T05:04:13.791240Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455605Z",
+      "last_updated": "2026-11-15T05:04:15.455607Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-11-13T11:30:45Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
@@ -24189,8 +24194,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-11-09T05:04:17.710970Z",
-      "last_updated": "2026-11-09T05:04:17.710972Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455458Z",
+      "last_updated": "2026-11-15T05:04:15.455460Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -51464,8 +51469,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 43,
-      "current_best_price": 46.98,
+      "buy_score": 50,
+      "current_best_price": 41.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -51474,12 +51479,12 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 29,
+      "price_score": 35,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 30,
@@ -51621,10 +51626,15 @@
           "date": "2026-11-13",
           "price": 46.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 41.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-14T05:04:14.401118Z",
-      "last_updated": "2026-11-14T05:04:14.401119Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455406Z",
+      "last_updated": "2026-11-15T05:04:15.455409Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -75044,8 +75054,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-03T05:04:16.464163Z",
-      "last_updated": "2026-11-03T05:04:16.464165Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455532Z",
+      "last_updated": "2026-11-15T05:04:15.455533Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -86726,10 +86736,10 @@
       "brickset_last_enriched": "2026-10-27T21:39:57Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 24,
-      "current_best_price": 139.99,
+      "current_best_price": 125.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-10-09T04:04:15.676295Z",
-      "last_updated": "2026-10-12T11:18:47Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455275Z",
+      "last_updated": "2026-11-15T05:04:15.455284Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -86775,6 +86785,11 @@
           "date": "2026-10-12",
           "price": 139.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 125.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -86796,13 +86811,13 @@
           "value": 88.62
         }
       ],
-      "price_score": 6,
+      "price_score": 14,
       "roi_score": 0,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 24,
+      "buy_score": 32,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75459-star-wars-imperial-lambda-class-shuttle-lqagste-prijs-ooit-419890",
       "price_checked_at": "2026-11-13T11:30:45Z",
       "retirement_date": "2027-12-31",
@@ -87320,8 +87335,8 @@
       ],
       "current_best_price": 187.48,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-09T05:04:17.710881Z",
-      "last_updated": "2026-11-09T05:04:17.710883Z",
+      "last_brickwatch_alert": "2026-11-15T05:04:15.455498Z",
+      "last_updated": "2026-11-15T05:04:15.455500Z",
       "price_history": [
         {
           "date": "2026-09-23",
