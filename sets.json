@@ -21187,8 +21187,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 59,
-      "current_best_price": 169.99,
+      "buy_score": 63,
+      "current_best_price": 162.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -21197,11 +21197,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 28,
+      "price_score": 31,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21211,8 +21211,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-10-12T00:34:14.689423Z",
-      "last_updated": "2026-10-12T00:34:14.689432Z",
+      "last_brickwatch_alert": "2026-11-15T05:34:15.516486Z",
+      "last_updated": "2026-11-15T05:34:15.516493Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -21328,6 +21328,11 @@
         {
           "date": "2026-10-12",
           "price": 169.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 162.49,
           "shop": "Brickwatch"
         }
       ],
@@ -51669,7 +51674,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "75408": {
@@ -86735,7 +86740,7 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-10-27T21:39:57Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 24,
+      "prev_buy_score": 32,
       "current_best_price": 125.99,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-15T05:04:15.455275Z",
