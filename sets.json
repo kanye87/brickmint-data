@@ -24707,8 +24707,8 @@
     "43247": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 9,
-      "current_best_price": 129.95,
+      "buy_score": 34,
+      "current_best_price": 98.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43247-1.jpg",
       "label": "investering",
@@ -24717,12 +24717,12 @@
       "name": "Young Simba the Lion King",
       "owned_by": 2732,
       "pieces": 1445,
-      "price_score": 0,
+      "price_score": 22,
       "purchase_price": 82.49,
       "rating": 4.0,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 1,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -24733,8 +24733,8 @@
       "wanted_by": 949,
       "year": 2024,
       "subtheme": "The Lion King",
-      "last_brickwatch_alert": "2026-11-10T12:04:17.102868Z",
-      "last_updated": "2026-11-10T12:04:17.102874Z",
+      "last_brickwatch_alert": "2026-11-16T09:34:20.697717Z",
+      "last_updated": "2026-11-16T09:34:20.697720Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24879,6 +24879,11 @@
         {
           "date": "2026-11-10",
           "price": 129.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 98.0,
           "shop": "Brickwatch"
         }
       ],
@@ -84310,10 +84315,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 74.34,
+      "current_best_price": 80.36,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-15T10:04:16.749366Z",
-      "last_updated": "2026-11-15T10:04:16.749376Z",
+      "last_brickwatch_alert": "2026-11-16T09:34:20.697542Z",
+      "last_updated": "2026-11-16T09:34:20.697550Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -84419,6 +84424,11 @@
           "date": "2026-11-15",
           "price": 74.34,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 80.36,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -84440,13 +84450,13 @@
           "value": 113.04
         }
       ],
-      "price_score": 33,
+      "price_score": 29,
       "roi_score": 5,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 46,
+      "buy_score": 42,
       "prev_buy_score": 46,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
