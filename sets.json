@@ -87541,13 +87541,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 24,
+      "price_score": 25,
       "roi_score": 0,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 42,
+      "buy_score": 43,
       "sell_score": null,
       "prev_buy_score": 42,
       "theme": "Pokémon",
@@ -87581,10 +87581,10 @@
           "value": 132.49
         }
       ],
-      "current_best_price": 187.49,
+      "current_best_price": 184.95,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-15T05:04:15.455498Z",
-      "last_updated": "2026-11-16T12:01:30Z",
+      "last_brickwatch_alert": "2026-11-16T19:34:19.531623Z",
+      "last_updated": "2026-11-16T19:34:19.531630Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -87658,7 +87658,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 187.49,
+          "price": 184.95,
           "shop": "Brickwatch"
         }
       ],
