@@ -34423,7 +34423,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 46,
-      "current_best_price": 38.99,
+      "current_best_price": 38.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -34447,8 +34447,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-11-10T05:04:18.328489Z",
-      "last_updated": "2026-11-10T05:04:18.328493Z",
+      "last_brickwatch_alert": "2026-11-16T04:04:16.169994Z",
+      "last_updated": "2026-11-16T04:04:16.170002Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -34543,6 +34543,11 @@
         {
           "date": "2026-11-10",
           "price": 38.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 38.95,
           "shop": "Brickwatch"
         }
       ],
@@ -48492,7 +48497,7 @@
           "value": 80.81
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 35,
       "purchase_price": 66.0,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
@@ -76150,7 +76155,7 @@
           "value": 22.88
         }
       ],
-      "prev_buy_score": 76,
+      "prev_buy_score": 75,
       "price_checked_at": "2026-11-13T11:30:45Z"
     },
     "77985": {
@@ -83741,16 +83746,16 @@
         }
       ],
       "price_score": 35,
-      "roi_score": 7,
+      "roi_score": 6,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 50,
+      "buy_score": 49,
       "price_checked_at": "2026-11-13T11:30:45Z",
-      "current_best_price": 41.99,
-      "current_best_shop": "RacingBrick",
-      "last_updated": "2026-11-13T13:43:42.928504Z",
+      "current_best_price": 52.48,
+      "current_best_shop": "Brickwatch",
+      "last_updated": "2026-11-16T04:04:16.170200Z",
       "price_history": [
         {
           "date": "2026-09-30",
@@ -83786,9 +83791,14 @@
           "date": "2026-11-13",
           "price": 41.99,
           "shop": "RacingBrick"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 52.48,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T02:04:19.961721Z",
+      "last_brickwatch_alert": "2026-11-16T04:04:16.170195Z",
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
       "retirement_date_source": "brickset_exitDate",
