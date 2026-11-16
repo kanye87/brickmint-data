@@ -33934,7 +33934,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 50,
-      "current_best_price": 109.98,
+      "current_best_price": 109.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -33957,8 +33957,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-14T04:04:16.632229Z",
-      "last_updated": "2026-11-14T04:04:16.632237Z",
+      "last_brickwatch_alert": "2026-11-16T17:34:24.991007Z",
+      "last_updated": "2026-11-16T17:34:24.991016Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -34189,6 +34189,11 @@
         {
           "date": "2026-11-14",
           "price": 109.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 109.99,
           "shop": "Brickwatch"
         }
       ],
@@ -54023,7 +54028,7 @@
           "value": 92.34
         }
       ],
-      "prev_buy_score": 37,
+      "prev_buy_score": 38,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "75430": {
@@ -89970,6 +89975,90 @@
       "brickset_last_enriched": "2026-11-16T14:25:21Z",
       "sell_score": null,
       "subtheme": "Magazine Gift"
+    },
+    "75466": {
+      "name": "Darth Vader 2 in 1 Wall Art",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 69.99,
+      "image_url": "https://images.brickset.com/sets/images/75466-1.jpg",
+      "prev_buy_score": null
+    },
+    "75467": {
+      "name": "A New Hope Movie Poster",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 299.99,
+      "image_url": "https://images.brickset.com/sets/images/75467-1.jpg",
+      "prev_buy_score": null
+    },
+    "75470": {
+      "name": "Mustafar Duel",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 39.99,
+      "image_url": "https://images.brickset.com/sets/images/75470-1.jpg",
+      "prev_buy_score": null
+    },
+    "75478": {
+      "name": "Rebel Y-wing Starfighter",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/75478-1.jpg",
+      "prev_buy_score": null
+    },
+    "75480": {
+      "name": "Duel on Bespin",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/75480-1.jpg",
+      "prev_buy_score": null
+    },
+    "75482": {
+      "name": "Up-Scaled Luke Skywalker Minifigure",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 99.99,
+      "image_url": "https://images.brickset.com/sets/images/75482-1.jpg",
+      "prev_buy_score": null
+    },
+    "75495": {
+      "name": "Stormtrooper (Concept Art) Helmet",
+      "theme": "Star Wars",
+      "date_first_available": "2027-01-01",
+      "msrp": 79.99,
+      "image_url": "https://images.brickset.com/sets/images/75495-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010876": {
+      "name": "Macy's Parade 100 Santa Soars",
+      "theme": "Seasonal",
+      "date_first_available": "2026-11-14",
+      "image_url": "https://images.brickset.com/sets/images/5010876-1.jpg",
+      "prev_buy_score": null
+    },
+    "5011070": {
+      "name": "Santa's Workshop",
+      "theme": "Seasonal",
+      "date_first_available": "2026-11-13",
+      "image_url": "https://images.brickset.com/sets/images/5011070-1.jpg",
+      "prev_buy_score": null
+    },
+    "6644894": {
+      "name": "Reindeer",
+      "theme": "Promotional",
+      "date_first_available": "2026-11-13",
+      "image_url": "https://images.brickset.com/sets/images/6644894-1.jpg",
+      "prev_buy_score": null
+    },
+    "GODZILLAPOSTER": {
+      "name": "Godzilla Poster",
+      "theme": "Gear",
+      "date_first_available": "2026-11-27",
+      "image_url": "https://images.brickset.com/sets/images/GODZILLAPOSTER-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
