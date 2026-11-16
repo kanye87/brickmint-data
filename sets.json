@@ -13440,7 +13440,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-19T04:04:18.131787Z",
       "last_updated": "2026-11-16T12:01:30Z",
-      "prev_buy_score": 18,
+      "prev_buy_score": 21,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "40547": {
@@ -23111,7 +23111,7 @@
           "value": 28.52
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "43013": {
@@ -24025,7 +24025,7 @@
           "value": 99.38
         }
       ],
-      "prev_buy_score": 35,
+      "prev_buy_score": 36,
       "purchase_price": 79.0,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
@@ -47867,7 +47867,7 @@
           "value": 22.44
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 33,
       "purchase_price": 9.99,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
@@ -55887,8 +55887,8 @@
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 49,
-      "current_best_price": 48.2,
+      "buy_score": 45,
+      "current_best_price": 56.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -55898,11 +55898,11 @@
       "name": "BB-8",
       "owned_by": 998,
       "pieces": 569,
-      "price_score": 35,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -56001,7 +56001,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 48.2,
+          "price": 56.98,
           "shop": "Brickwatch"
         }
       ],
@@ -56018,8 +56018,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-11-16T05:04:17.131702Z",
-      "last_updated": "2026-11-16T05:04:17.131704Z",
+      "last_brickwatch_alert": "2026-11-16T12:34:17.863107Z",
+      "last_updated": "2026-11-16T12:34:17.863114Z",
       "market_value": 84.97,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
