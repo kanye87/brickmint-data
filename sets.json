@@ -6448,7 +6448,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 188.78,
+      "current_best_price": 188.77,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -6472,8 +6472,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-11-10T09:34:23.045627Z",
-      "last_updated": "2026-11-11T11:25:51Z",
+      "last_brickwatch_alert": "2026-11-16T04:34:15.099208Z",
+      "last_updated": "2026-11-16T04:34:15.099218Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -6607,6 +6607,11 @@
         {
           "date": "2026-11-11",
           "price": 188.78,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 188.77,
           "shop": "Brickwatch"
         }
       ],
@@ -23995,12 +24000,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 66,
-      "current_best_price": 49.99,
+      "current_best_price": 49.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-26T05:04:15.839143Z",
-      "last_updated": "2026-10-26T05:04:15.839147Z",
+      "last_brickwatch_alert": "2026-11-16T04:34:15.099401Z",
+      "last_updated": "2026-11-16T04:34:15.099403Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
@@ -24164,6 +24169,11 @@
         {
           "date": "2026-10-26",
           "price": 49.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 49.98,
           "shop": "Brickwatch"
         }
       ],
@@ -52959,8 +52969,8 @@
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-11-13T20:04:17.710692Z",
-      "last_updated": "2026-11-13T20:04:17.710703Z",
+      "last_brickwatch_alert": "2026-11-16T04:34:15.099552Z",
+      "last_updated": "2026-11-16T04:34:15.099554Z",
       "market_value": 69.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -66438,19 +66448,19 @@
     "76350": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 48,
-      "current_best_price": 59.84,
+      "buy_score": 47,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76350-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-13T05:04:18.011015Z",
-      "last_updated": "2026-11-13T05:04:18.011017Z",
+      "last_brickwatch_alert": "2026-11-16T04:34:15.099486Z",
+      "last_updated": "2026-11-16T04:34:15.099487Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Spider-Man vs. Hulk Epic Clash",
       "owned_by": 112,
       "pieces": 534,
-      "price_score": 30,
+      "price_score": 29,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -66531,6 +66541,11 @@
         {
           "date": "2026-11-13",
           "price": 59.84,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
@@ -83729,7 +83744,7 @@
       "brickset_last_enriched": "2026-10-26T23:29:40Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": 50,
+      "prev_buy_score": 49,
       "status": "watchlist",
       "label": "investering",
       "market_value": 87.19,
