@@ -23521,7 +23521,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 48,
-      "current_best_price": 44.95,
+      "current_best_price": 41.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -23672,13 +23672,18 @@
           "date": "2026-11-14",
           "price": 44.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 41.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-11-14T01:34:24.777219Z",
-      "last_updated": "2026-11-14T01:34:24.777228Z",
+      "last_brickwatch_alert": "2026-11-17T05:04:16.725921Z",
+      "last_updated": "2026-11-17T05:04:16.725928Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 64.04,
       "market_value_source": "ebay",
@@ -23891,8 +23896,8 @@
       "year": 2026,
       "subtheme": "Football",
       "current_best_price": 83.0,
-      "last_brickwatch_alert": "2026-11-10T13:04:17.804216Z",
-      "last_updated": "2026-11-16T12:01:30Z",
+      "last_brickwatch_alert": "2026-11-17T05:04:16.726098Z",
+      "last_updated": "2026-11-17T05:04:16.726100Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -55407,8 +55412,8 @@
     "75441": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 50,
-      "current_best_price": 51.49,
+      "buy_score": 52,
+      "current_best_price": 49.81,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75441-1.jpg",
       "label": "persoonlijk",
@@ -55417,7 +55422,7 @@
       "name": "Venator-class Attack Cruiser",
       "owned_by": 2099,
       "pieces": 643,
-      "price_score": 30,
+      "price_score": 32,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -55431,8 +55436,8 @@
       "urgency_score": 3,
       "wanted_by": 2462,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-14T05:04:14.400970Z",
-      "last_updated": "2026-11-14T05:04:14.400971Z",
+      "last_brickwatch_alert": "2026-11-17T05:04:16.726030Z",
+      "last_updated": "2026-11-17T05:04:16.726032Z",
       "subtheme": "Starship Collection",
       "price_history": [
         {
@@ -55533,6 +55538,11 @@
         {
           "date": "2026-11-14",
           "price": 51.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 49.81,
           "shop": "Brickwatch"
         }
       ],
