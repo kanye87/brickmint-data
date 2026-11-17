@@ -36164,7 +36164,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 40,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "75209": {
@@ -88791,13 +88791,13 @@
       "sell_score": null,
       "status": "watchlist",
       "label": "investering",
-      "price_score": 4,
+      "price_score": 5,
       "roi_score": 2,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 24,
+      "buy_score": 25,
       "market_value": 168.04,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-10-29T12:02:55.419870+00:00",
@@ -88812,19 +88812,25 @@
         }
       ],
       "price_checked_at": "2026-11-16T12:01:30Z",
-      "current_best_price": 152.99,
+      "current_best_price": 149.9,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_updated": "2026-11-17T21:34:24.996017Z",
       "price_history": [
         {
           "date": "2026-09-30",
           "price": 152.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 149.9,
+          "shop": "Brickwatch"
         }
       ],
       "retirement_date": "2027-12-31",
       "expected_retirement": "2027-12",
-      "retirement_date_source": "brickset_exitDate"
+      "retirement_date_source": "brickset_exitDate",
+      "last_brickwatch_alert": "2026-11-17T21:34:24.996008Z"
     },
     "10371": {
       "name": "Cosy Plants",
