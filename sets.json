@@ -5054,8 +5054,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 41,
-      "current_best_price": 48.99,
+      "buy_score": 29,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -5064,11 +5064,11 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 26,
+      "price_score": 15,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -5078,8 +5078,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-09T09:04:18.636062Z",
-      "last_updated": "2026-11-09T09:04:18.636073Z",
+      "last_brickwatch_alert": "2026-11-17T11:34:24.122692Z",
+      "last_updated": "2026-11-17T11:34:24.122696Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -5140,6 +5140,11 @@
         {
           "date": "2026-11-09",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ],
@@ -21243,8 +21248,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 63,
-      "current_best_price": 162.49,
+      "buy_score": 59,
+      "current_best_price": 169.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -21253,11 +21258,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 31,
+      "price_score": 28,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21267,8 +21272,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-15T05:34:15.516486Z",
-      "last_updated": "2026-11-15T05:34:15.516493Z",
+      "last_brickwatch_alert": "2026-11-17T11:34:24.122557Z",
+      "last_updated": "2026-11-17T11:34:24.122564Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -21389,6 +21394,11 @@
         {
           "date": "2026-11-15",
           "price": 162.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 169.98,
           "shop": "Brickwatch"
         }
       ],
