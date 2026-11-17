@@ -36154,7 +36154,7 @@
           "value": 733.61
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "75209": {
@@ -61511,7 +61511,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 25,
-      "current_best_price": 793.02,
+      "current_best_price": 905.73,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76210-1.jpg",
       "label": "investering",
@@ -61603,10 +61603,15 @@
           "date": "2026-10-03",
           "price": 793.02,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 905.73,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-03T15:04:17.880059Z",
-      "last_updated": "2026-10-03T15:04:17.880067Z",
+      "last_brickwatch_alert": "2026-11-17T10:34:16.727175Z",
+      "last_updated": "2026-11-17T10:34:16.727183Z",
       "minifig_list": [
         {
           "id": "fig-013192",
