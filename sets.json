@@ -35810,7 +35810,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 719.99,
+      "current_best_price": 679.7,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -35841,15 +35841,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 9,
-      "roi_score": 1,
+      "price_score": 13,
+      "roi_score": 2,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 40,
-      "last_brickwatch_alert": "2026-11-11T09:34:16.343441Z",
-      "last_updated": "2026-11-11T09:34:16.343450Z",
+      "buy_score": 45,
+      "last_brickwatch_alert": "2026-11-17T01:04:19.688674Z",
+      "last_updated": "2026-11-17T01:04:19.688682Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -36053,6 +36053,11 @@
         {
           "date": "2026-11-11",
           "price": 719.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 679.7,
           "shop": "Brickwatch"
         }
       ],
