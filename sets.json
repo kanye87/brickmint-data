@@ -33958,8 +33958,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 109.99,
+      "buy_score": 52,
+      "current_best_price": 105.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -33968,7 +33968,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 25,
+      "price_score": 27,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -33982,8 +33982,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-16T17:34:24.991007Z",
-      "last_updated": "2026-11-16T17:34:24.991016Z",
+      "last_brickwatch_alert": "2026-11-18T00:04:19.208865Z",
+      "last_updated": "2026-11-18T00:04:19.208873Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -34219,6 +34219,11 @@
         {
           "date": "2026-11-16",
           "price": 109.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 105.99,
           "shop": "Brickwatch"
         }
       ],
@@ -84619,7 +84624,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 42,
-      "prev_buy_score": 46,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-16T12:01:30Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-icons-racefiets-11380-laagste-ooit-427079"
     },
@@ -85731,7 +85736,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 56,
-      "prev_buy_score": 57,
+      "prev_buy_score": 56,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
@@ -85875,7 +85880,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 57,
-      "prev_buy_score": 56,
+      "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-16T12:01:30Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
@@ -87454,13 +87459,13 @@
       "name": "Donkey Kong Arcade",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 26,
+      "price_score": 28,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 48,
+      "buy_score": 50,
       "sell_score": null,
       "prev_buy_score": 48,
       "theme": "Super Mario",
@@ -87495,10 +87500,10 @@
           "value": 154.95
         }
       ],
-      "current_best_price": 118.99,
+      "current_best_price": 114.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-12T13:04:31.970946Z",
-      "last_updated": "2026-11-12T13:04:31.970952Z",
+      "last_brickwatch_alert": "2026-11-18T00:04:19.209029Z",
+      "last_updated": "2026-11-18T00:04:19.209031Z",
       "price_history": [
         {
           "date": "2026-08-25",
@@ -87603,6 +87608,11 @@
         {
           "date": "2026-11-12",
           "price": 118.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 114.99,
           "shop": "Brickwatch"
         }
       ],
