@@ -23530,8 +23530,8 @@
     "43015": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
-      "current_best_price": 41.99,
+      "buy_score": 51,
+      "current_best_price": 29.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -23543,7 +23543,7 @@
       "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 8,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -23687,13 +23687,18 @@
           "date": "2026-11-17",
           "price": 41.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 29.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-11-17T05:04:16.725921Z",
-      "last_updated": "2026-11-17T05:04:16.725928Z",
+      "last_brickwatch_alert": "2026-11-18T05:04:24.359524Z",
+      "last_updated": "2026-11-18T05:04:24.359526Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 64.04,
       "market_value_source": "ebay",
@@ -54277,8 +54282,8 @@
     "75431": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 54,
-      "current_best_price": 27.33,
+      "buy_score": 56,
+      "current_best_price": 26.36,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75431-1.jpg",
       "label": "investering",
@@ -54288,7 +54293,7 @@
       "name": "327th Star Corps Clone Troopers Battle Pack",
       "owned_by": 5248,
       "pieces": 258,
-      "price_score": 28,
+      "price_score": 30,
       "rating": 3.6,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
@@ -54302,8 +54307,8 @@
       "urgency_score": 8,
       "wanted_by": 2553,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-09T05:04:17.710791Z",
-      "last_updated": "2026-11-09T05:04:17.710793Z",
+      "last_brickwatch_alert": "2026-11-18T05:04:24.359711Z",
+      "last_updated": "2026-11-18T05:04:24.359713Z",
       "subtheme": "The Clone Wars",
       "minifig_list": [
         {
@@ -54429,6 +54434,11 @@
         {
           "date": "2026-11-09",
           "price": 27.33,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 26.36,
           "shop": "Brickwatch"
         }
       ],
@@ -76168,8 +76178,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 75,
-      "current_best_price": 19.28,
+      "buy_score": 81,
+      "current_best_price": 18.01,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -76179,11 +76189,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 27,
+      "price_score": 32,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -76202,8 +76212,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-16T03:34:24.125501Z",
-      "last_updated": "2026-11-16T03:34:24.125505Z",
+      "last_brickwatch_alert": "2026-11-18T05:04:24.359659Z",
+      "last_updated": "2026-11-18T05:04:24.359662Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -76368,6 +76378,11 @@
         {
           "date": "2026-11-16",
           "price": 19.28,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 18.01,
           "shop": "Brickwatch"
         }
       ],
