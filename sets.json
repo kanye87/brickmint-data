@@ -23725,7 +23725,7 @@
           "value": 64.04
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "43016": {
@@ -23910,9 +23910,9 @@
       "wanted_by": 340,
       "year": 2026,
       "subtheme": "Football",
-      "current_best_price": 83.0,
-      "last_brickwatch_alert": "2026-11-17T05:04:16.726098Z",
-      "last_updated": "2026-11-17T05:04:16.726100Z",
+      "current_best_price": 82.0,
+      "last_brickwatch_alert": "2026-11-18T09:34:19.721645Z",
+      "last_updated": "2026-11-18T09:34:19.721654Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -24017,6 +24017,11 @@
         {
           "date": "2026-11-16",
           "price": 83.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 82.0,
           "shop": "Brickwatch"
         }
       ],
@@ -54471,7 +54476,7 @@
           "value": 31.45
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 56,
       "purchase_price": 22.0,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
@@ -76415,7 +76420,7 @@
           "value": 22.88
         }
       ],
-      "prev_buy_score": 75,
+      "prev_buy_score": 81,
       "price_checked_at": "2026-11-16T12:01:30Z"
     },
     "77985": {
