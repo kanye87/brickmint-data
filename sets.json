@@ -13450,7 +13450,7 @@
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-10-19T04:04:18.131787Z",
       "last_updated": "2026-11-18T12:12:57Z",
-      "prev_buy_score": 21,
+      "prev_buy_score": 20,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "40547": {
@@ -23915,7 +23915,7 @@
           "value": 60.28
         }
       ],
-      "prev_buy_score": 44,
+      "prev_buy_score": 48,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "43019": {
@@ -36228,7 +36228,7 @@
           "value": 724.21
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75209": {
@@ -51935,7 +51935,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 50,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75408": {
@@ -52060,7 +52060,7 @@
           "value": 62.06
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 50,
       "purchase_price": 47,
       "sell_roi_score": 22,
       "sell_trend_score": 3,
@@ -54526,7 +54526,7 @@
           "value": 31.45
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 60,
       "purchase_price": 22.0,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
@@ -55100,7 +55100,7 @@
           "value": 34.35
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75439": {
@@ -84063,7 +84063,7 @@
       "brickset_last_enriched": "2026-10-26T23:29:40Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": 50,
+      "prev_buy_score": 49,
       "status": "watchlist",
       "label": "investering",
       "market_value": 87.19,
@@ -84734,7 +84734,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 37,
-      "prev_buy_score": 42,
+      "prev_buy_score": 37,
       "price_checked_at": "2026-11-18T12:12:57Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-icons-racefiets-11380-laagste-ooit-427079"
     },
@@ -87744,7 +87744,7 @@
       "score_quality": "full",
       "buy_score": 44,
       "sell_score": null,
-      "prev_buy_score": 43,
+      "prev_buy_score": 44,
       "theme": "Pokémon",
       "year": 2026,
       "msrp": 259.99,
@@ -87881,7 +87881,7 @@
       "score_quality": "full",
       "buy_score": 40,
       "sell_score": null,
-      "prev_buy_score": 46,
+      "prev_buy_score": 40,
       "theme": "Star Wars",
       "year": 2026,
       "msrp": 69.99,
