@@ -5781,8 +5781,8 @@
     "11373": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 45,
-      "current_best_price": 46.69,
+      "buy_score": 47,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/11373-1.jpg",
       "label": "persoonlijk",
@@ -5792,7 +5792,7 @@
       "name": "The Lord of the Rings: Sauron's Helmet",
       "owned_by": 1410,
       "pieces": 538,
-      "price_score": 33,
+      "price_score": 35,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2028-12-31",
@@ -5808,8 +5808,8 @@
       "wanted_by": 1776,
       "year": 2026,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-11-09T05:04:17.710701Z",
-      "last_updated": "2026-11-09T05:04:17.710703Z",
+      "last_brickwatch_alert": "2026-11-18T23:34:21.458978Z",
+      "last_updated": "2026-11-18T23:34:21.458984Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2026-01-27",
       "lego_availability": "Retail",
@@ -5893,6 +5893,11 @@
         {
           "date": "2026-11-03",
           "price": 46.69,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
