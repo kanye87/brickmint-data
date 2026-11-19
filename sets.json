@@ -34666,8 +34666,8 @@
     "72046": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 46,
-      "current_best_price": 38.95,
+      "buy_score": 48,
+      "current_best_price": 37.59,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72046-1.jpg",
       "label": "persoonlijk",
@@ -34676,11 +34676,11 @@
       "name": "Game Boy",
       "owned_by": 7046,
       "pieces": 421,
-      "price_score": 31,
+      "price_score": 32,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 41,
@@ -34691,8 +34691,8 @@
       "wanted_by": 1798,
       "year": 2025,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-11-16T04:04:16.169994Z",
-      "last_updated": "2026-11-16T04:04:16.170002Z",
+      "last_brickwatch_alert": "2026-11-19T17:34:25.888810Z",
+      "last_updated": "2026-11-19T17:34:25.888818Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -34792,6 +34792,11 @@
         {
           "date": "2026-11-16",
           "price": 38.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 37.59,
           "shop": "Brickwatch"
         }
       ],
@@ -52574,7 +52579,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-75409-star-wars-jango-fetts-firespray-class-ruimteschip-laagste-prijs-ooit-at-bol-415918",
-      "prev_buy_score": 31,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75410": {
@@ -54469,7 +54474,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
-      "prev_buy_score": 57,
+      "prev_buy_score": 65,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75431": {
@@ -56337,7 +56342,7 @@
           "value": 84.97
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75682": {
@@ -67021,17 +67026,17 @@
     "76354": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 62,
-      "current_best_price": 237.99,
+      "buy_score": 63,
+      "current_best_price": 208.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76354-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 232.99,
+      "lowest_price_ever": 208.0,
       "msrp": 369.99,
       "name": "S.H.I.E.L.D. Helicarrier",
       "owned_by": 111,
       "pieces": 3057,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 0,
@@ -67048,8 +67053,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702018063354",
       "subtheme": "Avengers",
-      "last_brickwatch_alert": "2026-11-09T03:04:18.176117Z",
-      "last_updated": "2026-11-11T11:25:51Z",
+      "last_brickwatch_alert": "2026-11-19T17:34:25.889050Z",
+      "last_updated": "2026-11-19T17:34:25.889053Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -67204,6 +67209,11 @@
         {
           "date": "2026-11-11",
           "price": 237.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 208.0,
           "shop": "Brickwatch"
         }
       ],
