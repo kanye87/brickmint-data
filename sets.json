@@ -4213,7 +4213,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 8,
-      "prev_buy_score": 47,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "10355": {
@@ -34811,7 +34811,7 @@
     "72050": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 42,
+      "buy_score": 49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72050-1.jpg",
       "label": "investering",
@@ -34820,11 +34820,11 @@
       "name": "Mario Kart – Luigi & Mach 8",
       "owned_by": 336,
       "pieces": 2234,
-      "price_score": 20,
+      "price_score": 26,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -34838,9 +34838,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 129.0,
-      "last_brickwatch_alert": "2026-11-19T00:04:23.878338Z",
-      "last_updated": "2026-11-19T00:04:23.878339Z",
+      "current_best_price": 113.9,
+      "last_brickwatch_alert": "2026-11-19T11:34:23.530080Z",
+      "last_updated": "2026-11-19T11:34:23.530082Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -35020,7 +35020,7 @@
         },
         {
           "date": "2026-11-19",
-          "price": 129.0,
+          "price": 113.9,
           "shop": "Brickwatch"
         }
       ],
@@ -88024,13 +88024,13 @@
       "name": "Imperial Remnant AT-RT Driver Helmet",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 19,
+      "price_score": 21,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 41,
+      "buy_score": 43,
       "sell_score": null,
       "prev_buy_score": 41,
       "theme": "Star Wars",
@@ -88070,10 +88070,10 @@
           "value": 72.66
         }
       ],
-      "current_best_price": 54.68,
+      "current_best_price": 52.9,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-16T11:04:20.296826Z",
-      "last_updated": "2026-11-18T12:12:57Z",
+      "last_brickwatch_alert": "2026-11-19T11:34:23.529899Z",
+      "last_updated": "2026-11-19T11:34:23.529908Z",
       "price_history": [
         {
           "date": "2026-08-24",
@@ -88168,6 +88168,11 @@
         {
           "date": "2026-11-18",
           "price": 54.68,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 52.9,
           "shop": "Brickwatch"
         }
       ],
