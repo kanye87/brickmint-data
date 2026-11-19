@@ -5081,8 +5081,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 29,
-      "current_best_price": 57.99,
+      "buy_score": 35,
+      "current_best_price": 53.9,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -5091,11 +5091,11 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 15,
+      "price_score": 20,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -5105,8 +5105,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-17T11:34:24.122692Z",
-      "last_updated": "2026-11-17T11:34:24.122696Z",
+      "last_brickwatch_alert": "2026-11-19T10:04:18.920185Z",
+      "last_updated": "2026-11-19T10:04:18.920190Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -5172,6 +5172,11 @@
         {
           "date": "2026-11-17",
           "price": 57.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 53.9,
           "shop": "Brickwatch"
         }
       ],
@@ -53970,7 +53975,7 @@
           "value": 378.19
         }
       ],
-      "prev_buy_score": 28,
+      "prev_buy_score": 34,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75428": {
@@ -55897,7 +55902,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 25,
+      "prev_buy_score": 26,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75446": {
@@ -87685,7 +87690,7 @@
       "score_quality": "full",
       "buy_score": 53,
       "sell_score": null,
-      "prev_buy_score": 51,
+      "prev_buy_score": 53,
       "theme": "Super Mario",
       "year": 2026,
       "msrp": 169.99,
@@ -87853,13 +87858,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 26,
+      "price_score": 29,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 48,
+      "buy_score": 51,
       "sell_score": null,
       "prev_buy_score": 48,
       "theme": "Pokémon",
@@ -87897,10 +87902,10 @@
           "value": 236.44
         }
       ],
-      "current_best_price": 181.99,
+      "current_best_price": 173.9,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-16T19:34:19.531623Z",
-      "last_updated": "2026-11-18T12:12:57Z",
+      "last_brickwatch_alert": "2026-11-19T10:04:18.919938Z",
+      "last_updated": "2026-11-19T10:04:18.919947Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -87980,6 +87985,11 @@
         {
           "date": "2026-11-18",
           "price": 181.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 173.9,
           "shop": "Brickwatch"
         }
       ],
