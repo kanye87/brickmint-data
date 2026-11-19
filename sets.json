@@ -24163,7 +24163,7 @@
           "value": 99.38
         }
       ],
-      "prev_buy_score": 36,
+      "prev_buy_score": 37,
       "purchase_price": 79.0,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
@@ -52189,24 +52189,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 31,
-      "current_best_price": 267.2,
+      "buy_score": 50,
+      "current_best_price": 210.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-13T21:04:25.267977Z",
-      "last_updated": "2026-11-13T21:04:25.267986Z",
+      "last_brickwatch_alert": "2026-11-19T17:04:23.909972Z",
+      "last_updated": "2026-11-19T17:04:23.909977Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 10,
+      "price_score": 26,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -52540,6 +52540,11 @@
         {
           "date": "2026-11-13",
           "price": 267.2,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 210.0,
           "shop": "Brickwatch"
         }
       ],
@@ -54276,24 +54281,24 @@
     "75430": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 57,
-      "current_best_price": 94.99,
+      "buy_score": 65,
+      "current_best_price": 84.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75430-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-10-26T00:04:18.425494Z",
-      "last_updated": "2026-10-26T00:04:18.425498Z",
+      "last_brickwatch_alert": "2026-11-19T17:04:23.909762Z",
+      "last_updated": "2026-11-19T17:04:23.909771Z",
       "lowest_price_ever": null,
       "minifigs": 1,
       "msrp": 119.99,
       "name": "Wicket the Ewok",
       "owned_by": 2142,
       "pieces": 1010,
-      "price_score": 18,
+      "price_score": 25,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -54426,6 +54431,11 @@
         {
           "date": "2026-10-26",
           "price": 94.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 84.99,
           "shop": "Brickwatch"
         }
       ],
@@ -56164,8 +56174,8 @@
     "75452": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 45,
-      "current_best_price": 56.98,
+      "buy_score": 49,
+      "current_best_price": 49.69,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -56175,11 +56185,11 @@
       "name": "BB-8",
       "owned_by": 998,
       "pieces": 569,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -56280,6 +56290,11 @@
           "date": "2026-11-16",
           "price": 56.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 49.69,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -56295,8 +56310,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-11-16T12:34:17.863107Z",
-      "last_updated": "2026-11-16T12:34:17.863114Z",
+      "last_brickwatch_alert": "2026-11-19T17:04:23.910117Z",
+      "last_updated": "2026-11-19T17:04:23.910121Z",
       "market_value": 84.97,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
