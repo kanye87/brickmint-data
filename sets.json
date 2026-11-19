@@ -2270,7 +2270,7 @@
           "value": 167.19
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "10317": {
@@ -23803,8 +23803,8 @@
     "43016": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 48,
-      "current_best_price": 39.99,
+      "buy_score": 44,
+      "current_best_price": 49.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43016-1.jpg",
       "label": "investering",
@@ -23813,10 +23813,10 @@
       "name": "Cristiano Ronaldo – Football Legend",
       "owned_by": 51,
       "pieces": 854,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -23829,8 +23829,8 @@
       "date_first_available": "2026-04-03",
       "lego_availability": "{Not specified}",
       "ean": "5702018069561",
-      "last_brickwatch_alert": "2026-11-19T05:34:15.974996Z",
-      "last_updated": "2026-11-19T05:34:15.974998Z",
+      "last_brickwatch_alert": "2026-11-19T07:34:18.568222Z",
+      "last_updated": "2026-11-19T07:34:18.568232Z",
       "subtheme": "Football",
       "price_history": [
         {
@@ -23926,6 +23926,11 @@
         {
           "date": "2026-11-18",
           "price": 39.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 49.95,
           "shop": "Brickwatch"
         }
       ],
@@ -53965,7 +53970,7 @@
           "value": 378.19
         }
       ],
-      "prev_buy_score": 25,
+      "prev_buy_score": 28,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75428": {
@@ -54997,7 +55002,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 72,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-18T12:12:57Z"
@@ -84571,7 +84576,7 @@
       "rating": 4.5,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "The Lord of the Rings",
-      "prev_buy_score": 18,
+      "prev_buy_score": 27,
       "status": "watchlist",
       "label": "investering",
       "market_value": 118.78,
