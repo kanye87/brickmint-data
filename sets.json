@@ -5096,8 +5096,8 @@
     "10375": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 35,
-      "current_best_price": 53.9,
+      "buy_score": 41,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10375-1.jpg",
       "label": "investering",
@@ -5106,7 +5106,7 @@
       "name": "How to Train Your Dragon: Toothless",
       "owned_by": 1230,
       "pieces": 784,
-      "price_score": 20,
+      "price_score": 26,
       "rating": 3.9,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -5120,8 +5120,8 @@
       "urgency_score": 0,
       "wanted_by": 1249,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-19T10:04:18.920185Z",
-      "last_updated": "2026-11-19T10:04:18.920190Z",
+      "last_brickwatch_alert": "2026-11-20T05:04:27.945808Z",
+      "last_updated": "2026-11-20T05:04:27.945812Z",
       "subtheme": "How to Train Your Dragon",
       "minifig_list": [],
       "expected_retirement": "2028-12",
@@ -5192,6 +5192,11 @@
         {
           "date": "2026-11-19",
           "price": 53.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 48.99,
           "shop": "Brickwatch"
         }
       ],
@@ -51902,7 +51907,7 @@
           "value": 65.25
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 74,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "75407": {
@@ -55128,7 +55133,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 72,
+      "prev_buy_score": 70,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-18T12:12:57Z"
@@ -88329,13 +88334,13 @@
       "name": "Up-Scaled Darth Vader Minifigure",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 20,
-      "roi_score": 4,
+      "price_score": 26,
+      "roi_score": 5,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 42,
+      "buy_score": 49,
       "sell_score": null,
       "prev_buy_score": 42,
       "theme": "Star Wars",
@@ -88375,10 +88380,10 @@
           "value": 99.0
         }
       ],
-      "current_best_price": 76.9,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-19T10:34:28.199237Z",
-      "last_updated": "2026-11-19T10:34:28.199239Z",
+      "last_brickwatch_alert": "2026-11-20T05:04:27.945961Z",
+      "last_updated": "2026-11-20T05:04:27.945964Z",
       "price_history": [
         {
           "date": "2026-08-31",
@@ -88403,6 +88408,11 @@
         {
           "date": "2026-11-19",
           "price": 76.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 69.99,
           "shop": "Brickwatch"
         }
       ],
@@ -88674,16 +88684,16 @@
       "name": "Orange Cat",
       "status": "watchlist",
       "label": "investering",
-      "current_best_price": 84.99,
+      "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
       "prev_buy_score": 26,
-      "price_score": 13,
-      "roi_score": 5,
+      "price_score": 26,
+      "roi_score": 6,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 26,
+      "buy_score": 40,
       "sell_score": null,
       "theme": "Ideas",
       "year": 2026,
@@ -88718,14 +88728,20 @@
         }
       ],
       "price_checked_at": "2026-11-18T12:12:57Z",
-      "last_updated": "2026-09-30T21:00:37Z",
+      "last_updated": "2026-11-20T05:04:27.945664Z",
       "price_history": [
         {
           "date": "2026-09-30",
           "price": 84.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 69.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-11-20T05:04:27.945655Z"
     },
     "40856": {
       "name": "The Mandalorian and Grogu: Allies & Villains",
