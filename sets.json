@@ -74606,7 +74606,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": null,
-      "current_best_price": 423.88,
+      "current_best_price": 429.08,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77092-1.jpg",
       "label": "investering",
@@ -74631,8 +74631,8 @@
       "wanted_by": 2437,
       "year": 2024,
       "subtheme": "Miscellaneous",
-      "last_brickwatch_alert": "2026-11-08T14:04:22.106620Z",
-      "last_updated": "2026-11-08T14:04:22.106630Z",
+      "last_brickwatch_alert": "2026-11-20T10:04:20.471756Z",
+      "last_updated": "2026-11-20T10:04:20.471764Z",
       "minifig_list": [
         {
           "id": "fig-015498",
@@ -74872,6 +74872,11 @@
         {
           "date": "2026-11-08",
           "price": 423.88,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 429.08,
           "shop": "Brickwatch"
         }
       ],
@@ -86289,7 +86294,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 58,
-      "prev_buy_score": 57,
+      "prev_buy_score": 58,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-18T12:12:57Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
