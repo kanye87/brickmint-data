@@ -45028,7 +45028,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": null,
-      "current_best_price": 109.26,
+      "current_best_price": 94.91,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "persoonlijk",
@@ -45206,13 +45206,13 @@
         },
         {
           "date": "2026-11-20",
-          "price": 109.26,
+          "price": 94.91,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-11-20T21:04:16.555967Z",
-      "last_updated": "2026-11-20T21:04:16.555975Z",
+      "last_brickwatch_alert": "2026-11-20T22:04:18.570523Z",
+      "last_updated": "2026-11-20T22:04:18.570532Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:25+00:00",
@@ -61990,7 +61990,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
       "buy_score": 25,
-      "current_best_price": 905.73,
+      "current_best_price": 793.02,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76210-1.jpg",
       "label": "investering",
@@ -62095,12 +62095,12 @@
         },
         {
           "date": "2026-11-20",
-          "price": 905.73,
+          "price": 793.02,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-20T20:04:20.984383Z",
-      "last_updated": "2026-11-20T20:04:20.984387Z",
+      "last_brickwatch_alert": "2026-11-20T22:04:18.570806Z",
+      "last_updated": "2026-11-20T22:04:18.570809Z",
       "minifig_list": [
         {
           "id": "fig-013192",
@@ -63896,8 +63896,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 25,
-      "current_best_price": 453.04,
+      "buy_score": 26,
+      "current_best_price": 396.23,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -63944,7 +63944,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -64148,7 +64148,7 @@
         },
         {
           "date": "2026-11-20",
-          "price": 453.04,
+          "price": 396.23,
           "shop": "Brickwatch"
         }
       ],
@@ -64186,8 +64186,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-11-20T20:04:20.984846Z",
-      "last_updated": "2026-11-20T20:04:20.984849Z",
+      "last_brickwatch_alert": "2026-11-20T22:04:18.570709Z",
+      "last_updated": "2026-11-20T22:04:18.570711Z",
       "prev_buy_score": 25,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
