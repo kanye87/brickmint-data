@@ -21129,7 +21129,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 39,
-      "current_best_price": 299.99,
+      "current_best_price": 299.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -21247,12 +21247,12 @@
         },
         {
           "date": "2026-11-20",
-          "price": 299.99,
+          "price": 299.95,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-19T00:04:23.878450Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-20T18:34:18.173977Z",
+      "last_updated": "2026-11-20T18:34:18.173979Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -21403,7 +21403,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 59,
-      "current_best_price": 169.98,
+      "current_best_price": 169.96,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -21426,8 +21426,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-17T11:34:24.122557Z",
-      "last_updated": "2026-11-17T11:34:24.122564Z",
+      "last_brickwatch_alert": "2026-11-20T18:34:18.174112Z",
+      "last_updated": "2026-11-20T18:34:18.174113Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -21553,6 +21553,11 @@
         {
           "date": "2026-11-17",
           "price": 169.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 169.96,
           "shop": "Brickwatch"
         }
       ],
@@ -23715,7 +23720,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 48,
-      "current_best_price": 41.99,
+      "current_best_price": 41.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43015-1.jpg",
       "label": "investering",
@@ -23879,15 +23884,15 @@
         },
         {
           "date": "2026-11-20",
-          "price": 41.99,
+          "price": 41.95,
           "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
       "retirement_date": "2028-12-31",
       "expected_retirement": "2028-12",
-      "last_brickwatch_alert": "2026-11-18T05:04:24.359524Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-20T18:34:18.174076Z",
+      "last_updated": "2026-11-20T18:34:18.174077Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-editions-lionel-messi-43015-laagste-prijs-ooit-407516",
       "market_value": 64.04,
       "market_value_source": "ebay",
@@ -48498,7 +48503,7 @@
           "shop": "Brickwatch"
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 27,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75377": {
@@ -49188,7 +49193,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 66.59,
+      "current_best_price": 66.61,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -49395,7 +49400,7 @@
         },
         {
           "date": "2026-11-20",
-          "price": 66.59,
+          "price": 66.61,
           "shop": "Brickwatch"
         }
       ],
@@ -49433,8 +49438,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-11-20T12:04:20.053090Z",
-      "last_updated": "2026-11-20T12:04:20.053098Z",
+      "last_brickwatch_alert": "2026-11-20T18:34:18.173773Z",
+      "last_updated": "2026-11-20T18:34:18.173783Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:57+00:00",
