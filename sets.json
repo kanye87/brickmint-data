@@ -20926,21 +20926,21 @@
     "42171": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 56,
-      "current_best_price": 157.99,
+      "buy_score": 68,
+      "current_best_price": 129.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42171-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 131.99,
+      "lowest_price_ever": 129.99,
       "msrp": 219.99,
       "name": "Mercedes-AMG F1 W14 E Performance",
       "owned_by": 3412,
       "pieces": 1642,
-      "price_score": 25,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -20951,8 +20951,8 @@
       "wanted_by": 1376,
       "year": 2024,
       "subtheme": "Licensed",
-      "last_brickwatch_alert": "2026-11-17T00:04:24.455159Z",
-      "last_updated": "2026-11-18T12:12:57Z",
+      "last_brickwatch_alert": "2026-11-20T01:04:19.959367Z",
+      "last_updated": "2026-11-20T01:04:19.959375Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -21032,6 +21032,11 @@
         {
           "date": "2026-11-18",
           "price": 157.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 129.99,
           "shop": "Brickwatch"
         }
       ],
@@ -22397,7 +22402,7 @@
           "value": 161.68
         }
       ],
-      "prev_buy_score": 28,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-18T12:12:57Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-42207-ferrari-sf-24-f1-auto-421120"
     },
@@ -22741,23 +22746,23 @@
     "42228": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 45,
-      "current_best_price": 139.99,
+      "buy_score": 47,
+      "current_best_price": 128.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-20T00:34:16.832973Z",
-      "last_updated": "2026-11-20T00:34:16.832975Z",
+      "last_brickwatch_alert": "2026-11-20T01:04:20.085265Z",
+      "last_updated": "2026-11-20T01:04:20.085273Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
       "owned_by": 243,
       "pieces": 1675,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22885,7 +22890,7 @@
         },
         {
           "date": "2026-11-20",
-          "price": 139.99,
+          "price": 128.99,
           "shop": "Brickwatch"
         }
       ],
@@ -22916,7 +22921,7 @@
           "value": 172.13
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "43010": {
