@@ -2764,7 +2764,7 @@
           "value": 352.38
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 56,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -86146,10 +86146,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 49.95,
+      "current_best_price": 45.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-19T12:04:16.598584Z",
-      "last_updated": "2026-11-19T12:04:16.598592Z",
+      "last_brickwatch_alert": "2026-11-20T06:07:36.527765Z",
+      "last_updated": "2026-11-20T06:07:36.527772Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -86240,6 +86240,11 @@
           "date": "2026-11-19",
           "price": 49.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 45.99,
+          "shop": "Brickwatch"
         }
       ],
       "year": 2026,
@@ -86278,12 +86283,12 @@
         }
       ],
       "price_score": 35,
-      "roi_score": 4,
+      "roi_score": 5,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 57,
+      "buy_score": 58,
       "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-18T12:12:57Z",
