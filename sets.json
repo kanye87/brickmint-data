@@ -23405,7 +23405,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 66,
-      "current_best_price": 49.98,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43014-1.jpg",
       "label": "investering",
@@ -23465,8 +23465,8 @@
           "value": 82.41
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T05:04:15.839066Z",
-      "last_updated": "2026-11-18T12:12:57Z",
+      "last_brickwatch_alert": "2026-11-20T02:04:26.868768Z",
+      "last_updated": "2026-11-20T02:04:26.868779Z",
       "subtheme": "F1 Helmets",
       "price_history": [
         {
@@ -23627,6 +23627,11 @@
         {
           "date": "2026-11-18",
           "price": 49.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -35288,7 +35293,7 @@
           "value": 49.25
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-11-18T12:12:57Z"
     },
     "72152": {
@@ -84266,7 +84271,7 @@
       "brickset_last_enriched": "2026-10-26T23:29:40Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": 49,
+      "prev_buy_score": 50,
       "status": "watchlist",
       "label": "investering",
       "market_value": 87.19,
@@ -84796,10 +84801,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 64.99,
-      "current_best_shop": "Amazon.nl",
-      "last_brickwatch_alert": "2026-11-19T00:04:23.878258Z",
-      "last_updated": "2026-11-19T14:59:29.111822Z",
+      "current_best_price": 79.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-20T02:04:26.868930Z",
+      "last_updated": "2026-11-20T02:04:26.868934Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -84920,6 +84925,11 @@
           "date": "2026-11-19",
           "price": 64.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 79.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -84945,13 +84955,13 @@
           "value": 75.41
         }
       ],
-      "price_score": 35,
-      "roi_score": 3,
+      "price_score": 29,
+      "roi_score": 0,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 46,
+      "buy_score": 37,
       "prev_buy_score": 46,
       "price_checked_at": "2026-11-18T12:12:57Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-icons-racefiets-11380-voor-6499-met-kortingsvoucher-427955"
