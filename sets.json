@@ -2901,8 +2901,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 32,
-      "current_best_price": 45.99,
+      "buy_score": 29,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2912,7 +2912,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 29,
+      "price_score": 26,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2935,8 +2935,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-20T00:04:16.470548Z",
-      "last_updated": "2026-11-20T00:04:16.470551Z",
+      "last_brickwatch_alert": "2026-11-21T09:04:21.976573Z",
+      "last_updated": "2026-11-21T09:04:21.976581Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -3085,6 +3085,11 @@
         {
           "date": "2026-11-20",
           "price": 45.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 48.99,
           "shop": "Brickwatch"
         }
       ],
@@ -22824,13 +22829,13 @@
     "42228": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
-      "buy_score": 48,
-      "current_best_price": 118.99,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 47,
+      "current_best_price": 129.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-20T01:04:20.085265Z",
-      "last_updated": "2026-11-20T14:41:55.319976Z",
+      "last_brickwatch_alert": "2026-11-21T09:04:21.976790Z",
+      "last_updated": "2026-11-21T09:04:21.976795Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
@@ -22840,7 +22845,7 @@
       "rating": 0.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -22970,6 +22975,11 @@
           "date": "2026-11-20",
           "price": 118.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 129.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
