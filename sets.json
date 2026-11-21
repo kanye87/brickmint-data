@@ -21295,7 +21295,7 @@
           "value": 312.88
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 40,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "42173": {
@@ -66744,7 +66744,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 39,
-      "current_best_price": 94.99,
+      "current_best_price": 93.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -66768,8 +66768,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-16T10:34:17.366147Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-21T07:34:19.275286Z",
+      "last_updated": "2026-11-21T07:34:19.275294Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -66925,6 +66925,11 @@
         {
           "date": "2026-11-20",
           "price": 94.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 93.99,
           "shop": "Brickwatch"
         }
       ],
@@ -76931,7 +76936,7 @@
           "value": 22.88
         }
       ],
-      "prev_buy_score": 81,
+      "prev_buy_score": 84,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "77985": {
