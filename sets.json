@@ -22345,7 +22345,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 7,
-      "prev_buy_score": 46,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "42207": {
@@ -49284,7 +49284,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 66.61,
+      "current_best_price": 66.7,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -49493,6 +49493,11 @@
           "date": "2026-11-20",
           "price": 66.61,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 66.7,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -49529,8 +49534,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-11-20T23:34:19.121236Z",
-      "last_updated": "2026-11-20T23:34:19.121244Z",
+      "last_brickwatch_alert": "2026-11-21T18:04:18.597974Z",
+      "last_updated": "2026-11-21T18:04:18.597982Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:57+00:00",
