@@ -8232,21 +8232,21 @@
     "21353": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 41,
+      "buy_score": 78,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21353-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 280.49,
+      "lowest_price_ever": 263.99,
       "minifigs": 12,
       "msrp": 329.99,
       "name": "The Botanical Garden",
       "owned_by": 3827,
       "pieces": 3792,
-      "price_score": 0,
+      "price_score": 35,
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -8372,9 +8372,9 @@
         }
       ],
       "prev_buy_score": 41,
-      "current_best_price": 329.99,
+      "current_best_price": 263.99,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-ideas-21353-de-botanisch-tuin-met-15-korting-en-3-gwp-cadeaus-lees-beschrijving-420016",
-      "last_updated": "2026-10-02T10:02:21Z",
+      "last_updated": "2026-11-21T02:04:21.616764Z",
       "price_history": [
         {
           "date": "2026-09-25",
@@ -8390,9 +8390,15 @@
           "date": "2026-10-02",
           "price": 329.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 263.99,
+          "shop": "Brickwatch"
         }
       ],
-      "price_checked_at": "2026-11-20T12:09:28Z"
+      "price_checked_at": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-21T02:04:21.616755Z"
     },
     "21354": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -65014,7 +65020,7 @@
           "value": 300.0
         }
       ],
-      "prev_buy_score": 45,
+      "prev_buy_score": 74,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "76301": {
@@ -85198,7 +85204,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 42,
-      "prev_buy_score": 37,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-icons-racefiets-11380-voor-6499-met-kortingsvoucher-427955"
     },
