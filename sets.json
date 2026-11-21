@@ -3119,7 +3119,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
-      "prev_buy_score": 32,
+      "prev_buy_score": 29,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "10331": {
@@ -23009,7 +23009,7 @@
           "value": 172.13
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 47,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "43010": {
@@ -45750,7 +45750,7 @@
     },
     "75351": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 67.99,
+      "current_best_price": 61.66,
       "date_first_available": "2023-01-28",
       "ean": "5702017433509",
       "expected_retirement": "2025-03",
@@ -45818,8 +45818,8 @@
       "year": 2023,
       "subtheme": "Helmet Collection",
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-20T20:04:20.984688Z",
-      "last_updated": "2026-11-20T20:04:20.984691Z",
+      "last_brickwatch_alert": "2026-11-21T11:04:17.949224Z",
+      "last_updated": "2026-11-21T11:04:17.949234Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45909,6 +45909,11 @@
         {
           "date": "2026-11-20",
           "price": 67.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 61.66,
           "shop": "Brickwatch"
         }
       ],
