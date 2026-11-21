@@ -10587,7 +10587,7 @@
       "label": "investering",
       "lego_availability": "Retail - limited",
       "lowest_price_ever": 3.5,
-      "msrp": null,
+      "msrp": 3.99,
       "name": "The Razor Crest",
       "owned_by": 4860,
       "pieces": 74,
@@ -10625,7 +10625,17 @@
       "prev_buy_score": null,
       "retirement_date_source": "brickset_exitDate",
       "status_source": "app",
-      "status_changed_by_user_at": "2026-08-28T13:45:56+00:00"
+      "status_changed_by_user_at": "2026-08-28T13:45:56+00:00",
+      "current_best_price": 3.75,
+      "last_brickwatch_alert": "2026-11-21T16:04:16.777368Z",
+      "last_updated": "2026-11-21T16:04:16.777375Z",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 3.75,
+          "shop": "Brickwatch"
+        }
+      ]
     },
     "30735": {
       "brickset_last_enriched": "2026-05-20T12:16:32Z",
@@ -21139,8 +21149,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 40,
-      "current_best_price": 297.99,
+      "buy_score": 39,
+      "current_best_price": 299.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -21154,7 +21164,7 @@
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 2,
+      "roi_score": 1,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -21263,12 +21273,12 @@
         },
         {
           "date": "2026-11-21",
-          "price": 297.99,
+          "price": 299.95,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-21T05:04:23.255535Z",
-      "last_updated": "2026-11-21T05:04:23.255545Z",
+      "last_brickwatch_alert": "2026-11-21T16:04:16.777542Z",
+      "last_updated": "2026-11-21T16:04:16.777544Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
