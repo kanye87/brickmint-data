@@ -22320,8 +22320,8 @@
     "42207": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 42,
-      "current_best_shop": "Amazon.nl",
+      "buy_score": 36,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42207-1.jpg",
       "label": "investering",
       "lowest_price_ever": 119.99,
@@ -22329,11 +22329,11 @@
       "name": "Ferrari SF-24 F1 Car",
       "owned_by": 2275,
       "pieces": 1361,
-      "price_score": 35,
+      "price_score": 30,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -22349,9 +22349,9 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816302",
-      "current_best_price": 119.99,
-      "last_brickwatch_alert": "2026-11-20T05:34:18.588579Z",
-      "last_updated": "2026-11-20T14:41:55.319074Z",
+      "current_best_price": 136.0,
+      "last_brickwatch_alert": "2026-11-21T00:34:14.566073Z",
+      "last_updated": "2026-11-21T00:34:14.566082Z",
       "price_history": [
         {
           "date": "2026-05-22",
@@ -22437,6 +22437,11 @@
           "date": "2026-11-20",
           "price": 119.99,
           "shop": "Amazon.nl"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 136.0,
+          "shop": "Brickwatch"
         }
       ],
       "market_value": 161.68,
