@@ -8371,7 +8371,7 @@
           "value": 384.5
         }
       ],
-      "prev_buy_score": 41,
+      "prev_buy_score": 78,
       "current_best_price": 263.99,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-ideas-21353-de-botanisch-tuin-met-15-korting-en-3-gwp-cadeaus-lees-beschrijving-420016",
       "last_updated": "2026-11-21T02:04:21.616764Z",
@@ -21134,8 +21134,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 39,
-      "current_best_price": 299.95,
+      "buy_score": 40,
+      "current_best_price": 297.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -21149,7 +21149,7 @@
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -21255,10 +21255,15 @@
           "date": "2026-11-20",
           "price": 299.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 297.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-20T18:34:18.173977Z",
-      "last_updated": "2026-11-20T18:34:18.173979Z",
+      "last_brickwatch_alert": "2026-11-21T05:04:23.255535Z",
+      "last_updated": "2026-11-21T05:04:23.255545Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -76489,8 +76494,8 @@
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816173",
-      "last_brickwatch_alert": "2026-10-29T05:04:18.078460Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-21T05:04:23.255727Z",
+      "last_updated": "2026-11-21T05:04:23.255729Z",
       "market_value": 26.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -76684,8 +76689,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 81,
-      "current_best_price": 18.01,
+      "buy_score": 84,
+      "current_best_price": 16.76,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -76695,7 +76700,7 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -76718,8 +76723,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-18T05:04:24.359659Z",
-      "last_updated": "2026-11-18T05:04:24.359662Z",
+      "last_brickwatch_alert": "2026-11-21T05:04:23.255677Z",
+      "last_updated": "2026-11-21T05:04:23.255679Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -76889,6 +76894,11 @@
         {
           "date": "2026-11-18",
           "price": 18.01,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 16.76,
           "shop": "Brickwatch"
         }
       ],
