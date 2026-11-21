@@ -22469,7 +22469,7 @@
           "value": 161.68
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 36,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-ferrari-sf-24-f1-auto-42207-428289"
     },
@@ -64573,8 +64573,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 45,
-      "current_best_price": 299.95,
+      "buy_score": 74,
+      "current_best_price": 239.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -64584,11 +64584,11 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 0,
+      "price_score": 25,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -64854,6 +64854,11 @@
           "date": "2026-10-05",
           "price": 299.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 239.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -64982,8 +64987,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-super-heroes-76300-arkham-asylum-set-420642",
-      "last_updated": "2026-10-05T10:50:09Z",
-      "last_brickwatch_alert": "2026-09-19T15:04:16.051695Z",
+      "last_updated": "2026-11-21T01:34:13.575255Z",
+      "last_brickwatch_alert": "2026-11-21T01:34:13.575252Z",
       "market_value": 300.0,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -85027,10 +85032,10 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-08-18T06:29:08Z",
       "subtheme": "Miscellaneous",
-      "current_best_price": 79.99,
+      "current_best_price": 74.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-20T02:04:26.868930Z",
-      "last_updated": "2026-11-20T02:04:26.868934Z",
+      "last_brickwatch_alert": "2026-11-21T01:34:13.575078Z",
+      "last_updated": "2026-11-21T01:34:13.575089Z",
       "price_history": [
         {
           "date": "2026-08-18",
@@ -85156,6 +85161,11 @@
           "date": "2026-11-20",
           "price": 79.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 74.99,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -85181,13 +85191,13 @@
           "value": 75.41
         }
       ],
-      "price_score": 29,
-      "roi_score": 0,
+      "price_score": 33,
+      "roi_score": 1,
       "urgency_score": 0,
       "scarcity_score": 8,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 37,
+      "buy_score": 42,
       "prev_buy_score": 37,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-icons-racefiets-11380-voor-6499-met-kortingsvoucher-427955"
