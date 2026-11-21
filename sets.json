@@ -22485,7 +22485,7 @@
           "value": 161.68
         }
       ],
-      "prev_buy_score": 36,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-technic-ferrari-sf-24-f1-auto-42207-428289"
     },
@@ -23009,7 +23009,7 @@
           "value": 172.13
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 48,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "43010": {
@@ -24342,12 +24342,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 66,
-      "current_best_price": 49.98,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43022-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-16T04:34:15.099401Z",
-      "last_updated": "2026-11-16T04:34:15.099403Z",
+      "last_brickwatch_alert": "2026-11-21T14:34:22.226313Z",
+      "last_updated": "2026-11-21T14:34:22.226320Z",
       "lowest_price_ever": null,
       "msrp": 89.99,
       "name": "Scuderia Ferrari HP Lewis Hamilton Helmet ",
@@ -24516,6 +24516,11 @@
         {
           "date": "2026-11-16",
           "price": 49.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-21",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
