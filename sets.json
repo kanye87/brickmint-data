@@ -45795,7 +45795,7 @@
     },
     "75351": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 61.66,
+      "current_best_price": 61.56,
       "date_first_available": "2023-01-28",
       "ean": "5702017433509",
       "expected_retirement": "2025-03",
@@ -45863,8 +45863,8 @@
       "year": 2023,
       "subtheme": "Helmet Collection",
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-21T11:04:17.949224Z",
-      "last_updated": "2026-11-21T11:04:17.949234Z",
+      "last_brickwatch_alert": "2026-11-22T11:04:23.917814Z",
+      "last_updated": "2026-11-22T11:04:23.917822Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -45959,6 +45959,11 @@
         {
           "date": "2026-11-21",
           "price": 61.66,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-22",
+          "price": 61.56,
           "shop": "Brickwatch"
         }
       ],
@@ -67232,7 +67237,7 @@
           "value": 99.28
         }
       ],
-      "prev_buy_score": 53,
+      "prev_buy_score": 54,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
