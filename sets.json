@@ -51216,8 +51216,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 67,
-      "current_best_price": 43.99,
+      "buy_score": 70,
+      "current_best_price": 41.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -51227,11 +51227,11 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 28,
+      "price_score": 30,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51241,8 +51241,8 @@
       "urgency_score": 20,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-04T05:04:20.239760Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-22T23:34:12.127874Z",
+      "last_updated": "2026-11-22T23:34:12.127876Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -51399,6 +51399,11 @@
         {
           "date": "2026-11-20",
           "price": 43.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-22",
+          "price": 41.99,
           "shop": "Brickwatch"
         }
       ],
@@ -53581,8 +53586,8 @@
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 48,
-      "current_best_price": 69.63,
+      "buy_score": 54,
+      "current_best_price": 58.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -53592,11 +53597,11 @@
       "name": "Chopper (C1-10P)",
       "owned_by": 3878,
       "pieces": 1039,
-      "price_score": 32,
+      "price_score": 35,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -53650,14 +53655,19 @@
           "date": "2026-11-13",
           "price": 69.63,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-22",
+          "price": 58.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-11-16T04:34:15.099552Z",
-      "last_updated": "2026-11-16T04:34:15.099554Z",
+      "last_brickwatch_alert": "2026-11-22T23:34:12.127732Z",
+      "last_updated": "2026-11-22T23:34:12.127739Z",
       "market_value": 69.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
