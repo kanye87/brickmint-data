@@ -3124,7 +3124,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-10330-icons-mclaren-mp44-ayrton-senna-415965",
-      "prev_buy_score": 29,
+      "prev_buy_score": 33,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "10331": {
@@ -21356,7 +21356,7 @@
           "value": 312.88
         }
       ],
-      "prev_buy_score": 39,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "42173": {
@@ -34600,7 +34600,7 @@
           "value": 143.31
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 52,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "72038": {
@@ -49164,7 +49164,7 @@
           "value": 80.81
         }
       ],
-      "prev_buy_score": 35,
+      "prev_buy_score": 39,
       "purchase_price": 66.0,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
@@ -56453,9 +56453,9 @@
       "date_first_available": "2026-02-15",
       "lego_availability": "Retail",
       "ean": "5702018063040",
-      "current_best_price": 74.99,
-      "last_brickwatch_alert": "2026-11-13T05:04:18.010885Z",
-      "last_updated": "2026-11-13T05:04:18.010888Z",
+      "current_best_price": 71.99,
+      "last_brickwatch_alert": "2026-11-23T06:04:18.746229Z",
+      "last_updated": "2026-11-23T06:04:18.746237Z",
       "subtheme": "The Mandalorian and Grogu",
       "price_history": [
         {
@@ -56591,6 +56591,11 @@
         {
           "date": "2026-11-13",
           "price": 74.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 71.99,
           "shop": "Brickwatch"
         }
       ],
