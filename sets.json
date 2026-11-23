@@ -2901,8 +2901,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 29,
-      "current_best_price": 48.99,
+      "buy_score": 33,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2912,7 +2912,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 26,
+      "price_score": 30,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2935,8 +2935,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-21T09:04:21.976573Z",
-      "last_updated": "2026-11-21T09:04:21.976581Z",
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673480Z",
+      "last_updated": "2026-11-23T05:04:22.673483Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -3090,6 +3090,11 @@
         {
           "date": "2026-11-21",
           "price": 48.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 44.99,
           "shop": "Brickwatch"
         }
       ],
@@ -21185,8 +21190,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 39,
-      "current_best_price": 299.95,
+      "buy_score": 42,
+      "current_best_price": 286.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -21195,12 +21200,12 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 25,
+      "price_score": 27,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 1,
+      "roi_score": 2,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -21311,10 +21316,15 @@
           "date": "2026-11-21",
           "price": 299.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 286.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-21T16:04:16.777542Z",
-      "last_updated": "2026-11-21T16:04:16.777544Z",
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673376Z",
+      "last_updated": "2026-11-23T05:04:22.673383Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -22173,11 +22183,11 @@
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 46,
       "current_best_price": 131.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-11-21T17:34:21.498322Z",
-      "last_updated": "2026-11-21T20:22:41.617769Z",
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673530Z",
+      "last_updated": "2026-11-23T05:04:22.673532Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
@@ -22344,6 +22354,11 @@
           "date": "2026-11-21",
           "price": 131.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 131.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
@@ -25294,7 +25309,7 @@
           "value": 132.91
         }
       ],
-      "prev_buy_score": 34,
+      "prev_buy_score": 43,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "43249": {
@@ -34275,8 +34290,8 @@
     "72037": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 109.99,
+      "buy_score": 52,
+      "current_best_price": 104.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -34285,7 +34300,7 @@
       "name": "Mario Kart - Mario & Standard Kart",
       "owned_by": 3129,
       "pieces": 1972,
-      "price_score": 25,
+      "price_score": 27,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -34299,8 +34314,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-18T00:04:19.208865Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673604Z",
+      "last_updated": "2026-11-23T05:04:22.673605Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -34546,6 +34561,11 @@
         {
           "date": "2026-11-20",
           "price": 109.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 104.49,
           "shop": "Brickwatch"
         }
       ],
@@ -35068,9 +35088,9 @@
       "date_first_available": "2026-03-11",
       "lego_availability": "{Not specified}",
       "ean": "5702018067529",
-      "current_best_price": 113.9,
-      "last_brickwatch_alert": "2026-11-19T11:34:23.530080Z",
-      "last_updated": "2026-11-19T11:34:23.530082Z",
+      "current_best_price": 114.98,
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673569Z",
+      "last_updated": "2026-11-23T05:04:22.673571Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -35251,6 +35271,11 @@
         {
           "date": "2026-11-19",
           "price": 113.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 114.98,
           "shop": "Brickwatch"
         }
       ],
@@ -48959,20 +48984,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 35,
-      "current_best_price": 62.96,
+      "buy_score": 39,
+      "current_best_price": 57.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-19T13:04:17.749291Z",
-      "last_updated": "2026-11-19T13:04:17.749301Z",
+      "last_brickwatch_alert": "2026-11-23T05:04:22.673658Z",
+      "last_updated": "2026-11-23T05:04:22.673660Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 28,
+      "price_score": 32,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -49106,6 +49131,11 @@
         {
           "date": "2026-11-19",
           "price": 62.96,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 57.99,
           "shop": "Brickwatch"
         }
       ],
