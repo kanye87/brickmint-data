@@ -35748,7 +35748,7 @@
           "value": 153.88
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
     "72153": {
@@ -88143,7 +88143,7 @@
       "rating": 4.0,
       "brickset_last_enriched": "2026-10-27T21:39:57Z",
       "subtheme": "The Mandalorian",
-      "prev_buy_score": 32,
+      "prev_buy_score": 35,
       "current_best_price": 125.99,
       "current_best_shop": "Brickwatch",
       "last_brickwatch_alert": "2026-11-15T05:04:15.455275Z",
@@ -89436,7 +89436,7 @@
       "label": "investering",
       "current_best_price": 69.99,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 40,
+      "prev_buy_score": 39,
       "price_score": 26,
       "roi_score": 5,
       "urgency_score": 0,
@@ -89503,7 +89503,7 @@
       "label": "investering",
       "current_best_price": 39.99,
       "current_best_shop": "Brickwatch",
-      "prev_buy_score": 32,
+      "prev_buy_score": 30,
       "price_score": 0,
       "roi_score": 2,
       "urgency_score": 3,
@@ -91494,7 +91494,7 @@
       "date_first_available": "2027-01-01",
       "msrp": 79.99,
       "image_url": "https://images.brickset.com/sets/images/75480-1.jpg",
-      "prev_buy_score": null,
+      "prev_buy_score": 27,
       "year": 2027,
       "pieces": 718,
       "retirement_status": "active",
@@ -92126,6 +92126,114 @@
       "brickset_last_enriched": "2026-11-23T16:59:12Z",
       "subtheme": "Formula 1",
       "sell_score": null
+    },
+    "40914": {
+      "name": "Retro Jukebox",
+      "theme": "Promotional",
+      "date_first_available": "2026-11-21",
+      "image_url": "https://images.brickset.com/sets/images/40914-1.jpg",
+      "prev_buy_score": null
+    },
+    "40918": {
+      "name": "Winter Snow Globe",
+      "theme": "Promotional",
+      "date_first_available": "2026-11-21",
+      "image_url": "https://images.brickset.com/sets/images/40918-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010403": {
+      "name": "Reindeer Costume Girl Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 15.99,
+      "prev_buy_score": null
+    },
+    "5010404": {
+      "name": "Skeleton Girl Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 15.99,
+      "prev_buy_score": null
+    },
+    "5010880": {
+      "name": "Retro Space M-Tron",
+      "theme": "Promotional",
+      "date_first_available": "2026-11-21",
+      "image_url": "https://images.brickset.com/sets/images/6671142-1.jpg",
+      "prev_buy_score": null
+    },
+    "5010913": {
+      "name": "C-3PO Holiday Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 15.99,
+      "prev_buy_score": null
+    },
+    "5010914": {
+      "name": "Chili Girl Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 15.99,
+      "prev_buy_score": null
+    },
+    "5010917": {
+      "name": "Fortnite Adventure Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 16.99,
+      "prev_buy_score": null
+    },
+    "5010918": {
+      "name": "Fortnite Cuddle Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 16.99,
+      "prev_buy_score": null
+    },
+    "5010919": {
+      "name": "Fortnite Drift Key Light",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 16.99,
+      "prev_buy_score": null
+    },
+    "5011099": {
+      "name": "Holiday Santa Small Plush",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/5011099-1.jpg",
+      "prev_buy_score": null
+    },
+    "5011100": {
+      "name": "Holiday Snowman Plush",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/5011100-1.jpg",
+      "prev_buy_score": null
+    },
+    "5011101": {
+      "name": "Holiday Gingerbread Man Small Plush",
+      "theme": "Gear",
+      "date_first_available": "2026-11-17",
+      "msrp": 14.99,
+      "image_url": "https://images.brickset.com/sets/images/5011101-1.jpg",
+      "prev_buy_score": null
+    },
+    "5011174": {
+      "name": "Christmas Craft Set",
+      "theme": "Gear",
+      "date_first_available": "2026-11-23",
+      "image_url": "https://images.brickset.com/sets/images/5011174-1.jpg",
+      "prev_buy_score": null
+    },
+    "6671145": {
+      "name": "Inside Santa's Workshop",
+      "theme": "Promotional",
+      "date_first_available": "2026-11-27",
+      "image_url": "https://images.brickset.com/sets/images/SWORKSHOP-1.jpg",
+      "prev_buy_score": null
     }
   }
 }
