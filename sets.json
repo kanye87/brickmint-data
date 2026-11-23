@@ -47718,7 +47718,7 @@
       "sell_trend_score": 2,
       "sell_age_score": 0,
       "sell_liquidity_score": 10,
-      "prev_buy_score": 64,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/laagste-prijs-ooit75367-lego-star-wars-venator-class-republic-attack-cruiser-428169"
     },
@@ -48370,8 +48370,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 38,
-      "current_best_price": 54.99,
+      "buy_score": 43,
+      "current_best_price": 48.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -48380,12 +48380,12 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 31,
+      "price_score": 35,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 31,
@@ -48465,10 +48465,15 @@
           "date": "2026-11-20",
           "price": 54.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 48.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-22T04:04:19.117329Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278296Z",
+      "last_updated": "2026-11-23T01:04:18.278297Z",
       "market_value": 73.28,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -51048,22 +51053,22 @@
     "75398": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 32,
-      "current_best_price": 97.99,
+      "buy_score": 43,
+      "current_best_price": 79.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75398-1.jpg",
       "label": "persoonlijk",
-      "lowest_price_ever": 84.49,
+      "lowest_price_ever": 79.99,
       "minifigs": 1,
       "msrp": 139.99,
       "name": "C-3PO",
       "owned_by": 7450,
       "pieces": 1138,
-      "price_score": 26,
+      "price_score": 35,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 40,
@@ -51073,8 +51078,8 @@
       "urgency_score": 3,
       "wanted_by": 2525,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-03T05:04:16.464089Z",
-      "last_updated": "2026-11-06T11:27:59Z",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278520Z",
+      "last_updated": "2026-11-23T01:04:18.278520Z",
       "subtheme": "Miscellaneous",
       "minifig_list": [
         {
@@ -51183,6 +51188,11 @@
         {
           "date": "2026-11-06",
           "price": 97.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 79.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52533,24 +52543,24 @@
     "75409": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 50,
-      "current_best_price": 210.0,
+      "buy_score": 54,
+      "current_best_price": 199.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75409-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-19T17:04:23.909972Z",
-      "last_updated": "2026-11-19T17:04:23.909977Z",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278087Z",
+      "last_updated": "2026-11-23T01:04:18.278097Z",
       "lowest_price_ever": null,
       "minifigs": 2,
       "msrp": 299.99,
       "name": "Jango Fett's Starship",
       "owned_by": 5306,
       "pieces": 2970,
-      "price_score": 26,
+      "price_score": 29,
       "rating": 4.5,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -52889,6 +52899,11 @@
         {
           "date": "2026-11-19",
           "price": 210.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 199.99,
           "shop": "Brickwatch"
         }
       ],
@@ -53724,22 +53739,22 @@
     "75417": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 64,
-      "current_best_price": 139.95,
+      "buy_score": 75,
+      "current_best_price": 111.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75417-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 119.59,
+      "lowest_price_ever": 111.99,
       "minifigs": 1,
       "msrp": 199.99,
       "name": "AT-ST",
       "owned_by": 3371,
       "pieces": 1513,
-      "price_score": 26,
+      "price_score": 35,
       "rating": 4.1,
       "retirement_date": "2026-05-07",
       "retirement_status": "retired",
-      "roi_score": 3,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -53749,8 +53764,8 @@
       "urgency_score": 0,
       "wanted_by": 2262,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-10T12:34:18.280936Z",
-      "last_updated": "2026-11-10T12:34:18.280947Z",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.069196Z",
+      "last_updated": "2026-11-23T01:04:18.069206Z",
       "subtheme": "Ultimate Collector Series",
       "minifig_list": [
         {
@@ -53839,6 +53854,11 @@
         {
           "date": "2026-11-10",
           "price": 139.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 111.99,
           "shop": "Brickwatch"
         }
       ],
@@ -55881,7 +55901,7 @@
           "value": 46.74
         }
       ],
-      "prev_buy_score": 49,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75440": {
@@ -65201,7 +65221,7 @@
           "value": 300.0
         }
       ],
-      "prev_buy_score": 74,
+      "prev_buy_score": 84,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "76301": {
@@ -67153,7 +67173,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 39,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "76346": {
@@ -67333,7 +67353,7 @@
           "value": 99.28
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-11-20T12:09:28Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/amazon-prime-deal-lego-marvel-super-heroes-76346-spider-man-heldenfiguur-laagste-prijs-ooit-421192"
     },
@@ -91250,6 +91270,131 @@
       "brickset_last_enriched": "2026-11-22T20:31:28Z",
       "sell_score": null,
       "subtheme": "Posters"
+    },
+    "77274": {
+      "name": "Set 77274",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278198Z",
+      "last_updated": "2026-11-23T01:04:18.278199Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
+    },
+    "77277": {
+      "name": "Set 77277",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278340Z",
+      "last_updated": "2026-11-23T01:04:18.278341Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
+    },
+    "77268": {
+      "name": "Set 77268",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278381Z",
+      "last_updated": "2026-11-23T01:04:18.278382Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
+    },
+    "77267": {
+      "name": "Set 77267",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278452Z",
+      "last_updated": "2026-11-23T01:04:18.278453Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
+    },
+    "77275": {
+      "name": "Set 77275",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T01:04:18.278480Z",
+      "last_updated": "2026-11-23T01:04:18.278480Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
     }
   }
 }
