@@ -91580,6 +91580,31 @@
       "availability_score": null,
       "score_quality": null,
       "buy_score": null
+    },
+    "77269": {
+      "name": "Set 77269",
+      "status": "watchlist",
+      "label": "investering",
+      "current_best_price": 23.99,
+      "current_best_shop": "Brickwatch",
+      "last_brickwatch_alert": "2026-11-23T09:04:18.962874Z",
+      "last_updated": "2026-11-23T09:04:18.962882Z",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 23.99,
+          "shop": "Brickwatch"
+        }
+      ],
+      "msrp": 29.99,
+      "prev_buy_score": null,
+      "price_score": 18,
+      "roi_score": null,
+      "urgency_score": null,
+      "scarcity_score": null,
+      "availability_score": null,
+      "score_quality": null,
+      "buy_score": null
     }
   }
 }
