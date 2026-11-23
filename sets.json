@@ -2769,7 +2769,7 @@
           "value": 352.38
         }
       ],
-      "prev_buy_score": 56,
+      "prev_buy_score": 39,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "status_source": "app",
@@ -48226,7 +48226,7 @@
           "value": 35.38
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 61,
       "purchase_price": 17.99,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
