@@ -2618,8 +2618,8 @@
     "10326": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 56,
-      "current_best_price": 224.99,
+      "buy_score": 39,
+      "current_best_price": 282.12,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10326-1.jpg",
       "label": "persoonlijk",
@@ -2629,12 +2629,12 @@
       "name": "Natural History Museum",
       "owned_by": 9756,
       "pieces": 4014,
-      "price_score": 21,
+      "price_score": 5,
       "purchase_price": 229.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 37,
@@ -2645,8 +2645,8 @@
       "urgency_score": 20,
       "wanted_by": 5682,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-20T05:34:18.588245Z",
-      "last_updated": "2026-11-20T05:34:18.588252Z",
+      "last_brickwatch_alert": "2026-11-23T06:34:20.770010Z",
+      "last_updated": "2026-11-23T06:34:20.770018Z",
       "minifig_list": [
         {
           "id": "fig-014462",
@@ -2736,6 +2736,11 @@
         {
           "date": "2026-11-20",
           "price": 224.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 282.12,
           "shop": "Brickwatch"
         }
       ],
@@ -48000,8 +48005,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 67,
-      "current_best_price": 17.99,
+      "buy_score": 61,
+      "current_best_price": 19.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -48011,11 +48016,11 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 32,
+      "price_score": 27,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 7,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -48183,14 +48188,19 @@
           "date": "2026-11-14",
           "price": 17.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 19.95,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-11-14T05:04:14.401044Z",
-      "last_updated": "2026-11-14T05:04:14.401045Z",
+      "last_brickwatch_alert": "2026-11-23T06:34:20.770168Z",
+      "last_updated": "2026-11-23T06:34:20.770170Z",
       "market_value": 35.38,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
