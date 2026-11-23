@@ -43447,7 +43447,7 @@
       "sell_trend_score": 11,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 45,
+      "prev_buy_score": 46,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75329": {
@@ -47500,9 +47500,9 @@
     "75367": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 64,
-      "current_best_price": 424.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 62,
+      "current_best_price": 435.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75367-1.jpg",
       "label": "persoonlijk",
       "lowest_price_ever": null,
@@ -47511,7 +47511,7 @@
       "name": "Venator-class Republic Attack Cruiser",
       "owned_by": 6053,
       "pieces": 5374,
-      "price_score": 31,
+      "price_score": 29,
       "purchase_price": 410.39,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
@@ -47676,14 +47676,19 @@
           "date": "2026-11-20",
           "price": 424.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 435.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-09-13",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017421476",
-      "last_brickwatch_alert": "2026-11-20T05:34:18.588396Z",
-      "last_updated": "2026-11-20T14:41:55.320431Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.202637Z",
+      "last_updated": "2026-11-23T00:34:19.202639Z",
       "market_value": 524.88,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -52392,7 +52397,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75408": {
@@ -53267,7 +53272,7 @@
           "value": 132.5
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75414": {
@@ -53600,7 +53605,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35,
+      "prev_buy_score": 62,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75416": {
@@ -54833,7 +54838,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-wicket-the-ewok-75430-412962",
-      "prev_buy_score": 65,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75431": {
@@ -55437,7 +55442,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 70,
+      "prev_buy_score": 74,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-20T12:09:28Z"
@@ -55628,8 +55633,8 @@
     "75439": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 49,
-      "current_best_price": 34.34,
+      "buy_score": 50,
+      "current_best_price": 33.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75439-1.jpg",
       "label": "investering",
@@ -55638,7 +55643,7 @@
       "name": "Darth Vader Bust",
       "owned_by": 499,
       "pieces": 349,
-      "price_score": 27,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 4,
@@ -55656,8 +55661,8 @@
       "lego_availability": "Retail",
       "ean": "5702018062982",
       "subtheme": "Bust Collection",
-      "last_brickwatch_alert": "2026-11-06T05:04:18.241578Z",
-      "last_updated": "2026-11-06T05:04:18.241582Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.202683Z",
+      "last_updated": "2026-11-23T00:34:19.202685Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -55832,6 +55837,11 @@
         {
           "date": "2026-11-04",
           "price": 34.34,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 33.99,
           "shop": "Brickwatch"
         }
       ],
@@ -56212,7 +56222,7 @@
           "value": 55.84
         }
       ],
-      "prev_buy_score": 52,
+      "prev_buy_score": 56,
       "purchase_price": 35,
       "sell_roi_score": 30,
       "sell_trend_score": 2,
@@ -56564,7 +56574,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 49,
-      "current_best_price": 49.69,
+      "current_best_price": 48.45,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75452-1.jpg",
       "label": "investering",
@@ -56684,6 +56694,11 @@
           "date": "2026-11-19",
           "price": 49.69,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 48.45,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -56699,8 +56714,8 @@
       "date_first_available": "2025-12-02",
       "lego_availability": "Retail",
       "ean": "5702018063095",
-      "last_brickwatch_alert": "2026-11-19T17:04:23.910117Z",
-      "last_updated": "2026-11-19T17:04:23.910121Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.202413Z",
+      "last_updated": "2026-11-23T00:34:19.202416Z",
       "market_value": 84.97,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -64740,18 +64755,18 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 74,
-      "current_best_price": 239.99,
+      "buy_score": 84,
+      "current_best_price": 214.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 215.99,
+      "lowest_price_ever": 214.99,
       "minifigs": 17,
       "msrp": 299.99,
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 25,
+      "price_score": 35,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -65026,6 +65041,11 @@
           "date": "2026-11-21",
           "price": 239.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 214.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -65154,8 +65174,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-super-heroes-76300-arkham-asylum-set-420642",
-      "last_updated": "2026-11-21T01:34:13.575255Z",
-      "last_brickwatch_alert": "2026-11-21T01:34:13.575252Z",
+      "last_updated": "2026-11-23T00:34:19.033128Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.033122Z",
       "market_value": 300.0,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -66899,8 +66919,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 39,
-      "current_best_price": 93.99,
+      "buy_score": 51,
+      "current_best_price": 75.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -66910,11 +66930,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 24,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -66924,8 +66944,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-21T07:34:19.275286Z",
-      "last_updated": "2026-11-21T07:34:19.275294Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.202332Z",
+      "last_updated": "2026-11-23T00:34:19.202339Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -67087,6 +67107,11 @@
           "date": "2026-11-21",
           "price": 93.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 75.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -67134,22 +67159,22 @@
     "76346": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-06-15T11:49:58Z",
-      "buy_score": 54,
-      "current_best_price": 65.0,
+      "buy_score": 59,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76346-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-22T10:04:21.045253Z",
-      "last_updated": "2026-11-22T10:04:21.045259Z",
+      "last_brickwatch_alert": "2026-11-23T00:34:19.202587Z",
+      "last_updated": "2026-11-23T00:34:19.202589Z",
       "lowest_price_ever": null,
       "msrp": 99.99,
       "name": "Spider-Man Hero Figure",
       "owned_by": 34,
       "pieces": 813,
-      "price_score": 31,
+      "price_score": 35,
       "rating": 0.0,
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -67272,6 +67297,11 @@
         {
           "date": "2026-11-22",
           "price": 65.0,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
