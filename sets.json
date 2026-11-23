@@ -2906,8 +2906,8 @@
     "10330": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 33,
-      "current_best_price": 44.99,
+      "buy_score": 32,
+      "current_best_price": 45.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10330-1.jpg",
       "label": "investering",
@@ -2917,7 +2917,7 @@
       "name": "McLaren MP4/4 & Ayrton Senna",
       "owned_by": 6858,
       "pieces": 693,
-      "price_score": 30,
+      "price_score": 29,
       "rating": 4.1,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -2940,8 +2940,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-23T05:04:22.673480Z",
-      "last_updated": "2026-11-23T05:04:22.673483Z",
+      "last_brickwatch_alert": "2026-11-23T11:34:22.042606Z",
+      "last_updated": "2026-11-23T11:34:22.042611Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2024-02-02",
       "lego_availability": "Retail",
@@ -3099,7 +3099,7 @@
         },
         {
           "date": "2026-11-23",
-          "price": 44.99,
+          "price": 45.98,
           "shop": "Brickwatch"
         }
       ],
@@ -35060,7 +35060,7 @@
           "value": 54.04
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 46,
       "purchase_price": 28.0,
       "sell_roi_score": 38,
       "sell_trend_score": 0,
@@ -48010,8 +48010,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 61,
-      "current_best_price": 19.95,
+      "buy_score": 67,
+      "current_best_price": 17.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -48021,11 +48021,11 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 27,
+      "price_score": 32,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -48196,7 +48196,7 @@
         },
         {
           "date": "2026-11-23",
-          "price": 19.95,
+          "price": 17.98,
           "shop": "Brickwatch"
         }
       ],
@@ -48204,8 +48204,8 @@
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-11-23T06:34:20.770168Z",
-      "last_updated": "2026-11-23T06:34:20.770170Z",
+      "last_brickwatch_alert": "2026-11-23T11:34:22.042165Z",
+      "last_updated": "2026-11-23T11:34:22.042176Z",
       "market_value": 35.38,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -55966,14 +55966,14 @@
           "value": 46.74
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 55,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "75440": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 57,
-      "current_best_price": 36.99,
+      "current_best_price": 36.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75440-1.jpg",
       "label": "persoonlijk",
@@ -55997,9 +55997,9 @@
       "wanted_by": 2106,
       "year": 2026,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-75440-at-at-kruidvat-402807",
-      "last_updated": "2026-11-08T05:04:16.045452Z",
+      "last_updated": "2026-11-23T11:34:22.042402Z",
       "subtheme": "Starship Collection",
-      "last_brickwatch_alert": "2026-11-08T05:04:16.045450Z",
+      "last_brickwatch_alert": "2026-11-23T11:34:22.042396Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -56094,6 +56094,11 @@
         {
           "date": "2026-11-08",
           "price": 36.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 36.98,
           "shop": "Brickwatch"
         }
       ],
@@ -67564,7 +67569,7 @@
           "value": 33.0
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-20T12:09:28Z"
     },
     "76354": {
@@ -88603,13 +88608,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 29,
+      "price_score": 26,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 51,
+      "buy_score": 48,
       "sell_score": null,
       "prev_buy_score": 51,
       "theme": "Pokémon",
@@ -88647,10 +88652,10 @@
           "value": 236.44
         }
       ],
-      "current_best_price": 173.9,
+      "current_best_price": 180.98,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-19T10:04:18.919938Z",
-      "last_updated": "2026-11-19T10:04:18.919947Z",
+      "last_brickwatch_alert": "2026-11-23T11:34:22.042692Z",
+      "last_updated": "2026-11-23T11:34:22.042695Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -88735,6 +88740,11 @@
         {
           "date": "2026-11-19",
           "price": 173.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 180.98,
           "shop": "Brickwatch"
         }
       ],
