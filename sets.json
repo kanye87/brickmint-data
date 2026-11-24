@@ -22236,24 +22236,24 @@
     "42206": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 46,
-      "current_best_price": 131.99,
+      "buy_score": 43,
+      "current_best_price": 139.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42206-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-11-23T05:04:22.673530Z",
-      "last_updated": "2026-11-23T05:04:22.673532Z",
+      "last_brickwatch_alert": "2026-11-24T03:34:22.542755Z",
+      "last_updated": "2026-11-24T03:34:22.542764Z",
       "lowest_price_ever": 119.99,
       "msrp": 229.99,
       "name": "Oracle Red Bull Racing RB20 F1 Car",
       "owned_by": 1915,
       "pieces": 1639,
-      "price_score": 31,
+      "price_score": 29,
       "purchase_price": 161,
       "rating": 4.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 17,
@@ -22413,6 +22413,11 @@
         {
           "date": "2026-11-23",
           "price": 131.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 139.99,
           "shop": "Brickwatch"
         }
       ],
@@ -65415,7 +65420,7 @@
           "value": 300.0
         }
       ],
-      "prev_buy_score": 84,
+      "prev_buy_score": 45,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
     "76301": {
