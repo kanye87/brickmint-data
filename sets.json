@@ -35623,7 +35623,7 @@
           "value": 49.25
         }
       ],
-      "prev_buy_score": 46,
+      "prev_buy_score": 59,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
     "72152": {
@@ -77515,8 +77515,8 @@
       "urgency_score": 3,
       "wanted_by": 1376,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-20T02:34:19.703053Z",
-      "last_updated": "2026-11-20T02:34:19.703062Z",
+      "last_brickwatch_alert": "2026-11-24T16:34:18.533494Z",
+      "last_updated": "2026-11-24T16:34:18.533502Z",
       "subtheme": "Dinosaur Fossils",
       "minifig_list": [],
       "price_history": [
