@@ -55636,7 +55636,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 74,
+      "prev_buy_score": 70,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-23T13:38:01Z"
@@ -64964,8 +64964,8 @@
     "76300": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 84,
-      "current_best_price": 214.99,
+      "buy_score": 45,
+      "current_best_price": 299.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76300-1.jpg",
       "label": "investering",
@@ -64975,11 +64975,11 @@
       "name": "Arkham Asylum",
       "owned_by": 1899,
       "pieces": 2953,
-      "price_score": 35,
+      "price_score": 0,
       "rating": 4.5,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -65255,6 +65255,11 @@
           "date": "2026-11-23",
           "price": 214.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 299.95,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -65383,8 +65388,8 @@
       "lego_availability": "LEGO exclusive",
       "ean": "5702017824192",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-dc-super-heroes-76300-arkham-asylum-set-420642",
-      "last_updated": "2026-11-23T00:34:19.033128Z",
-      "last_brickwatch_alert": "2026-11-23T00:34:19.033122Z",
+      "last_updated": "2026-11-24T01:34:16.206307Z",
+      "last_brickwatch_alert": "2026-11-24T01:34:16.206298Z",
       "market_value": 300.0,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
