@@ -8452,7 +8452,7 @@
           "value": 384.5
         }
       ],
-      "prev_buy_score": 41,
+      "prev_buy_score": 38,
       "current_best_price": 399.99,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-ideas-21353-de-botanisch-tuin-met-15-korting-en-3-gwp-cadeaus-lees-beschrijving-420016",
       "last_updated": "2026-11-24T11:34:18.473953Z",
@@ -52408,8 +52408,8 @@
     "75407": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 50,
-      "current_best_price": 39.99,
+      "buy_score": 47,
+      "current_best_price": 44.86,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -52418,7 +52418,7 @@
       "name": "Brick-Built Star Wars Logo",
       "owned_by": 6801,
       "pieces": 700,
-      "price_score": 35,
+      "price_score": 32,
       "purchase_price": 37.49,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
@@ -52580,10 +52580,15 @@
           "date": "2026-11-23",
           "price": 39.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 44.86,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-23T00:04:21.626810Z",
-      "last_updated": "2026-11-23T00:04:21.626812Z",
+      "last_brickwatch_alert": "2026-11-24T12:04:18.068753Z",
+      "last_updated": "2026-11-24T12:04:18.068761Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
@@ -53836,14 +53841,14 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 4,
-      "prev_buy_score": 35,
+      "prev_buy_score": 38,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
     "75416": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 54,
-      "current_best_price": 58.99,
+      "buy_score": 50,
+      "current_best_price": 68.71,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75416-1.jpg",
       "label": "investering",
@@ -53853,11 +53858,11 @@
       "name": "Chopper (C1-10P)",
       "owned_by": 3878,
       "pieces": 1039,
-      "price_score": 35,
+      "price_score": 33,
       "rating": 4.2,
       "retirement_date": "2027-07-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 1,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -53916,14 +53921,19 @@
           "date": "2026-11-22",
           "price": 58.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 68.71,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2027-07",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
       "ean": "5702017817651",
-      "last_brickwatch_alert": "2026-11-22T23:34:12.127732Z",
-      "last_updated": "2026-11-22T23:34:12.127739Z",
+      "last_brickwatch_alert": "2026-11-24T12:04:18.068985Z",
+      "last_updated": "2026-11-24T12:04:18.068989Z",
       "market_value": 69.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -64343,8 +64353,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 26,
-      "current_best_price": 397.76,
+      "buy_score": 25,
+      "current_best_price": 454.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -64391,7 +64401,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -64602,6 +64612,11 @@
           "date": "2026-11-21",
           "price": 397.76,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 454.79,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -64638,8 +64653,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-11-21T16:34:16.473714Z",
-      "last_updated": "2026-11-21T16:34:16.473723Z",
+      "last_brickwatch_alert": "2026-11-24T12:04:18.069067Z",
+      "last_updated": "2026-11-24T12:04:18.069070Z",
       "prev_buy_score": 26,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
@@ -67428,7 +67443,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-414777",
-      "prev_buy_score": 51,
+      "prev_buy_score": 39,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
     "76346": {
