@@ -8313,7 +8313,7 @@
     "21353": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 41,
+      "buy_score": 38,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21353-1.jpg",
       "label": "investering",
@@ -8327,7 +8327,7 @@
       "rating": 4.4,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 0,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -8453,9 +8453,9 @@
         }
       ],
       "prev_buy_score": 41,
-      "current_best_price": 339.99,
+      "current_best_price": 399.99,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-ideas-21353-de-botanisch-tuin-met-15-korting-en-3-gwp-cadeaus-lees-beschrijving-420016",
-      "last_updated": "2026-11-23T15:04:18.591688Z",
+      "last_updated": "2026-11-24T11:34:18.473953Z",
       "price_history": [
         {
           "date": "2026-09-25",
@@ -8481,10 +8481,15 @@
           "date": "2026-11-23",
           "price": 339.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 399.99,
+          "shop": "Brickwatch"
         }
       ],
       "price_checked_at": "2026-11-20T12:09:28Z",
-      "last_brickwatch_alert": "2026-11-23T15:04:18.591675Z"
+      "last_brickwatch_alert": "2026-11-24T11:34:18.473952Z"
     },
     "21354": {
       "brickset_last_enriched": "2026-05-13T11:57:41Z",
@@ -24473,7 +24478,7 @@
           "value": 99.38
         }
       ],
-      "prev_buy_score": 37,
+      "prev_buy_score": 42,
       "purchase_price": 79.0,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
@@ -49526,7 +49531,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": null,
-      "current_best_price": 66.62,
+      "current_best_price": 76.71,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75383-1.jpg",
       "label": "investering",
@@ -49745,6 +49750,11 @@
           "date": "2026-11-23",
           "price": 66.62,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 76.71,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -49781,8 +49791,8 @@
       "date_first_available": "2024-04-02",
       "lego_availability": "Retail",
       "ean": "5702017600277",
-      "last_brickwatch_alert": "2026-11-23T09:34:17.475729Z",
-      "last_updated": "2026-11-23T09:34:17.475737Z",
+      "last_brickwatch_alert": "2026-11-24T11:34:18.474022Z",
+      "last_updated": "2026-11-24T11:34:18.474023Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:39:57+00:00",
@@ -53555,24 +53565,24 @@
     "75415": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 35,
-      "current_best_price": 69.99,
+      "buy_score": 38,
+      "current_best_price": 68.56,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75415-1.jpg",
       "label": "persoonlijk",
-      "last_brickwatch_alert": "2026-11-24T00:34:29.057679Z",
-      "last_updated": "2026-11-24T00:34:29.057681Z",
+      "last_brickwatch_alert": "2026-11-24T11:34:18.473722Z",
+      "last_updated": "2026-11-24T11:34:18.473732Z",
       "lowest_price_ever": null,
       "msrp": 69.99000000000001,
       "name": "Kylo Ren Helmet",
       "owned_by": 3215,
       "pieces": 529,
-      "price_score": 0,
+      "price_score": 2,
       "purchase_price": 51.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 0,
+      "roi_score": 1,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": 27,
@@ -53789,7 +53799,7 @@
         },
         {
           "date": "2026-11-24",
-          "price": 69.99,
+          "price": 68.56,
           "shop": "Brickwatch"
         }
       ],
@@ -67179,8 +67189,8 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 75.99,
+      "buy_score": 39,
+      "current_best_price": 93.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
@@ -67190,11 +67200,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 35,
+      "price_score": 24,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -67204,8 +67214,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-23T00:34:19.202332Z",
-      "last_updated": "2026-11-23T00:34:19.202339Z",
+      "last_brickwatch_alert": "2026-11-24T11:34:18.473868Z",
+      "last_updated": "2026-11-24T11:34:18.473870Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -67371,6 +67381,11 @@
         {
           "date": "2026-11-23",
           "price": 75.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 93.99,
           "shop": "Brickwatch"
         }
       ],
