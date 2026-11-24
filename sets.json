@@ -6331,7 +6331,7 @@
     },
     "21061": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 146.99,
+      "current_best_price": 141.3,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21061-1.jpg",
       "label": "investering",
@@ -6489,11 +6489,16 @@
           "date": "2026-11-23",
           "price": 146.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 141.3,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-11-21T23:34:18.188736Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901496Z",
+      "last_updated": "2026-11-24T05:34:19.901498Z",
       "prev_buy_score": null,
       "price_checked_at": "2026-11-23T13:38:01Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-architecture-21061-notre-dame-laagste-prijs-ooit-48-korting-tov-adviesprijs-22999-420702"
@@ -22869,10 +22874,10 @@
       "score_quality": null,
       "buy_score": null,
       "minifig_list": [],
-      "current_best_price": 107.99,
+      "current_best_price": 106.19,
       "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/bolcomflitsdeal-2200-lego-technic-lamborghini-revuelto-supersportwagen-42214-eur10499-411201",
-      "last_updated": "2026-10-24T04:34:12.595362Z",
+      "last_updated": "2026-11-24T05:34:19.901311Z",
       "price_history": [
         {
           "date": "2026-06-23",
@@ -22893,9 +22898,14 @@
           "date": "2026-10-24",
           "price": 107.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 106.19,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-24T04:34:12.595353Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901303Z",
       "prev_buy_score": null
     },
     "42215": {
@@ -22972,12 +22982,12 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-04T06:04:51Z",
       "buy_score": 47,
-      "current_best_price": 129.99,
+      "current_best_price": 128.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-21T09:04:21.976790Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901674Z",
+      "last_updated": "2026-11-24T05:34:19.901676Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
@@ -23126,6 +23136,11 @@
         {
           "date": "2026-11-23",
           "price": 129.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 128.99,
           "shop": "Brickwatch"
         }
       ],
@@ -24714,8 +24729,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069660",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-11-15T05:04:15.455458Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901547Z",
+      "last_updated": "2026-11-24T05:34:19.901550Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -69550,7 +69565,7 @@
     },
     "76419": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 109.99,
+      "current_best_price": 107.99,
       "current_best_shop": "Brickwatch",
       "date_first_available": "2023-06-03",
       "ean": "5702017413228",
@@ -69583,13 +69598,13 @@
       "wanted_by": 3069,
       "year": 2023,
       "subtheme": "Miscellaneous",
-      "price_score": 31,
+      "price_score": 32,
       "roi_score": 2,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 53,
+      "buy_score": 54,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -69670,6 +69685,11 @@
           "date": "2026-10-19",
           "price": 109.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 107.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -69681,8 +69701,8 @@
           "image_url": "https://cdn.rebrickable.com/media/sets/fig-014271/129175.jpg"
         }
       ],
-      "last_brickwatch_alert": "2026-11-10T05:04:18.328247Z",
-      "last_updated": "2026-11-10T05:04:18.328258Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901599Z",
+      "last_updated": "2026-11-24T05:34:19.901601Z",
       "market_value": 114.95,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -86858,10 +86878,10 @@
       "msrp": 89.99,
       "image_url": "https://images.brickset.com/sets/images/43023-1.jpg",
       "sell_score": null,
-      "current_best_price": 49.95,
+      "current_best_price": 45.99,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-21T12:34:20.055114Z",
-      "last_updated": "2026-11-21T12:34:20.055123Z",
+      "last_brickwatch_alert": "2026-11-24T05:34:19.901429Z",
+      "last_updated": "2026-11-24T05:34:19.901432Z",
       "price_history": [
         {
           "date": "2026-08-17",
@@ -86962,6 +86982,11 @@
           "date": "2026-11-21",
           "price": 49.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-24",
+          "price": 45.99,
+          "shop": "Brickwatch"
         }
       ],
       "year": 2026,
@@ -87000,12 +87025,12 @@
         }
       ],
       "price_score": 35,
-      "roi_score": 4,
+      "roi_score": 5,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 57,
+      "buy_score": 58,
       "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-23T13:38:01Z",
