@@ -39621,7 +39621,7 @@
     },
     "75290": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 419.99,
+      "current_best_price": 424.99,
       "date_first_available": "2020-09-24",
       "ean": "5702016663495",
       "expected_retirement": "2025-01",
@@ -39725,6 +39725,11 @@
         {
           "date": "2026-11-20",
           "price": 419.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 424.99,
           "shop": "Brickwatch"
         }
       ],
@@ -39864,8 +39869,8 @@
         }
       ],
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-20T13:04:18.234893Z",
-      "last_updated": "2026-11-20T13:04:18.234901Z",
+      "last_brickwatch_alert": "2026-11-25T23:04:21.819726Z",
+      "last_updated": "2026-11-25T23:04:21.819729Z",
       "prev_buy_score": 10,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
@@ -50319,8 +50324,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 64,
-      "current_best_price": 116.9,
+      "buy_score": 62,
+      "current_best_price": 120.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -50330,7 +50335,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 31,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -50344,8 +50349,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-23T01:34:18.974351Z",
-      "last_updated": "2026-11-23T01:34:18.974355Z",
+      "last_brickwatch_alert": "2026-11-25T23:04:21.819538Z",
+      "last_updated": "2026-11-25T23:04:21.819546Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -50499,6 +50504,11 @@
         {
           "date": "2026-11-23",
           "price": 116.9,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 120.99,
           "shop": "Brickwatch"
         }
       ],
@@ -87277,7 +87287,7 @@
       "availability_score": 0,
       "score_quality": "full",
       "buy_score": 57,
-      "prev_buy_score": 58,
+      "prev_buy_score": 57,
       "purchase_price": 55.0,
       "price_checked_at": "2026-11-25T13:29:05Z",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/mclaren-mastercard-f1-team-helm-van-lando-norris-43023-420806"
