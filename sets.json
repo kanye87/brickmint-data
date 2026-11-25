@@ -34462,7 +34462,7 @@
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 52,
-      "current_best_price": 104.49,
+      "current_best_price": 105.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72037-1.jpg",
       "label": "investering",
@@ -34485,8 +34485,8 @@
       "urgency_score": 3,
       "wanted_by": 1412,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-23T05:04:22.673604Z",
-      "last_updated": "2026-11-23T05:04:22.673605Z",
+      "last_brickwatch_alert": "2026-11-25T17:34:21.311688Z",
+      "last_updated": "2026-11-25T17:34:21.311696Z",
       "subtheme": "Mario Kart",
       "price_history": [
         {
@@ -34737,6 +34737,11 @@
         {
           "date": "2026-11-23",
           "price": 104.49,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 105.98,
           "shop": "Brickwatch"
         }
       ],
@@ -35859,7 +35864,7 @@
           "value": 153.88
         }
       ],
-      "prev_buy_score": 57,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "72153": {
@@ -55847,7 +55852,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 77,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-25T13:29:05Z",
@@ -65647,7 +65652,7 @@
           "value": 300.0
         }
       ],
-      "prev_buy_score": 74,
+      "prev_buy_score": 84,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "76301": {
@@ -67609,7 +67614,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-428740",
-      "prev_buy_score": 43,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "76346": {
