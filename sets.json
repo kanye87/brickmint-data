@@ -2622,8 +2622,8 @@
     "10326": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 39,
-      "current_best_price": 282.12,
+      "buy_score": 56,
+      "current_best_price": 224.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10326-1.jpg",
       "label": "persoonlijk",
@@ -2633,12 +2633,12 @@
       "name": "Natural History Museum",
       "owned_by": 9756,
       "pieces": 4014,
-      "price_score": 5,
+      "price_score": 21,
       "purchase_price": 229.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 37,
@@ -2649,8 +2649,8 @@
       "urgency_score": 20,
       "wanted_by": 5682,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-23T06:34:20.770010Z",
-      "last_updated": "2026-11-23T06:34:20.770018Z",
+      "last_brickwatch_alert": "2026-11-25T13:04:30.202353Z",
+      "last_updated": "2026-11-25T13:04:30.202363Z",
       "minifig_list": [
         {
           "id": "fig-014462",
@@ -2745,6 +2745,11 @@
         {
           "date": "2026-11-23",
           "price": 282.12,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 224.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48584,7 +48589,7 @@
           "value": 22.44
         }
       ],
-      "prev_buy_score": 24,
+      "prev_buy_score": 21,
       "purchase_price": 9.99,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
