@@ -23509,8 +23509,8 @@
     "43013": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
-      "buy_score": 43,
-      "current_best_price": 19.9,
+      "buy_score": 45,
+      "current_best_price": 19.12,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -23519,7 +23519,7 @@
       "name": "Kylian Mbappé – Football Highlights",
       "owned_by": 151,
       "pieces": 490,
-      "price_score": 30,
+      "price_score": 32,
       "rating": 0.0,
       "retirement_status": "active",
       "roi_score": 5,
@@ -23631,10 +23631,15 @@
           "date": "2026-11-20",
           "price": 19.9,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 19.12,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-05T05:04:20.038187Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-25T05:04:21.818932Z",
+      "last_updated": "2026-11-25T05:04:21.818935Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -48571,8 +48576,8 @@
     "75375": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
-      "buy_score": 43,
-      "current_best_price": 48.99,
+      "buy_score": 39,
+      "current_best_price": 53.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75375-1.jpg",
       "label": "persoonlijk",
@@ -48581,12 +48586,12 @@
       "name": "Millennium Falcon",
       "owned_by": 11327,
       "pieces": 921,
-      "price_score": 35,
+      "price_score": 32,
       "purchase_price": 48.99,
       "rating": 4.2,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": 31,
@@ -48671,10 +48676,15 @@
           "date": "2026-11-23",
           "price": 48.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 53.99,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-23T01:04:18.278296Z",
-      "last_updated": "2026-11-23T01:04:18.278297Z",
+      "last_brickwatch_alert": "2026-11-25T05:04:21.818864Z",
+      "last_updated": "2026-11-25T05:04:21.818868Z",
       "market_value": 73.28,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -51013,7 +51023,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 25,
-      "current_best_price": 39.95,
+      "current_best_price": 44.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75395-1.jpg",
       "label": "investering",
@@ -51124,14 +51134,19 @@
           "date": "2026-10-22",
           "price": 39.95,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 44.99,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2024-11",
       "date_first_available": "2024-05-03",
       "lego_availability": "Retail",
       "ean": "5702017583426",
-      "last_brickwatch_alert": "2026-10-22T07:04:15.130907Z",
-      "last_updated": "2026-10-22T07:04:15.130909Z",
+      "last_brickwatch_alert": "2026-11-25T05:04:21.819064Z",
+      "last_updated": "2026-11-25T05:04:21.819067Z",
       "prev_buy_score": 25,
       "price_checked_at": "2026-11-23T13:38:01Z"
     },
@@ -67235,9 +67250,9 @@
     "76344": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 51,
-      "current_best_price": 75.99,
-      "current_best_shop": "Pepper.com",
+      "buy_score": 43,
+      "current_best_price": 87.99,
+      "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76344-1.jpg",
       "label": "investering",
       "lowest_price_ever": null,
@@ -67246,11 +67261,11 @@
       "name": "Iron Man Mark 3 Collectors' Edition",
       "owned_by": 995,
       "pieces": 1297,
-      "price_score": 35,
+      "price_score": 28,
       "rating": 0.0,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 4,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -67260,8 +67275,8 @@
       "urgency_score": 3,
       "wanted_by": 1665,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-24T11:34:18.473868Z",
-      "last_updated": "2026-11-24T16:47:38.702761Z",
+      "last_brickwatch_alert": "2026-11-25T05:04:21.818613Z",
+      "last_updated": "2026-11-25T05:04:21.818624Z",
       "subtheme": "Iron Man",
       "price_history": [
         {
@@ -67433,6 +67448,11 @@
           "date": "2026-11-24",
           "price": 75.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 87.99,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -88910,13 +88930,13 @@
       "name": "Iconic Trainer Moments Poké Ball",
       "status": "watchlist",
       "label": "investering",
-      "price_score": 26,
+      "price_score": 27,
       "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 48,
+      "buy_score": 49,
       "sell_score": null,
       "prev_buy_score": 48,
       "theme": "Pokémon",
@@ -88954,10 +88974,10 @@
           "value": 236.44
         }
       ],
-      "current_best_price": 180.98,
+      "current_best_price": 179.18,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-23T21:34:17.502061Z",
-      "last_updated": "2026-11-23T21:34:17.502071Z",
+      "last_brickwatch_alert": "2026-11-25T05:04:21.818777Z",
+      "last_updated": "2026-11-25T05:04:21.818781Z",
       "price_history": [
         {
           "date": "2026-09-23",
@@ -89047,6 +89067,11 @@
         {
           "date": "2026-11-23",
           "price": 180.98,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-25",
+          "price": 179.18,
           "shop": "Brickwatch"
         }
       ],
