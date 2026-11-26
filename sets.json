@@ -49279,20 +49279,20 @@
     "75379": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 39,
-      "current_best_price": 57.99,
+      "buy_score": 37,
+      "current_best_price": 60.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75379-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-23T05:04:22.673658Z",
-      "last_updated": "2026-11-23T05:04:22.673660Z",
+      "last_brickwatch_alert": "2026-11-26T13:04:17.419603Z",
+      "last_updated": "2026-11-26T13:04:17.419611Z",
       "lowest_price_ever": 53.99,
       "minifigs": 2,
       "msrp": 99.99000000000001,
       "name": "R2-D2",
       "owned_by": 12355,
       "pieces": 1050,
-      "price_score": 32,
+      "price_score": 30,
       "rating": 4.3,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
@@ -49431,6 +49431,11 @@
         {
           "date": "2026-11-23",
           "price": 57.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 60.98,
           "shop": "Brickwatch"
         }
       ],
@@ -50363,8 +50368,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 62,
-      "current_best_price": 120.99,
+      "buy_score": 58,
+      "current_best_price": 127.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -50374,7 +50379,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 29,
+      "price_score": 25,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -50388,8 +50393,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-25T23:04:21.819538Z",
-      "last_updated": "2026-11-25T23:04:21.819546Z",
+      "last_brickwatch_alert": "2026-11-26T13:04:17.419852Z",
+      "last_updated": "2026-11-26T13:04:17.419856Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -50548,6 +50553,11 @@
         {
           "date": "2026-11-25",
           "price": 120.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 127.95,
           "shop": "Brickwatch"
         }
       ],
