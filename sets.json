@@ -36437,7 +36437,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 599.99,
+      "current_best_price": 749.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -36468,15 +36468,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 22,
-      "roi_score": 3,
+      "price_score": 5,
+      "roi_score": 0,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 55,
-      "last_brickwatch_alert": "2026-11-25T11:34:16.119425Z",
-      "last_updated": "2026-11-25T11:34:16.119437Z",
+      "buy_score": 35,
+      "last_brickwatch_alert": "2026-11-26T20:34:23.237530Z",
+      "last_updated": "2026-11-26T20:34:23.237533Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -36710,6 +36710,11 @@
         {
           "date": "2026-11-25",
           "price": 599.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 749.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50368,8 +50373,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 58,
-      "current_best_price": 127.95,
+      "buy_score": 62,
+      "current_best_price": 120.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "investering",
@@ -50379,7 +50384,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 25,
+      "price_score": 29,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -50393,8 +50398,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-26T13:04:17.419852Z",
-      "last_updated": "2026-11-26T13:04:17.419856Z",
+      "last_brickwatch_alert": "2026-11-26T20:34:23.237336Z",
+      "last_updated": "2026-11-26T20:34:23.237345Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -50557,7 +50562,7 @@
         },
         {
           "date": "2026-11-26",
-          "price": 127.95,
+          "price": 120.99,
           "shop": "Brickwatch"
         }
       ],
@@ -52812,7 +52817,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 3,
-      "prev_buy_score": 43,
+      "prev_buy_score": 41,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "75408": {
