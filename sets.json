@@ -45405,7 +45405,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-14T08:30:09Z",
       "buy_score": null,
-      "current_best_price": 94.91,
+      "current_best_price": 109.26,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75343-1.jpg",
       "label": "persoonlijk",
@@ -45585,11 +45585,16 @@
           "date": "2026-11-20",
           "price": 94.91,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 109.26,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [],
-      "last_brickwatch_alert": "2026-11-20T22:04:18.570523Z",
-      "last_updated": "2026-11-20T22:04:18.570532Z",
+      "last_brickwatch_alert": "2026-11-26T10:34:19.089286Z",
+      "last_updated": "2026-11-26T10:34:19.089290Z",
       "prev_buy_score": null,
       "status_source": "app",
       "status_changed_by_user_at": "2026-08-28T13:38:25+00:00",
@@ -54153,7 +54158,7 @@
           "value": 69.5
         }
       ],
-      "prev_buy_score": 50,
+      "prev_buy_score": 49,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "75417": {
@@ -64573,8 +64578,8 @@
     "76271": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
-      "buy_score": 26,
-      "current_best_price": 397.76,
+      "buy_score": 25,
+      "current_best_price": 454.79,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/76271-1.jpg",
       "label": "investering",
@@ -64621,7 +64626,7 @@
       "rating": 4.4,
       "retirement_date": "2025-11-22",
       "retirement_status": "retired",
-      "roi_score": 1,
+      "roi_score": 0,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -64840,7 +64845,7 @@
         },
         {
           "date": "2026-11-26",
-          "price": 397.76,
+          "price": 454.79,
           "shop": "Brickwatch"
         }
       ],
@@ -64878,8 +64883,8 @@
       "date_first_available": "2024-03-09",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017590226",
-      "last_brickwatch_alert": "2026-11-26T00:04:28.912638Z",
-      "last_updated": "2026-11-26T00:04:28.912644Z",
+      "last_brickwatch_alert": "2026-11-26T10:34:19.089080Z",
+      "last_updated": "2026-11-26T10:34:19.089088Z",
       "prev_buy_score": 26,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
