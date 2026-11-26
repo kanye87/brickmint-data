@@ -18770,7 +18770,7 @@
       "date_first_available": "2025-09-02",
       "lego_availability": "LEGO exclusive",
       "ean": "5702017829968",
-      "prev_buy_score": 50,
+      "prev_buy_score": 47,
       "current_best_price": 42.59,
       "current_best_shop": "Amazon.nl",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-peperkoek-at-at-walker-40806-laagste-ooit-425628",
@@ -23045,8 +23045,8 @@
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42228-1.jpg",
       "label": "investering",
-      "last_brickwatch_alert": "2026-11-24T15:04:22.253891Z",
-      "last_updated": "2026-11-25T13:29:05Z",
+      "last_brickwatch_alert": "2026-11-26T05:04:18.628523Z",
+      "last_updated": "2026-11-26T05:04:18.628527Z",
       "lowest_price_ever": null,
       "msrp": 229.99,
       "name": "McLaren F1 Team MCL39",
@@ -23436,8 +23436,8 @@
       "lego_availability": "{Not specified}",
       "ean": "5702018069523",
       "subtheme": "Football",
-      "last_brickwatch_alert": "2026-10-29T11:34:17.293891Z",
-      "last_updated": "2026-11-25T13:29:05Z",
+      "last_brickwatch_alert": "2026-11-26T05:04:18.628602Z",
+      "last_updated": "2026-11-26T05:04:18.628605Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -53447,7 +53447,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:25Z",
       "buy_score": 60,
-      "current_best_price": 93.99,
+      "current_best_price": 93.98,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75413-1.jpg",
       "label": "investering",
@@ -53628,6 +53628,11 @@
           "date": "2026-11-25",
           "price": 93.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 93.98,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
@@ -53635,8 +53640,8 @@
       "lego_availability": "Retail",
       "ean": "5702017817637",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-public-juggernaut-75413-laagste-ooit-404532",
-      "last_updated": "2026-11-25T13:29:05Z",
-      "last_brickwatch_alert": "2026-11-23T00:04:21.626634Z",
+      "last_updated": "2026-11-26T05:04:18.628674Z",
+      "last_brickwatch_alert": "2026-11-26T05:04:18.628671Z",
       "market_value": 132.5,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -71924,7 +71929,7 @@
     },
     "76901": {
       "brickset_last_enriched": "2026-05-03T07:39:40Z",
-      "current_best_price": 39.99,
+      "current_best_price": 35.29,
       "date_first_available": "2021-06-02",
       "ean": "5702016912470",
       "expected_retirement": "2024-01",
@@ -72113,6 +72118,11 @@
           "date": "2026-11-06",
           "price": 39.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 35.29,
+          "shop": "Brickwatch"
         }
       ],
       "minifig_list": [
@@ -72126,8 +72136,8 @@
       ],
       "prev_buy_score": null,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-06T16:04:21.088384Z",
-      "last_updated": "2026-11-06T16:04:21.088388Z",
+      "last_brickwatch_alert": "2026-11-26T05:04:18.628795Z",
+      "last_updated": "2026-11-26T05:04:18.628798Z",
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "76902": {
@@ -88501,10 +88511,10 @@
       "brickset_last_enriched": "2026-10-27T21:39:57Z",
       "subtheme": "The Mandalorian",
       "prev_buy_score": 35,
-      "current_best_price": 125.99,
+      "current_best_price": 119.69,
       "current_best_shop": "Brickwatch",
-      "last_brickwatch_alert": "2026-11-15T05:04:15.455275Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-26T05:04:18.628363Z",
+      "last_updated": "2026-11-26T05:04:18.628372Z",
       "price_history": [
         {
           "date": "2026-08-21",
@@ -88565,6 +88575,11 @@
           "date": "2026-11-23",
           "price": 125.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-26",
+          "price": 119.69,
+          "shop": "Brickwatch"
         }
       ],
       "status": "watchlist",
@@ -88590,13 +88605,13 @@
           "value": 151.1
         }
       ],
-      "price_score": 14,
-      "roi_score": 3,
+      "price_score": 18,
+      "roi_score": 4,
       "urgency_score": 3,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 35,
+      "buy_score": 40,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-star-wars-imperial-shuttle-75459-laagste-prijs-ooit-met-code-black26-428234",
       "price_checked_at": "2026-11-25T13:29:05Z",
       "retirement_date": "2027-12-31",
