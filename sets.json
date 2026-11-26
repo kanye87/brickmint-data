@@ -50377,7 +50377,7 @@
       "current_best_price": 120.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
-      "label": "investering",
+      "label": "persoonlijk",
       "lowest_price_ever": null,
       "minifigs": 6,
       "msrp": 179.99,
@@ -50392,7 +50392,7 @@
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
-      "status": "watchlist",
+      "status": "portfolio",
       "theme": "Star Wars",
       "transactions": [],
       "urgency_score": 20,
@@ -50596,7 +50596,12 @@
         }
       ],
       "prev_buy_score": 62,
-      "price_checked_at": "2026-11-25T13:29:05Z"
+      "price_checked_at": "2026-11-25T13:29:05Z",
+      "status_source": "app",
+      "status_changed_by_user_at": "2026-11-26T20:43:59+00:00",
+      "label_source": "app",
+      "labels_changed_by_user_at": "2026-11-26T20:44:09+00:00",
+      "purchase_price": 140.0
     },
     "75391": {
       "availability_score": 0,
