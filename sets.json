@@ -21481,7 +21481,7 @@
           "value": 312.88
         }
       ],
-      "prev_buy_score": 42,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "42173": {
@@ -21599,8 +21599,8 @@
     "42177": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 62,
-      "current_best_price": 163.99,
+      "buy_score": 68,
+      "current_best_price": 139.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42177-1.jpg",
       "label": "investering",
@@ -21609,11 +21609,11 @@
       "name": "Mercedes-Benz G 500 PROFESSIONAL Line",
       "owned_by": 2001,
       "pieces": 2891,
-      "price_score": 30,
+      "price_score": 35,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": null,
@@ -21623,8 +21623,8 @@
       "urgency_score": 20,
       "wanted_by": 1317,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-20T18:34:18.174112Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-27T00:34:18.571757Z",
+      "last_updated": "2026-11-27T00:34:18.571760Z",
       "subtheme": "Licensed",
       "price_history": [
         {
@@ -21760,6 +21760,11 @@
         {
           "date": "2026-11-23",
           "price": 163.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 139.99,
           "shop": "Brickwatch"
         }
       ],
@@ -36442,7 +36447,7 @@
     },
     "75192": {
       "brickset_last_enriched": "2026-05-14T08:30:08Z",
-      "current_best_price": 749.99,
+      "current_best_price": 594.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75192-1.jpg",
       "label": "investering",
@@ -36473,15 +36478,15 @@
       "wanted_by": 10539,
       "year": 2017,
       "subtheme": "Ultimate Collector Series",
-      "price_score": 5,
-      "roi_score": 0,
+      "price_score": 23,
+      "roi_score": 3,
       "urgency_score": 20,
       "scarcity_score": 0,
       "availability_score": 10,
       "score_quality": "full",
-      "buy_score": 35,
-      "last_brickwatch_alert": "2026-11-26T20:34:23.237530Z",
-      "last_updated": "2026-11-26T20:34:23.237533Z",
+      "buy_score": 56,
+      "last_brickwatch_alert": "2026-11-27T00:34:18.571493Z",
+      "last_updated": "2026-11-27T00:34:18.571501Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2018-04-09",
       "lego_availability": "LEGO exclusive",
@@ -36720,6 +36725,11 @@
         {
           "date": "2026-11-26",
           "price": 749.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 594.99,
           "shop": "Brickwatch"
         }
       ],
@@ -54875,7 +54885,7 @@
     },
     "75428": {
       "brickset_last_enriched": "2026-05-07T08:22:26Z",
-      "current_best_price": 103.99,
+      "current_best_price": 90.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75428-1.jpg",
       "label": "investering",
@@ -54897,8 +54907,8 @@
       "lego_availability": "Retail",
       "ean": "5702017824598",
       "subtheme": "Episode I",
-      "last_brickwatch_alert": "2026-11-08T05:04:16.045241Z",
-      "last_updated": "2026-11-08T05:04:16.045245Z",
+      "last_brickwatch_alert": "2026-11-27T00:34:18.571658Z",
+      "last_updated": "2026-11-27T00:34:18.571661Z",
       "minifig_list": [
         {
           "id": "fig-003512",
@@ -54907,13 +54917,13 @@
           "value": null
         }
       ],
-      "price_score": 18,
-      "roi_score": 4,
+      "price_score": 26,
+      "roi_score": 5,
       "urgency_score": 20,
       "scarcity_score": 15,
       "availability_score": 0,
       "score_quality": "full",
-      "buy_score": 57,
+      "buy_score": 66,
       "price_history": [
         {
           "date": "2026-05-14",
@@ -54983,6 +54993,11 @@
         {
           "date": "2026-11-08",
           "price": 103.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 90.99,
           "shop": "Brickwatch"
         }
       ],
