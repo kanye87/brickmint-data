@@ -4924,8 +4924,8 @@
     "10367": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "buy_score": 32,
-      "current_best_price": 79.99,
+      "buy_score": 34,
+      "current_best_price": 77.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10367-1.jpg",
       "label": "investering",
@@ -4935,7 +4935,7 @@
       "name": "The Lord of the Rings: Balrog Book Nook",
       "owned_by": 2984,
       "pieces": 1201,
-      "price_score": 29,
+      "price_score": 31,
       "rating": 4.0,
       "retirement_date": "2028-12-31",
       "retirement_status": "active",
@@ -4950,8 +4950,8 @@
       "wanted_by": 1971,
       "year": 2025,
       "subtheme": "The Lord of the Rings",
-      "last_brickwatch_alert": "2026-11-22T05:04:21.056435Z",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_brickwatch_alert": "2026-11-27T08:34:17.431181Z",
+      "last_updated": "2026-11-27T08:34:17.431183Z",
       "minifig_list": [
         {
           "id": "fig-016274",
@@ -5113,6 +5113,11 @@
         {
           "date": "2026-11-23",
           "price": 79.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 77.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50419,8 +50424,8 @@
     "75389": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 62,
-      "current_best_price": 120.99,
+      "buy_score": 58,
+      "current_best_price": 127.95,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75389-1.jpg",
       "label": "persoonlijk",
@@ -50430,7 +50435,7 @@
       "name": "The Dark Falcon",
       "owned_by": 8173,
       "pieces": 1579,
-      "price_score": 29,
+      "price_score": 25,
       "rating": 4.3,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -50444,8 +50449,8 @@
       "urgency_score": 20,
       "wanted_by": 3246,
       "year": 2024,
-      "last_brickwatch_alert": "2026-11-26T20:34:23.237336Z",
-      "last_updated": "2026-11-26T20:34:23.237345Z",
+      "last_brickwatch_alert": "2026-11-27T08:34:17.430992Z",
+      "last_updated": "2026-11-27T08:34:17.431002Z",
       "subtheme": "Rebuild the Galaxy",
       "minifig_list": [
         {
@@ -50609,6 +50614,11 @@
         {
           "date": "2026-11-26",
           "price": 120.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 127.95,
           "shop": "Brickwatch"
         }
       ],
@@ -76993,7 +77003,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 60,
+      "prev_buy_score": 70,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "77247": {
@@ -77288,7 +77298,7 @@
           "value": 29.02
         }
       ],
-      "prev_buy_score": 54,
+      "prev_buy_score": 56,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "77250": {
@@ -77436,7 +77446,7 @@
       "sell_trend_score": 0,
       "sell_age_score": 0,
       "sell_liquidity_score": 1,
-      "prev_buy_score": 65,
+      "prev_buy_score": 69,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "77251": {
