@@ -6653,7 +6653,7 @@
       "availability_score": null,
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
       "buy_score": null,
-      "current_best_price": 169.99,
+      "current_best_price": 175.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/21063-1.jpg",
       "label": "investering",
@@ -6677,8 +6677,8 @@
       "wanted_by": 2314,
       "year": 2025,
       "subtheme": "Landmark Series",
-      "last_brickwatch_alert": "2026-11-23T12:34:21.787286Z",
-      "last_updated": "2026-11-25T13:29:05Z",
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876707Z",
+      "last_updated": "2026-11-27T05:34:18.876709Z",
       "expected_retirement": "2028-12",
       "date_first_available": "2025-07-01",
       "lego_availability": "Retail",
@@ -6832,6 +6832,11 @@
         {
           "date": "2026-11-25",
           "price": 169.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 175.49,
           "shop": "Brickwatch"
         }
       ],
@@ -23600,7 +23605,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-18T09:44:51Z",
       "buy_score": 45,
-      "current_best_price": 19.12,
+      "current_best_price": 19.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/43013-1.jpg",
       "label": "investering",
@@ -23726,10 +23731,15 @@
           "date": "2026-11-25",
           "price": 19.12,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 19.09,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-25T05:04:21.818932Z",
-      "last_updated": "2026-11-25T05:04:21.818935Z",
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876789Z",
+      "last_updated": "2026-11-27T05:34:18.876792Z",
       "minifig_list": [
         {
           "id": "fig-017579",
@@ -71516,17 +71526,23 @@
         }
       ],
       "prev_buy_score": null,
-      "current_best_price": 155.99,
-      "current_best_shop": "Pepper.com",
+      "current_best_price": 132.99,
+      "current_best_shop": "Brickwatch",
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-76454-harry-potter-hoofdtoren-417949",
-      "last_updated": "2026-09-07T16:58:22.571547Z",
+      "last_updated": "2026-11-27T05:34:18.876330Z",
       "price_history": [
         {
           "date": "2026-09-07",
           "price": 155.99,
           "shop": "Pepper.com"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 132.99,
+          "shop": "Brickwatch"
         }
-      ]
+      ],
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876321Z"
     },
     "76456": {
       "brickset_last_enriched": "2026-05-13T11:57:46Z",
@@ -76820,8 +76836,8 @@
     "77246": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 60,
-      "current_best_price": 18.99,
+      "buy_score": 70,
+      "current_best_price": 15.1,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77246-1.jpg",
       "label": "persoonlijk",
@@ -76831,12 +76847,12 @@
       "name": "Visa Cash App VCARB 01",
       "owned_by": 4650,
       "pieces": 248,
-      "price_score": 26,
+      "price_score": 35,
       "purchase_price": 14.99,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 6,
+      "roi_score": 7,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 42,
@@ -76935,10 +76951,15 @@
           "date": "2026-11-25",
           "price": 18.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 15.1,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-10-26T05:04:15.838878Z",
-      "last_updated": "2026-11-25T13:29:05Z",
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876467Z",
+      "last_updated": "2026-11-27T05:34:18.876471Z",
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
@@ -77109,8 +77130,8 @@
     "77249": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-13T08:36:23Z",
-      "buy_score": 54,
-      "current_best_price": 16.99,
+      "buy_score": 56,
+      "current_best_price": 16.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77249-1.jpg",
       "label": "investering",
@@ -77120,7 +77141,7 @@
       "name": "Williams Racing FW46",
       "owned_by": 4880,
       "pieces": 263,
-      "price_score": 20,
+      "price_score": 22,
       "purchase_price": 14.99,
       "rating": 4.2,
       "retirement_date": "2026-12-31",
@@ -77233,10 +77254,15 @@
           "date": "2026-11-20",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 16.09,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-03T05:04:16.464040Z",
-      "last_updated": "2026-11-20T12:09:28Z",
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876646Z",
+      "last_updated": "2026-11-27T05:34:18.876649Z",
       "market_value": 29.02,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
@@ -77268,8 +77294,8 @@
     "77250": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 65,
-      "current_best_price": 16.99,
+      "buy_score": 69,
+      "current_best_price": 16.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77250-1.jpg",
       "label": "persoonlijk",
@@ -77279,12 +77305,12 @@
       "name": "MoneyGram Haas F1 Team VF-24",
       "owned_by": 4563,
       "pieces": 242,
-      "price_score": 32,
+      "price_score": 35,
       "purchase_price": 14.99,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 5,
+      "roi_score": 6,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 36,
@@ -77368,14 +77394,19 @@
           "date": "2026-11-20",
           "price": 16.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 16.09,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2024-11-22",
       "lego_availability": "Retail",
       "ean": "5702017816173",
-      "last_brickwatch_alert": "2026-11-21T05:04:23.255727Z",
-      "last_updated": "2026-11-21T05:04:23.255729Z",
+      "last_brickwatch_alert": "2026-11-27T05:34:18.876573Z",
+      "last_updated": "2026-11-27T05:34:18.876577Z",
       "market_value": 26.94,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-14T12:47:24.716322+00:00",
