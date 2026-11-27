@@ -21523,7 +21523,7 @@
           "value": 312.88
         }
       ],
-      "prev_buy_score": 47,
+      "prev_buy_score": 50,
       "price_checked_at": "2026-11-27T13:05:32Z"
     },
     "42173": {
@@ -56052,7 +56052,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 67,
+      "prev_buy_score": 71,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-27T13:05:32Z",
