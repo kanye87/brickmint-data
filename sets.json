@@ -21331,8 +21331,8 @@
     "42172": {
       "availability_score": 10,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 50,
-      "current_best_price": 249.99,
+      "buy_score": 47,
+      "current_best_price": 262.0,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/42172-1.jpg",
       "label": "investering",
@@ -21341,12 +21341,12 @@
       "name": "McLaren P1",
       "owned_by": 2979,
       "pieces": 3893,
-      "price_score": 33,
+      "price_score": 31,
       "purchase_price": 24.95,
       "rating": 4.4,
       "retirement_date": "2027-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 3,
       "scarcity_score": 0,
       "score_quality": "full",
       "sell_score": null,
@@ -21475,12 +21475,12 @@
         },
         {
           "date": "2026-11-27",
-          "price": 249.99,
+          "price": 262.0,
           "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-27T00:04:16.463367Z",
-      "last_updated": "2026-11-27T00:04:16.463375Z",
+      "last_brickwatch_alert": "2026-11-27T15:04:25.805436Z",
+      "last_updated": "2026-11-27T15:04:25.805444Z",
       "minifig_list": [],
       "expected_retirement": "2027-12",
       "date_first_available": "2024-07-11",
@@ -35939,7 +35939,7 @@
           "value": 153.88
         }
       ],
-      "prev_buy_score": 58,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-11-27T13:05:32Z"
     },
     "72153": {
@@ -51931,7 +51931,7 @@
           "value": 60.09
         }
       ],
-      "prev_buy_score": 65,
+      "prev_buy_score": 60,
       "price_checked_at": "2026-11-27T13:05:32Z"
     },
     "75400": {
@@ -53807,7 +53807,7 @@
           "value": 132.5
         }
       ],
-      "prev_buy_score": 60,
+      "prev_buy_score": 57,
       "price_checked_at": "2026-11-27T13:05:32Z"
     },
     "75414": {
@@ -56041,7 +56041,7 @@
           "value": 151.62
         }
       ],
-      "prev_buy_score": 77,
+      "prev_buy_score": 67,
       "expected_retirement_source": "stonewars_eol",
       "retirement_date_source": "stonewars_eol",
       "price_checked_at": "2026-11-27T13:05:32Z",
@@ -67828,7 +67828,7 @@
         }
       ],
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-marvel-iron-man-mark-3-verzameleditie-76344-428740",
-      "prev_buy_score": 51,
+      "prev_buy_score": 42,
       "price_checked_at": "2026-11-27T13:05:32Z"
     },
     "76346": {
@@ -85509,7 +85509,7 @@
       "brickset_last_enriched": "2026-10-26T23:29:40Z",
       "subtheme": "F1 Helmets",
       "sell_score": null,
-      "prev_buy_score": 50,
+      "prev_buy_score": 49,
       "status": "watchlist",
       "label": "investering",
       "market_value": 87.19,
