@@ -5146,7 +5146,7 @@
           "value": 92.83
         }
       ],
-      "prev_buy_score": 32,
+      "prev_buy_score": 34,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "10370": {
@@ -32016,8 +32016,8 @@
     "71426": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
-      "buy_score": 25,
-      "current_best_price": 54.95,
+      "buy_score": 17,
+      "current_best_price": 59.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/71426-1.jpg",
       "label": "persoonlijk",
@@ -32026,12 +32026,12 @@
       "name": "Piranha Plant",
       "owned_by": 6932,
       "pieces": 540,
-      "price_score": 14,
+      "price_score": 7,
       "purchase_price": 48.74,
       "rating": 4.3,
       "retirement_date": "2026-07-31",
       "retirement_status": "retiring",
-      "roi_score": 3,
+      "roi_score": 2,
       "scarcity_score": 8,
       "score_quality": "full",
       "sell_score": 29,
@@ -32043,8 +32043,8 @@
       "wanted_by": 1509,
       "year": 2023,
       "pepper_deal_url": "https://nl.pepper.com/aanbiedingen/lego-super-mario-71426-piranha-plant-laagste-prijs-ooit-3847-korting-tov-adviesprijs-6499-402846",
-      "last_updated": "2026-11-19T12:04:16.598718Z",
-      "last_brickwatch_alert": "2026-11-19T12:04:16.598715Z",
+      "last_updated": "2026-11-27T09:04:18.279207Z",
+      "last_brickwatch_alert": "2026-11-27T09:04:18.279198Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -32124,6 +32124,11 @@
         {
           "date": "2026-11-19",
           "price": 54.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 59.99,
           "shop": "Brickwatch"
         }
       ],
@@ -50651,7 +50656,7 @@
           "value": 181.57
         }
       ],
-      "prev_buy_score": 62,
+      "prev_buy_score": 58,
       "price_checked_at": "2026-11-25T13:29:05Z",
       "status_source": "app",
       "status_changed_by_user_at": "2026-11-26T20:43:59+00:00",
@@ -52663,7 +52668,7 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
       "buy_score": 41,
-      "current_best_price": 48.15,
+      "current_best_price": 48.12,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75407-1.jpg",
       "label": "persoonlijk",
@@ -52849,10 +52854,15 @@
           "date": "2026-11-26",
           "price": 48.15,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 48.12,
+          "shop": "Brickwatch"
         }
       ],
-      "last_brickwatch_alert": "2026-11-26T18:04:21.360085Z",
-      "last_updated": "2026-11-26T18:04:21.360094Z",
+      "last_brickwatch_alert": "2026-11-27T09:04:18.279416Z",
+      "last_updated": "2026-11-27T09:04:18.279417Z",
       "expected_retirement": "2027-12",
       "date_first_available": "2025-04-16",
       "lego_availability": "Retail",
