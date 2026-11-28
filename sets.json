@@ -24260,7 +24260,7 @@
           "value": 64.04
         }
       ],
-      "prev_buy_score": 48,
+      "prev_buy_score": 51,
       "price_checked_at": "2026-11-25T13:29:05Z"
     },
     "43016": {
@@ -91469,13 +91469,18 @@
       "status": "watchlist",
       "label": "investering",
       "price_checked_at": "2026-11-27T13:05:32Z",
-      "current_best_price": 83.95,
+      "current_best_price": 83.99,
       "current_best_shop": "Brickwatch",
-      "last_updated": "2026-11-23T13:38:01Z",
+      "last_updated": "2026-11-28T04:04:20.221073Z",
       "price_history": [
         {
           "date": "2026-11-23",
           "price": 83.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 83.99,
           "shop": "Brickwatch"
         }
       ],
@@ -91485,7 +91490,8 @@
       "scarcity_score": null,
       "availability_score": 0,
       "score_quality": null,
-      "buy_score": null
+      "buy_score": null,
+      "last_brickwatch_alert": "2026-11-28T04:04:20.221063Z"
     },
     "42701": {
       "name": "Koala Habitat & Care Centre",
