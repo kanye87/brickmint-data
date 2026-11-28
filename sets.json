@@ -4478,7 +4478,7 @@
     },
     "10358": {
       "brickset_last_enriched": "2026-05-13T08:36:21Z",
-      "current_best_price": 103.99,
+      "current_best_price": 97.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/10358-1.jpg",
       "label": "investering",
@@ -4518,11 +4518,16 @@
           "date": "2026-11-19",
           "price": 103.99,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 97.99,
+          "shop": "Brickwatch"
         }
       ],
       "prev_buy_score": null,
-      "last_brickwatch_alert": "2026-11-19T00:34:18.838576Z",
-      "last_updated": "2026-11-19T00:34:18.838585Z"
+      "last_brickwatch_alert": "2026-11-28T05:34:16.746763Z",
+      "last_updated": "2026-11-28T05:34:16.746770Z"
     },
     "10359": {
       "brickset_last_enriched": "2026-05-06T11:44:49Z",
@@ -35592,11 +35597,11 @@
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:22Z",
       "buy_score": 59,
-      "current_best_price": 29.99,
+      "current_best_price": 28.99,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/72151-1.jpg",
       "label": "investering",
-      "lowest_price_ever": 29.99,
+      "lowest_price_ever": 28.99,
       "msrp": 59.99,
       "name": "Eevee",
       "owned_by": 884,
@@ -35615,8 +35620,8 @@
       "urgency_score": 3,
       "wanted_by": 947,
       "year": 2026,
-      "last_brickwatch_alert": "2026-11-26T15:34:26.196298Z",
-      "last_updated": "2026-11-26T15:34:26.196306Z",
+      "last_brickwatch_alert": "2026-11-28T05:34:16.746907Z",
+      "last_updated": "2026-11-28T05:34:16.746909Z",
       "subtheme": "Sculptures",
       "price_history": [
         {
@@ -35742,6 +35747,11 @@
         {
           "date": "2026-11-24",
           "price": 29.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 28.99,
           "shop": "Brickwatch"
         }
       ],
@@ -48374,8 +48384,8 @@
     "75372": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 67,
-      "current_best_price": 17.98,
+      "buy_score": 69,
+      "current_best_price": 17.49,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75372-1.jpg",
       "label": "investering",
@@ -48385,7 +48395,7 @@
       "name": "Clone Trooper & Battle Droid Battle Pack",
       "owned_by": 16399,
       "pieces": 215,
-      "price_score": 32,
+      "price_score": 34,
       "rating": 4.1,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
@@ -48562,14 +48572,19 @@
           "date": "2026-11-23",
           "price": 17.98,
           "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 17.49,
+          "shop": "Brickwatch"
         }
       ],
       "expected_retirement": "2026-12",
       "date_first_available": "2023-12-06",
       "lego_availability": "Retail",
       "ean": "5702017584317",
-      "last_brickwatch_alert": "2026-11-23T11:34:22.042165Z",
-      "last_updated": "2026-11-23T11:34:22.042176Z",
+      "last_brickwatch_alert": "2026-11-28T05:34:16.969865Z",
+      "last_updated": "2026-11-28T05:34:16.969867Z",
       "market_value": 35.38,
       "market_value_source": "ebay",
       "market_value_last_updated": "2026-11-13T20:43:00.046151+00:00",
@@ -51724,8 +51739,8 @@
     "75399": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:24Z",
-      "buy_score": 60,
-      "current_best_price": 48.95,
+      "buy_score": 63,
+      "current_best_price": 47.76,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/75399-1.jpg",
       "label": "investering",
@@ -51735,11 +51750,11 @@
       "name": "Rebel U-wing Starfighter",
       "owned_by": 5744,
       "pieces": 594,
-      "price_score": 22,
+      "price_score": 24,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 3,
+      "roi_score": 4,
       "scarcity_score": 15,
       "score_quality": "full",
       "sell_score": null,
@@ -51749,8 +51764,8 @@
       "urgency_score": 20,
       "wanted_by": 2239,
       "year": 2025,
-      "last_brickwatch_alert": "2026-11-23T01:34:18.973838Z",
-      "last_updated": "2026-11-27T13:05:32Z",
+      "last_brickwatch_alert": "2026-11-28T05:34:16.969830Z",
+      "last_updated": "2026-11-28T05:34:16.969832Z",
       "subtheme": "Andor",
       "minifig_list": [
         {
@@ -51927,6 +51942,11 @@
         {
           "date": "2026-11-27",
           "price": 48.95,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 47.76,
           "shop": "Brickwatch"
         }
       ],
@@ -77703,8 +77723,8 @@
     "77259": {
       "availability_score": 0,
       "brickset_last_enriched": "2026-05-16T07:53:27Z",
-      "buy_score": 83,
-      "current_best_price": 16.99,
+      "buy_score": 85,
+      "current_best_price": 16.09,
       "current_best_shop": "Brickwatch",
       "image_url": "https://images.brickset.com/sets/images/77259-1.jpg",
       "label": "investering",
@@ -77714,11 +77734,11 @@
       "name": "Audi Revolut F1 Team R26 Race Car",
       "owned_by": 1632,
       "pieces": 215,
-      "price_score": 34,
+      "price_score": 35,
       "rating": 4.0,
       "retirement_date": "2026-12-31",
       "retirement_status": "active",
-      "roi_score": 4,
+      "roi_score": 5,
       "scarcity_score": 25,
       "score_quality": "full",
       "sell_score": null,
@@ -77737,8 +77757,8 @@
           "value": null
         }
       ],
-      "last_brickwatch_alert": "2026-11-21T05:04:23.255677Z",
-      "last_updated": "2026-11-25T13:29:05Z",
+      "last_brickwatch_alert": "2026-11-28T05:34:16.969731Z",
+      "last_updated": "2026-11-28T05:34:16.969739Z",
       "price_history": [
         {
           "date": "2026-05-14",
@@ -77923,6 +77943,11 @@
         {
           "date": "2026-11-25",
           "price": 16.99,
+          "shop": "Brickwatch"
+        },
+        {
+          "date": "2026-11-28",
+          "price": 16.09,
           "shop": "Brickwatch"
         }
       ],
